@@ -2,7 +2,7 @@
 #This file was last reorganized on 19th of September 2017 08:54:24 AM UTC
 
 $text['title-domains']['en-us'] = "Domains";
-$text['title-domains']['zh-cn'] = "域管理";
+$text['title-domains']['zh-cn'] = "域";
 $text['title-domains']['en-gb'] = "Domains";
 $text['title-domains']['ar-eg'] = "";
 $text['title-domains']['de-at'] = "Domains"; //copied from de-de

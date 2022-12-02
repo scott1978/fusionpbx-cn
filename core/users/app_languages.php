@@ -862,6 +862,7 @@ $text['label-permission_permissions']['sv-se'] = "Rättigheter";
 $text['label-permission_permissions']['uk-ua'] = "Привілеї";
 
 $text['label-permission_description']['en-us'] = "Description";
+$text['label-permission_description']['zh-cn'] = "描述";
 $text['label-permission_description']['en-gb'] = "Description";
 $text['label-permission_description']['ar-eg'] = "";
 $text['label-permission_description']['de-at'] = "Beschreibung"; //copied from de-de
@@ -883,6 +884,7 @@ $text['label-permission_description']['sv-se'] = "Beskrivning";
 $text['label-permission_description']['uk-ua'] = "Опис";
 
 $text['label-password']['en-us'] = "Password";
+$text['label-password']['zh-cn'] = "密码";
 $text['label-password']['en-gb'] = "Password";
 $text['label-password']['ar-eg'] = "";
 $text['label-password']['de-at'] = "Passwort"; //copied from de-de
