@@ -569,6 +569,7 @@ $text['label-cpu']['sv-se'] = "CPU Status";
 $text['label-cpu']['uk-ua'] = "Стан процесора ";
 
 $text['label-cpu_usage']['en-us'] = "CPU Usage";
+$text['label-cpu_usage']['zh-cn'] = "CPU使用率";
 $text['label-cpu_usage']['en-gb'] = "CPU Usage";
 $text['label-cpu_usage']['ar-eg'] = "معالج الاستخدام";
 $text['label-cpu_usage']['de-at'] = "Prozessorauslastung "; //copied from de-de

@@ -1821,7 +1821,7 @@ $text['label-date_time']['sv-se'] = "Datum/Tid";
 $text['label-date_time']['uk-ua'] = "Дата, час";
 
 $text['label-database_connections']['en-us'] = "DB Connections";
-$text['label-database_connections']['zh-cn'] = "数据库连接";
+$text['label-database_connections']['zh-cn'] = "数据库连接数";
 $text['label-database_connections']['en-gb'] = "DB Connections";
 $text['label-database_connections']['ar-eg'] = "اتصالات قاعدة البيانات";
 $text['label-database_connections']['de-at'] = "Datenbankverbindungen"; //copied from de-de
