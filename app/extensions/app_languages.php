@@ -2,6 +2,7 @@
 #This file was last reorganized on 27th of September 2017 01:41:51 PM UTC
 
 $text['title-extensions']['en-us'] = "Extensions";
+$text['title-extensions']['zh-cn'] = "分机";
 $text['title-extensions']['en-gb'] = "Extensions";
 $text['title-extensions']['ar-eg'] = "الأرقام الداخلية";
 $text['title-extensions']['de-at'] = "Nebenstellen"; //copied from de-de
@@ -23,6 +24,7 @@ $text['title-extensions']['sv-se'] = "Anknytningar";
 $text['title-extensions']['uk-ua'] = "Розширення";
 
 $text['title-extension_import']['en-us'] = "Extension Import";
+$text['title-extension_import']['zh-cn'] = "导入分机";
 $text['title-extension_import']['en-gb'] = "Extension Import";
 $text['title-extension_import']['ar-eg'] = "";
 $text['title-extension_import']['de-at'] = "Importieren"; //copied from de-de
@@ -46,6 +48,7 @@ $text['title-extension_import']['uk-ua'] = "";
 $text['title-extension_import']['tr-tr'] = "İçe Aktar";
 
 $text['title-extension_export']['en-us'] = "Extension Export";
+$text['title-extension_export']['zh-cn'] = "导出分机";
 $text['title-extension_export']['en-gb'] = "Extension Export";
 $text['title-extension_export']['ar-eg'] = "";
 $text['title-extension_export']['de-at'] = "Exportieren"; //copied from de-de
@@ -69,6 +72,7 @@ $text['title-extension_export']['uk-ua'] = "Експортувати";
 $text['title-extension_export']['tr-tr'] = "Dışa Aktar";
 
 $text['title-extension-edit']['en-us'] = "Extension";
+$text['title-extension-edit']['zh-cn'] = "分机";
 $text['title-extension-edit']['en-gb'] = "Extension";
 $text['title-extension-edit']['ar-eg'] = "رقم داخلي";
 $text['title-extension-edit']['de-at'] = "Nebenstelle"; //copied from de-de
@@ -90,6 +94,7 @@ $text['title-extension-edit']['sv-se'] = "Anknytning";
 $text['title-extension-edit']['uk-ua'] = "Розширення";
 
 $text['title-extension-add']['en-us'] = "Extension Add";
+$text['title-extension-add']['zh-cn'] = "添加分机";
 $text['title-extension-add']['en-gb'] = "Extension Add";
 $text['title-extension-add']['ar-eg'] = "إضافة رقم داخلي";
 $text['title-extension-add']['de-at'] = "Nebenstelle hinzufügen"; //copied from de-de
@@ -111,6 +116,7 @@ $text['title-extension-add']['sv-se'] = "Lägg Till Anknytning";
 $text['title-extension-add']['uk-ua'] = "Додавання розширення";
 
 $text['title-call_groups']['en-us'] = "Call Groups";
+$text['title-call_groups']['zh-cn'] = "呼叫组";
 $text['title-call_groups']['en-gb'] = "Call Groups";
 $text['title-call_groups']['ar-eg'] = "";
 $text['title-call_groups']['de-at'] = "Rufgruppe"; //copied from de-de
@@ -132,6 +138,7 @@ $text['title-call_groups']['sv-se'] = "Ring Grupp";
 $text['title-call_groups']['uk-ua'] = "";
 
 $text['title-loopback']['en-us'] = "Loopback";
+$text['title-loopback']['zh-cn'] = "环回";
 $text['title-loopback']['en-gb'] = "Loopback";
 $text['title-loopback']['ar-eg'] = "Loopback";
 $text['title-loopback']['de-at'] = "Loopback"; //copied from de-de
@@ -154,6 +161,7 @@ $text['title-loopback']['sv-se'] = "Loopback";
 $text['title-loopback']['uk-ua'] = "Loopback";
 
 $text['option-voicemail_file_listen']['en-us'] = "Listen Link (Login Required)";
+$text['option-voicemail_file_listen']['zh-cn'] = "试听链接（需要登录）";
 $text['option-voicemail_file_listen']['en-gb'] = "Listen Link (Login Required)";
 $text['option-voicemail_file_listen']['ar-eg'] = "";
 $text['option-voicemail_file_listen']['de-at'] = "Link zur Nachricht (Login erforderlich)"; //copied from de-de
@@ -175,6 +183,7 @@ $text['option-voicemail_file_listen']['sv-se'] = "Lyssna-länk (Måste Logga In)
 $text['option-voicemail_file_listen']['uk-ua'] = "Посилання на прослуховування (Входити обов’язково)";
 
 $text['option-voicemail_file_link']['en-us'] = "Download Link (No Login Required)";
+$text['option-voicemail_file_link']['zh-cn'] = "下载链接（无需登录）";
 $text['option-voicemail_file_link']['en-gb'] = "Download Link (No Login Required)";
 $text['option-voicemail_file_link']['ar-eg'] = "";
 $text['option-voicemail_file_link']['de-at'] = "Link zur Nachricht (Kein Login erforderlich)"; //copied from de-de
@@ -196,6 +205,7 @@ $text['option-voicemail_file_link']['sv-se'] = "Nedladdnings-länk (Ingen Inlogg
 $text['option-voicemail_file_link']['uk-ua'] = "Посилання на завантаження (Входити не обов’язково)";
 
 $text['option-voicemail_file_attach']['en-us'] = "Audio File Attachment";
+$text['option-voicemail_file_attach']['zh-cn'] = "音频文件附件";
 $text['option-voicemail_file_attach']['en-gb'] = "Audio File Attachment";
 $text['option-voicemail_file_attach']['ar-eg'] = "إرفاق ملف صوتي";
 $text['option-voicemail_file_attach']['de-at'] = "Audiodatei als Anhang"; //copied from de-de
