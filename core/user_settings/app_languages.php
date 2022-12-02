@@ -1614,7 +1614,7 @@ $text['label-email_address']['sv-se'] = "E-postadress";
 $text['label-email_address']['uk-ua'] = "Адреси E-Mail";
 
 $text['label-domains']['en-us'] = "Domains";
-$text['label-domains']['zh-cn'] = "域管理";
+$text['label-domains']['zh-cn'] = "域";
 $text['label-domains']['en-gb'] = "Domains";
 $text['label-domains']['ar-eg'] = "";
 $text['label-domains']['de-at'] = "Domänen"; //copied from de-de
@@ -1798,7 +1798,7 @@ $text['label-destinations']['sv-se'] = "Destinationer";
 $text['label-destinations']['uk-ua'] = "Номери";
 
 $text['label-date_time']['en-us'] = "Date/Time";
-$text['label-date_time']['zh-cn'] = "日期/时间";
+$text['label-date_time']['zh-cn'] = "日期时间";
 $text['label-date_time']['en-gb'] = "Date/Time";
 $text['label-date_time']['ar-eg'] = "تاريخ / وقت";
 $text['label-date_time']['de-at'] = "Datum/Uhrzeit"; //copied from de-de
