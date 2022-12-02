@@ -2,6 +2,7 @@
 
 	$y=0;
 	$apps[$x]['menu'][$y]['title']['en-us'] = "IVR Menus";
+	$apps[$x]['menu'][$y]['title']['zh-cn'] = "IVR管理";
 	$apps[$x]['menu'][$y]['title']['en-gb'] = "IVR Menus";
 	$apps[$x]['menu'][$y]['title']['ar-eg'] = "";
 	$apps[$x]['menu'][$y]['title']['de-at'] = "Automatische Vermittlung";

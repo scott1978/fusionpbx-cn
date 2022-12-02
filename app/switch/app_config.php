@@ -9,6 +9,7 @@
 		$apps[$x]['license'] = "";
 		$apps[$x]['url'] = "http://www.fusionpbx.com";
 		$apps[$x]['description']['en-us'] = "Switch details such as version, uptime, channels and registrations.";
+		$apps[$x]['description']['zh-cn'] = "网关详细信息，如版本、正常运行时间、渠道和注册.";
 		$apps[$x]['description']['en-gb'] = "Switch details such as version, uptime, channels and registrations.";
 		$apps[$x]['description']['ar-eg'] = "";
 		$apps[$x]['description']['de-at'] = "";
