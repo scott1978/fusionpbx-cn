@@ -3212,7 +3212,7 @@ $text['label-search']['uk-ua'] = "Результати пошуку";
 $text['label-search']['tr-tr'] = "Ara...";
 
 $text['label-order']['en-us'] = "Order";
-$text['label-order']['zh-cn'] = "组织";
+$text['label-order']['zh-cn'] = "顺序";
 $text['label-order']['en-gb'] = "Order";
 $text['label-order']['ar-eg'] = "";
 $text['label-order']['de-at'] = "Reihenfolge"; //copied from de-de
