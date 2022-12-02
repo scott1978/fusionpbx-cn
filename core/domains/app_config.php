@@ -9,6 +9,7 @@
 		$apps[$x]['license'] = "Mozilla Public License 1.1";
 		$apps[$x]['url'] = "http://www.fusionpbx.com";
 		$apps[$x]['description']['en-us'] = "Manage a single domain or multiple domains for multi-tenant.";
+		$apps[$x]['description']['zh-cn'] = "管理一个或多个域.";
 		$apps[$x]['description']['en-gb'] = "Manage a single domain or multiple domains for multi-tenant.";
 		$apps[$x]['description']['ar-eg'] = "";
 		$apps[$x]['description']['de-at'] = "Verwalte eine einzelne Domäne oder mehrere Domänen für Multi-Mandanten.";

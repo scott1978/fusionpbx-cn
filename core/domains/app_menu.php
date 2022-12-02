@@ -2,6 +2,7 @@
 
 	$y=0;
 	$apps[$x]['menu'][$y]['title']['en-us'] = "Domains";
+	$apps[$x]['menu'][$y]['title']['zh-cn'] = "域管理";
 	$apps[$x]['menu'][$y]['title']['en-gb'] = "Domains";
 	$apps[$x]['menu'][$y]['title']['ar-eg'] = "";
 	$apps[$x]['menu'][$y]['title']['de-at'] = "Domänen";

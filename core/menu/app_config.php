@@ -8,6 +8,7 @@
 		$apps[$x]['license'] = "Mozilla Public License 1.1";
 		$apps[$x]['url'] = "http://www.fusionpbx.com";
 		$apps[$x]['description']['en-us'] = "The menu can be customized using this tool.";
+		$apps[$x]['description']['zh-cn'] = "可以使用此工具自定义菜单.";
 		$apps[$x]['description']['en-gb'] = "The menu can be customized using this tool.";
 		$apps[$x]['description']['ar-eg'] = "";
 		$apps[$x]['description']['de-at'] = "Das Menü kann mit diesem Werkzeug angepasst werden.";

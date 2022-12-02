@@ -2,6 +2,7 @@
 #This file was last reorganized on 19th of September 2017 08:54:24 AM UTC
 
 $text['title-default_settings']['en-us'] = "Default Settings";
+$text['title-default_settings']['zh-cn'] = "默认设置";
 $text['title-default_settings']['en-gb'] = "Default Settings";
 $text['title-default_settings']['ar-eg'] = "";
 $text['title-default_settings']['de-at'] = "Standardeinstellungen"; //copied from de-de
@@ -23,6 +24,7 @@ $text['title-default_settings']['sv-se'] = "Standard Inställningar";
 $text['title-default_settings']['uk-ua'] = "Налаштування за замовчуванням";
 
 $text['title-default_setting-edit']['en-us'] = "Default Setting";
+$text['title-default_setting-edit']['zh-cn'] = "默认设置";
 $text['title-default_setting-edit']['en-gb'] = "Default Setting";
 $text['title-default_setting-edit']['ar-eg'] = "";
 $text['title-default_setting-edit']['de-at'] = "Standardeinstellungen"; //copied from de-de
@@ -44,6 +46,7 @@ $text['title-default_setting-edit']['sv-se'] = "Standard Inställning";
 $text['title-default_setting-edit']['uk-ua'] = "Налаштування за замовчуванням";
 
 $text['title-default_setting-add']['en-us'] = "Default Setting Add";
+$text['title-default_setting-add']['zh-cn'] = "添加默认设置";
 $text['title-default_setting-add']['en-gb'] = "Default Setting Add";
 $text['title-default_setting-add']['ar-eg'] = "";
 $text['title-default_setting-add']['de-at'] = "Standardeinstellungen"; //copied from de-de
@@ -65,6 +68,7 @@ $text['title-default_setting-add']['sv-se'] = "Lägg Till Standard Inställning"
 $text['title-default_setting-add']['uk-ua'] = "";
 
 $text['option-voicemail_file_listen']['en-us'] = "Listen Link (Login Required)";
+$text['option-voicemail_file_listen']['zh-cn'] = "试听链接（需要登录）";
 $text['option-voicemail_file_listen']['en-gb'] = "Listen Link (Login Required)";
 $text['option-voicemail_file_listen']['ar-eg'] = "";
 $text['option-voicemail_file_listen']['de-at'] = "Link zur Nachricht (Login erforderlich)"; //copied from de-de
@@ -86,6 +90,7 @@ $text['option-voicemail_file_listen']['sv-se'] = "Lyssna-länk (Måste Logga In)
 $text['option-voicemail_file_listen']['uk-ua'] = "Посилання на прослуховування (Входити обов’язково)";
 
 $text['option-voicemail_file_link']['en-us'] = "Download Link (No Login Required)";
+$text['option-voicemail_file_link']['zh-cn'] = "下载链接（无需登录）";
 $text['option-voicemail_file_link']['en-gb'] = "Download Link (No Login Required)";
 $text['option-voicemail_file_link']['ar-eg'] = "";
 $text['option-voicemail_file_link']['de-at'] = "Link zur Nachricht (kein Login erforderlich)"; //copied from de-de
@@ -107,6 +112,7 @@ $text['option-voicemail_file_link']['sv-se'] = "Nedladdnings-länk (Ingen Inlogg
 $text['option-voicemail_file_link']['uk-ua'] = "Посилання на завантаження (Входити не обов’язково)";
 
 $text['option-voicemail_file_attach']['en-us'] = "Audio File Attachment";
+$text['option-voicemail_file_attach']['zh-cn'] = "音频文件附件";
 $text['option-voicemail_file_attach']['en-gb'] = "Audio File Attachment";
 $text['option-voicemail_file_attach']['ar-eg'] = "";
 $text['option-voicemail_file_attach']['de-at'] = "Audiodatei als Anhang"; //copied from de-de
@@ -128,6 +134,7 @@ $text['option-voicemail_file_attach']['sv-se'] = "Ljudfil Bifogad";
 $text['option-voicemail_file_attach']['uk-ua'] = "Приєднати аудіофайл";
 
 $text['option-button_icons_auto']['en-us'] = "Automatic";
+$text['option-button_icons_auto']['zh-cn'] = "自动";
 $text['option-button_icons_auto']['en-gb'] = "Automatic";
 $text['option-button_icons_auto']['ar-eg'] = "Automatic";
 $text['option-button_icons_auto']['de-at'] = "Automatic";
@@ -149,6 +156,7 @@ $text['option-button_icons_auto']['sv-se'] = "Automatic";
 $text['option-button_icons_auto']['uk-ua'] = "Automatic";
 
 $text['option-button_icons_only']['en-us'] = "Only";
+$text['option-button_icons_only']['zh-cn'] = "唯一";
 $text['option-button_icons_only']['en-gb'] = "Only";
 $text['option-button_icons_only']['ar-eg'] = "Only";
 $text['option-button_icons_only']['de-at'] = "Only";
@@ -170,6 +178,7 @@ $text['option-button_icons_only']['sv-se'] = "Only";
 $text['option-button_icons_only']['uk-ua'] = "Only";
 
 $text['option-button_icons_always']['en-us'] = "Always";
+$text['option-button_icons_always']['zh-cn'] = "始终";
 $text['option-button_icons_always']['en-gb'] = "Always";
 $text['option-button_icons_always']['ar-eg'] = "Always";
 $text['option-button_icons_always']['de-at'] = "Always";
@@ -191,6 +200,7 @@ $text['option-button_icons_always']['sv-se'] = "Always";
 $text['option-button_icons_always']['uk-ua'] = "Always";
 
 $text['option-button_icons_never']['en-us'] = "Never";
+$text['option-button_icons_never']['zh-cn'] = "从不";
 $text['option-button_icons_never']['en-gb'] = "Never";
 $text['option-button_icons_never']['ar-eg'] = "Never";
 $text['option-button_icons_never']['de-at'] = "Never";
@@ -212,6 +222,7 @@ $text['option-button_icons_never']['sv-se'] = "Never";
 $text['option-button_icons_never']['uk-ua'] = "Never";
 
 $text['message-toggled']['en-us'] = "Toggle Completed";
+$text['message-toggled']['zh-cn'] = "切换已完成";
 $text['message-toggled']['en-gb'] = "Toggle Completed";
 $text['message-toggled']['ar-eg'] = "الانتهاء من تبديل";
 $text['message-toggled']['de-at'] = "Toggle Completed"; //copied from de-de
@@ -233,6 +244,7 @@ $text['message-toggled']['sv-se'] = "Växla Avslutade";
 $text['message-toggled']['uk-ua'] = "переключити Завершений";
 
 $text['message-settings_reloaded']['en-us'] = "Settings Reloaded";
+$text['message-settings_reloaded']['zh-cn'] = "重载设置已完成";
 $text['message-settings_reloaded']['en-gb'] = "Settings Reloaded";
 $text['message-settings_reloaded']['ar-eg'] = "";
 $text['message-settings_reloaded']['de-at'] = "Einstellungen neu geladen"; //copied from de-de
@@ -254,6 +266,7 @@ $text['message-settings_reloaded']['sv-se'] = "Inställningar Reloaded";
 $text['message-settings_reloaded']['uk-ua'] = "налаштування Reloaded";
 
 $text['message-delete_failed']['en-us'] = "No Settings Checked";
+$text['message-delete_failed']['zh-cn'] = "未设置检查";
 $text['message-delete_failed']['en-gb'] = "No Settings Checked";
 $text['message-delete_failed']['ar-eg'] = "";
 $text['message-delete_failed']['de-at'] = "Löschen fehlgeschlagen"; //copied from de-de
@@ -275,6 +288,7 @@ $text['message-delete_failed']['sv-se'] = "Borttagning Misslyckades";
 $text['message-delete_failed']['uk-ua'] = "Налаштування не вказано";
 
 $text['message-copy_failed']['en-us'] = "No Settings Checked or Invalid Domain";
+$text['message-copy_failed']['zh-cn'] = "未设置检查或域无效";
 $text['message-copy_failed']['en-gb'] = "No Settings Checked or Invalid Domain";
 $text['message-copy_failed']['ar-eg'] = "";
 $text['message-copy_failed']['de-at'] = "Keine Einstellungen ausgewählt oder ungültige Domain"; //copied from de-de
@@ -296,6 +310,7 @@ $text['message-copy_failed']['sv-se'] = "Ingen inställning markerad eller ogilt
 $text['message-copy_failed']['uk-ua'] = "";
 
 $text['label-web_fonts']['en-us'] = "Web Fonts";
+$text['label-web_fonts']['zh-cn'] = "网站字体";
 $text['label-web_fonts']['en-gb'] = "Web Fonts";
 $text['label-web_fonts']['ar-eg'] = "الخطوط على شبكة الإنترنت";
 $text['label-web_fonts']['de-at'] = "Web Fonts"; //copied from de-de
@@ -317,6 +332,7 @@ $text['label-web_fonts']['sv-se'] = "web teckensnitt";
 $text['label-web_fonts']['uk-ua'] = "веб-шрифти";
 
 $text['label-top']['en-us'] = "Top";
+$text['label-top']['zh-cn'] = "顶部";
 $text['label-top']['en-gb'] = "Top";
 $text['label-top']['ar-eg'] = "أعلى";
 $text['label-top']['de-at'] = "Oben"; //copied from de-de
@@ -338,6 +354,7 @@ $text['label-top']['sv-se'] = "Topp";
 $text['label-top']['uk-ua'] = "топ";
 
 $text['label-text']['en-us'] = "Text";
+$text['label-text']['zh-cn'] = "文本";
 $text['label-text']['en-gb'] = "Text";
 $text['label-text']['ar-eg'] = "نص";
 $text['label-text']['de-at'] = "Text"; //copied from de-de
@@ -359,6 +376,7 @@ $text['label-text']['sv-se'] = "Text";
 $text['label-text']['uk-ua'] = "текст";
 
 $text['label-superfine']['en-us'] = "Superfine";
+$text['label-superfine']['zh-cn'] = "高品质";
 $text['label-superfine']['en-gb'] = "Superfine";
 $text['label-superfine']['ar-eg'] = "";
 $text['label-superfine']['de-at'] = "Superfein"; //copied from de-de
@@ -380,6 +398,7 @@ $text['label-superfine']['sv-se'] = "Superfin";
 $text['label-superfine']['uk-ua'] = "";
 
 $text['label-static']['en-us'] = "Static";
+$text['label-static']['zh-cn'] = "静态";
 $text['label-static']['en-gb'] = "Static";
 $text['label-static']['ar-eg'] = "ساكن";
 $text['label-static']['de-at'] = "Statisch"; //copied from de-de
@@ -401,6 +420,7 @@ $text['label-static']['sv-se'] = "Statisk";
 $text['label-static']['uk-ua'] = "статичний";
 
 $text['label-reference']['en-us'] = "See";
+$text['label-reference']['zh-cn'] = "参考";
 $text['label-reference']['en-gb'] = "See";
 $text['label-reference']['ar-eg'] = "مرجع";
 $text['label-reference']['de-at'] = "Referenz"; //copied from de-de
@@ -422,6 +442,7 @@ $text['label-reference']['sv-se'] = "Referens";
 $text['label-reference']['uk-ua'] = "посилання";
 
 $text['label-right']['en-us'] = "Right";
+$text['label-right']['zh-cn'] = "右边";
 $text['label-right']['en-gb'] = "Right";
 $text['label-right']['ar-eg'] = "حق";
 $text['label-right']['de-at'] = "Rechts"; //copied from de-de
@@ -443,6 +464,7 @@ $text['label-right']['sv-se'] = "Höger";
 $text['label-right']['uk-ua'] = "правий";
 
 $text['label-other']['en-us'] = "Other";
+$text['label-other']['zh-cn'] = "其他";
 $text['label-other']['en-gb'] = "Other";
 $text['label-other']['ar-eg'] = "";
 $text['label-other']['de-at'] = "Andere"; //copied from de-de
@@ -464,6 +486,7 @@ $text['label-other']['sv-se'] = "Annat";
 $text['label-other']['uk-ua'] = "";
 
 $text['label-normal']['en-us'] = "Normal";
+$text['label-normal']['zh-cn'] = "正常";
 $text['label-normal']['en-gb'] = "Normal";
 $text['label-normal']['ar-eg'] = "";
 $text['label-normal']['de-at'] = "Normal"; //copied from de-de
@@ -485,6 +508,7 @@ $text['label-normal']['sv-se'] = "Normal";
 $text['label-normal']['uk-ua'] = "звичайно";
 
 $text['label-none']['en-us'] = "None";
+$text['label-none']['zh-cn'] = "无";
 $text['label-none']['en-gb'] = "None";
 $text['label-none']['ar-eg'] = "لا شيء";
 $text['label-none']['de-at'] = "Keiner"; //copied from de-de
@@ -506,6 +530,7 @@ $text['label-none']['sv-se'] = "Ingen";
 $text['label-none']['uk-ua'] = "жоден";
 
 $text['label-left']['en-us'] = "Left";
+$text['label-left']['zh-cn'] = "左边";
 $text['label-left']['en-gb'] = "Left";
 $text['label-left']['ar-eg'] = "اليسار";
 $text['label-left']['de-at'] = "Links"; //copied from de-de
@@ -527,6 +552,7 @@ $text['label-left']['sv-se'] = "Vänster";
 $text['label-left']['uk-ua'] = "лівий";
 
 $text['label-inline']['en-us'] = "Inline";
+$text['label-inline']['zh-cn'] = "在线";
 $text['label-inline']['en-gb'] = "Inline";
 $text['label-inline']['ar-eg'] = "في النسق";
 $text['label-inline']['de-at'] = "In der Reihe";
@@ -548,6 +574,7 @@ $text['label-inline']['sv-se'] = "Inline";
 $text['label-inline']['uk-ua'] = "В лінію";
 
 $text['label-image']['en-us'] = "Image";
+$text['label-image']['zh-cn'] = "图像";
 $text['label-image']['en-gb'] = "Image";
 $text['label-image']['ar-eg'] = "صورة";
 $text['label-image']['de-at'] = "Image";
@@ -569,6 +596,7 @@ $text['label-image']['sv-se'] = "Bild";
 $text['label-image']['uk-ua'] = "зображення";
 
 $text['label-fixed']['en-us'] = "Fixed";
+$text['label-fixed']['zh-cn'] = "固定";
 $text['label-fixed']['en-gb'] = "Fixed";
 $text['label-fixed']['ar-eg'] = "ثابت";
 $text['label-fixed']['de-at'] = "Fest"; //copied from de-de
@@ -590,6 +618,7 @@ $text['label-fixed']['sv-se'] = "Fast";
 $text['label-fixed']['uk-ua'] = "фіксований";
 
 $text['label-side']['en-us'] = "Side";
+$text['label-side']['zh-cn'] = "侧边";
 $text['label-side']['en-gb'] = "Side";
 $text['label-side']['ar-eg'] = "";
 $text['label-side']['de-at'] = "";
@@ -611,6 +640,7 @@ $text['label-side']['sv-se'] = "";
 $text['label-side']['uk-ua'] = "";
 
 $text['label-fine']['en-us'] = "Fine";
+$text['label-fine']['zh-cn'] = "品质";
 $text['label-fine']['en-gb'] = "Fine";
 $text['label-fine']['ar-eg'] = "";
 $text['label-fine']['de-at'] = "Fein"; //copied from de-de
@@ -632,6 +662,7 @@ $text['label-fine']['sv-se'] = "Fin";
 $text['label-fine']['uk-ua'] = "";
 
 $text['label-center']['en-us'] = "Center";
+$text['label-center']['zh-cn'] = "中心";
 $text['label-center']['en-gb'] = "Center";
 $text['label-center']['ar-eg'] = "مركز";
 $text['label-center']['de-at'] = "Mitte"; //copied from de-de
@@ -653,6 +684,7 @@ $text['label-center']['sv-se'] = "Centrum";
 $text['label-center']['uk-ua'] = "центр";
 
 $text['label-bottom']['en-us'] = "Bottom";
+$text['label-bottom']['zh-cn'] = "底部";
 $text['label-bottom']['en-gb'] = "Bottom";
 $text['label-bottom']['ar-eg'] = "أسفل";
 $text['label-bottom']['de-at'] = "Unten"; //copied from de-de
@@ -674,6 +706,7 @@ $text['label-bottom']['sv-se'] = "Botten";
 $text['label-bottom']['uk-ua'] = "дно";
 
 $text['label-24-hour']['en-us'] = "24-Hour";
+$text['label-24-hour']['zh-cn'] = "24 小时";
 $text['label-24-hour']['en-gb'] = "24-Hour";
 $text['label-24-hour']['ar-eg'] = "24 ساعة";
 $text['label-24-hour']['de-at'] = "24 Stunden"; //copied from de-de
@@ -695,6 +728,7 @@ $text['label-24-hour']['sv-se'] = "24-timmars";
 $text['label-24-hour']['uk-ua'] = "24-годинний";
 
 $text['label-12-hour']['en-us'] = "12-Hour";
+$text['label-12-hour']['zh-cn'] = "12 小时";
 $text['label-12-hour']['en-gb'] = "12-Hour";
 $text['label-12-hour']['ar-eg'] = "12 ساعة";
 $text['label-12-hour']['de-at'] = "12 Stunden"; //copied from de-de
@@ -716,6 +750,7 @@ $text['label-12-hour']['sv-se'] = "12-timmars";
 $text['label-12-hour']['uk-ua'] = "12-годинний";
 
 $text['label-hours']['en-us'] = "Hour(s)";
+$text['label-hours']['zh-cn'] = "小时(s)";
 $text['label-hours']['en-gb'] = "Hour(s)";
 $text['label-hours']['ar-eg'] = "";
 $text['label-hours']['de-at'] = "";
@@ -737,6 +772,7 @@ $text['label-hours']['sv-se'] = "";
 $text['label-hours']['uk-ua'] = "";
 
 $text['label-days']['en-us'] = "Day(s)";
+$text['label-days']['zh-cn'] = "天(s)";
 $text['label-days']['en-gb'] = "Day(s)";
 $text['label-days']['ar-eg'] = "";
 $text['label-days']['de-at'] = "";
@@ -758,6 +794,7 @@ $text['label-days']['sv-se'] = "";
 $text['label-days']['uk-ua'] = "";
 
 $text['label-messages']['en-us'] = "Message(s)";
+$text['label-messages']['zh-cn'] = "消息(s)";
 $text['label-messages']['en-gb'] = "Message(s)";
 $text['label-messages']['ar-eg'] = "";
 $text['label-messages']['de-at'] = "";
@@ -779,6 +816,7 @@ $text['label-messages']['sv-se'] = "";
 $text['label-messages']['uk-ua'] = "";
 
 $text['label-image_text']['en-us'] = "Image & Text";
+$text['label-image_text']['zh-cn'] = "图像和文本";
 $text['label-image_text']['en-gb'] = "Image & Text";
 $text['label-image_text']['ar-eg'] = "";
 $text['label-image_text']['de-at'] = "";
@@ -800,6 +838,7 @@ $text['label-image_text']['sv-se'] = "";
 $text['label-image_text']['uk-ua'] = "";
 
 $text['label-file']['en-us'] = "File";
+$text['label-file']['zh-cn'] = "文件";
 $text['label-file']['en-gb'] = "File";
 $text['label-file']['ar-eg'] = "";
 $text['label-file']['de-at'] = "Dateien"; //copied from de-de
@@ -818,6 +857,7 @@ $text['label-file']['pt-pt'] = "Ficheiro";
 $text['label-file']['ro-ro'] = "";
 
 $text['label-base64']['en-us'] = "Base64";
+$text['label-base64']['zh-cn'] = "Base64";
 $text['label-base64']['en-gb'] = "Base64";
 $text['label-base64']['ar-eg'] = "Base64";
 $text['label-base64']['de-at'] = "Base64";
@@ -836,6 +876,7 @@ $text['label-base64']['pt-pt'] = "Base64";
 $text['label-base64']['ro-ro'] = "Base64";
 
 $text['label-dynamic']['en-us'] = "Dynamic";
+$text['label-dynamic']['zh-cn'] = "动态";
 $text['label-dynamic']['en-gb'] = "Dynamic";
 $text['label-dynamic']['ar-eg'] = "Dynamic";
 $text['label-dynamic']['de-at'] = "Dynamic";
@@ -854,6 +895,7 @@ $text['label-dynamic']['pt-pt'] = "Dynamic";
 $text['label-dynamic']['ro-ro'] = "Dynamic";
 
 $text['label-single']['en-us'] = "Single";
+$text['label-single']['zh-cn'] = "单一";
 $text['label-single']['en-gb'] = "Single";
 $text['label-single']['ar-eg'] = "Single";
 $text['label-single']['de-at'] = "Single";
@@ -872,6 +914,7 @@ $text['label-single']['pt-pt'] = "Single";
 $text['label-single']['ro-ro'] = "Single";
 
 $text['label-multiple']['en-us'] = "Multiple";
+$text['label-multiple']['zh-cn'] = "多个";
 $text['label-multiple']['en-gb'] = "Multiple";
 $text['label-multiple']['ar-eg'] = "Multiple";
 $text['label-multiple']['de-at'] = "Multiple";
@@ -890,6 +933,7 @@ $text['label-multiple']['pt-pt'] = "Multiple";
 $text['label-multiple']['ro-ro'] = "Multiple";
 
 $text['header-default_settings']['en-us'] = "Default Settings";
+$text['header-default_settings']['zh-cn'] = "默认设置";
 $text['header-default_settings']['en-gb'] = "Default Settings";
 $text['header-default_settings']['ar-eg'] = "";
 $text['header-default_settings']['de-at'] = "Standard Einstellungen"; //copied from de-de
@@ -911,6 +955,7 @@ $text['header-default_settings']['sv-se'] = "Standard Inställningar";
 $text['header-default_settings']['uk-ua'] = "";
 
 $text['header-default_setting-edit']['en-us'] = "Default Setting";
+$text['header-default_setting-edit']['zh-cn'] = "默认设置";
 $text['header-default_setting-edit']['en-gb'] = "Default Setting";
 $text['header-default_setting-edit']['ar-eg'] = "";
 $text['header-default_setting-edit']['de-at'] = "Standard Einstellungen"; //copied from de-de
@@ -932,6 +977,7 @@ $text['header-default_setting-edit']['sv-se'] = "Standard Inställning";
 $text['header-default_setting-edit']['uk-ua'] = "";
 
 $text['header-default_setting-add']['en-us'] = "Default Setting Add";
+$text['header-default_setting-add']['zh-cn'] = "添加默认设置";
 $text['header-default_setting-add']['en-gb'] = "Default Setting Add";
 $text['header-default_setting-add']['ar-eg'] = "";
 $text['header-default_setting-add']['de-at'] = "Standard Einstellungen hinzufügen"; //copied from de-de
@@ -953,6 +999,7 @@ $text['header-default_setting-add']['sv-se'] = "Lägg Till Standard Inställning
 $text['header-default_setting-add']['uk-ua'] = "";
 
 $text['description-order']['en-us'] = "Set the order (index) for this array element.";
+$text['description-order']['zh-cn'] = "设置此数组元素的顺序（索引）.";
 $text['description-order']['en-gb'] = "Set the order (index) for this array element.";
 $text['description-order']['ar-eg'] = "";
 $text['description-order']['de-at'] = "Wählen Sie die Reihenfolge (Index) für das Array Element."; //copied from de-de
@@ -974,6 +1021,7 @@ $text['description-order']['sv-se'] = "Ställ in ordningen (index) för detta el
 $text['description-order']['uk-ua'] = "";
 
 $text['description-enabled']['en-us'] = "Set the status of this default setting.";
+$text['description-enabled']['zh-cn'] = "设置此默认设置的状态.";
 $text['description-enabled']['en-gb'] = "Set the status of this default setting.";
 $text['description-enabled']['ar-eg'] = "";
 $text['description-enabled']['de-at'] = "Setzen Sie den Status dieser Standardeinstellung."; //copied from de-de
@@ -995,6 +1043,7 @@ $text['description-enabled']['sv-se'] = "Välj status på denna standardinställ
 $text['description-enabled']['uk-ua'] = "";
 
 $text['description-default_settings']['en-us'] = "Settings used for all domains.";
+$text['description-default_settings']['zh-cn'] = "用于所有域的设置.";
 $text['description-default_settings']['en-gb'] = "Settings used for all domains.";
 $text['description-default_settings']['ar-eg'] = "";
 $text['description-default_settings']['de-at'] = "Einstellungen für alle Domains."; //copied from de-de
@@ -1016,6 +1065,7 @@ $text['description-default_settings']['sv-se'] = "Inställning används för all
 $text['description-default_settings']['uk-ua'] = "Налаштування використовується для всіх доменів";
 
 $text['description-default_setting-edit']['en-us'] = "Settings used for all domains.";
+$text['description-default_setting-edit']['zh-cn'] = "用于所有域的设置.";
 $text['description-default_setting-edit']['en-gb'] = "Settings used for all domains.";
 $text['description-default_setting-edit']['ar-eg'] = "";
 $text['description-default_setting-edit']['de-at'] = "Einstellungen für alle Domains."; //copied from de-de
@@ -1037,6 +1087,7 @@ $text['description-default_setting-edit']['sv-se'] = "Inställning används för
 $text['description-default_setting-edit']['uk-ua'] = "Налаштування використовується для всіх доменів";
 
 $text['description-default_setting-add']['en-us'] = "Settings used for all domains.";
+$text['description-default_setting-add']['zh-cn'] = "用于所有域的设置.";
 $text['description-default_setting-add']['en-gb'] = "Settings used for all domains.";
 $text['description-default_setting-add']['ar-eg'] = "";
 $text['description-default_setting-add']['de-at'] = "Einstellungen für alle Domains."; //copied from de-de
@@ -1058,6 +1109,7 @@ $text['description-default_setting-add']['sv-se'] = "Inställning används för 
 $text['description-default_setting-add']['uk-ua'] = "Налаштування використовується для всіх доменів";
 
 $text['button-toggle']['en-us'] = "Toggle";
+$text['button-toggle']['zh-cn'] = "切换";
 $text['button-toggle']['en-gb'] = "Toggle";
 $text['button-toggle']['ar-eg'] = "تبديل";
 $text['button-toggle']['de-at'] = "Umschalten"; //copied from de-de

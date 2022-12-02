@@ -1,6 +1,7 @@
 <?php
 
 $apps[$x]['menu'][3]['title']['en-us'] = "Group Manager";
+$apps[$x]['menu'][3]['title']['zh-cn'] = "组管理";
 $apps[$x]['menu'][3]['title']['en-gb'] = "Group Manager";
 $apps[$x]['menu'][3]['title']['es-cl'] = "Administración de Grupos";
 $apps[$x]['menu'][3]['title']['fr-fr'] = "Gestion des groupes";
