@@ -266,7 +266,7 @@ $text['title-group_add']['sv-se'] = "Lägg Till Grupp";
 $text['title-group_add']['uk-ua'] = "Додати групу";
 
 $text['option-true']['en-us'] = "True";
-$text['option-true']['zh-cn'] = "True";
+$text['option-true']['zh-cn'] = "是";
 $text['option-true']['en-gb'] = "True";
 $text['option-true']['ar-eg'] = "";
 $text['option-true']['de-at'] = "Ein"; //copied from de-de
@@ -354,7 +354,7 @@ $text['option-global']['sv-se'] = "Global";
 $text['option-global']['uk-ua'] = "Глобально";
 
 $text['option-false']['en-us'] = "False";
-$text['option-false']['zh-cn'] = "False";
+$text['option-false']['zh-cn'] = "否";
 $text['option-false']['en-gb'] = "False";
 $text['option-false']['ar-eg'] = "";
 $text['option-false']['de-at'] = "Aus"; //copied from de-de

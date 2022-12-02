@@ -2900,7 +2900,7 @@ $text['label-subcategory']['uk-ua'] = "Підкатегорія";
 $text['label-subcategory']['tr-tr'] = "Alt Kategori";
 
 $text['label-true']['en-us'] = "True";
-$text['label-true']['zh-cn'] = "True";
+$text['label-true']['zh-cn'] = "是";
 $text['label-true']['en-gb'] = "True";
 $text['label-true']['ar-eg'] = "صحيح";
 $text['label-true']['de-at'] = "Ein"; //copied from de-de
@@ -2924,7 +2924,7 @@ $text['label-true']['uk-ua'] = "Так";
 $text['label-true']['tr-tr'] = "Doğru";
 
 $text['label-false']['en-us'] = "False";
-$text['label-false']['zh-cn'] = "False";
+$text['label-false']['zh-cn'] = "否";
 $text['label-false']['en-gb'] = "False";
 $text['label-false']['ar-eg'] = "خاطئة";
 $text['label-false']['de-at'] = "Aus"; //copied from de-de
@@ -3782,7 +3782,7 @@ $text['label-fr-ring']['uk-ua'] = "fr-ring";
 $text['label-fr-ring']['tr-tr'] = "fr-ring";
 
 $text['option-true']['en-us'] = "True";
-$text['option-true']['zh-cn'] = "True";
+$text['option-true']['zh-cn'] = "是";
 $text['option-true']['en-gb'] = "True";
 $text['option-true']['ar-eg'] = "";
 $text['option-true']['de-at'] = "Ein"; //copied from de-de
@@ -3806,7 +3806,7 @@ $text['option-true']['uk-ua'] = "";
 $text['option-true']['tr-tr'] = "Doğru";
 
 $text['option-false']['en-us'] = "False";
-$text['option-false']['zh-cn'] = "False";
+$text['option-false']['zh-cn'] = "否";
 $text['option-false']['en-gb'] = "False";
 $text['option-false']['ar-eg'] = "";
 $text['option-false']['de-at'] = "Aus"; //copied from de-de
