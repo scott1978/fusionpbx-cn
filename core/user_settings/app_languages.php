@@ -1384,7 +1384,7 @@ $text['label-last_24_hours']['sv-se'] = "Senaste 24 timmarna";
 $text['label-last_24_hours']['uk-ua'] = "Останні 24 годин";
 
 $text['label-ivr_menus']['en-us'] = "IVR Menus";
-$text['label-ivr_menus']['zh-cn'] = "IVR菜单管理";
+$text['label-ivr_menus']['zh-cn'] = "IVR菜单";
 $text['label-ivr_menus']['en-gb'] = "IVR Menus";
 $text['label-ivr_menus']['ar-eg'] = "";
 $text['label-ivr_menus']['de-at'] = "Automatische Vermittlungen"; //copied from de-de
@@ -1453,7 +1453,7 @@ $text['label-item']['sv-se'] = "Punkt";
 $text['label-item']['uk-ua'] = "пункт";
 
 $text['label-gateways']['en-us'] = "Gateways";
-$text['label-gateways']['zh-cn'] = "网关管理";
+$text['label-gateways']['zh-cn'] = "网关";
 $text['label-gateways']['en-gb'] = "Gateways";
 $text['label-gateways']['ar-eg'] = "البوابات";
 $text['label-gateways']['de-at'] = "Gateways"; //copied from de-de
@@ -1545,7 +1545,7 @@ $text['label-failed']['sv-se'] = "Misslyckad";
 $text['label-failed']['uk-ua'] = "";
 
 $text['label-extensions']['en-us'] = "Extensions";
-$text['label-extensions']['zh-cn'] = "分机管理";
+$text['label-extensions']['zh-cn'] = "分机";
 $text['label-extensions']['en-gb'] = "Extensions";
 $text['label-extensions']['ar-eg'] = "الأرقام الداخلية";
 $text['label-extensions']['de-at'] = "Nebenstellen"; //copied from de-de
@@ -1752,7 +1752,7 @@ $text['label-disabled']['sv-se'] = "Inaktiverad";
 $text['label-disabled']['uk-ua'] = "Відключено";
 
 $text['label-devices']['en-us'] = "Devices";
-$text['label-devices']['zh-cn'] = "设备管理";
+$text['label-devices']['zh-cn'] = "设备";
 $text['label-devices']['en-gb'] = "Devices";
 $text['label-devices']['ar-eg'] = "الأجهزة";
 $text['label-devices']['de-at'] = "Geräte"; //copied from de-de
@@ -1775,7 +1775,7 @@ $text['label-devices']['sv-se'] = "Enheter";
 $text['label-devices']['uk-ua'] = "Пристрої";
 
 $text['label-destinations']['en-us'] = "Destinations";
-$text['label-destinations']['zh-cn'] = "目的地管理";
+$text['label-destinations']['zh-cn'] = "目的地";
 $text['label-destinations']['en-gb'] = "Destinations";
 $text['label-destinations']['ar-eg'] = "جهات الأتصال";
 $text['label-destinations']['de-at'] = "Kopfnummern"; //copied from de-de
