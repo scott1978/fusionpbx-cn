@@ -4585,7 +4585,7 @@ $text['button-tickets']['sv-se'] = "";
 $text['button-tickets']['uk-ua'] = "";
 
 $text['button-cdr']['en-us'] = "CDR";
-$text['button-cdr']['zh-cn'] = "CDR";
+$text['button-cdr']['zh-cn'] = "通话记录;
 $text['button-cdr']['en-gb'] = "CDR";
 $text['button-cdr']['ar-eg'] = "";
 $text['button-cdr']['de-at'] = ""; //copied from de-de
