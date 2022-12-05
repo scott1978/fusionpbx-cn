@@ -860,7 +860,7 @@ $text['description-upgrade_apps']['sv-se'] = "Återställer standardinställning
 $text['description-upgrade_apps']['uk-ua'] = "Встановлює типові значення для додатків";
 
 $text['description-upgrade_switch']['en-us'] = "Runs the upgrade switch routine.";
-$text['description-upgrade_switch']['zh-cn'] = "运行网关升级进程.";
+$text['description-upgrade_switch']['zh-cn'] = "运行电话交换机升级进程.";
 $text['description-upgrade_switch']['en-gb'] = "Runs the upgrade switch routine.";
 $text['description-upgrade_switch']['ar-eg'] = "";
 $text['description-upgrade_switch']['de-at'] = "Führt die Switch-Update Routine aus"; //copied from de-de

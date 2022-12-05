@@ -809,7 +809,7 @@ $text['label-system_counts']['sv-se'] = "System Counts";
 $text['label-system_counts']['uk-ua'] = "система зараховує";
 
 $text['label-switch_uptime']['en-us'] = "Switch Uptime";
-$text['label-switch_uptime']['zh-cn'] = "网关运行时间";
+$text['label-switch_uptime']['zh-cn'] = "电话交换机运行时间";
 $text['label-switch_uptime']['en-gb'] = "Switch Uptime";
 $text['label-switch_uptime']['ar-eg'] = "";
 $text['label-switch_uptime']['de-at'] = "Switch Uptime"; //copied from de-de
