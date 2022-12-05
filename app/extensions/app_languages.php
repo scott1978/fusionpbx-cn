@@ -713,7 +713,7 @@ $text['label-sip_force_expires']['sv-se'] = "SIP Force Expires";
 $text['label-sip_force_expires']['uk-ua'] = "";
 
 $text['label-sip_force_contact']['en-us'] = "SIP Force Contact";
-$text['label-sip_force_contact']['zh-cn'] = "SIP强制接通";
+$text['label-sip_force_contact']['zh-cn'] = "SIP强制重写";
 $text['label-sip_force_contact']['en-gb'] = "SIP Force Contact";
 $text['label-sip_force_contact']['ar-eg'] = "";
 $text['label-sip_force_contact']['de-at'] = "SIP Force Contact"; //copied from de-de
@@ -1043,7 +1043,7 @@ $text['label-outbound_caller_id_name']['sv-se'] = "Utgående Namnpresentation";
 $text['label-outbound_caller_id_name']['uk-ua'] = "";
 
 $text['label-outbound_cid_name']['en-us'] = "Outbound CID Name";
-$text['label-outbound_cid_name']['zh-cn'] = "出战CID名称";
+$text['label-outbound_cid_name']['zh-cn'] = "出站CID名称";
 $text['label-outbound_cid_name']['en-gb'] = "Outbound CID Name";
 $text['label-outbound_cid_name']['ar-eg'] = "";
 $text['label-outbound_cid_name']['de-at'] = "Ausgehende Anruferkennung (Name)"; //copied from de-de
