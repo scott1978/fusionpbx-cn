@@ -620,6 +620,7 @@ $text['label-cpu_cores']['sv-se'] = "CPU Cores";
 $text['label-cpu_cores']['uk-ua'] = "CPU Cores";
 
 $text['label-load_average']['en-us'] = "Load Average";
+$text['label-load_average']['zh-cn'] = "本地负载";
 $text['label-load_average']['en-gb'] = "Load Average";
 $text['label-load_average']['ar-eg'] = "Load Average";
 $text['label-load_average']['de-at'] = "Load Average"; //copied from de-de
@@ -642,6 +643,7 @@ $text['label-load_average']['sv-se'] = "Load Average";
 $text['label-load_average']['uk-ua'] = "Load Average";
 
 $text['header-sys-status']['en-us'] = "System Status";
+$text['header-sys-status']['zh-cn'] = "系统状态";
 $text['header-sys-status']['en-gb'] = "System Status";
 $text['header-sys-status']['ar-eg'] = "";
 $text['header-sys-status']['de-at'] = "System Status"; //copied from de-de

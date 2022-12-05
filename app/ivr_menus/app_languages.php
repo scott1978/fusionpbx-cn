@@ -1190,7 +1190,7 @@ $text['description-ivr_menus']['sv-se'] = "IVR Menyn spelar upp en inspelning el
 $text['description-ivr_menus']['uk-ua'] = "";
 
 $text['description-ivr_menu']['en-us'] = "The IVR Menu plays a recording or a pre-defined phrase that presents the caller with options to choose from. Each option has a corresponding destination. The destinations can be extensions, voicemail, other IVR menus, call groups, FAX extensions, and more.";
-$text['description-ivr_menu']['zh-cn'] = "IVR菜单播放录音或预定义的短语，向来电者提供可供选择的选项。每个选项都有相应的目的地。目的地可以是分机、语音邮件、其他IVR菜单、振铃组、传真分机等.";
+$text['description-ivr_menu']['zh-cn'] = "IVR菜单播放录音或预定义的短语，向来电者提供可供选择的选项。每个选项都有相应的目的地。目的地可以是分机、语音邮件、其他IVR菜单、通话组、传真分机等.";
 $text['description-ivr_menu']['en-gb'] = "The IVR Menu plays a recording or a pre-defined phrase that presents the caller with options to choose from. Each option has a corresponding destination. The destinations can be extensions, voicemail, other IVR menus, call groups, FAX extensions, and more.";
 $text['description-ivr_menu']['ar-eg'] = "";
 $text['description-ivr_menu']['de-at'] = "Die Automatische Vermittlung spielt eine Aufnahme oder eine vordefinierte Phrase ab von welcher der Anrufe seine Optionen wählt. Jede Option hat ein entsprechendes Ziel. Das Ziel kann eine Nebenstelle, eine Mailbox eine andere Automatische Vermittlung, Rufgruppen, Fax Server und weitere Funktionen sein."; //copied from de-de

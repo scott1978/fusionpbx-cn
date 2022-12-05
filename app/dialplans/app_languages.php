@@ -1850,7 +1850,7 @@ $text['description-outbound_routes']['sv-se'] = "Styr utgående samtal till Gate
 $text['description-outbound_routes']['uk-ua'] = "Спрямовує вихідні дзвінки на шлюзи, TDM, ENUM на інше, якщо дзвінок відповідає умовам вихідної маршрутизації.";
 
 $text['description-inbound_routes']['en-us'] = "Route incoming calls to destinations based on one or more conditions. It can send incoming calls to an IVR Menu, Call Group, Extension, External Number, Script. Order is important when an anti-action is used or when there are multiple conditions that match.";
-$text['description-inbound_routes']['zh-cn'] = "根据一个或多个条件将来电路由到目的地。它可以将来电发送到IVR菜单、振铃组、分机、外部号码和脚本，当使用过程或有多个条件匹配时，顺序很重要.";
+$text['description-inbound_routes']['zh-cn'] = "根据一个或多个条件将来电路由到目的地。它可以将来电发送到IVR菜单、通话组、分机、外部号码和脚本，当使用过程或有多个条件匹配时，顺序很重要.";
 $text['description-inbound_routes']['en-gb'] = "Route incoming calls to destinations based on one or more conditions. It can send incoming calls to an IVR Menu, Call Group, Extension, External Number, Script. Order is important when an anti-action is used or when there are multiple conditions that match.";
 $text['description-inbound_routes']['ar-eg'] = "";
 $text['description-inbound_routes']['de-at'] = "Eingehende Anrufe anhand Bedingungen routen. Anrufe können an IVR Menüs, Rufgruppen, Nebenstellen, externe Nummern oder Skripte weitergeleitet werden. Die Reihenfolge ist entscheidend, wenn eine Anti-Aktion gesetzt ist oder wenn mehrere Bedingungen angelegt wurden."; //copied from de-de
