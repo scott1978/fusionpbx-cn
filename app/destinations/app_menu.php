@@ -2,6 +2,7 @@
 
 	$y=0;
 	$apps[$x]['menu'][$y]['title']['en-us'] = "Destinations";
+	$apps[$x]['menu'][$y]['title']['zh-cn'] = "目的地";
 	$apps[$x]['menu'][$y]['title']['en-gb'] = "Destinations";
 	$apps[$x]['menu'][$y]['title']['ar-eg'] = "جهات الأتصال";
 	$apps[$x]['menu'][$y]['title']['de-at'] = "Ziele";
