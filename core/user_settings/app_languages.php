@@ -1430,7 +1430,7 @@ $text['label-inbound']['sv-se'] = "Inkommande";
 $text['label-inbound']['uk-ua'] = "Вихідний";
 
 $text['label-item']['en-us'] = "Item";
-$text['label-item']['zh-cn'] = "项";
+$text['label-item']['zh-cn'] = "项目名称";
 $text['label-item']['en-gb'] = "Item";
 $text['label-item']['ar-eg'] = "بند";
 $text['label-item']['de-at'] = "Objekt"; //copied from de-de

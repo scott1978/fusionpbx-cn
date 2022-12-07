@@ -1461,7 +1461,7 @@ $text['label-directory_visible']['sv-se'] = "Synlig I Katalog";
 $text['label-directory_visible']['uk-ua'] = "";
 
 $text['label-directory_full_name']['en-us'] = "Directory Full Name";
-$text['label-directory_full_name']['zh-cn'] = "通讯了全名";
+$text['label-directory_full_name']['zh-cn'] = "通讯录全名";
 $text['label-directory_full_name']['en-gb'] = "Directory Full Name";
 $text['label-directory_full_name']['ar-eg'] = "";
 $text['label-directory_full_name']['de-at'] = "Voller Name im Verzeichnis"; //copied from de-de
@@ -1483,7 +1483,7 @@ $text['label-directory_full_name']['sv-se'] = "Hela Namnet I Katalog";
 $text['label-directory_full_name']['uk-ua'] = "";
 
 $text['label-directory_exten_visible']['en-us'] = "Directory Extension Visible";
-$text['label-directory_exten_visible']['zh-cn'] = "通讯了分机号可见";
+$text['label-directory_exten_visible']['zh-cn'] = "通讯录分机号可见";
 $text['label-directory_exten_visible']['en-gb'] = "Directory Extension Visible";
 $text['label-directory_exten_visible']['ar-eg'] = "";
 $text['label-directory_exten_visible']['de-at'] = "Nebenstelle im Verzeichnis sichtbar"; //copied from de-de
@@ -2921,7 +2921,7 @@ $text['description-directory_full_name']['sv-se'] = "Ange förnamn följt av eft
 $text['description-directory_full_name']['uk-ua'] = "";
 
 $text['description-directory_exten_visible']['en-us'] = "Select whether announce the extension when calling the directory.";
-$text['description-directory_exten_visible']['zh-cn'] = "选择是否在调用通讯了时通知分机.";
+$text['description-directory_exten_visible']['zh-cn'] = "选择是否在调用通讯录时通知分机.";
 $text['description-directory_exten_visible']['en-gb'] = "Select whether announce the extension when calling the directory.";
 $text['description-directory_exten_visible']['ar-eg'] = "";
 $text['description-directory_exten_visible']['de-at'] = "Geben Sie an, ob die Nebenstelle beim Aufruf des Verzeichnises angekündigt werden soll."; //copied from de-de
