@@ -2,7 +2,7 @@
 #This file was last reorganized on 27th of September 2017 01:41:51 PM UTC
 
 $text['title-dialplan_manager']['en-us'] = "Dialplan Manager";
-$text['title-dialplan_manager']['zh-cn'] = "功能码管理";
+$text['title-dialplan_manager']['zh-cn'] = "拨号计划管理";
 $text['title-dialplan_manager']['en-gb'] = "Dialplan Manager";
 $text['title-dialplan_manager']['ar-eg'] = "";
 $text['title-dialplan_manager']['de-at'] = "Wählplan Einstellungen"; //copied from de-de
@@ -24,7 +24,7 @@ $text['title-dialplan_manager']['sv-se'] = "Nummerplan Inställningar";
 $text['title-dialplan_manager']['uk-ua'] = "Керування маршрутизацією";
 
 $text['title-dialplan_edit']['en-us'] = "Dialplan";
-$text['title-dialplan_edit']['zh-cn'] = "功能码";
+$text['title-dialplan_edit']['zh-cn'] = "拨号计划";
 $text['title-dialplan_edit']['en-gb'] = "Dialplan";
 $text['title-dialplan_edit']['ar-eg'] = "";
 $text['title-dialplan_edit']['de-at'] = "Wählplan"; //copied from de-de
@@ -46,7 +46,7 @@ $text['title-dialplan_edit']['sv-se'] = "Nummerplan";
 $text['title-dialplan_edit']['uk-ua'] = "Маршрутизація";
 
 $text['title-dialplan_detail']['en-us'] = "Dialplan Detail";
-$text['title-dialplan_detail']['zh-cn'] = "功能码详细信息";
+$text['title-dialplan_detail']['zh-cn'] = "拨号计划详细信息";
 $text['title-dialplan_detail']['en-gb'] = "Dialplan Detail";
 $text['title-dialplan_detail']['ar-eg'] = "";
 $text['title-dialplan_detail']['de-at'] = "Wählplan Details"; //copied from de-de
@@ -68,7 +68,7 @@ $text['title-dialplan_detail']['sv-se'] = "Nummerplan Detaljer";
 $text['title-dialplan_detail']['uk-ua'] = "Деталі маршрутизації";
 
 $text['title-dialplan_add']['en-us'] = "Dialplan";
-$text['title-dialplan_add']['zh-cn'] = "功能码";
+$text['title-dialplan_add']['zh-cn'] = "拨号计划";
 $text['title-dialplan_add']['en-gb'] = "Dialplan";
 $text['title-dialplan_add']['ar-eg'] = "";
 $text['title-dialplan_add']['de-at'] = "Wählplan"; //copied from de-de
@@ -90,7 +90,7 @@ $text['title-dialplan_add']['sv-se'] = "Nummerplan";
 $text['title-dialplan_add']['uk-ua'] = "Маршрутизація";
 
 $text['title-dialplans']['en-us'] = "Dialplans";
-$text['title-dialplans']['zh-cn'] = "功能码";
+$text['title-dialplans']['zh-cn'] = "拨号计划";
 $text['title-dialplans']['en-gb'] = "Dialplans";
 $text['title-dialplans']['ar-eg'] = "";
 $text['title-dialplans']['de-at'] = "Wählplan"; //copied from de-de
@@ -112,7 +112,7 @@ $text['title-dialplans']['sv-se'] = "Nummerplan";
 $text['title-dialplans']['uk-ua'] = "Маршрутизація";
 
 $text['title-default_dialplan']['en-us'] = "Default Dialplan";
-$text['title-default_dialplan']['zh-cn'] = "默认功能码";
+$text['title-default_dialplan']['zh-cn'] = "默认拨号计划";
 $text['title-default_dialplan']['en-gb'] = "Default Dialplan";
 $text['title-default_dialplan']['ar-eg'] = "";
 $text['title-default_dialplan']['de-at'] = "Standard Wählplan"; //copied from de-de
@@ -772,7 +772,7 @@ $text['option-false']['sv-se'] = "Falsk";
 $text['option-false']['uk-ua'] = "Ні";
 
 $text['option-dialplan']['en-us'] = "Dialplan";
-$text['option-dialplan']['zh-cn'] = "功能码";
+$text['option-dialplan']['zh-cn'] = "拨号计划";
 $text['option-dialplan']['en-gb'] = "Dialplan";
 $text['option-dialplan']['ar-eg'] = "";
 $text['option-dialplan']['de-at'] = "Wählplan"; //copied from de-de
@@ -1322,7 +1322,7 @@ $text['label-domain']['sv-se'] = "Domän";
 $text['label-domain']['uk-ua'] = "Домен";
 
 $text['label-dialplan_detail']['en-us'] = "Dialplan Details";
-$text['label-dialplan_detail']['zh-cn'] = "功能码详细信息";
+$text['label-dialplan_detail']['zh-cn'] = "拨号计划详细信息";
 $text['label-dialplan_detail']['en-gb'] = "Dialplan Details";
 $text['label-dialplan_detail']['ar-eg'] = "";
 $text['label-dialplan_detail']['de-at'] = "Wählplan Details"; //copied from de-de
@@ -1652,7 +1652,7 @@ $text['header-inbound_routes']['sv-se'] = "Inkommande Router";
 $text['header-inbound_routes']['uk-ua'] = "Маршрути вхідних дзвінків";
 
 $text['header-dialplan_manager']['en-us'] = "Dialplan Manager";
-$text['header-dialplan_manager']['zh-cn'] = "功能码管理";
+$text['header-dialplan_manager']['zh-cn'] = "拨号计划管理";
 $text['header-dialplan_manager']['en-gb'] = "Dialplan Manager";
 $text['header-dialplan_manager']['ar-eg'] = "";
 $text['header-dialplan_manager']['de-at'] = "Wählplan Einstellungen"; //copied from de-de
@@ -1674,7 +1674,7 @@ $text['header-dialplan_manager']['sv-se'] = "Nummerplan Inställningar";
 $text['header-dialplan_manager']['uk-ua'] = "Керування маршрутизацією";
 
 $text['header-dialplan_detail']['en-us'] = "Dialplan Detail";
-$text['header-dialplan_detail']['zh-cn'] = "功能码详细信息";
+$text['header-dialplan_detail']['zh-cn'] = "拨号计划详细信息";
 $text['header-dialplan_detail']['en-gb'] = "Dialplan Detail";
 $text['header-dialplan_detail']['ar-eg'] = "";
 $text['header-dialplan_detail']['de-at'] = "Wählplan Details"; //copied from de-de
@@ -1696,7 +1696,7 @@ $text['header-dialplan_detail']['sv-se'] = "Nummerplan Detaljer";
 $text['header-dialplan_detail']['uk-ua'] = "Деталі маршрутизації";
 
 $text['header-dialplan-edit']['en-us'] = "Dialplan";
-$text['header-dialplan-edit']['zh-cn'] = "功能码";
+$text['header-dialplan-edit']['zh-cn'] = "拨号计划";
 $text['header-dialplan-edit']['en-gb'] = "Dialplan";
 $text['header-dialplan-edit']['ar-eg'] = "";
 $text['header-dialplan-edit']['de-at'] = "Wählplan"; //copied from de-de
@@ -1718,7 +1718,7 @@ $text['header-dialplan-edit']['sv-se'] = "Nummerplan";
 $text['header-dialplan-edit']['uk-ua'] = "Маршрутизація";
 
 $text['header-dialplan-add']['en-us'] = "Dialplan";
-$text['header-dialplan-add']['zh-cn'] = "功能码";
+$text['header-dialplan-add']['zh-cn'] = "拨号计划";
 $text['header-dialplan-add']['en-gb'] = "Dialplan";
 $text['header-dialplan-add']['ar-eg'] = "";
 $text['header-dialplan-add']['de-at'] = "Wählplan"; //copied from de-de
@@ -1740,7 +1740,7 @@ $text['header-dialplan-add']['sv-se'] = "Nummerplan";
 $text['header-dialplan-add']['uk-ua'] = "Маршрутизація";
 
 $text['header-default_dialplan']['en-us'] = "Default Dialplan";
-$text['header-default_dialplan']['zh-cn'] = "默认功能码";
+$text['header-default_dialplan']['zh-cn'] = "默认拨号计划";
 $text['header-default_dialplan']['en-gb'] = "Default Dialplan";
 $text['header-default_dialplan']['ar-eg'] = "";
 $text['header-default_dialplan']['de-at'] = "Standard Wählplan"; //copied from de-de
@@ -1872,7 +1872,7 @@ $text['description-inbound_routes']['sv-se'] = "Styr inkommande samtal till dest
 $text['description-inbound_routes']['uk-ua'] = "Направляє вхідні дзвінки відповідно до умов. Можна спрямувати вхідні дзвінки на голосове меню (IVR), групу, розширення, зовнішній номер, сценарій. Порядок важливий якщо використовується анти-дія або за наявності декількох умов, які співпадають.";
 
 $text['description-dialplan_manager-superadmin']['en-us'] = "The dialplan is used to setup call destinations based on conditions and context. You can use the dialplan to send calls to gateways, auto attendants, external numbers, to scripts, or any destination.";
-$text['description-dialplan_manager-superadmin']['zh-cn'] = "功能码用于根据条件和context设置呼叫目的地,您可以使用功能码向网关、自动助理、外部号码、脚本或任何目的地发送呼叫.";
+$text['description-dialplan_manager-superadmin']['zh-cn'] = "拨号计划用于根据条件和context设置呼叫目的地,您可以使用拨号计划向网关、自动助理、外部号码、脚本或任何目的地发送呼叫.";
 $text['description-dialplan_manager-superadmin']['en-gb'] = "The dialplan is used to setup call destinations based on conditions and context. You can use the dialplan to send calls to gateways, auto attendants, external numbers, to scripts, or any destination.";
 $text['description-dialplan_manager-superadmin']['ar-eg'] = "";
 $text['description-dialplan_manager-superadmin']['de-at'] = "Der Wählplan wird für die Anrufsteuerung basierend auf Bedingungen und Kontext benutzt. Sie können den Wählplan dazu benutzen um Anrufe an Gateways, automatische Vermittlungen, externe Nummern, Skripte oder andere Anwendungen zu routen."; //copied from de-de
@@ -1894,7 +1894,7 @@ $text['description-dialplan_manager-superadmin']['sv-se'] = "Nummerplanen använ
 $text['description-dialplan_manager-superadmin']['uk-ua'] = "Маршрутизація використовується для визначення напрямку дзвінка відповідно до умов і контексту. Можна спрямувати виклики на шлюзи, автоматичне обслуговування, зовнішні номери, сценарії або інші напрямки. ";
 
 $text['description-dialplan_manager']['en-us'] = "The dialplan provides a view of some of the feature codes, as well as the IVR Menu, Conferences, Queues and other destinations.";
-$text['description-dialplan_manager']['zh-cn'] = "功能码提供了一些功能代码以及IVR菜单、会议、队列和其他目的地的视图.";
+$text['description-dialplan_manager']['zh-cn'] = "拨号计划提供了一些功能代码以及IVR菜单、会议、队列和其他目的地的视图.";
 $text['description-dialplan_manager']['en-gb'] = "The dialplan provides a view of some of the feature codes, as well as the IVR Menu, Conferences, Queues and other destinations.";
 $text['description-dialplan_manager']['ar-eg'] = "";
 $text['description-dialplan_manager']['de-at'] = "Der Wählplan bietet eine Ansicht aller Funktions-Codes sowie aller IVR Menüs, Konferenzen, Warteschlangen und anderen Zielen."; //copied from de-de
@@ -1916,7 +1916,7 @@ $text['description-dialplan_manager']['sv-se'] = "Nummerplanen ger en vy över n
 $text['description-dialplan_manager']['uk-ua'] = "В маршрутизації можна побачити деякі особливості, такі як голосові меню (IVR), конференції, черги і інші напрямки.";
 
 $text['description-dialplan-edit']['en-us'] = "Dialplan include general settings.";
-$text['description-dialplan-edit']['zh-cn'] = "功能码常规设置.";
+$text['description-dialplan-edit']['zh-cn'] = "拨号计划常规设置.";
 $text['description-dialplan-edit']['en-gb'] = "Dialplan include general settings.";
 $text['description-dialplan-edit']['ar-eg'] = "";
 $text['description-dialplan-edit']['de-at'] = "Wählplan umfasst Standardeinstellungen"; //copied from de-de
@@ -1938,7 +1938,7 @@ $text['description-dialplan-edit']['sv-se'] = "Nummerplan inkluderar allmänna i
 $text['description-dialplan-edit']['uk-ua'] = "Маршрутизація має загальні налаштування";
 
 $text['description-default_dialplan']['en-us'] = "The default dialplan is used to setup call destinations based on conditions and context. You can use the dialplan to send calls to gateways, auto attendants, external numbers, to scripts, or any destination.";
-$text['description-default_dialplan']['zh-cn'] = "默认功能码用于根据条件和context设置呼叫目的地,您可以使用功能码向网关、自动助理、外部号码、脚本或任何目的地发送呼叫.";
+$text['description-default_dialplan']['zh-cn'] = "默认拨号计划用于根据条件和context设置呼叫目的地,您可以使用拨号计划向网关、自动助理、外部号码、脚本或任何目的地发送呼叫.";
 $text['description-default_dialplan']['en-gb'] = "The default dialplan is used to setup call destinations based on conditions and context. You can use the dialplan to send calls to gateways, auto attendants, external numbers, to scripts, or any destination.";
 $text['description-default_dialplan']['ar-eg'] = "";
 $text['description-default_dialplan']['de-at'] = "Der Standard Wählplan wird für Anruf-Ziele basierend auf Bedingungen und Kontext verwendet. Sie können den Wählplan dazu benutzen um Anrufe an Gateways, Automatische Vermittlungen, externe Nummern, Skripte oder andere Anwendungen zu routen."; //copied from de-de
@@ -1960,7 +1960,7 @@ $text['description-default_dialplan']['sv-se'] = "Standard Nummerplanen används
 $text['description-default_dialplan']['uk-ua'] = "Маршрутизація за замовчуванням використовується для визначення напрямку дзвінка відповідно до умов і контексту. Можна спрямувати виклики на шлюзи, автоматичне обслуговування, зовнішні номери, сценарії або інші напрямки. ";
 
 $text['description-conditions_and_actions']['en-us'] = "The following conditions, actions and anti-actions are used in the dialplan to direct call flow. Each is processed in order that it is given. Use as many conditions, actions or anti-actions as needed.";
-$text['description-conditions_and_actions']['zh-cn'] = "功能码中使用以下条件、动作和过程来引导呼叫流。每一个都按照给出的顺序进行处理,根据需要使用尽可能多的条件、动作或过程.";
+$text['description-conditions_and_actions']['zh-cn'] = "拨号计划中使用以下条件、动作和过程来引导呼叫流。每一个都按照给出的顺序进行处理,根据需要使用尽可能多的条件、动作或过程.";
 $text['description-conditions_and_actions']['en-gb'] = "The following conditions, actions and anti-actions are used in the dialplan to direct call flow. Each is processed in order that it is given. Use as many conditions, actions or anti-actions as needed.";
 $text['description-conditions_and_actions']['ar-eg'] = "";
 $text['description-conditions_and_actions']['de-at'] = "Die folgenden Bedingungen, Aktionen und Anti-Aktionen werden im Wählplan für direkte Anruf-Steuerung benutzt. Diese werden in der angegebenen Reihenfolge abgearbeitet. Verwenden Sie so viele Bedingungen, Aktionen und Anti-aktionen wie Sie benötigen."; //copied from de-de

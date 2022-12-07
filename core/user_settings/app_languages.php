@@ -1499,7 +1499,7 @@ $text['label-followme']['sv-se'] = "Följ Mig";
 $text['label-followme']['uk-ua'] = "Follow Me";
 
 $text['label-feature']['en-us'] = "Feature";
-$text['label-feature']['zh-cn'] = "功能码";
+$text['label-feature']['zh-cn'] = "功能";
 $text['label-feature']['en-gb'] = "Feature";
 $text['label-feature']['ar-eg'] = "ميزة";
 $text['label-feature']['de-at'] = "Funktion"; //copied from de-de

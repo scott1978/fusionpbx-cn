@@ -2,6 +2,7 @@
 #This file was last reorganized on 19th of September 2017 08:54:24 AM UTC
 
 $text['title-dialplan-inbound-add']['en-us'] = "Inbound Call Routing";
+$text['title-dialplan-inbound-add']['zh-cn'] = "入站呼叫路由";
 $text['title-dialplan-inbound-add']['en-gb'] = "Inbound Call Routing";
 $text['title-dialplan-inbound-add']['ar-eg'] = "";
 $text['title-dialplan-inbound-add']['de-at'] = "Routing eingehender Anrufe"; //copied from de-de
@@ -23,6 +24,7 @@ $text['title-dialplan-inbound-add']['sv-se'] = "Inkommande Call Routing";
 $text['title-dialplan-inbound-add']['uk-ua'] = "Маршрутизація вхідних дзвінків";
 
 $text['option-uuid']['en-us'] = "UUID";
+$text['option-uuid']['zh-ucn'] = "UUID";
 $text['option-uuid']['en-gb'] = "UUID";
 $text['option-uuid']['ar-eg'] = "";
 $text['option-uuid']['de-at'] = "UUID"; //copied from de-de
@@ -44,6 +46,7 @@ $text['option-uuid']['sv-se'] = "UUID";
 $text['option-uuid']['uk-ua'] = "UUID";
 
 $text['option-username']['en-us'] = "Username";
+$text['option-username']['zh-cn'] = "用户名";
 $text['option-username']['en-gb'] = "Username";
 $text['option-username']['ar-eg'] = "";
 $text['option-username']['de-at'] = "Benutzername"; //copied from de-de
@@ -65,6 +68,7 @@ $text['option-username']['sv-se'] = "Användarnamn";
 $text['option-username']['uk-ua'] = "Користувач";
 
 $text['option-source']['en-us'] = "Source";
+$text['option-source']['zh-cn'] = "源";
 $text['option-source']['en-gb'] = "Source";
 $text['option-source']['ar-eg'] = "";
 $text['option-source']['de-at'] = "Quelle"; //copied from de-de
@@ -86,6 +90,7 @@ $text['option-source']['sv-se'] = "Källa";
 $text['option-source']['uk-ua'] = "Джерело";
 
 $text['option-rdnis']['en-us'] = "RDNIS";
+$text['option-rdnis']['zh-cn'] = "RDNIS";
 $text['option-rdnis']['en-gb'] = "RDNIS";
 $text['option-rdnis']['ar-eg'] = "";
 $text['option-rdnis']['de-at'] = "RDNIS"; //copied from de-de

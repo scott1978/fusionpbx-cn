@@ -837,7 +837,7 @@ $text['label-tools']['sv-se'] = "Verktyg";
 $text['label-tools']['uk-ua'] = "Параметри";
 
 $text['label-to']['en-us'] = "To";
-$text['label-to']['zh-cn'] = "收件人";
+$text['label-to']['zh-cn'] = "到";
 $text['label-to']['en-gb'] = "To";
 $text['label-to']['ar-eg'] = "";
 $text['label-to']['de-at'] = "Bis"; //copied from de-de
@@ -1519,7 +1519,7 @@ $text['label-name']['sv-se'] = "Namn";
 $text['label-name']['uk-ua'] = "Назва";
 
 $text['label-missed']['en-us'] = "Missed";
-$text['label-missed']['zh-cn'] = "错过";
+$text['label-missed']['zh-cn'] = "无法接通";
 $text['label-missed']['en-gb'] = "Missed";
 $text['label-missed']['ar-eg'] = "";
 $text['label-missed']['de-at'] = "Verpasst"; //copied from de-de
@@ -2663,7 +2663,7 @@ $text['label-format']['sv-se'] = "Format";
 $text['label-format']['uk-ua'] = "Format";
 
 $text['description_search']['en-us'] = "<u>Note</u>: Destination and Caller ID (CID) Name fields support the use of an <i>asterisk</i> ('*') as a wildcard character.";
-$text['description_search']['zh-cn'] = "<u>注意</u>: 目的地和呼叫者ID CID名称字段支持使用 <i>asterisk</i> ('*') 作为通配符.";
+$text['description_search']['zh-cn'] = "<u>注意</u>: 目的地和呼叫者ID CID名称字段支持使用 <i>*</i> 作为通配符.";
 $text['description_search']['en-gb'] = "<u>Note</u>: Destination and Caller ID (CID) Name fields support the use of an <i>asterisk</i> ('*') as a wildcard character.";
 $text['description_search']['ar-eg'] = "";
 $text['description_search']['de-at'] = "Info: Ziel und Anruferkennung (CID) Namesfelder unterstützen die Verwendung von Stern ('*') als Wildcard Zeichen."; //copied from de-de
