@@ -881,7 +881,7 @@ $text['label-summary']['sv-se'] = "Summa";
 $text['label-summary']['uk-ua'] = "";
 
 $text['label-call_flow_summary']['en-us'] = "Call Flow Summary";
-$text['label-call_flow_summary']['zh-ucn'] = "呼叫流程摘要";
+$text['label-call_flow_summary']['zh-cn'] = "呼叫流程摘要";
 $text['label-call_flow_summary']['en-gb'] = "";
 $text['label-call_flow_summary']['ar-eg'] = "";
 $text['label-call_flow_summary']['de-at'] = ""; //copied from de-de
@@ -1167,7 +1167,7 @@ $text['label-play']['sv-se'] = "Spela Upp";
 $text['label-play']['uk-ua'] = "Відтворити";
 
 $text['label-phoneip']['en-us'] = "Phone IP";
-$text['label-phoneip']['zh-cn'] = "电话IP";
+$text['label-phoneip']['zh-cn'] = "IP电话";
 $text['label-phoneip']['en-gb'] = "Phone IP";
 $text['label-phoneip']['ar-eg'] = "";
 $text['label-phoneip']['de-at'] = "Geräte IP"; //copied from de-de
