@@ -2780,7 +2780,7 @@ $text['label-description']['uk-ua'] = "Опис";
 $text['label-description']['tr-tr'] = "Açıklama";
 
 $text['label-value']['en-us'] = "Value";
-$text['label-value']['zh-cn'] = "用途";
+$text['label-value']['zh-cn'] = "使用率";
 $text['label-value']['en-gb'] = "Value";
 $text['label-value']['ar-eg'] = "";
 $text['label-value']['de-at'] = "Wert"; //copied from de-de
