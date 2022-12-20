@@ -2,6 +2,7 @@
 #This file was last reorganized on 19th of September 2017 08:54:24 AM UTC
 
 $text['title-call_center_queue_activity']['en-us'] = "Call Center Queue Activity";
+$text['title-call_center_queue_activity']['zh-cn'] = "呼叫中心队列活动";
 $text['title-call_center_queue_activity']['en-gb'] = "Call Center Queue Activity";
 $text['title-call_center_queue_activity']['ar-eg'] = "";
 $text['title-call_center_queue_activity']['de-at'] = "Callcenter Warteschlangen Aktivität"; //copied from de-de
@@ -23,6 +24,7 @@ $text['title-call_center_queue_activity']['sv-se'] = "Call Center Grupp Aktivite
 $text['title-call_center_queue_activity']['uk-ua'] = "";
 
 $text['title-active_call_center']['en-us'] = "Active Call Center";
+$text['title-active_call_center']['zh-cn'] = "活动呼叫中心";
 $text['title-active_call_center']['en-gb'] = "Active Call Center";
 $text['title-active_call_center']['ar-eg'] = "";
 $text['title-active_call_center']['de-at'] = "Aktive Callcenter"; //copied from de-de
@@ -44,6 +46,7 @@ $text['title-active_call_center']['sv-se'] = "Aktivt Call Center";
 $text['title-active_call_center']['uk-ua'] = "";
 
 $text['message-confirm']['en-us'] = "Do you really want to do this?";
+$text['message-confirm']['zh-cn'] = "确认执行?";
 $text['message-confirm']['en-gb'] = "Do you really want to do this?";
 $text['message-confirm']['ar-eg'] = "";
 $text['message-confirm']['de-at'] = "Wollen Sie das wirklich tun?"; //copied from de-de
@@ -65,6 +68,7 @@ $text['message-confirm']['sv-se'] = "Vill du verkligen göra det här?";
 $text['message-confirm']['uk-ua'] = "";
 
 $text['label-waiting']['en-us'] = "Waiting";
+$text['label-waiting']['zh-cn'] = "等待";
 $text['label-waiting']['en-gb'] = "Waiting";
 $text['label-waiting']['ar-eg'] = "انتظار";
 $text['label-waiting']['de-at'] = "Warten"; //copied from de-de
@@ -86,6 +90,7 @@ $text['label-waiting']['sv-se'] = "Väntar";
 $text['label-waiting']['uk-ua'] = "";
 
 $text['label-trying']['en-us'] = "Trying";
+$text['label-trying']['zh-cn'] = "正在尝试";
 $text['label-trying']['en-gb'] = "Trying";
 $text['label-trying']['ar-eg'] = "";
 $text['label-trying']['de-at'] = "Versuchen"; //copied from de-de
@@ -107,6 +112,7 @@ $text['label-trying']['sv-se'] = "Försöker";
 $text['label-trying']['uk-ua'] = "";
 
 $text['label-transfer']['en-us'] = "Transfer";
+$text['label-transfer']['zh-cn'] = "传输";
 $text['label-transfer']['en-gb'] = "Transfer";
 $text['label-transfer']['ar-eg'] = "تحويل";
 $text['label-transfer']['de-at'] = "Weiterleiten"; //copied from de-de
@@ -128,6 +134,7 @@ $text['label-transfer']['sv-se'] = "Överför";
 $text['label-transfer']['uk-ua'] = "";
 
 $text['label-time_base_score']['en-us'] = "Time Base Score";
+$text['label-time_base_score']['zh-cn'] = "按时间计算";
 $text['label-time_base_score']['en-gb'] = "Time Base Score";
 $text['label-time_base_score']['ar-eg'] = "";
 $text['label-time_base_score']['de-at'] = "Zeitgeber für Klassifikation"; //copied from de-de
@@ -149,6 +156,7 @@ $text['label-time_base_score']['sv-se'] = "Tidsbaserat Resultat";
 $text['label-time_base_score']['uk-ua'] = "";
 
 $text['label-time']['en-us'] = "Time";
+$text['label-time']['zh-cn'] = "时间";
 $text['label-time']['en-gb'] = "Time";
 $text['label-time']['ar-eg'] = "التوقيت";
 $text['label-time']['de-at'] = "Zeit"; //copied from de-de
@@ -170,6 +178,7 @@ $text['label-time']['sv-se'] = "Tid";
 $text['label-time']['uk-ua'] = "";
 
 $text['label-tier_state']['en-us'] = "Tier State";
+$text['label-tier_state']['zh-cn'] = "级别状态";
 $text['label-tier_state']['en-gb'] = "Tier State";
 $text['label-tier_state']['ar-eg'] = "";
 $text['label-tier_state']['de-at'] = "Ebenen-Status"; //copied from de-de
@@ -191,6 +200,7 @@ $text['label-tier_state']['sv-se'] = "Kunskap Status";
 $text['label-tier_state']['uk-ua'] = "";
 
 $text['label-tier_rules_apply']['en-us'] = "Tier Rules Apply";
+$text['label-tier_rules_apply']['zh-cn'] = "应用级别规则";
 $text['label-tier_rules_apply']['en-gb'] = "Tier Rules Apply";
 $text['label-tier_rules_apply']['ar-eg'] = "";
 $text['label-tier_rules_apply']['de-at'] = "Ebenen-Regeln werden angewendet"; //copied from de-de
@@ -212,6 +222,7 @@ $text['label-tier_rules_apply']['sv-se'] = "Kunskaps Regler Gäller";
 $text['label-tier_rules_apply']['uk-ua'] = "";
 
 $text['label-tier_rule_wait_second']['en-us'] = "Tier Rule Wait Second";
+$text['label-tier_rule_wait_second']['zh-cn'] = "等待级别规则（秒）";
 $text['label-tier_rule_wait_second']['en-gb'] = "Tier Rule Wait Second";
 $text['label-tier_rule_wait_second']['ar-eg'] = "";
 $text['label-tier_rule_wait_second']['de-at'] = "Wartezeit für Ebenen-Regel in Sekunden"; //copied from de-de
@@ -233,6 +244,7 @@ $text['label-tier_rule_wait_second']['sv-se'] = "Kunskaps Regel Väntetid i Seku
 $text['label-tier_rule_wait_second']['uk-ua'] = "";
 
 $text['label-tier_rule_wait_multiply_level']['en-us'] = "Tier Rule Wait Multiply Level";
+$text['label-tier_rule_wait_multiply_level']['zh-cn'] = "级别规则：期望乘数";
 $text['label-tier_rule_wait_multiply_level']['en-gb'] = "Tier Rule Wait Multiply Level";
 $text['label-tier_rule_wait_multiply_level']['ar-eg'] = "";
 $text['label-tier_rule_wait_multiply_level']['de-at'] = "Regel für Wartezeit-Multiplikator pro Ebene"; //copied from de-de
@@ -254,6 +266,7 @@ $text['label-tier_rule_wait_multiply_level']['sv-se'] = "Kunskaps Regel Vänteti
 $text['label-tier_rule_wait_multiply_level']['uk-ua'] = "";
 
 $text['label-tier_rule_no_agent_no_wait']['en-us'] = "Tier Rule No Agent No Wait";
+$text['label-tier_rule_no_agent_no_wait']['zh-cn'] = "级别规则无代理无等待";
 $text['label-tier_rule_no_agent_no_wait']['en-gb'] = "Tier Rule No Agent No Wait";
 $text['label-tier_rule_no_agent_no_wait']['ar-eg'] = "";
 $text['label-tier_rule_no_agent_no_wait']['de-at'] = "Ebenen-Regel kein Agent nicht warten"; //copied from de-de
@@ -275,6 +288,7 @@ $text['label-tier_rule_no_agent_no_wait']['sv-se'] = "Kunskaps Regel Ingen Agent
 $text['label-tier_rule_no_agent_no_wait']['uk-ua'] = "";
 
 $text['label-tier_position']['en-us'] = "Tier Position";
+$text['label-tier_position']['zh-cn'] = "级别位置";
 $text['label-tier_position']['en-gb'] = "Tier Position";
 $text['label-tier_position']['ar-eg'] = "";
 $text['label-tier_position']['de-at'] = "Ebenen-Position"; //copied from de-de
@@ -296,6 +310,7 @@ $text['label-tier_position']['sv-se'] = "Kunskaps Position";
 $text['label-tier_position']['uk-ua'] = "";
 
 $text['label-tier_level']['en-us'] = "Tier Level";
+$text['label-tier_level']['zh-cn'] = "级别";
 $text['label-tier_level']['en-gb'] = "Tier Level";
 $text['label-tier_level']['ar-eg'] = "";
 $text['label-tier_level']['de-at'] = "Ebenen-Niveau"; //copied from de-de
@@ -317,6 +332,7 @@ $text['label-tier_level']['sv-se'] = "Kunskaps Nivå";
 $text['label-tier_level']['uk-ua'] = "";
 
 $text['label-system']['en-us'] = "System";
+$text['label-system']['zh-cn'] = "系统";
 $text['label-system']['en-gb'] = "System";
 $text['label-system']['ar-eg'] = "النظام";
 $text['label-system']['de-at'] = "System"; //copied from de-de
@@ -338,6 +354,7 @@ $text['label-system']['sv-se'] = "System";
 $text['label-system']['uk-ua'] = "";
 
 $text['label-strategy']['en-us'] = "Strategy";
+$text['label-strategy']['zh-cn'] = "规则";
 $text['label-strategy']['en-gb'] = "Strategy";
 $text['label-strategy']['ar-eg'] = "";
 $text['label-strategy']['de-at'] = "Strategie"; //copied from de-de
@@ -359,6 +376,7 @@ $text['label-strategy']['sv-se'] = "Strategi";
 $text['label-strategy']['uk-ua'] = "";
 
 $text['label-status_change']['en-us'] = "Status Change";
+$text['label-status_change']['zh-cn'] = "更改状态";
 $text['label-status_change']['en-gb'] = "Status Change";
 $text['label-status_change']['ar-eg'] = "";
 $text['label-status_change']['de-at'] = "Status Änderung"; //copied from de-de
@@ -380,6 +398,7 @@ $text['label-status_change']['sv-se'] = "Status Förändra";
 $text['label-status_change']['uk-ua'] = "";
 
 $text['label-status']['en-us'] = "Status";
+$text['label-status']['zh-cn'] = "状态";
 $text['label-status']['en-gb'] = "Status";
 $text['label-status']['ar-eg'] = "الحالة";
 $text['label-status']['de-at'] = "Status"; //copied from de-de
@@ -401,6 +420,7 @@ $text['label-status']['sv-se'] = "Status";
 $text['label-status']['uk-ua'] = "";
 
 $text['label-state']['en-us'] = "State";
+$text['label-state']['zh-cn'] = "状态";
 $text['label-state']['en-gb'] = "State";
 $text['label-state']['ar-eg'] = "";
 $text['label-state']['de-at'] = "Status"; //copied from de-de
@@ -422,6 +442,7 @@ $text['label-state']['sv-se'] = "Status";
 $text['label-state']['uk-ua'] = "";
 
 $text['label-record_template']['en-us'] = "Record Template";
+$text['label-record_template']['zh-cn'] = "录音模板";
 $text['label-record_template']['en-gb'] = "Record Template";
 $text['label-record_template']['ar-eg'] = "";
 $text['label-record_template']['de-at'] = "Aufnahme Vorlage"; //copied from de-de
@@ -443,6 +464,7 @@ $text['label-record_template']['sv-se'] = "Spela In Mall";
 $text['label-record_template']['uk-ua'] = "";
 
 $text['label-queue_name']['en-us'] = "Queue Name";
+$text['label-queue_name']['zh-cn'] = "队列名称";
 $text['label-queue_name']['en-gb'] = "Queue Name";
 $text['label-queue_name']['ar-eg'] = "اسم الطابور";
 $text['label-queue_name']['de-at'] = "Warteschlange Name"; //copied from de-de
@@ -464,6 +486,7 @@ $text['label-queue_name']['sv-se'] = "Grupp Namn";
 $text['label-queue_name']['uk-ua'] = "";
 
 $text['label-queue']['en-us'] = "Queue";
+$text['label-queue']['zh-cn'] = "队列";
 $text['label-queue']['en-gb'] = "Queue";
 $text['label-queue']['ar-eg'] = "طابور";
 $text['label-queue']['de-at'] = "Warteschlange"; //copied from de-de
@@ -485,6 +508,7 @@ $text['label-queue']['sv-se'] = "Grupp";
 $text['label-queue']['uk-ua'] = "";
 
 $text['label-options']['en-us'] = "Options";
+$text['label-options']['zh-cn'] = "选项";
 $text['label-options']['en-gb'] = "Options";
 $text['label-options']['ar-eg'] = "";
 $text['label-options']['de-at'] = "Optionen"; //copied from de-de
@@ -506,6 +530,7 @@ $text['label-options']['sv-se'] = "Val";
 $text['label-options']['uk-ua'] = "";
 
 $text['label-number']['en-us'] = "Number";
+$text['label-number']['zh-cn'] = "号码";
 $text['label-number']['en-gb'] = "Number";
 $text['label-number']['ar-eg'] = "رقم";
 $text['label-number']['de-at'] = "Nummer"; //copied from de-de
@@ -527,6 +552,7 @@ $text['label-number']['sv-se'] = "Nummer";
 $text['label-number']['uk-ua'] = "";
 
 $text['label-music_on_hold']['en-us'] = "Music on Hold";
+$text['label-music_on_hold']['zh-cn'] = "音乐暂停";
 $text['label-music_on_hold']['en-gb'] = "Music on Hold";
 $text['label-music_on_hold']['ar-eg'] = "";
 $text['label-music_on_hold']['de-at'] = "Wartemusik"; //copied from de-de
@@ -548,6 +574,7 @@ $text['label-music_on_hold']['sv-se'] = "Väntmusik";
 $text['label-music_on_hold']['uk-ua'] = "";
 
 $text['label-missed']['en-us'] = "Missed";
+$text['label-missed']['zh-cn'] = "未接来电";
 $text['label-missed']['en-gb'] = "Missed";
 $text['label-missed']['ar-eg'] = "";
 $text['label-missed']['de-at'] = "Verpasst"; //copied from de-de
@@ -569,6 +596,7 @@ $text['label-missed']['sv-se'] = "Missade";
 $text['label-missed']['uk-ua'] = "";
 
 $text['label-max_wait_time_with_no_agent']['en-us'] = "Max Wait Time with No Agent";
+$text['label-max_wait_time_with_no_agent']['zh-cn'] = "无代理的最长等待时间";
 $text['label-max_wait_time_with_no_agent']['en-gb'] = "Max Wait Time with No Agent";
 $text['label-max_wait_time_with_no_agent']['ar-eg'] = "";
 $text['label-max_wait_time_with_no_agent']['de-at'] = "Maximale Wartezeit ohne Agent"; //copied from de-de
@@ -590,6 +618,7 @@ $text['label-max_wait_time_with_no_agent']['sv-se'] = "Max Vänt Tid (Ingen Agen
 $text['label-max_wait_time_with_no_agent']['uk-ua'] = "";
 
 $text['label-max_wait_time']['en-us'] = "Max Wait Time";
+$text['label-max_wait_time']['zh-cn'] = "最长等待时间";
 $text['label-max_wait_time']['en-gb'] = "Max Wait Time";
 $text['label-max_wait_time']['ar-eg'] = "";
 $text['label-max_wait_time']['de-at'] = "Maximale Wartezeit"; //copied from de-de
@@ -611,6 +640,7 @@ $text['label-max_wait_time']['sv-se'] = "Max Vänt Tid";
 $text['label-max_wait_time']['uk-ua'] = "";
 
 $text['label-extension']['en-us'] = "Extension";
+$text['label-extension']['zh-cn'] = "分机";
 $text['label-extension']['en-gb'] = "Extension";
 $text['label-extension']['ar-eg'] = "رقم داخلي";
 $text['label-extension']['de-at'] = "Nebenstelle"; //copied from de-de
@@ -632,6 +662,7 @@ $text['label-extension']['sv-se'] = "Anknytning";
 $text['label-extension']['uk-ua'] = "";
 
 $text['label-eavesdrop']['en-us'] = "Eavesdrop";
+$text['label-eavesdrop']['zh-cn'] = "监听";
 $text['label-eavesdrop']['en-gb'] = "Eavesdrop";
 $text['label-eavesdrop']['ar-eg'] = "";
 $text['label-eavesdrop']['de-at'] = "Mithören"; //copied from de-de
@@ -653,6 +684,7 @@ $text['label-eavesdrop']['sv-se'] = "Medlyssning";
 $text['label-eavesdrop']['uk-ua'] = "";
 
 $text['label-discard_abandoned_after']['en-us'] = "Discard Abandoned After";
+$text['label-discard_abandoned_after']['zh-cn'] = "放弃后丢弃";
 $text['label-discard_abandoned_after']['en-gb'] = "Discard Abandoned After";
 $text['label-discard_abandoned_after']['ar-eg'] = "";
 $text['label-discard_abandoned_after']['de-at'] = "Zurückweisen nach Abwurf"; //copied from de-de
@@ -674,6 +706,7 @@ $text['label-discard_abandoned_after']['sv-se'] = "Uteslut Övergivna Efter ";
 $text['label-discard_abandoned_after']['uk-ua'] = "";
 
 $text['label-call']['en-us'] = "Call";
+$text['label-call']['zh-cn'] = "呼叫";
 $text['label-call']['en-gb'] = "Call";
 $text['label-call']['ar-eg'] = "";
 $text['label-call']['de-at'] = "Anruf"; //copied from de-de
@@ -695,6 +728,7 @@ $text['label-call']['sv-se'] = "Samtal";
 $text['label-call']['uk-ua'] = "";
 
 $text['label-answered']['en-us'] = "Answered";
+$text['label-answered']['zh-cn'] = "已应答";
 $text['label-answered']['en-gb'] = "Answered";
 $text['label-answered']['ar-eg'] = "";
 $text['label-answered']['de-at'] = "Angenommen"; //copied from de-de
@@ -716,6 +750,7 @@ $text['label-answered']['sv-se'] = "Besvarad";
 $text['label-answered']['uk-ua'] = "";
 
 $text['label-agent']['en-us'] = "Agent";
+$text['label-agent']['zh-cn'] = "代理";
 $text['label-agent']['en-gb'] = "Agent";
 $text['label-agent']['ar-eg'] = "";
 $text['label-agent']['de-at'] = "Agent"; //copied from de-de
@@ -737,6 +772,7 @@ $text['label-agent']['sv-se'] = "Agent";
 $text['label-agent']['uk-ua'] = "";
 
 $text['label-abandoned_resume_allowed']['en-us'] = "Abandoned Resume Allowed";
+$text['label-abandoned_resume_allowed']['zh-cn'] = "允许挂断后继续通话";
 $text['label-abandoned_resume_allowed']['en-gb'] = "Abandoned Resume Allowed";
 $text['label-abandoned_resume_allowed']['ar-eg'] = "";
 $text['label-abandoned_resume_allowed']['de-at'] = "Wiederaufnahme nach Zurückweisung erlaubt"; //copied from de-de
@@ -758,6 +794,7 @@ $text['label-abandoned_resume_allowed']['sv-se'] = "Återuppta Övergivna Tillå
 $text['label-abandoned_resume_allowed']['uk-ua'] = "";
 
 $text['header-agents']['en-us'] = "Agents";
+$text['header-agents']['zh-cn'] = "代理";
 $text['header-agents']['en-gb'] = "Agents";
 $text['header-agents']['ar-eg'] = "";
 $text['header-agents']['de-at'] = "Agenten"; //copied from de-de
@@ -779,6 +816,7 @@ $text['header-agents']['sv-se'] = "Agenter";
 $text['header-agents']['uk-ua'] = "";
 
 $text['header-active_call_center']['en-us'] = "Active Call Center";
+$text['header-active_call_center']['zh-cn'] = "活动呼叫中心";
 $text['header-active_call_center']['en-gb'] = "Active Call Center";
 $text['header-active_call_center']['ar-eg'] = "";
 $text['header-active_call_center']['de-at'] = "Aktives Callcenter"; //copied from de-de
@@ -800,6 +838,7 @@ $text['header-active_call_center']['sv-se'] = "Aktivt Call Center";
 $text['header-active_call_center']['uk-ua'] = "";
 
 $text['description-queue']['en-us'] = "A current list of callers in the queue is below.";
+$text['description-queue']['zh-cn'] = "队列中的当前呼叫者列表如下.";
 $text['description-queue']['en-gb'] = "A current list of callers in the queue is below.";
 $text['description-queue']['ar-eg'] = "";
 $text['description-queue']['de-at'] = "Eine aktuelle Liste der Anrufer in der Warteschlange sehen sie unten."; //copied from de-de
@@ -821,6 +860,7 @@ $text['description-queue']['sv-se'] = "Aktuell lista på köande samtal enligt n
 $text['description-queue']['uk-ua'] = "";
 
 $text['description-agents']['en-us'] = "A current list of agents is below.";
+$text['description-agents']['zh-cn'] = "当前代理列表如下.";
 $text['description-agents']['en-gb'] = "A current list of agents is below.";
 $text['description-agents']['ar-eg'] = "";
 $text['description-agents']['de-at'] = "Eine aktuelle Liste der Agenten sehen sie unten."; //copied from de-de
@@ -842,6 +882,7 @@ $text['description-agents']['sv-se'] = "Aktuell lista på Agenter enligt nedan";
 $text['description-agents']['uk-ua'] = "";
 
 $text['description-active_call_center']['en-us'] = "Select a Call Center Queue from the list below to view its activity.";
+$text['description-active_call_center']['zh-cn'] = "从下面的列表中选择呼叫中心队列以查看其活动.";
 $text['description-active_call_center']['en-gb'] = "Select a Call Center Queue from the list below to view its activity.";
 $text['description-active_call_center']['ar-eg'] = "";
 $text['description-active_call_center']['de-at'] = "Wählen Sie eine Callcenter-Warteschlange aus der Liste unten um die Aktivität zu beobachten."; //copied from de-de

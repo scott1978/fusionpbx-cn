@@ -3062,7 +3062,7 @@ $text['label-device_label']['sv-se'] = "Etikett";
 $text['label-device_label']['uk-ua'] = "";
 
 $text['label-device_key_value']['en-us'] = "Value";
-$text['label-device_key_value']['zh-cn'] = "使用率";
+$text['label-device_key_value']['zh-cn'] = "数值";
 $text['label-device_key_value']['en-gb'] = "Value";
 $text['label-device_key_value']['ar-eg'] = "";
 $text['label-device_key_value']['de-at'] = "Wert"; //copied from de-de
