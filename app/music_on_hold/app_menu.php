@@ -2,6 +2,7 @@
 
 	$y=0;
 	$apps[$x]['menu'][$y]['title']['en-us'] = "Music on Hold";
+	$apps[$x]['menu'][$y]['title']['zh-cn'] = "等待音乐";
 	$apps[$x]['menu'][$y]['title']['en-gb'] = "Music on Hold";
 	$apps[$x]['menu'][$y]['title']['ar-eg'] = "";
 	$apps[$x]['menu'][$y]['title']['de-at'] = "Wartemusik";
