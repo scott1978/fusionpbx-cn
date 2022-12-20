@@ -9,6 +9,7 @@
 		$apps[$x]['license'] = "Mozilla Public License 1.1";
 		$apps[$x]['url'] = "http://www.fusionpbx.com";
 		$apps[$x]['description']['en-us'] = "Displays system information such as RAM, CPU and Hard Drive information.";
+		$apps[$x]['description']['zh-cn'] = "显示系统信息，如内存、处理器和硬盘驱动器信息.";
 		$apps[$x]['description']['en-gb'] = "Displays system information such as RAM, CPU and Hard Drive information.";
 		$apps[$x]['description']['ar-eg'] = "";
 		$apps[$x]['description']['de-at'] = "Zeigt den SIP-Status an.";
