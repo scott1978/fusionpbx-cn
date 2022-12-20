@@ -401,10 +401,42 @@
 				'MANDATORY_IE_MISSING',
 				'REQUESTED_CHAN_UNAVAIL'
 				);
+				$$cdr_status_label = array(
+					'正常清除',
+					'发起人取消',
+					'BLIND_TRANSFER',
+					'LOSE_RACE',
+					'NO_ANSWER',
+					'NORMAL_UNSPECIFIED',
+					'NO_USER_RESPONSE',
+					'NO_ROUTE_DESTINATION',
+					'SUBSCRIBER_ABSENT',
+					'NORMAL_TEMPORARY_FAILURE',
+					'ATTENDED_TRANSFER',
+					'PICKED_OFF',
+					'用户忙线',
+					'CALL_REJECTED',
+					'INVALID_NUMBER_FORMAT',
+					'NETWORK_OUT_OF_ORDER',
+					'DESTINATION_OUT_OF_ORDER',
+					'RECOVERY_ON_TIMER_EXPIRE',
+					'MANAGER_REQUEST',
+					'MEDIA_TIMEOUT',
+					'UNALLOCATED_NUMBER',
+					'NONE',
+					'EXCHANGE_ROUTING_ERROR',
+					'ALLOTTED_TIMEOUT',
+					'CHAN_NOT_IMPLEMENTED',
+					'INCOMPATIBLE_DESTINATION',
+					'USER_NOT_REGISTERED',
+					'SYSTEM_SHUTDOWN',
+					'MANDATORY_IE_MISSING',
+					'REQUESTED_CHAN_UNAVAIL'
+					);
 			sort($cdr_status_options);
 			foreach ($cdr_status_options as $cdr_status) {
 				$selected = ($hangup_cause == $cdr_status) ? "selected='selected'" : null;
-				$cdr_status_label = ucwords(strtolower(str_replace("_", " ", $cdr_status)));
+				//$cdr_status_label = ucwords(strtolower(str_replace("_", " ", $cdr_status)));
 				echo "			<option value='".escape($cdr_status)."' ".escape($selected).">".escape($cdr_status_label)."</option>\n";
 			}
 			echo "			</select>\n";
