@@ -2,6 +2,7 @@
 
 	//Email Templates
 		$text['title-email_templates']['en-us'] = 'Email Templates';
+		$text['title-email_templates']['zh-cn'] = '电子邮件模板';
 		$text['title-email_templates']['en-gb'] = 'Email Templates';
 		$text['title-email_templates']['ar-eg'] = '';
 		$text['title-email_templates']['de-at'] = '';
@@ -23,6 +24,7 @@
 		$text['title-email_templates']['uk-ua'] = '';
 
 		$text['title-email_template']['en-us'] = 'Email Template';
+		$text['title-email_template']['zh-cn'] = '电子邮件模板';
 		$text['title-email_template']['en-gb'] = 'Email Template';
 		$text['title-email_template']['ar-eg'] = '';
 		$text['title-email_template']['de-at'] = '';
@@ -44,6 +46,7 @@
 		$text['title-email_template']['uk-ua'] = '';
 
 		$text['title_description-email_template']['en-us'] = 'Define and manage dynamic templates used for system generated outbound emails.';
+		$text['title_description-email_template']['zh-cn'] = '定义和管理用于系统生成的出战电子邮件的动态模板.';
 		$text['title_description-email_template']['en-gb'] = 'Define and manage dynamic templates used for system generated outbound emails.';
 		$text['title_description-email_template']['ar-eg'] = '';
 		$text['title_description-email_template']['de-at'] = '';
@@ -65,6 +68,7 @@
 		$text['title_description-email_template']['uk-ua'] = '';
 
 		$text['label-template_language']['en-us'] = 'Language';
+		$text['label-template_language']['zh-cn'] = '语言';
 		$text['label-template_language']['en-gb'] = 'Language';
 		$text['label-template_language']['ar-eg'] = '';
 		$text['label-template_language']['de-at'] = '';
@@ -86,6 +90,7 @@
 		$text['label-template_language']['uk-ua'] = '';
 
 		$text['description-template_language']['en-us'] = 'Enter the language.';
+		$text['description-template_language']['zh-cn'] = '输入语言.';
 		$text['description-template_language']['en-gb'] = 'Enter the language.';
 		$text['description-template_language']['ar-eg'] = '';
 		$text['description-template_language']['de-at'] = '';
@@ -107,6 +112,7 @@
 		$text['description-template_language']['uk-ua'] = '';
 
 		$text['label-template_category']['en-us'] = 'Category';
+		$text['label-template_category']['zh-cn'] = '类别';
 		$text['label-template_category']['en-gb'] = 'Category';
 		$text['label-template_category']['ar-eg'] = '';
 		$text['label-template_category']['de-at'] = '';
@@ -128,6 +134,7 @@
 		$text['label-template_category']['uk-ua'] = '';
 
 		$text['description-template_category']['en-us'] = 'Select the category.';
+		$text['description-template_category']['zh-cn'] = '选择类别.';
 		$text['description-template_category']['en-gb'] = 'Select the category.';
 		$text['description-template_category']['ar-eg'] = '';
 		$text['description-template_category']['de-at'] = '';
@@ -149,6 +156,7 @@
 		$text['description-template_category']['uk-ua'] = '';
 
 		$text['label-template_subcategory']['en-us'] = 'Subcategory';
+		$text['label-template_subcategory']['zh-cn'] = '子类别';
 		$text['label-template_subcategory']['en-gb'] = 'Subcategory';
 		$text['label-template_subcategory']['ar-eg'] = '';
 		$text['label-template_subcategory']['de-at'] = '';
@@ -170,6 +178,7 @@
 		$text['label-template_subcategory']['uk-ua'] = '';
 
 		$text['description-template_subcategory']['en-us'] = 'Enter the subcategory.';
+		$text['description-template_subcategory']['zh-cn'] = '输入子类别.';
 		$text['description-template_subcategory']['en-gb'] = 'Enter the subcategory.';
 		$text['description-template_subcategory']['ar-eg'] = '';
 		$text['description-template_subcategory']['de-at'] = '';
@@ -191,6 +200,7 @@
 		$text['description-template_subcategory']['uk-ua'] = '';
 
 		$text['label-template_subject']['en-us'] = 'Subject';
+		$text['label-template_subject']['zh-cn'] = '主题';
 		$text['label-template_subject']['en-gb'] = 'Subject';
 		$text['label-template_subject']['ar-eg'] = '';
 		$text['label-template_subject']['de-at'] = '';
@@ -211,6 +221,8 @@
 		$text['label-template_subject']['sv-se'] = '';
 		$text['label-template_subject']['uk-ua'] = '';
 
+		$text['description-template_subject']['en-us'] = 'Enter the template subject.';
+		$text['description-template_subject']['zh-cn'] = '输入模板主题.';
 		$text['description-template_subject']['en-us'] = 'Enter the template subject.';
 		$text['description-template_subject']['en-gb'] = 'Enter the template subject.';
 		$text['description-template_subject']['ar-eg'] = '';
@@ -233,6 +245,7 @@
 		$text['description-template_subject']['uk-ua'] = '';
 
 		$text['label-template_body']['en-us'] = 'Body';
+		$text['label-template_body']['zh-cn'] = '主体';
 		$text['label-template_body']['en-gb'] = 'Body';
 		$text['label-template_body']['ar-eg'] = '';
 		$text['label-template_body']['de-at'] = '';
@@ -254,6 +267,7 @@
 		$text['label-template_body']['uk-ua'] = '';
 
 		$text['description-template_body']['en-us'] = 'Enter the template body.';
+		$text['description-template_body']['zh-cn'] = '输入模板主体.';
 		$text['description-template_body']['en-gb'] = 'Enter the template body.';
 		$text['description-template_body']['ar-eg'] = '';
 		$text['description-template_body']['de-at'] = '';
@@ -275,6 +289,7 @@
 		$text['description-template_body']['uk-ua'] = '';
 
 		$text['label-template_type']['en-us'] = 'Type';
+		$text['label-template_type']['zh-cn'] = '类型';
 		$text['label-template_type']['en-gb'] = 'Type';
 		$text['label-template_type']['ar-eg'] = '';
 		$text['label-template_type']['de-at'] = '';
@@ -296,6 +311,7 @@
 		$text['label-template_type']['uk-ua'] = '';
 
 		$text['description-template_type']['en-us'] = 'Set the content type.';
+		$text['description-template_type']['zh-cn'] = '设置内容类型.';
 		$text['description-template_type']['en-gb'] = 'Set the content type.';
 		$text['description-template_type']['ar-eg'] = '';
 		$text['description-template_type']['de-at'] = '';
@@ -317,6 +333,7 @@
 		$text['description-template_type']['uk-ua'] = '';
 
 		$text['label-template_text']['en-us'] = "Text";
+		$text['label-template_text']['zh-cn'] = "正文";
 		$text['label-template_text']['en-gb'] = "Text";
 		$text['label-template_text']['ar-eg'] = "";
 		$text['label-template_text']['de-at'] = "Text"; //copied from de-de
@@ -338,6 +355,7 @@
 		$text['label-template_text']['uk-ua'] = "Текст";
 
 		$text['label-template_enabled']['en-us'] = 'Enabled';
+		$text['label-template_enabled']['zh-cn'] = '启用';
 		$text['label-template_enabled']['en-gb'] = 'Enabled';
 		$text['label-template_enabled']['ar-eg'] = '';
 		$text['label-template_enabled']['de-at'] = '';
@@ -359,6 +377,7 @@
 		$text['label-template_enabled']['uk-ua'] = '';
 
 		$text['description-template_enabled']['en-us'] = 'Set the status of the template.';
+		$text['description-template_enabled']['zh-cn'] = '设置模板的状态.';
 		$text['description-template_enabled']['en-gb'] = 'Set the status of the template.';
 		$text['description-template_enabled']['ar-eg'] = '';
 		$text['description-template_enabled']['de-at'] = '';
@@ -380,6 +399,7 @@
 		$text['description-template_enabled']['uk-ua'] = '';
 
 		$text['label-template_description']['en-us'] = 'Description';
+		$text['label-template_description']['zh-cn'] = '描述';
 		$text['label-template_description']['en-gb'] = 'Description';
 		$text['label-template_description']['ar-eg'] = '';
 		$text['label-template_description']['de-at'] = '';
@@ -401,6 +421,7 @@
 		$text['label-template_description']['uk-ua'] = '';
 
 		$text['description-template_description']['en-us'] = 'Enter the description.';
+		$text['description-template_description']['en-us'] = '输入描述.';
 		$text['description-template_description']['en-gb'] = 'Enter the description.';
 		$text['description-template_description']['ar-eg'] = '';
 		$text['description-template_description']['de-at'] = '';

@@ -2,6 +2,7 @@
 
 	//Email Queue
 		$text['title-email_queue']['en-us'] = 'Email Queue';
+		$text['title-email_queue']['zh-cn'] = '电子邮件队列';
 		$text['title-email_queue']['ar-eg'] = '';
 		$text['title-email_queue']['de-at'] = '';
 		$text['title-email_queue']['de-ch'] = '';
@@ -22,6 +23,7 @@
 		$text['title-email_queue']['uk-ua'] = '';
 
 		$text['title-email_queue']['en-us'] = 'Email Queue';
+		$text['title-email_queue']['zh-cn'] = '电子邮件队列';
 		$text['title-email_queue']['ar-eg'] = '';
 		$text['title-email_queue']['de-at'] = '';
 		$text['title-email_queue']['de-ch'] = '';
@@ -42,6 +44,7 @@
 		$text['title-email_queue']['uk-ua'] = '';
 
 		$text['title_description-email_queue']['en-us'] = '';
+		$text['title_description-email_queue']['zh-cn'] = '';
 		$text['title_description-email_queue']['ar-eg'] = '';
 		$text['title_description-email_queue']['de-at'] = '';
 		$text['title_description-email_queue']['de-ch'] = '';
@@ -62,6 +65,7 @@
 		$text['title_description-email_queue']['uk-ua'] = '';
 
 		$text['label-email_date']['en-us'] = 'Date';
+		$text['label-email_date']['zh-cn'] = '日期';
 		$text['label-email_date']['ar-eg'] = '';
 		$text['label-email_date']['de-at'] = '';
 		$text['label-email_date']['de-ch'] = '';
@@ -82,6 +86,7 @@
 		$text['label-email_date']['uk-ua'] = '';
 
 		$text['description-email_date']['en-us'] = 'Enter the email date.';
+		$text['description-email_date']['zh-cn'] = '输入电子邮箱日期.';
 		$text['description-email_date']['ar-eg'] = '';
 		$text['description-email_date']['de-at'] = '';
 		$text['description-email_date']['de-ch'] = '';
@@ -102,6 +107,7 @@
 		$text['description-email_date']['uk-ua'] = '';
 
 		$text['label-email_from']['en-us'] = 'From';
+		$text['label-email_from']['zh-cn'] = '发件人';
 		$text['label-email_from']['ar-eg'] = '';
 		$text['label-email_from']['de-at'] = '';
 		$text['label-email_from']['de-ch'] = '';
@@ -122,6 +128,7 @@
 		$text['label-email_from']['uk-ua'] = '';
 
 		$text['description-email_from']['en-us'] = 'Enter the email from.';
+		$text['description-email_from']['zh-cn'] = '输入来自的电子邮件.';
 		$text['description-email_from']['ar-eg'] = '';
 		$text['description-email_from']['de-at'] = '';
 		$text['description-email_from']['de-ch'] = '';
@@ -142,6 +149,7 @@
 		$text['description-email_from']['uk-ua'] = '';
 
 		$text['label-email_to']['en-us'] = 'To';
+		$text['label-email_to']['zh-cn'] = '收件人';
 		$text['label-email_to']['ar-eg'] = '';
 		$text['label-email_to']['de-at'] = '';
 		$text['label-email_to']['de-ch'] = '';
@@ -162,6 +170,7 @@
 		$text['label-email_to']['uk-ua'] = '';
 
 		$text['description-email_to']['en-us'] = 'Enter the email to.';
+		$text['description-email_to']['zh-cn'] = '输入电子邮箱至.';
 		$text['description-email_to']['ar-eg'] = '';
 		$text['description-email_to']['de-at'] = '';
 		$text['description-email_to']['de-ch'] = '';
@@ -182,6 +191,7 @@
 		$text['description-email_to']['uk-ua'] = '';
 
 		$text['label-email_cc']['en-us'] = 'CC';
+		$text['label-email_cc']['zh-cn'] = '抄送';
 		$text['label-email_cc']['ar-eg'] = '';
 		$text['label-email_cc']['de-at'] = '';
 		$text['label-email_cc']['de-ch'] = '';
@@ -202,6 +212,7 @@
 		$text['label-email_cc']['uk-ua'] = '';
 
 		$text['description-email_cc']['en-us'] = 'Enter the email cc.';
+		$text['description-email_cc']['zh-cn'] = '输入电子邮件抄送.';
 		$text['description-email_cc']['ar-eg'] = '';
 		$text['description-email_cc']['de-at'] = '';
 		$text['description-email_cc']['de-ch'] = '';
@@ -222,6 +233,7 @@
 		$text['description-email_cc']['uk-ua'] = '';
 
 		$text['label-email_bcc']['en-us'] = 'BCC';
+		$text['label-email_bcc']['zh-cn'] = '密送';
 		$text['label-email_bcc']['ar-eg'] = '';
 		$text['label-email_bcc']['de-at'] = '';
 		$text['label-email_bcc']['de-ch'] = '';
@@ -242,6 +254,7 @@
 		$text['label-email_bcc']['uk-ua'] = '';
 
 		$text['description-email_bcc']['en-us'] = 'Enter the email bcc.';
+		$text['description-email_bcc']['zh-cn'] = '输入电子邮件密送.';
 		$text['description-email_bcc']['ar-eg'] = '';
 		$text['description-email_bcc']['de-at'] = '';
 		$text['description-email_bcc']['de-ch'] = '';
@@ -262,6 +275,7 @@
 		$text['description-email_bcc']['uk-ua'] = '';
 
 		$text['label-email_subject']['en-us'] = 'Subject';
+		$text['label-email_subject']['zh-cn'] = '主题';
 		$text['label-email_subject']['ar-eg'] = '';
 		$text['label-email_subject']['de-at'] = '';
 		$text['label-email_subject']['de-ch'] = '';
@@ -282,6 +296,7 @@
 		$text['label-email_subject']['uk-ua'] = '';
 
 		$text['description-email_subject']['en-us'] = 'Enter the email subject.';
+		$text['description-email_subject']['zh-cn'] = '输入电子邮件主题.';
 		$text['description-email_subject']['ar-eg'] = '';
 		$text['description-email_subject']['de-at'] = '';
 		$text['description-email_subject']['de-ch'] = '';
@@ -302,6 +317,7 @@
 		$text['description-email_subject']['uk-ua'] = '';
 
 		$text['label-email_body']['en-us'] = 'Body';
+		$text['label-email_body']['zh-cn'] = '正文';
 		$text['label-email_body']['ar-eg'] = '';
 		$text['label-email_body']['de-at'] = '';
 		$text['label-email_body']['de-ch'] = '';
@@ -322,6 +338,7 @@
 		$text['label-email_body']['uk-ua'] = '';
 
 		$text['description-email_body']['en-us'] = 'Enter the email body.';
+		$text['description-email_body']['zh-cn'] = '输入电子邮件正文.';
 		$text['description-email_body']['ar-eg'] = '';
 		$text['description-email_body']['de-at'] = '';
 		$text['description-email_body']['de-ch'] = '';
@@ -342,6 +359,7 @@
 		$text['description-email_body']['uk-ua'] = '';
 
 		$text['label-email_status']['en-us'] = 'Status';
+		$text['label-email_status']['zh-cn'] = '状态';
 		$text['label-email_status']['ar-eg'] = '';
 		$text['label-email_status']['de-at'] = '';
 		$text['label-email_status']['de-ch'] = '';
@@ -362,6 +380,7 @@
 		$text['label-email_status']['uk-ua'] = '';
 
 		$text['description-email_status']['en-us'] = 'Enter the email status.';
+		$text['description-email_status']['zh-cn'] = '输入电子邮件状态.';
 		$text['description-email_status']['ar-eg'] = '';
 		$text['description-email_status']['de-at'] = '';
 		$text['description-email_status']['de-ch'] = '';
@@ -382,6 +401,7 @@
 		$text['description-email_status']['uk-ua'] = '';
 
 		$text['label-email_action_before']['en-us'] = 'Before Email';
+		$text['label-email_action_before']['zh-cn'] = '电子邮件前';
 		$text['label-email_action_before']['ar-eg'] = '';
 		$text['label-email_action_before']['de-at'] = '';
 		$text['label-email_action_before']['de-ch'] = '';
@@ -402,6 +422,7 @@
 		$text['label-email_action_before']['uk-ua'] = '';
 
 		$text['description-email_action_before']['en-us'] = 'Enter the action before sending the email.';
+		$text['description-email_action_before']['zh-cn'] = '在发送电子邮件之前输入操作.';
 		$text['description-email_action_before']['ar-eg'] = '';
 		$text['description-email_action_before']['de-at'] = '';
 		$text['description-email_action_before']['de-ch'] = '';
@@ -422,6 +443,7 @@
 		$text['description-email_action_before']['uk-ua'] = '';
 
 		$text['label-email_action_after']['en-us'] = 'After Email';
+		$text['label-email_action_after']['zh-cn'] = '电子邮件后';
 		$text['label-email_action_after']['ar-eg'] = '';
 		$text['label-email_action_after']['de-at'] = '';
 		$text['label-email_action_after']['de-ch'] = '';
@@ -442,6 +464,7 @@
 		$text['label-email_action_after']['uk-ua'] = '';
 
 		$text['description-email_action_after']['en-us'] = 'Enter the action after sending the email.';
+		$text['description-email_action_after']['zh-cn'] = '发送电子邮件后输入操作.';
 		$text['description-email_action_after']['ar-eg'] = '';
 		$text['description-email_action_after']['de-at'] = '';
 		$text['description-email_action_after']['de-ch'] = '';
@@ -462,6 +485,7 @@
 		$text['description-email_action_after']['uk-ua'] = '';
 
 		$text['label-email_retry_count']['en-us'] = 'Retry';
+		$text['label-email_retry_count']['zh-cn'] = '重试';
 		$text['label-email_retry_count']['ar-eg'] = '';
 		$text['label-email_retry_count']['de-at'] = '';
 		$text['label-email_retry_count']['de-ch'] = '';
@@ -482,6 +506,7 @@
 		$text['label-email_retry_count']['uk-ua'] = '';
 
 		$text['description-email_retry_count']['en-us'] = 'Enter the email retry.';
+		$text['description-email_retry_count']['zh-cn'] = '输入电子邮件重试.';
 		$text['description-email_retry_count']['ar-eg'] = '';
 		$text['description-email_retry_count']['de-at'] = '';
 		$text['description-email_retry_count']['de-ch'] = '';
@@ -502,6 +527,7 @@
 		$text['description-email_retry_count']['uk-ua'] = '';
 
 		$text['label-waiting']['en-us'] = 'waiting';
+		$text['label-waiting']['zh-cn'] = '等待';
 		$text['label-waiting']['ar-eg'] = '';
 		$text['label-waiting']['de-at'] = '';
 		$text['label-waiting']['de-ch'] = '';
@@ -522,6 +548,7 @@
 		$text['label-waiting']['uk-ua'] = '';
 
 		$text['label-failed']['en-us'] = 'failed';
+		$text['label-failed']['zh-cn'] = '失败';
 		$text['label-failed']['ar-eg'] = '';
 		$text['label-failed']['de-at'] = '';
 		$text['label-failed']['de-ch'] = '';
@@ -542,6 +569,7 @@
 		$text['label-failed']['uk-ua'] = '';
 
 		$text['label-sent']['en-us'] = 'sent';
+		$text['label-sent']['zh-cn'] = '已发送';
 		$text['label-sent']['ar-eg'] = '';
 		$text['label-sent']['de-at'] = '';
 		$text['label-sent']['de-ch'] = '';

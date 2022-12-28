@@ -2,6 +2,7 @@
 
 //Number Translations
 $text['title-number_translations']['en-us'] = 'Number Translations';
+$text['title-number_translations']['zh-cn'] = '号码转换';
 $text['title-number_translations']['en-gb'] = 'Number Translations';
 $text['title-number_translations']['ar-eg'] = '';
 $text['title-number_translations']['de-at'] = '';
@@ -23,6 +24,7 @@ $text['title-number_translations']['sv-se'] = '';
 $text['title-number_translations']['uk-ua'] = '';
 
 $text['title-number_translation']['en-us'] = 'Number Translation';
+$text['title-number_translation']['zh-cn'] = '号码转换';
 $text['title-number_translation']['en-gb'] = 'Number Translation';
 $text['title-number_translation']['ar-eg'] = '';
 $text['title-number_translation']['de-at'] = '';
@@ -44,6 +46,7 @@ $text['title-number_translation']['sv-se'] = '';
 $text['title-number_translation']['uk-ua'] = '';
 
 $text['title_description-number_translations']['en-us'] = 'Use this to translate numbers from the original number to a new number using regular expressions.';
+$text['title_description-number_translations']['zh-cn'] = '使用此选项使用正则表达式将数字从原始数字转换为新数字.';
 $text['title_description-number_translations']['en-gb'] = 'Use this to translate numbers from the original number to a new number using regular expressions.';
 $text['title_description-number_translations']['ar-eg'] = '';
 $text['title_description-number_translations']['de-at'] = '';
@@ -65,6 +68,7 @@ $text['title_description-number_translations']['sv-se'] = '';
 $text['title_description-number_translations']['uk-ua'] = '';
 
 $text['label-number_translation_detail_regex']['en-us'] = 'Regular Expression';
+$text['label-number_translation_detail_regex']['zh-cn'] = '正则表达式';
 $text['label-number_translation_detail_regex']['en-gb'] = 'Regular Expression';
 $text['label-number_translation_detail_regex']['ar-eg'] = "تعبير عادي";
 $text['label-number_translation_detail_regex']['de-at'] = "Regulärer Ausdruck"; //copied from de-de
@@ -86,6 +90,7 @@ $text['label-number_translation_detail_regex']['sv-se'] = "Vanligt uttryck";
 $text['label-number_translation_detail_regex']['uk-ua'] = "Регулярний вираз";
 
 $text['description-number_translation_detail_regex']['en-us'] = 'Enter the regular expression that identifies the number to replace.';
+$text['description-number_translation_detail_regex']['zh-cn'] = '输入标识要替换的数字的正则表达式.';
 $text['description-number_translation_detail_regex']['en-gb'] = 'Enter the regular expression that identifies the number to replace.';
 $text['description-number_translation_detail_regex']['ar-eg'] = '';
 $text['description-number_translation_detail_regex']['de-at'] = '';
@@ -107,6 +112,7 @@ $text['description-number_translation_detail_regex']['sv-se'] = '';
 $text['description-number_translation_detail_regex']['uk-ua'] = '';
 
 $text['label-number_translation_detail_replace']['en-us'] = "Replace";
+$text['label-number_translation_detail_replace']['zh-cn'] = "更换";
 $text['label-number_translation_detail_replace']['en-gb'] = "Replace";
 $text['label-number_translation_detail_replace']['ar-eg'] = "يحل محل";
 $text['label-number_translation_detail_replace']['de-at'] = "Ersetzen"; //copied from de-de
@@ -128,6 +134,7 @@ $text['label-number_translation_detail_replace']['sv-se'] = "Byta ut";
 $text['label-number_translation_detail_replace']['uk-ua'] = "заміщати";
 
 $text['description-number_translation_detail_replace']['en-us'] = 'Enter the number translation detail replace.';
+$text['description-number_translation_detail_replace']['zh-cn'] = '输入号码转换详细信息更换.';
 $text['description-number_translation_detail_replace']['en-gb'] = 'Enter the number translation detail replace.';
 $text['description-number_translation_detail_replace']['ar-eg'] = '';
 $text['description-number_translation_detail_replace']['de-at'] = '';
@@ -149,6 +156,7 @@ $text['description-number_translation_detail_replace']['sv-se'] = '';
 $text['description-number_translation_detail_replace']['uk-ua'] = '';
 
 $text['label-number_translation_detail_order']['en-us'] = 'Order';
+$text['label-number_translation_detail_order']['zh-cn'] = '顺序';
 $text['label-number_translation_detail_order']['en-gb'] = 'Order';
 $text['label-number_translation_detail_order']['ar-eg'] = '';
 $text['label-number_translation_detail_order']['de-at'] = '';
@@ -170,6 +178,7 @@ $text['label-number_translation_detail_order']['sv-se'] = '';
 $text['label-number_translation_detail_order']['uk-ua'] = '';
 
 $text['description-number_translation_detail_order']['en-us'] = 'Select the rule order.';
+$text['description-number_translation_detail_order']['zh-cn'] = '选择规则顺序.';
 $text['description-number_translation_detail_order']['en-gb'] = 'Select the rule order.';
 $text['description-number_translation_detail_order']['ar-eg'] = '';
 $text['description-number_translation_detail_order']['de-at'] = '';
@@ -191,6 +200,7 @@ $text['description-number_translation_detail_order']['sv-se'] = '';
 $text['description-number_translation_detail_order']['uk-ua'] = '';
 
 $text['label-number_translation_name']['en-us'] = 'Name';
+$text['label-number_translation_name']['zh-cn'] = '名称';
 $text['label-number_translation_name']['en-gb'] = 'Name';
 $text['label-number_translation_name']['ar-eg'] = '';
 $text['label-number_translation_name']['de-at'] = '';
@@ -212,6 +222,7 @@ $text['label-number_translation_name']['sv-se'] = '';
 $text['label-number_translation_name']['uk-ua'] = '';
 
 $text['description-number_translation_name']['en-us'] = 'Enter the number translation name.';
+$text['description-number_translation_name']['zh-cn'] = '输入号码转换名称.';
 $text['description-number_translation_name']['en-gb'] = 'Enter the number translation name.';
 $text['description-number_translation_name']['ar-eg'] = '';
 $text['description-number_translation_name']['de-at'] = '';
@@ -233,6 +244,7 @@ $text['description-number_translation_name']['sv-se'] = '';
 $text['description-number_translation_name']['uk-ua'] = '';
 
 $text['label-number_translation_details']['en-us'] = 'Details';
+$text['label-number_translation_details']['zh-cn'] = '详细';
 $text['label-number_translation_details']['en-gb'] = 'Details';
 $text['label-number_translation_details']['ar-eg'] = '';
 $text['label-number_translation_details']['de-at'] = '';
@@ -254,6 +266,7 @@ $text['label-number_translation_details']['sv-se'] = '';
 $text['label-number_translation_details']['uk-ua'] = '';
 
 $text['description-number_translation_details']['en-us'] = '';
+$text['description-number_translation_details']['zh-cn'] = '';
 $text['description-number_translation_details']['en-gb'] = '';
 $text['description-number_translation_details']['ar-eg'] = '';
 $text['description-number_translation_details']['de-at'] = '';
@@ -275,6 +288,7 @@ $text['description-number_translation_details']['sv-se'] = '';
 $text['description-number_translation_details']['uk-ua'] = '';
 
 $text['label-number_translation_enabled']['en-us'] = 'Enabled';
+$text['label-number_translation_enabled']['zh-cn'] = '启用';
 $text['label-number_translation_enabled']['en-gb'] = 'Enabled';
 $text['label-number_translation_enabled']['ar-eg'] = '';
 $text['label-number_translation_enabled']['de-at'] = '';
@@ -296,6 +310,7 @@ $text['label-number_translation_enabled']['sv-se'] = '';
 $text['label-number_translation_enabled']['uk-ua'] = '';
 
 $text['description-number_translation_enabled']['en-us'] = 'Enter the number translation enabled.';
+$text['description-number_translation_enabled']['zh-cn'] = '输入已启用的号码转换.';
 $text['description-number_translation_enabled']['en-gb'] = 'Enter the number translation enabled.';
 $text['description-number_translation_enabled']['ar-eg'] = '';
 $text['description-number_translation_enabled']['de-at'] = '';
@@ -317,6 +332,7 @@ $text['description-number_translation_enabled']['sv-se'] = '';
 $text['description-number_translation_enabled']['uk-ua'] = '';
 
 $text['label-number_translation_description']['en-us'] = 'Description';
+$text['label-number_translation_description']['zh-cn'] = '说明';
 $text['label-number_translation_description']['en-gb'] = 'Description';
 $text['label-number_translation_description']['ar-eg'] = '';
 $text['label-number_translation_description']['de-at'] = '';
@@ -338,6 +354,7 @@ $text['label-number_translation_description']['sv-se'] = '';
 $text['label-number_translation_description']['uk-ua'] = '';
 
 $text['description-number_translation_description']['en-us'] = 'Enter the number translation description.';
+$text['description-number_translation_description']['zh-cn'] = '输入号码转换说明.';
 $text['description-number_translation_description']['en-gb'] = 'Enter the number translation description.';
 $text['description-number_translation_description']['ar-eg'] = '';
 $text['description-number_translation_description']['de-at'] = '';

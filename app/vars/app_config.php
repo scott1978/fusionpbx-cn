@@ -9,6 +9,7 @@
 		$apps[$x]['license'] = "Mozilla Public License 1.1";
 		$apps[$x]['url'] = "http://www.fusionpbx.com";
 		$apps[$x]['description']['en-us'] = "Define variables that are used by the switch, provisioning, and more.";
+		$apps[$x]['description']['zh-cn'] = "在此处定义预处理器变量。需要重新启动交换机才能使更改生效.";
 		$apps[$x]['description']['en-gb'] = "Define variables that are used by the switch, provisioning, and more.";
 		$apps[$x]['description']['ar-eg'] = "";
 		$apps[$x]['description']['de-at'] = "Definiere Variablen, die für den Switch, die Verwaltung und anderes verwendet werden können.";

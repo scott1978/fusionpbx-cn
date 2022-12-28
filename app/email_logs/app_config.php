@@ -10,6 +10,7 @@
 		$apps[$x]['url'] = "http://www.fusionpbx.com";
 		$apps[$x]['description']['en-us'] = "Manage failed email messages.";
 		$apps[$x]['description']['en-gb'] = "Manage failed email messages.";
+		$apps[$x]['description']['zh-cn'] = "管理失败的电子邮件.";
 		$apps[$x]['description']['ar-eg'] = "";
 		$apps[$x]['description']['de-at'] = "Fehlgeschlagene Email Benachrichtigungen verwalten.";
 		$apps[$x]['description']['de-ch'] = "";

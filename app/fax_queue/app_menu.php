@@ -1,6 +1,7 @@
 <?php
 
 $apps[$x]['menu'][0]['title']['en-us'] = 'FAX Queue';
+$apps[$x]['menu'][0]['title']['zh-cn'] = '传真队列';
 $apps[$x]['menu'][0]['title']['es-cl'] = '';
 $apps[$x]['menu'][0]['title']['fr-fr'] = '';
 $apps[$x]['menu'][0]['title']['fr-ca'] = '';

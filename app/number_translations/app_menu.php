@@ -2,6 +2,7 @@
 
 	$y=0;
 	$apps[$x]['menu'][$y]['title']['en-us'] = "Number Translations";
+	$apps[$x]['menu'][$y]['title']['zh-cn'] = "号码转换";
 	$apps[$x]['menu'][$y]['title']['en-gb'] = "Number Translations";
 	$apps[$x]['menu'][$y]['title']['ar-eg'] = "عدد الترجمة"; //Google translate
 	$apps[$x]['menu'][$y]['title']['de-at'] = "Nummer Übersetzung";

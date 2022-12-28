@@ -2,6 +2,7 @@
 
 	//FAX Queue
 		$text['title-fax_queue']['en-us'] = 'FAX Queue';
+		$text['title-fax_queue']['zh-cn'] = '传真队列';
 		$text['title-fax_queue']['ar-eg'] = '';
 		$text['title-fax_queue']['de-at'] = '';
 		$text['title-fax_queue']['de-ch'] = '';
@@ -22,6 +23,7 @@
 		$text['title-fax_queue']['uk-ua'] = '';
 
 		$text['title-fax_queue']['en-us'] = 'FAX Queue';
+		$text['title-fax_queue']['zh-cn'] = '传真队列';
 		$text['title-fax_queue']['ar-eg'] = '';
 		$text['title-fax_queue']['de-at'] = '';
 		$text['title-fax_queue']['de-ch'] = '';
@@ -42,6 +44,7 @@
 		$text['title-fax_queue']['uk-ua'] = '';
 
 		$text['title_description-fax_queue']['en-us'] = '';
+		$text['title_description-fax_queue']['zh-cn'] = '';
 		$text['title_description-fax_queue']['ar-eg'] = '';
 		$text['title_description-fax_queue']['de-at'] = '';
 		$text['title_description-fax_queue']['de-ch'] = '';
@@ -62,6 +65,7 @@
 		$text['title_description-fax_queue']['uk-ua'] = '';
 
 		$text['label-fax_uuid']['en-us'] = 'FAX ID';
+		$text['label-fax_uuid']['zh-cn'] = '传真 ID';
 		$text['label-fax_uuid']['ar-eg'] = '';
 		$text['label-fax_uuid']['de-at'] = '';
 		$text['label-fax_uuid']['de-ch'] = '';
@@ -82,6 +86,7 @@
 		$text['label-fax_uuid']['uk-ua'] = '';
 
 		$text['description-fax_uuid']['en-us'] = '';
+		$text['description-fax_uuid']['zh-cn'] = '';
 		$text['description-fax_uuid']['ar-eg'] = '';
 		$text['description-fax_uuid']['de-at'] = '';
 		$text['description-fax_uuid']['de-ch'] = '';
@@ -102,6 +107,7 @@
 		$text['description-fax_uuid']['uk-ua'] = '';
 
 		$text['label-fax_date']['en-us'] = 'Date';
+		$text['label-fax_date']['zh-cn'] = '日期';
 		$text['label-fax_date']['ar-eg'] = '';
 		$text['label-fax_date']['de-at'] = '';
 		$text['label-fax_date']['de-ch'] = '';
@@ -122,6 +128,7 @@
 		$text['label-fax_date']['uk-ua'] = '';
 
 		$text['description-fax_date']['en-us'] = 'Date of the FAX entered the queue.';
+		$text['description-fax_date']['zh-cn'] = '传真进入队列的日期.';
 		$text['description-fax_date']['ar-eg'] = '';
 		$text['description-fax_date']['de-at'] = '';
 		$text['description-fax_date']['de-ch'] = '';
@@ -142,6 +149,7 @@
 		$text['description-fax_date']['uk-ua'] = '';
 
 		$text['label-hostname']['en-us'] = 'Hostname';
+		$text['label-hostname']['zh-cn'] = '主机名';
 		$text['label-hostname']['ar-eg'] = '';
 		$text['label-hostname']['de-at'] = '';
 		$text['label-hostname']['de-ch'] = '';
@@ -162,6 +170,7 @@
 		$text['label-hostname']['uk-ua'] = '';
 
 		$text['description-hostname']['en-us'] = 'Hostname of the server.';
+		$text['description-hostname']['zh-cn'] = '服务器的主机名.';
 		$text['description-hostname']['ar-eg'] = '';
 		$text['description-hostname']['de-at'] = '';
 		$text['description-hostname']['de-ch'] = '';
@@ -182,6 +191,7 @@
 		$text['description-hostname']['uk-ua'] = '';
 
 		$text['label-fax_caller_id_name']['en-us'] = 'Caller ID Name';
+		$text['label-fax_caller_id_name']['zh-cn'] = '呼叫 ID 名称';
 		$text['label-fax_caller_id_name']['ar-eg'] = '';
 		$text['label-fax_caller_id_name']['de-at'] = '';
 		$text['label-fax_caller_id_name']['de-ch'] = '';
@@ -202,6 +212,7 @@
 		$text['label-fax_caller_id_name']['uk-ua'] = '';
 
 		$text['description-fax_caller_id_name']['en-us'] = 'Enter the Caller ID name.';
+		$text['description-fax_caller_id_name']['zh-cn'] = '输入呼叫者 ID 名称.';
 		$text['description-fax_caller_id_name']['ar-eg'] = '';
 		$text['description-fax_caller_id_name']['de-at'] = '';
 		$text['description-fax_caller_id_name']['de-ch'] = '';
@@ -222,6 +233,7 @@
 		$text['description-fax_caller_id_name']['uk-ua'] = '';
 
 		$text['label-fax_caller_id_number']['en-us'] = 'Caller ID Number';
+		$text['label-fax_caller_id_number']['zh-cn'] = '呼叫者 ID 号码';
 		$text['label-fax_caller_id_number']['ar-eg'] = '';
 		$text['label-fax_caller_id_number']['de-at'] = '';
 		$text['label-fax_caller_id_number']['de-ch'] = '';
@@ -242,6 +254,7 @@
 		$text['label-fax_caller_id_number']['uk-ua'] = '';
 
 		$text['description-fax_caller_id_number']['en-us'] = 'Enter the Caller ID number.';
+		$text['description-fax_caller_id_number']['zh-cn'] = '输入呼叫者 ID 号码.';
 		$text['description-fax_caller_id_number']['ar-eg'] = '';
 		$text['description-fax_caller_id_number']['de-at'] = '';
 		$text['description-fax_caller_id_number']['de-ch'] = '';
@@ -262,6 +275,7 @@
 		$text['description-fax_caller_id_number']['uk-ua'] = '';
 
 		$text['label-fax_number']['en-us'] = 'Number';
+		$text['label-fax_number']['zh-cn'] = '号码';
 		$text['label-fax_number']['ar-eg'] = '';
 		$text['label-fax_number']['de-at'] = '';
 		$text['label-fax_number']['de-ch'] = '';
@@ -282,6 +296,7 @@
 		$text['label-fax_number']['uk-ua'] = '';
 
 		$text['description-fax_number']['en-us'] = 'Enter the fax destination.';
+		$text['description-fax_number']['zh-cn'] = '输入传真目的地.';
 		$text['description-fax_number']['ar-eg'] = '';
 		$text['description-fax_number']['de-at'] = '';
 		$text['description-fax_number']['de-ch'] = '';
@@ -302,6 +317,7 @@
 		$text['description-fax_number']['uk-ua'] = '';
 
 		$text['label-fax_prefix']['en-us'] = 'Prefix';
+		$text['label-fax_prefix']['zh-cn'] = '前缀';
 		$text['label-fax_prefix']['ar-eg'] = '';
 		$text['label-fax_prefix']['de-at'] = '';
 		$text['label-fax_prefix']['de-ch'] = '';
@@ -322,6 +338,7 @@
 		$text['label-fax_prefix']['uk-ua'] = '';
 
 		$text['description-fax_prefix']['en-us'] = 'Enter the fax prefix.';
+		$text['description-fax_prefix']['zh-cn'] = '输入传真前缀.';
 		$text['description-fax_prefix']['ar-eg'] = '';
 		$text['description-fax_prefix']['de-at'] = '';
 		$text['description-fax_prefix']['de-ch'] = '';
@@ -342,6 +359,7 @@
 		$text['description-fax_prefix']['uk-ua'] = '';
 
 		$text['label-fax_email_address']['en-us'] = 'Email Address';
+		$text['label-fax_email_address']['zh-cn'] = '电子邮箱地址';
 		$text['label-fax_email_address']['ar-eg'] = '';
 		$text['label-fax_email_address']['de-at'] = '';
 		$text['label-fax_email_address']['de-ch'] = '';
@@ -362,6 +380,7 @@
 		$text['label-fax_email_address']['uk-ua'] = '';
 
 		$text['description-fax_email_address']['en-us'] = 'Enter the fax email address.';
+		$text['description-fax_email_address']['zh-cn'] = '输入传真电子邮箱地址.';
 		$text['description-fax_email_address']['ar-eg'] = '';
 		$text['description-fax_email_address']['de-at'] = '';
 		$text['description-fax_email_address']['de-ch'] = '';
@@ -382,6 +401,7 @@
 		$text['description-fax_email_address']['uk-ua'] = '';
 
 		$text['label-fax_file']['en-us'] = 'File';
+		$text['label-fax_file']['zh-cn'] = '文件';
 		$text['label-fax_file']['ar-eg'] = '';
 		$text['label-fax_file']['de-at'] = '';
 		$text['label-fax_file']['de-ch'] = '';
@@ -402,6 +422,7 @@
 		$text['label-fax_file']['uk-ua'] = '';
 
 		$text['description-fax_file']['en-us'] = 'Enter the fax file.';
+		$text['description-fax_file']['zh-cn'] = '输入传真文件.';
 		$text['description-fax_file']['ar-eg'] = '';
 		$text['description-fax_file']['de-at'] = '';
 		$text['description-fax_file']['de-ch'] = '';
@@ -422,6 +443,7 @@
 		$text['description-fax_file']['uk-ua'] = '';
 
 		$text['label-fax_status']['en-us'] = 'Status';
+		$text['label-fax_status']['zh-cn'] = '状态';
 		$text['label-fax_status']['ar-eg'] = '';
 		$text['label-fax_status']['de-at'] = '';
 		$text['label-fax_status']['de-ch'] = '';
@@ -442,6 +464,7 @@
 		$text['label-fax_status']['uk-ua'] = '';
 
 		$text['description-fax_status']['en-us'] = 'Enter the fax status.';
+		$text['description-fax_status']['zh-cn'] = '输入传真状态.';
 		$text['description-fax_status']['ar-eg'] = '';
 		$text['description-fax_status']['de-at'] = '';
 		$text['description-fax_status']['de-ch'] = '';
@@ -462,6 +485,7 @@
 		$text['description-fax_status']['uk-ua'] = '';
 
 		$text['label-fax_retry_date']['en-us'] = 'Retry Date';
+		$text['label-fax_retry_date']['zh-cn'] = '重试日期';
 		$text['label-fax_retry_date']['ar-eg'] = '';
 		$text['label-fax_retry_date']['de-at'] = '';
 		$text['label-fax_retry_date']['de-ch'] = '';
@@ -482,6 +506,7 @@
 		$text['label-fax_retry_date']['uk-ua'] = '';
 
 		$text['label-fax_notify_date']['en-us'] = 'Notify Date';
+		$text['label-fax_notify_date']['zh-cn'] = '通知日期';
 		$text['label-fax_notify_date']['ar-eg'] = '';
 		$text['label-fax_notify_date']['de-at'] = '';
 		$text['label-fax_notify_date']['de-ch'] = '';
@@ -502,6 +527,7 @@
 		$text['label-fax_notify_date']['uk-ua'] = '';
 
 		$text['description-fax_retry_date']['en-us'] = 'Date the fax was retried';
+		$text['description-fax_retry_date']['zh-cn'] = '重试传真的日期';
 		$text['description-fax_retry_date']['ar-eg'] = '';
 		$text['description-fax_retry_date']['de-at'] = '';
 		$text['description-fax_retry_date']['de-ch'] = '';
@@ -522,6 +548,7 @@
 		$text['description-fax_retry_date']['uk-ua'] = '';
 
 		$text['description-fax_notify_date']['en-us'] = 'Date the fax was notified';
+		$text['description-fax_notify_date']['zh-cn'] = '通知传真的日期';
 		$text['description-fax_notify_date']['ar-eg'] = '';
 		$text['description-fax_notify_date']['de-at'] = '';
 		$text['description-fax_notify_date']['de-ch'] = '';
@@ -542,6 +569,7 @@
 		$text['description-fax_notify_date']['uk-ua'] = '';
 
 		$text['label-fax_retry_count']['en-us'] = 'Retry Count';
+		$text['label-fax_retry_count']['zh-cn'] = '重试计数';
 		$text['label-fax_retry_count']['ar-eg'] = '';
 		$text['label-fax_retry_count']['de-at'] = '';
 		$text['label-fax_retry_count']['de-ch'] = '';
@@ -562,6 +590,7 @@
 		$text['label-fax_retry_count']['uk-ua'] = '';
 
 		$text['description-fax_retry_count']['en-us'] = 'Enter the fax retries.';
+		$text['description-fax_retry_count']['zh-cn'] = '输入传真重试次数.';
 		$text['description-fax_retry_count']['ar-eg'] = '';
 		$text['description-fax_retry_count']['de-at'] = '';
 		$text['description-fax_retry_count']['de-ch'] = '';
@@ -582,6 +611,7 @@
 		$text['description-fax_retry_count']['uk-ua'] = '';
 
 		$text['label-fax_accountcode']['en-us'] = 'Accountcode';
+		$text['label-fax_accountcode']['zh-cn'] = '账户代码';
 		$text['label-fax_accountcode']['ar-eg'] = '';
 		$text['label-fax_accountcode']['de-at'] = '';
 		$text['label-fax_accountcode']['de-ch'] = '';
@@ -602,6 +632,7 @@
 		$text['label-fax_accountcode']['uk-ua'] = '';
 
 		$text['description-fax_accountcode']['en-us'] = 'Enter the accountcode.';
+		$text['description-fax_accountcode']['zh-cn'] = '输入账户代码.';
 		$text['description-fax_accountcode']['ar-eg'] = '';
 		$text['description-fax_accountcode']['de-at'] = '';
 		$text['description-fax_accountcode']['de-ch'] = '';
@@ -622,6 +653,7 @@
 		$text['description-fax_accountcode']['uk-ua'] = '';
 
 		$text['label-fax_command']['en-us'] = 'Command';
+		$text['label-fax_command']['zh-cn'] = '命令';
 		$text['label-fax_command']['ar-eg'] = '';
 		$text['label-fax_command']['de-at'] = '';
 		$text['label-fax_command']['de-ch'] = '';
@@ -642,6 +674,7 @@
 		$text['label-fax_command']['uk-ua'] = '';
 
 		$text['description-fax_command']['en-us'] = 'Enter the fax command.';
+		$text['description-fax_command']['cn-cn'] = '输入传真命令.';
 		$text['description-fax_command']['ar-eg'] = '';
 		$text['description-fax_command']['de-at'] = '';
 		$text['description-fax_command']['de-ch'] = '';
@@ -662,6 +695,7 @@
 		$text['description-fax_command']['uk-ua'] = '';
 
 		$text['label-waiting']['en-us'] = 'waiting';
+		$text['label-waiting']['zh-cn'] = '等待';
 		$text['label-waiting']['ar-eg'] = '';
 		$text['label-waiting']['de-at'] = '';
 		$text['label-waiting']['de-ch'] = '';
@@ -682,6 +716,7 @@
 		$text['label-waiting']['uk-ua'] = '';
 
 		$text['label-failed']['en-us'] = 'failed';
+		$text['label-failed']['zh-cn'] = '失败';
 		$text['label-failed']['ar-eg'] = '';
 		$text['label-failed']['de-at'] = '';
 		$text['label-failed']['de-ch'] = '';
@@ -702,6 +737,7 @@
 		$text['label-failed']['uk-ua'] = '';
 
 		$text['label-sent']['en-us'] = 'sent';
+		$text['label-sent']['zh-cn'] = '已发送';
 		$text['label-sent']['ar-eg'] = '';
 		$text['label-sent']['de-at'] = '';
 		$text['label-sent']['de-ch'] = '';

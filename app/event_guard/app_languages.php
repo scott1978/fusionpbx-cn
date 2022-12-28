@@ -2,6 +2,7 @@
 
 	//Event Guard
 		$text['title-event_guard_logs']['en-us'] = 'Event Guard';
+		$text['title-event_guard_logs']['zh-cn'] = '事件防护';
 		$text['title-event_guard_logs']['ar-eg'] = '';
 		$text['title-event_guard_logs']['de-at'] = '';
 		$text['title-event_guard_logs']['de-ch'] = '';
@@ -22,6 +23,7 @@
 		$text['title-event_guard_logs']['uk-ua'] = '';
 
 		$text['title-event_guard_log']['en-us'] = 'Event Guard';
+		$text['title-event_guard_log']['zh-cn'] = '事件防护';
 		$text['title-event_guard_log']['ar-eg'] = '';
 		$text['title-event_guard_log']['de-at'] = '';
 		$text['title-event_guard_log']['de-ch'] = '';
@@ -42,6 +44,7 @@
 		$text['title-event_guard_log']['uk-ua'] = '';
 
 		$text['title_description-event_guard_logs']['en-us'] = 'Log of registration attempts that have been blocked.';
+		$text['title_description-event_guard_logs']['zh-cn'] = '已阻止的注册尝试日记.';
 		$text['title_description-event_guard_logs']['ar-eg'] = '';
 		$text['title_description-event_guard_logs']['de-at'] = '';
 		$text['title_description-event_guard_logs']['de-ch'] = '';
@@ -62,6 +65,7 @@
 		$text['title_description-event_guard_logs']['uk-ua'] = '';
 
 		$text['label-hostname']['en-us'] = 'Hostname';
+		$text['label-hostname']['zh-cn'] = '主机名';
 		$text['label-hostname']['ar-eg'] = '';
 		$text['label-hostname']['de-at'] = '';
 		$text['label-hostname']['de-ch'] = '';
@@ -82,6 +86,7 @@
 		$text['label-hostname']['uk-ua'] = '';
 
 		$text['description-hostname']['en-us'] = 'Enter the hostname.';
+		$text['description-hostname']['zh-cn'] = '输入主机名.';
 		$text['description-hostname']['ar-eg'] = '';
 		$text['description-hostname']['de-at'] = '';
 		$text['description-hostname']['de-ch'] = '';
@@ -102,6 +107,7 @@
 		$text['description-hostname']['uk-ua'] = '';
 
 		$text['label-log_date']['en-us'] = 'Log Date';
+		$text['label-log_date']['zh-cn'] = '日志日期';
 		$text['label-log_date']['ar-eg'] = '';
 		$text['label-log_date']['de-at'] = '';
 		$text['label-log_date']['de-ch'] = '';
@@ -122,6 +128,7 @@
 		$text['label-log_date']['uk-ua'] = '';
 
 		$text['description-log_date']['en-us'] = 'Enter the log date.';
+		$text['description-log_date']['zh-cn'] = '输入日志日期.';
 		$text['description-log_date']['ar-eg'] = '';
 		$text['description-log_date']['de-at'] = '';
 		$text['description-log_date']['de-ch'] = '';
@@ -142,6 +149,7 @@
 		$text['description-log_date']['uk-ua'] = '';
 
 		$text['label-filter']['en-us'] = 'Filter';
+		$text['label-filter']['zh-cn'] = '筛选器';
 		$text['label-filter']['ar-eg'] = '';
 		$text['label-filter']['de-at'] = '';
 		$text['label-filter']['de-ch'] = '';
@@ -162,6 +170,7 @@
 		$text['label-filter']['uk-ua'] = '';
 
 		$text['description-filter']['en-us'] = 'Enter the filter.';
+		$text['description-filter']['zh-cn'] = '输入筛选器.';
 		$text['description-filter']['ar-eg'] = '';
 		$text['description-filter']['de-at'] = '';
 		$text['description-filter']['de-ch'] = '';
@@ -182,6 +191,7 @@
 		$text['description-filter']['uk-ua'] = '';
 
 		$text['label-ip_address']['en-us'] = 'Address';
+		$text['label-ip_address']['zh-cn'] = '地址';
 		$text['label-ip_address']['ar-eg'] = '';
 		$text['label-ip_address']['de-at'] = '';
 		$text['label-ip_address']['de-ch'] = '';
@@ -202,6 +212,7 @@
 		$text['label-ip_address']['uk-ua'] = '';
 
 		$text['description-ip_address']['en-us'] = 'Enter the address.';
+		$text['description-ip_address']['zh-cn'] = '输入地址.';
 		$text['description-ip_address']['ar-eg'] = '';
 		$text['description-ip_address']['de-at'] = '';
 		$text['description-ip_address']['de-ch'] = '';
@@ -222,6 +233,7 @@
 		$text['description-ip_address']['uk-ua'] = '';
 
 		$text['label-extension']['en-us'] = 'Extension';
+		$text['label-extension']['zh-cn'] = '扩展名';
 		$text['label-extension']['ar-eg'] = '';
 		$text['label-extension']['de-at'] = '';
 		$text['label-extension']['de-ch'] = '';
@@ -242,6 +254,7 @@
 		$text['label-extension']['uk-ua'] = '';
 
 		$text['description-extension']['en-us'] = 'Enter the extension.';
+		$text['description-extension']['zh-cn'] = '输入扩展名.';
 		$text['description-extension']['ar-eg'] = '';
 		$text['description-extension']['de-at'] = '';
 		$text['description-extension']['de-ch'] = '';
@@ -262,6 +275,7 @@
 		$text['description-extension']['uk-ua'] = '';
 
 		$text['label-user_agent']['en-us'] = 'User Agent';
+		$text['label-user_agent']['zh-cn'] = '用户代理';
 		$text['label-user_agent']['ar-eg'] = '';
 		$text['label-user_agent']['de-at'] = '';
 		$text['label-user_agent']['de-ch'] = '';
@@ -282,6 +296,7 @@
 		$text['label-user_agent']['uk-ua'] = '';
 
 		$text['description-user_agent']['en-us'] = 'Enter the User Agent.';
+		$text['description-user_agent']['zh-cn'] = '输入用户代理.';
 		$text['description-user_agent']['ar-eg'] = '';
 		$text['description-user_agent']['de-at'] = '';
 		$text['description-user_agent']['de-ch'] = '';
@@ -302,6 +317,7 @@
 		$text['description-user_agent']['uk-ua'] = '';
 
 		$text['label-log_status']['en-us'] = 'Status';
+		$text['label-log_status']['zh-cn'] = '状态';
 		$text['label-log_status']['ar-eg'] = '';
 		$text['label-log_status']['de-at'] = '';
 		$text['label-log_status']['de-ch'] = '';
@@ -322,6 +338,7 @@
 		$text['label-log_status']['uk-ua'] = '';
 
 		$text['description-log_status']['en-us'] = 'Enter the status.';
+		$text['description-log_status']['zh-cn'] = '输入状态.';
 		$text['description-log_status']['ar-eg'] = '';
 		$text['description-log_status']['de-at'] = '';
 		$text['description-log_status']['de-ch'] = '';
@@ -342,6 +359,7 @@
 		$text['description-log_status']['uk-ua'] = '';
 
 		$text['button-unblock']['en-us'] = 'Unblock';
+		$text['button-unblock']['zh-cn'] = '解锁口令';
 		$text['button-unblock']['ar-eg'] = '';
 		$text['button-unblock']['de-at'] = '';
 		$text['button-unblock']['de-ch'] = '';
@@ -362,6 +380,7 @@
 		$text['button-unblock']['uk-ua'] = '';
 
 		$text['label-unblocked']['en-us'] = 'Unblocked';
+		$text['label-unblocked']['zh-cn'] = '解除';
 		$text['label-unblocked']['ar-eg'] = '';
 		$text['label-unblocked']['de-at'] = '';
 		$text['label-unblocked']['de-ch'] = '';
@@ -382,6 +401,7 @@
 		$text['label-unblocked']['uk-ua'] = '';
 
 		$text['label-pending']['en-us'] = 'Pending';
+		$text['label-pending']['zh-cn'] = '待定';
 		$text['label-pending']['ar-eg'] = '';
 		$text['label-pending']['de-at'] = '';
 		$text['label-pending']['de-ch'] = '';

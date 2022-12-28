@@ -2,6 +2,7 @@
 #This file was last reorganized on 19th of September 2017 08:54:24 AM UTC
 
 $text['title-database_transactions']['en-us'] = "Database Transactions";
+$text['title-database_transactions']['zh-cn'] = "数据库处理";
 $text['title-database_transactions']['en-gb'] = "Database Transactions";
 $text['title-database_transactions']['ar-eg'] = "";
 $text['title-database_transactions']['de-at'] = "Datenbank Transaktionen"; //copied from de-de
@@ -23,6 +24,7 @@ $text['title-database_transactions']['sv-se'] = "Databas Transaktioner";
 $text['title-database_transactions']['uk-ua'] = "";
 
 $text['title-database_transaction']['en-us'] = "Database Transaction";
+$text['title-database_transaction']['zh-cn'] = "数据库事务";
 $text['title-database_transaction']['en-gb'] = "Database Transaction";
 $text['title-database_transaction']['ar-eg'] = "";
 $text['title-database_transaction']['de-at'] = "Datenbank Transaktionen"; //copied from de-de
@@ -44,6 +46,7 @@ $text['title-database_transaction']['sv-se'] = "Transaktionsdatabas";
 $text['title-database_transaction']['uk-ua'] = "";
 
 $text['description-database_transactions']['en-us'] = "Track changes to the database. Track when the changes were made, the user and address of the user that made the changes. Provide an option to undo delete and update transactions.";
+$text['description-database_transactions']['zh-cn'] = "跟踪数据库的更改。跟踪更改的时间、用户和更改用户的地址。提供撤销删除和更新事务的选项.";
 $text['description-database_transactions']['en-gb'] = "Track changes to the database. Track when the changes were made, the user and address of the user that made the changes. Provide an option to undo delete and update transactions.";
 $text['description-database_transactions']['ar-eg'] = "";
 $text['description-database_transactions']['de-at'] = "Datenbank Transaktionen"; //copied from de-de
@@ -65,6 +68,7 @@ $text['description-database_transactions']['sv-se'] = "Databas Transaktioner";
 $text['description-database_transactions']['uk-ua'] = "";
 
 $text['label-user']['en-us'] = "User";
+$text['label-user']['zh-cn'] = "用户";
 $text['label-user']['en-gb'] = "User";
 $text['label-user']['ar-eg'] = "";
 $text['label-user']['de-at'] = "Benutzer"; //copied from de-de
@@ -86,6 +90,7 @@ $text['label-user']['sv-se'] = "Användare";
 $text['label-user']['uk-ua'] = "";
 
 $text['label-user_uuid']['en-us'] = "User";
+$text['label-user_uuid']['zh-cn'] = "用户";
 $text['label-user_uuid']['en-gb'] = "User";
 $text['label-user_uuid']['ar-eg'] = "";
 $text['label-user_uuid']['de-at'] = "Benutzer"; //copied from de-de
@@ -107,6 +112,7 @@ $text['label-user_uuid']['sv-se'] = "Användare";
 $text['label-user_uuid']['uk-ua'] = "";
 
 $text['description-user_uuid']['en-us'] = "User transaction.";
+$text['description-user_uuid']['zh-cn'] = "用户事务.";
 $text['description-user_uuid']['en-gb'] = "User transaction.";
 $text['description-user_uuid']['ar-eg'] = "";
 $text['description-user_uuid']['de-at'] = "Benutzer Transaktion"; //copied from de-de
@@ -128,6 +134,7 @@ $text['description-user_uuid']['sv-se'] = "Användar transaktion";
 $text['description-user_uuid']['uk-ua'] = "";
 
 $text['label-app_name']['en-us'] = "Application";
+$text['label-app_name']['zh-cn'] = "应用程序";
 $text['label-app_name']['en-gb'] = "Application";
 $text['label-app_name']['ar-eg'] = "";
 $text['label-app_name']['de-at'] = "Anwendung"; //copied from de-de
@@ -149,6 +156,7 @@ $text['label-app_name']['sv-se'] = "Applikation";
 $text['label-app_name']['uk-ua'] = "";
 
 $text['description-app_name']['en-us'] = "Application name.";
+$text['description-app_name']['zh-cn'] = "应用程序名称.";
 $text['description-app_name']['en-gb'] = "Application name.";
 $text['description-app_name']['ar-eg'] = "";
 $text['description-app_name']['de-at'] = "Anwendungs-Name."; //copied from de-de
@@ -170,6 +178,7 @@ $text['description-app_name']['sv-se'] = "Applikation namn";
 $text['description-app_name']['uk-ua'] = "";
 
 $text['label-app_uuid']['en-us'] = "Application Id";
+$text['label-app_uuid']['zh-cn'] = "应用程序ID";
 $text['label-app_uuid']['en-gb'] = "Application Id";
 $text['label-app_uuid']['ar-eg'] = "";
 $text['label-app_uuid']['de-at'] = "Anwendungs-ID"; //copied from de-de
@@ -191,6 +200,7 @@ $text['label-app_uuid']['sv-se'] = "Applikation Id.";
 $text['label-app_uuid']['uk-ua'] = "";
 
 $text['description-app_uuid']['en-us'] = "Application name.";
+$text['description-app_uuid']['zh-cn'] = "应用程序名称.";
 $text['description-app_uuid']['en-gb'] = "Application name.";
 $text['description-app_uuid']['ar-eg'] = "";
 $text['description-app_uuid']['de-at'] = "Anwendungs-Name."; //copied from de-de
@@ -212,6 +222,7 @@ $text['description-app_uuid']['sv-se'] = "Applikation namn.";
 $text['description-app_uuid']['uk-ua'] = "";
 
 $text['label-transaction_code']['en-us'] = "Code";
+$text['label-transaction_code']['zh-cn'] = "代码";
 $text['label-transaction_code']['en-gb'] = "Code";
 $text['label-transaction_code']['ar-eg'] = "";
 $text['label-transaction_code']['de-at'] = "Code"; //copied from de-de
@@ -233,6 +244,7 @@ $text['label-transaction_code']['sv-se'] = "Kod";
 $text['label-transaction_code']['uk-ua'] = "";
 
 $text['description-transaction_code']['en-us'] = "Transaction code.";
+$text['description-transaction_code']['zh-cn'] = "业务代码.";
 $text['description-transaction_code']['en-gb'] = "Transaction code.";
 $text['description-transaction_code']['ar-eg'] = "";
 $text['description-transaction_code']['de-at'] = "Transaktions-Code"; //copied from de-de
@@ -254,6 +266,7 @@ $text['description-transaction_code']['sv-se'] = "Transaktion kod.";
 $text['description-transaction_code']['uk-ua'] = "";
 
 $text['label-transaction_address']['en-us'] = "IP Address";
+$text['label-transaction_address']['zh-cn'] = "IP地址";
 $text['label-transaction_address']['en-gb'] = "IP Address";
 $text['label-transaction_address']['ar-eg'] = "";
 $text['label-transaction_address']['de-at'] = "IP Adresse"; //copied from de-de
@@ -275,6 +288,7 @@ $text['label-transaction_address']['sv-se'] = "IP Address";
 $text['label-transaction_address']['uk-ua'] = "";
 
 $text['description-transaction_address']['en-us'] = "IP address of the user.";
+$text['description-transaction_address']['zh-cn'] = "用户的IP地址.";
 $text['description-transaction_address']['en-gb'] = "IP address of the user.";
 $text['description-transaction_address']['ar-eg'] = "";
 $text['description-transaction_address']['de-at'] = "IP Adresse des Anwenders"; //copied from de-de
@@ -296,6 +310,7 @@ $text['description-transaction_address']['sv-se'] = "Användarens IP Address";
 $text['description-transaction_address']['uk-ua'] = "";
 
 $text['label-transaction_type']['en-us'] = "Type";
+$text['label-transaction_type']['zh-cn'] = "类型";
 $text['label-transaction_type']['en-gb'] = "Type";
 $text['label-transaction_type']['ar-eg'] = "";
 $text['label-transaction_type']['de-at'] = "Typ"; //copied from de-de
@@ -317,6 +332,7 @@ $text['label-transaction_type']['sv-se'] = "Typ";
 $text['label-transaction_type']['uk-ua'] = "";
 
 $text['description-transaction_type']['en-us'] = "Type: add, update, delete";
+$text['description-transaction_type']['zh-cn'] = "类型: 添加, 更新, 删除";
 $text['description-transaction_type']['en-gb'] = "Type: add, update, delete";
 $text['description-transaction_type']['ar-eg'] = "";
 $text['description-transaction_type']['de-at'] = "Typ: add, update, delete"; //copied from de-de
@@ -338,6 +354,7 @@ $text['description-transaction_type']['sv-se'] = "Typ: lägg till, ändra, ta bo
 $text['description-transaction_type']['uk-ua'] = "";
 
 $text['label-transaction_date']['en-us'] = "Date";
+$text['label-transaction_date']['zh-cn'] = "日期";
 $text['label-transaction_date']['en-gb'] = "Date";
 $text['label-transaction_date']['ar-eg'] = "";
 $text['label-transaction_date']['de-at'] = "Datum"; //copied from de-de
@@ -359,6 +376,7 @@ $text['label-transaction_date']['sv-se'] = "Datum";
 $text['label-transaction_date']['uk-ua'] = "";
 
 $text['description-transaction_date']['en-us'] = "Transaction date.";
+$text['description-transaction_date']['zh-cn'] = "事务日期.";
 $text['description-transaction_date']['en-gb'] = "Transaction date.";
 $text['description-transaction_date']['ar-eg'] = "";
 $text['description-transaction_date']['de-at'] = "Transaktions-Datum"; //copied from de-de
@@ -380,6 +398,7 @@ $text['description-transaction_date']['sv-se'] = "Transaktions datum.";
 $text['description-transaction_date']['uk-ua'] = "";
 
 $text['label-transaction_old']['en-us'] = "Before";
+$text['label-transaction_old']['zh-cn'] = "之前";
 $text['label-transaction_old']['en-gb'] = "Before";
 $text['label-transaction_old']['ar-eg'] = "";
 $text['label-transaction_old']['de-at'] = "Vor"; //copied from de-de
@@ -401,6 +420,7 @@ $text['label-transaction_old']['sv-se'] = "Före";
 $text['label-transaction_old']['uk-ua'] = "";
 
 $text['description-transaction_old']['en-us'] = "Array before the transaction.";
+$text['description-transaction_old']['zh-cn'] = "事务前的数据.";
 $text['description-transaction_old']['en-gb'] = "Array before the transaction.";
 $text['description-transaction_old']['ar-eg'] = "";
 $text['description-transaction_old']['de-at'] = "Array vor der Transaktion."; //copied from de-de
@@ -422,6 +442,7 @@ $text['description-transaction_old']['sv-se'] = "Array före transaktionen.";
 $text['description-transaction_old']['uk-ua'] = "";
 
 $text['label-transaction_new']['en-us'] = "After";
+$text['label-transaction_new']['zh-cn'] = "之后";
 $text['label-transaction_new']['en-gb'] = "After";
 $text['label-transaction_new']['ar-eg'] = "";
 $text['label-transaction_new']['de-at'] = "Nach"; //copied from de-de
@@ -443,6 +464,7 @@ $text['label-transaction_new']['sv-se'] = "Efter";
 $text['label-transaction_new']['uk-ua'] = "";
 
 $text['description-transaction_new']['en-us'] = "Array after the transaction.";
+$text['description-transaction_new']['zh-cn'] = "事务后的数据.";
 $text['description-transaction_new']['en-gb'] = "Array after the transaction.";
 $text['description-transaction_new']['ar-eg'] = "";
 $text['description-transaction_new']['de-at'] = "Array nach der Transaktion."; //copied from de-de
@@ -464,6 +486,7 @@ $text['description-transaction_new']['sv-se'] = "Array efter transaktionen.";
 $text['description-transaction_new']['uk-ua'] = "";
 
 $text['label-transaction_result']['en-us'] = "Result";
+$text['label-transaction_result']['zh-cn'] = "结果";
 $text['label-transaction_result']['en-gb'] = "Result";
 $text['label-transaction_result']['ar-eg'] = "";
 $text['label-transaction_result']['de-at'] = "Ergebnis"; //copied from de-de
@@ -485,6 +508,7 @@ $text['label-transaction_result']['sv-se'] = "Resultat";
 $text['label-transaction_result']['uk-ua'] = "";
 
 $text['description-transaction_result']['en-us'] = "Result of the transaction.";
+$text['description-transaction_result']['zh-cn'] = "事务结果.";
 $text['description-transaction_result']['en-gb'] = "Result of the transaction.";
 $text['description-transaction_result']['ar-eg'] = "";
 $text['description-transaction_result']['de-at'] = "Ergebnis der Transaktion."; //copied from de-de
@@ -506,6 +530,7 @@ $text['description-transaction_result']['sv-se'] = "Resultat av transaktionen.";
 $text['description-transaction_result']['uk-ua'] = "";
 
 $text['label-true']['en-us'] = "true";
+$text['label-true']['zh-cn'] = "true";
 $text['label-true']['en-gb'] = "true";
 $text['label-true']['ar-eg'] = "";
 $text['label-true']['de-at'] = "wahr"; //copied from de-de
@@ -527,6 +552,7 @@ $text['label-true']['sv-se'] = "sann";
 $text['label-true']['uk-ua'] = "";
 
 $text['label-false']['en-us'] = "false";
+$text['label-false']['zh-cn'] = "false";
 $text['label-false']['en-gb'] = "false";
 $text['label-false']['ar-eg'] = "";
 $text['label-false']['de-at'] = "aus"; //copied from de-de
@@ -548,6 +574,7 @@ $text['label-false']['sv-se'] = "falsk";
 $text['label-false']['uk-ua'] = "";
 
 $text['button-add']['en-us'] = "Add";
+$text['button-add']['zh-cn'] = "添加";
 $text['button-add']['en-gb'] = "Add";
 $text['button-add']['ar-eg'] = "";
 $text['button-add']['de-at'] = "Hinzufügen"; //copied from de-de
@@ -569,6 +596,7 @@ $text['button-add']['sv-se'] = "Lägg Till";
 $text['button-add']['uk-ua'] = "";
 
 $text['button-edit']['en-us'] = "Edit";
+$text['button-edit']['zh-cn'] = "编辑";
 $text['button-edit']['en-gb'] = "Edit";
 $text['button-edit']['ar-eg'] = "";
 $text['button-edit']['de-at'] = "Bearbeiten"; //copied from de-de
@@ -590,6 +618,7 @@ $text['button-edit']['sv-se'] = "Ändra";
 $text['button-edit']['uk-ua'] = "";
 
 $text['button-delete']['en-us'] = "Delete";
+$text['button-delete']['zh-cn'] = "删除";
 $text['button-delete']['en-gb'] = "Delete";
 $text['button-delete']['ar-eg'] = "";
 $text['button-delete']['de-at'] = "Löschen"; //copied from de-de
@@ -611,6 +640,7 @@ $text['button-delete']['sv-se'] = "Ta Bort";
 $text['button-delete']['uk-ua'] = "";
 
 $text['button-save']['en-us'] = "Save";
+$text['button-save']['zh-cn'] = "保存";
 $text['button-save']['en-gb'] = "Save";
 $text['button-save']['ar-eg'] = "";
 $text['button-save']['de-at'] = "Speichern"; //copied from de-de
@@ -632,6 +662,7 @@ $text['button-save']['sv-se'] = "Spara";
 $text['button-save']['uk-ua'] = "";
 
 $text['button-view']['en-us'] = "View";
+$text['button-view']['zh-cn'] = "视图";
 $text['button-view']['en-gb'] = "View";
 $text['button-view']['ar-eg'] = "";
 $text['button-view']['de-at'] = "Anzeigen"; //copied from de-de
@@ -653,6 +684,7 @@ $text['button-view']['sv-se'] = "Visa";
 $text['button-view']['uk-ua'] = "";
 
 $text['button-back']['en-us'] = "Back";
+$text['button-back']['zh-cn'] = "后退";
 $text['button-back']['en-gb'] = "Back";
 $text['button-back']['ar-eg'] = "";
 $text['button-back']['de-at'] = "Zurück"; //copied from de-de
@@ -674,6 +706,7 @@ $text['button-back']['sv-se'] = "Tillbaka";
 $text['button-back']['uk-ua'] = "";
 
 $text['confirm-delete']['en-us'] = "Do you really want to delete this?";
+$text['confirm-delete']['zh-cn'] = "是否确实要删除此?";
 $text['confirm-delete']['en-gb'] = "Do you really want to delete this?";
 $text['confirm-delete']['ar-eg'] = "";
 $text['confirm-delete']['de-at'] = "Wollen Sie das wirklich löschen?"; //copied from de-de
@@ -695,6 +728,7 @@ $text['confirm-delete']['sv-se'] = "Vill du verkligen ta bort detta?";
 $text['confirm-delete']['uk-ua'] = "";
 
 $text['message-add']['en-us'] = "Add Completed";
+$text['message-add']['zh-cn'] = "添加已完成";
 $text['message-add']['en-gb'] = "Add Completed";
 $text['message-add']['ar-eg'] = "";
 $text['message-add']['de-at'] = "Erfolgreich hinzugefügt"; //copied from de-de
@@ -716,6 +750,7 @@ $text['message-add']['sv-se'] = "Tillagd";
 $text['message-add']['uk-ua'] = "";
 
 $text['message-update']['en-us'] = "Update Completed";
+$text['message-update']['zh-cn'] = "更新已完成";
 $text['message-update']['en-gb'] = "Update Completed";
 $text['message-update']['ar-eg'] = "";
 $text['message-update']['de-at'] = "Aktualisierung durchgeführt"; //copied from de-de
@@ -737,6 +772,7 @@ $text['message-update']['sv-se'] = "Ändring utförd";
 $text['message-update']['uk-ua'] = "";
 
 $text['message-delete']['en-us'] = "Delete Completed";
+$text['message-delete']['zh-cn'] = "删除已完成";
 $text['message-delete']['en-gb'] = "Delete Completed";
 $text['message-delete']['ar-eg'] = "";
 $text['message-delete']['de-at'] = "Erfolgreich gelöscht"; //copied from de-de
@@ -758,6 +794,7 @@ $text['message-delete']['sv-se'] = "Borttagning utförd";
 $text['message-delete']['uk-ua'] = "";
 
 $text['message-required']['en-us'] = "Please provide: ";
+$text['message-required']['zh-cn'] = "请提供: ";
 $text['message-required']['en-gb'] = "Please provide: ";
 $text['message-required']['ar-eg'] = "";
 $text['message-required']['de-at'] = "Bitte geben Sie folgendes an:"; //copied from de-de
