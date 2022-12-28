@@ -9,6 +9,7 @@
 		$apps[$x]['license'] = "Mozilla Public License 1.1";
 		$apps[$x]['url'] = "http://www.fusionpbx.com";
 		$apps[$x]['description']['en-us'] = "Display the switch logs.";
+		$apps[$x]['description']['zh-cn'] = "显示电话交换机日志.";
 		$apps[$x]['description']['en-gb'] = "Display the switch logs.";
 		$apps[$x]['description']['ar-eg'] = "";
 		$apps[$x]['description']['de-at'] = "Zeigt die Switch-Logs an.";

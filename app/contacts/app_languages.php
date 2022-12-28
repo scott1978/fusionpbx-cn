@@ -2,6 +2,7 @@
 #This file was last reorganized on 27th of September 2017 01:41:51 PM UTC
 
 $text['title-contacts_import_google']['en-us'] = "Import Google Contacts";
+$text['title-contacts_import_google']['zh-cn'] = "导入Google联系人";
 $text['title-contacts_import_google']['en-gb'] = "Import Google Contacts";
 $text['title-contacts_import_google']['ar-eg'] = "";
 $text['title-contacts_import_google']['de-at'] = "Google Kontakte importieren"; //copied from de-de
@@ -24,6 +25,7 @@ $text['title-contacts_import_google']['sv-se'] = "Importera Google Kontakter";
 $text['title-contacts_import_google']['uk-ua'] = "Імпортувати контакти Google";
 
 $text['title-contacts_import']['en-us'] = "Import Contacts";
+$text['title-contacts_import']['zh-cn'] = "导入联系人";
 $text['title-contacts_import']['en-gb'] = "Import Contacts";
 $text['title-contacts_import']['ar-eg'] = "";
 $text['title-contacts_import']['de-at'] = "Kontakte importieren"; //copied from de-de
@@ -46,6 +48,7 @@ $text['title-contacts_import']['sv-se'] = "Importera Kontakter";
 $text['title-contacts_import']['uk-ua'] = "Імпортувати контакти";
 
 $text['title-contacts']['en-us'] = "Contacts";
+$text['title-contacts']['zh-cn'] = "联系人";
 $text['title-contacts']['en-gb'] = "Contacts";
 $text['title-contacts']['ar-eg'] = "";
 $text['title-contacts']['de-at'] = "Kontakte"; //copied from de-de
@@ -68,6 +71,7 @@ $text['title-contacts']['sv-se'] = "Kontakter";
 $text['title-contacts']['uk-ua'] = "Контакти";
 
 $text['title-contact_properties']['en-us'] = "Contact Properties";
+$text['title-contact_properties']['zh-cn'] = "联系人属性";
 $text['title-contact_properties']['en-gb'] = "Contact Properties";
 $text['title-contact_properties']['ar-eg'] = "Contact Properties";
 $text['title-contact_properties']['de-at'] = "Contact Properties";
@@ -90,6 +94,7 @@ $text['title-contact_properties']['sv-se'] = "Contact Properties";
 $text['title-contact_properties']['uk-ua'] = "Contact Properties";
 
 $text['title-contact_email-edit']['en-us'] = "Contact Email Edit";
+$text['title-contact_email-edit']['zh-cn'] = "编辑联系人电子邮件";
 $text['title-contact_email-edit']['en-gb'] = "Contact Email Edit";
 $text['title-contact_email-edit']['ar-eg'] = "";
 $text['title-contact_email-edit']['de-at'] = "Email des Kontakts bearbeiten"; //copied from de-de
@@ -112,6 +117,7 @@ $text['title-contact_email-edit']['sv-se'] = "Ändra Kontakt E-post";
 $text['title-contact_email-edit']['uk-ua'] = "";
 
 $text['title-contact_email-add']['en-us'] = "Contact Email Add";
+$text['title-contact_email-add']['zh-cn'] = "添加联系人电子邮件";
 $text['title-contact_email-add']['en-gb'] = "Contact Email Add";
 $text['title-contact_email-add']['ar-eg'] = "";
 $text['title-contact_email-add']['de-at'] = "Email zum Kontakt hinzufügen"; //copied from de-de
@@ -134,6 +140,7 @@ $text['title-contact_email-add']['sv-se'] = "Lägg Till Kontakt E-post";
 $text['title-contact_email-add']['uk-ua'] = "";
 
 $text['title-contact_url-edit']['en-us'] = "Contact URL Edit";
+$text['title-contact_url-edit']['zh-cn'] = "编辑联系人URL";
 $text['title-contact_url-edit']['en-gb'] = "Contact URL Edit";
 $text['title-contact_url-edit']['ar-eg'] = "";
 $text['title-contact_url-edit']['de-at'] = "URL bearbeiten"; //copied from de-de
@@ -156,6 +163,7 @@ $text['title-contact_url-edit']['sv-se'] = "Ändra Kontakt URL";
 $text['title-contact_url-edit']['uk-ua'] = "";
 
 $text['title-contact_url-add']['en-us'] = "Contact URL Add";
+$text['title-contact_url-add']['zh-cn'] = "添加联系人URL";
 $text['title-contact_url-add']['en-gb'] = "Contact URL Add";
 $text['title-contact_url-add']['ar-eg'] = "";
 $text['title-contact_url-add']['de-at'] = "URL hinzufügen"; //copied from de-de
@@ -178,6 +186,7 @@ $text['title-contact_url-add']['sv-se'] = "Lägg Till Kontakt URL";
 $text['title-contact_url-add']['uk-ua'] = "";
 
 $text['title-contact_time_edit']['en-us'] = "Time Edit";
+$text['title-contact_time_edit']['zh-cn'] = "编辑时间";
 $text['title-contact_time_edit']['en-gb'] = "Time Edit";
 $text['title-contact_time_edit']['ar-eg'] = "";
 $text['title-contact_time_edit']['de-at'] = "Zeit bearbeiten"; //copied from de-de
@@ -200,6 +209,7 @@ $text['title-contact_time_edit']['sv-se'] = "Redigera Tid";
 $text['title-contact_time_edit']['uk-ua'] = "час Редагувати";
 
 $text['title-contact_time_add']['en-us'] = "Time Add";
+$text['title-contact_time_add']['zh-cn'] = "添加时间";
 $text['title-contact_time_add']['en-gb'] = "Time Add";
 $text['title-contact_time_add']['ar-eg'] = "";
 $text['title-contact_time_add']['de-at'] = "Zeit hinzufügen"; //copied from de-de
@@ -222,6 +232,7 @@ $text['title-contact_time_add']['sv-se'] = "Lägg Till Tid";
 $text['title-contact_time_add']['uk-ua'] = "час додавання";
 
 $text['title-contact_setting_edit']['en-us'] = "Contact Setting Edit";
+$text['title-contact_setting_edit']['zh-cn'] = "编辑联系人设置";
 $text['title-contact_setting_edit']['en-gb'] = "Contact Setting Edit";
 $text['title-contact_setting_edit']['ar-eg'] = "";
 $text['title-contact_setting_edit']['de-at'] = "Einstellungen bearbeiten"; //copied from de-de
@@ -244,6 +255,7 @@ $text['title-contact_setting_edit']['sv-se'] = "Ändra Kontakt Inställning";
 $text['title-contact_setting_edit']['uk-ua'] = "";
 
 $text['title-contact_setting_add']['en-us'] = "Contact Setting Add";
+$text['title-contact_setting_add']['zh-cn'] = "添加联系人设置";
 $text['title-contact_setting_add']['en-gb'] = "Contact Setting Add";
 $text['title-contact_setting_add']['ar-eg'] = "";
 $text['title-contact_setting_add']['de-at'] = "Einstellungen hinzufügen"; //copied from de-de
@@ -266,6 +278,7 @@ $text['title-contact_setting_add']['sv-se'] = "Lägg Till Kontakt Inställning";
 $text['title-contact_setting_add']['uk-ua'] = "";
 
 $text['title-contact_relation']['en-us'] = "Contact Relation";
+$text['title-contact_relation']['zh-cn'] = "联系人关系";
 $text['title-contact_relation']['en-gb'] = "Contact Relation";
 $text['title-contact_relation']['ar-eg'] = "";
 $text['title-contact_relation']['de-at'] = "Beziehung"; //copied from de-de
@@ -288,6 +301,7 @@ $text['title-contact_relation']['sv-se'] = "Kontakt Relation";
 $text['title-contact_relation']['uk-ua'] = "";
 
 $text['title-contact_phones-edit']['en-us'] = "Contact Number Edit";
+$text['title-contact_phones-edit']['zh-cn'] = "编辑联系人号码";
 $text['title-contact_phones-edit']['en-gb'] = "Contact Number Edit";
 $text['title-contact_phones-edit']['ar-eg'] = "";
 $text['title-contact_phones-edit']['de-at'] = "Nummer bearbeiten"; //copied from de-de
@@ -310,6 +324,7 @@ $text['title-contact_phones-edit']['sv-se'] = "Ändra Kontakt Nummer";
 $text['title-contact_phones-edit']['uk-ua'] = "";
 
 $text['title-contact_phones-add']['en-us'] = "Contact Number Add";
+$text['title-contact_phones-add']['zh-cn'] = "添加联系人号码";
 $text['title-contact_phones-add']['en-gb'] = "Contact Number Add";
 $text['title-contact_phones-add']['ar-eg'] = "";
 $text['title-contact_phones-add']['de-at'] = "Nummer hinzufügen"; //copied from de-de
@@ -332,6 +347,7 @@ $text['title-contact_phones-add']['sv-se'] = "Lägg Till Kontakt Nummer";
 $text['title-contact_phones-add']['uk-ua'] = "";
 
 $text['title-contact_notes-edit']['en-us'] = "Contact Note Edit";
+$text['title-contact_notes-edit']['zh-cn'] = "编辑联系人备注";
 $text['title-contact_notes-edit']['en-gb'] = "Contact Note Edit";
 $text['title-contact_notes-edit']['ar-eg'] = "";
 $text['title-contact_notes-edit']['de-at'] = "Notiz bearbeiten"; //copied from de-de
@@ -354,6 +370,7 @@ $text['title-contact_notes-edit']['sv-se'] = "Ändra Kontakt Notering";
 $text['title-contact_notes-edit']['uk-ua'] = "";
 
 $text['title-contact_notes-add']['en-us'] = "Contact Note Add";
+$text['title-contact_notes-add']['zh-cn'] = "添加联系人备注";
 $text['title-contact_notes-add']['en-gb'] = "Contact Note Add";
 $text['title-contact_notes-add']['ar-eg'] = "";
 $text['title-contact_notes-add']['de-at'] = "Notiz hinzufügen"; //copied from de-de
@@ -376,6 +393,7 @@ $text['title-contact_notes-add']['sv-se'] = "Lägg Till Kontakts Notering";
 $text['title-contact_notes-add']['uk-ua'] = "";
 
 $text['title-contact_addresses-edit']['en-us'] = "Contact Address Edit";
+$text['title-contact_addresses-edit']['zh-cn'] = "编辑联系人地址";
 $text['title-contact_addresses-edit']['en-gb'] = "Contact Address Edit";
 $text['title-contact_addresses-edit']['ar-eg'] = "";
 $text['title-contact_addresses-edit']['de-at'] = "Adresse bearbeiten"; //copied from de-de
@@ -398,6 +416,7 @@ $text['title-contact_addresses-edit']['sv-se'] = "Ändra Kontakt Adress";
 $text['title-contact_addresses-edit']['uk-ua'] = "";
 
 $text['title-contact_addresses-add']['en-us'] = "Contact Address Add";
+$text['title-contact_addresses-add']['zh-cn'] = "添加联系人地址";
 $text['title-contact_addresses-add']['en-gb'] = "Contact Address Add";
 $text['title-contact_addresses-add']['ar-eg'] = "";
 $text['title-contact_addresses-add']['de-at'] = "Adresse hinzufügen"; //copied from de-de
@@ -420,6 +439,7 @@ $text['title-contact_addresses-add']['sv-se'] = "Lägg Till Kontakt Adress";
 $text['title-contact_addresses-add']['uk-ua'] = "";
 
 $text['title-contact_attachment-edit']['en-us'] = "Contact Attachment Edit";
+$text['title-contact_attachment-edit']['zh-cn'] = "编辑联系人附件";
 $text['title-contact_attachment-edit']['en-gb'] = "Contact Attachment Edit";
 $text['title-contact_attachment-edit']['ar-eg'] = "";
 $text['title-contact_attachment-edit']['de-at'] = "";
@@ -442,6 +462,7 @@ $text['title-contact_attachment-edit']['sv-se'] = "";
 $text['title-contact_attachment-edit']['uk-ua'] = "";
 
 $text['title-contact_attachment-add']['en-us'] = "Contact Attachment Add";
+$text['title-contact_attachment-add']['zh-cn'] = "添加联系人附件";
 $text['title-contact_attachment-add']['en-gb'] = "Contact Attachment Add";
 $text['title-contact_attachment-add']['ar-eg'] = "";
 $text['title-contact_attachment-add']['de-at'] = "";
@@ -464,6 +485,7 @@ $text['title-contact_attachment-add']['sv-se'] = "";
 $text['title-contact_attachment-add']['uk-ua'] = "";
 
 $text['title-contact-edit']['en-us'] = "Contact";
+$text['title-contact-edit']['zh-cn'] = "联系人";
 $text['title-contact-edit']['en-gb'] = "Contact";
 $text['title-contact-edit']['ar-eg'] = "";
 $text['title-contact-edit']['de-at'] = "Kontakt"; //copied from de-de
@@ -486,6 +508,7 @@ $text['title-contact-edit']['sv-se'] = "Kontakt";
 $text['title-contact-edit']['uk-ua'] = "Контакт";
 
 $text['title-contact-add']['en-us'] = "Contact Add";
+$text['title-contact-add']['zh-cn'] = "添加联系人";
 $text['title-contact-add']['en-gb'] = "Contact Add";
 $text['title-contact-add']['ar-eg'] = "";
 $text['title-contact-add']['de-at'] = "Kontakt hinzufügen"; //copied from de-de
@@ -508,6 +531,7 @@ $text['title-contact-add']['sv-se'] = "Lägg Till Kontakt";
 $text['title-contact-add']['uk-ua'] = "Додавання контакта";
 
 $text['option-work']['en-us'] = "Work";
+$text['option-work']['zh-cn'] = "工作";
 $text['option-work']['en-gb'] = "Work";
 $text['option-work']['ar-eg'] = "";
 $text['option-work']['de-at'] = "Arbeit"; //copied from de-de
@@ -530,6 +554,7 @@ $text['option-work']['sv-se'] = "Arbete";
 $text['option-work']['uk-ua'] = "";
 
 $text['option-voicemail']['en-us'] = "Voicemail";
+$text['option-voicemail']['zh-cn'] = "语音信箱";
 $text['option-voicemail']['en-gb'] = "Voicemail";
 $text['option-voicemail']['ar-eg'] = "";
 $text['option-voicemail']['de-at'] = "Mailbox"; //copied from de-de
@@ -552,6 +577,7 @@ $text['option-voicemail']['sv-se'] = "Röstbrevlåda";
 $text['option-voicemail']['uk-ua'] = "Голосова пошта";
 
 $text['option-true']['en-us'] = "True";
+$text['option-true']['zh-cn'] = "是";
 $text['option-true']['en-gb'] = "True";
 $text['option-true']['ar-eg'] = "";
 $text['option-true']['de-at'] = "Ein"; //copied from de-de
@@ -574,6 +600,7 @@ $text['option-true']['sv-se'] = "Sann";
 $text['option-true']['uk-ua'] = "Так";
 
 $text['option-text']['en-us'] = "Text";
+$text['option-text']['zh-cn'] = "文本";
 $text['option-text']['en-gb'] = "Text";
 $text['option-text']['ar-eg'] = "";
 $text['option-text']['de-at'] = "Text"; //copied from de-de
@@ -596,6 +623,8 @@ $text['option-text']['sv-se'] = "Text";
 $text['option-text']['uk-ua'] = "Текст";
 
 $text['option-shipping']['en-us'] = "Shipping";
+$text['option-shipping']['zh-cn'] = "发货地址";
+$text['option-shipping']['zh-cn'] = "Shipping";
 $text['option-shipping']['en-gb'] = "Shipping";
 $text['option-shipping']['ar-eg'] = "";
 $text['option-shipping']['de-at'] = "Versand"; //copied from de-de
@@ -618,6 +647,7 @@ $text['option-shipping']['sv-se'] = "Leverans";
 $text['option-shipping']['uk-ua'] = "";
 
 $text['option-pref']['en-us'] = "Preferred";
+$text['option-pref']['zh-cn'] = "首选";
 $text['option-pref']['en-gb'] = "Preferred";
 $text['option-pref']['ar-eg'] = "";
 $text['option-pref']['de-at'] = "Bevorzugt"; //copied from de-de
@@ -640,6 +670,7 @@ $text['option-pref']['sv-se'] = "Föredragen";
 $text['option-pref']['uk-ua'] = "";
 
 $text['option-postal']['en-us'] = "Postal";
+$text['option-postal']['zh-cn'] = "邮编";
 $text['option-postal']['en-gb'] = "Postal";
 $text['option-postal']['ar-eg'] = "";
 $text['option-postal']['de-at'] = "Postalisch"; //copied from de-de
@@ -662,6 +693,7 @@ $text['option-postal']['sv-se'] = "Postkod";
 $text['option-postal']['uk-ua'] = "";
 
 $text['option-physical']['en-us'] = "Physical";
+$text['option-physical']['zh-cn'] = "物理";
 $text['option-physical']['en-gb'] = "Physical";
 $text['option-physical']['ar-eg'] = "";
 $text['option-physical']['de-at'] = "Physikalisch"; //copied from de-de
@@ -684,6 +716,7 @@ $text['option-physical']['sv-se'] = "Fysisk";
 $text['option-physical']['uk-ua'] = "";
 
 $text['option-personal']['en-us'] = "Personal";
+$text['option-personal']['zh-cn'] = "个人";
 $text['option-personal']['en-gb'] = "Personal";
 $text['option-personal']['ar-eg'] = "";
 $text['option-personal']['de-at'] = "Privat"; //copied from de-de
@@ -706,6 +739,7 @@ $text['option-personal']['sv-se'] = "Personlig";
 $text['option-personal']['uk-ua'] = "";
 
 $text['option-parcel']['en-us'] = "Parcel";
+$text['option-parcel']['zh-cn'] = "兼职";
 $text['option-parcel']['en-gb'] = "Parcel";
 $text['option-parcel']['ar-eg'] = "";
 $text['option-parcel']['de-at'] = "Paket"; //copied from de-de
@@ -1234,6 +1268,7 @@ $text['option-contact_type_contractor']['sv-se'] = "Entreprenör";
 $text['option-contact_type_contractor']['uk-ua'] = "";
 
 $text['option-billing']['en-us'] = "Billing";
+$text['option-billing']['zh-cn'] = "计费";
 $text['option-billing']['en-gb'] = "Billing";
 $text['option-billing']['ar-eg'] = "";
 $text['option-billing']['de-at'] = "Verrechnung"; //copied from de-de

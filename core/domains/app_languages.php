@@ -822,7 +822,7 @@ $text['header-settings']['sv-se'] = "Inställning";
 $text['header-settings']['uk-ua'] = "Налаштування";
 
 $text['header-domains']['en-us'] = "Domains";
-$text['header-domains']['zhcns'] = "域管理";
+$text['header-domains']['zh-cn'] = "域管理";
 $text['header-domains']['en-gb'] = "Domains";
 $text['header-domains']['ar-eg'] = "";
 $text['header-domains']['de-at'] = "Domains"; //copied from de-de

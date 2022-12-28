@@ -1,6 +1,7 @@
 <?php
 	$y=0;
 	$apps[$x]['menu'][$y]['title']['en-us'] = "Call Detail Records";
+	$apps[$x]['menu'][$y]['title']['zh-cn'] = "通话记录";
 	$apps[$x]['menu'][$y]['title']['en-gb'] = "Call Detail Records";
 	$apps[$x]['menu'][$y]['title']['ar-eg'] = "";
 	$apps[$x]['menu'][$y]['title']['de-at'] = "Meine Gespräche";
@@ -28,6 +29,7 @@
 	$apps[$x]['menu'][$y]['groups'][] = "superadmin";	
 	$y++;
 	$apps[$x]['menu'][$y]['title']['en-us'] = "CDR Statistics";
+	$apps[$x]['menu'][$y]['title']['zh-cn'] = "通话记录统计";
 	$apps[$x]['menu'][$y]['title']['en-gb'] = "CDR Statistics";
 	$apps[$x]['menu'][$y]['title']['ar-eg'] = "";
 	$apps[$x]['menu'][$y]['title']['de-at'] = "Anruf Statistik";
@@ -54,6 +56,7 @@
 	$apps[$x]['menu'][$y]['groups'][] = "superadmin";
 	$y++;
 	$apps[$x]['menu'][$y]['title']['en-us'] = "Extension Summary";
+	$apps[$x]['menu'][$y]['title']['zh-cn'] = "分机摘要";
 	$apps[$x]['menu'][$y]['title']['en-gb'] = "Extension Summary";
 	$apps[$x]['menu'][$y]['title']['ar-eg'] = "";
 	$apps[$x]['menu'][$y]['title']['de-at'] = "Nebenstellen Statistik";

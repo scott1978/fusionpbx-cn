@@ -2,6 +2,7 @@
 
 	//Bridges
 		$text['title-bridges']['en-us'] = 'Bridges';
+		$text['title-bridges']['zh-cn'] = '桥';
 		$text['title-bridges']['en-gb'] = 'Bridges';
 		$text['title-bridges']['ar-eg'] = '';
 		$text['title-bridges']['de-at'] = '';
@@ -23,6 +24,7 @@
 		$text['title-bridges']['uk-ua'] = '';
 
 		$text['title-bridge']['en-us'] = 'Bridge';
+		$text['title-bridge']['zh-cn'] = '桥';
 		$text['title-bridge']['en-gb'] = 'Bridge';
 		$text['title-bridge']['ar-eg'] = '';
 		$text['title-bridge']['de-at'] = '';
@@ -44,6 +46,7 @@
 		$text['title-bridge']['uk-ua'] = '';
 
 		$text['title_description-bridge']['en-us'] = 'Add bridge statements to destination select list.';
+		$text['title_description-bridge']['zh-cn'] = '将网桥语句添加到目标选择列表.';
 		$text['title_description-bridge']['en-gb'] = 'Add bridge statements to destination select list.';
 		$text['title_description-bridge']['ar-eg'] = '';
 		$text['title_description-bridge']['de-at'] = '';
@@ -65,6 +68,7 @@
 		$text['title_description-bridge']['uk-ua'] = '';
 
 		$text['label-bridge_name']['en-us'] = 'Name';
+		$text['label-bridge_name']['zh-cn'] = '名称';
 		$text['label-bridge_name']['en-gb'] = 'Name';
 		$text['label-bridge_name']['ar-eg'] = '';
 		$text['label-bridge_name']['de-at'] = '';
@@ -86,6 +90,7 @@
 		$text['label-bridge_name']['uk-ua'] = '';
 
 		$text['description-bridge_name']['en-us'] = 'Enter the name.';
+		$text['description-bridge_name']['zh-cn'] = '输入名称.';
 		$text['description-bridge_name']['en-gb'] = 'Enter the name.';
 		$text['description-bridge_name']['ar-eg'] = '';
 		$text['description-bridge_name']['de-at'] = '';
@@ -107,6 +112,7 @@
 		$text['description-bridge_name']['uk-ua'] = '';
 
 		$text['label-bridge_destination']['en-us'] = 'Destination';
+		$text['label-bridge_destination']['zh-cn'] = '目的地';
 		$text['label-bridge_destination']['en-gb'] = 'Destination';
 		$text['label-bridge_destination']['ar-eg'] = '';
 		$text['label-bridge_destination']['de-at'] = '';
@@ -128,6 +134,7 @@
 		$text['label-bridge_destination']['uk-ua'] = '';
 
 		$text['description-bridge_destination']['en-us'] = 'Enter the destination.';
+		$text['description-bridge_destination']['zh-cn'] = '输入目的地.';
 		$text['description-bridge_destination']['en-gb'] = 'Enter the destination.';
 		$text['description-bridge_destination']['ar-eg'] = '';
 		$text['description-bridge_destination']['de-at'] = '';
@@ -149,6 +156,7 @@
 		$text['description-bridge_destination']['uk-ua'] = '';
 
 		$text['label-bridge_enabled']['en-us'] = 'Enabled';
+		$text['label-bridge_enabled']['zh-cn'] = '已启用';
 		$text['label-bridge_enabled']['en-gb'] = 'Enabled';
 		$text['label-bridge_enabled']['ar-eg'] = '';
 		$text['label-bridge_enabled']['de-at'] = '';
@@ -170,6 +178,7 @@
 		$text['label-bridge_enabled']['uk-ua'] = '';
 
 		$text['description-bridge_enabled']['en-us'] = 'Select to enable or disable.';
+		$text['description-bridge_enabled']['zh-cn'] = '选择以启用或禁用.';
 		$text['description-bridge_enabled']['en-gb'] = 'Select to enable or disable.';
 		$text['description-bridge_enabled']['ar-eg'] = '';
 		$text['description-bridge_enabled']['de-at'] = '';
@@ -191,6 +200,7 @@
 		$text['description-bridge_enabled']['uk-ua'] = '';
 
 		$text['label-bridge_description']['en-us'] = 'Description';
+		$text['label-bridge_description']['zh-cn'] = '描述';
 		$text['label-bridge_description']['en-gb'] = 'Description';
 		$text['label-bridge_description']['ar-eg'] = '';
 		$text['label-bridge_description']['de-at'] = '';
@@ -212,6 +222,7 @@
 		$text['label-bridge_description']['uk-ua'] = '';
 
 		$text['description-bridge_description']['en-us'] = 'Enter the description. ';
+		$text['description-bridge_description']['zh-cn'] = '输入描述. ';
 		$text['description-bridge_description']['en-gb'] = 'Enter the description. ';
 		$text['description-bridge_description']['ar-eg'] = '';
 		$text['description-bridge_description']['de-at'] = '';
@@ -233,6 +244,7 @@
 		$text['description-bridge_description']['uk-ua'] = '';
 
 		$text['label-bridge_description']['en-us'] = "Description";
+		$text['label-bridge_description']['zh-cn'] = "描述";
 		$text['label-bridge_description']['en-gb'] = "Description";
 		$text['label-bridge_description']['ar-eg'] = "";
 		$text['label-bridge_description']['de-at'] = "Beschreibung"; //copied from de-de

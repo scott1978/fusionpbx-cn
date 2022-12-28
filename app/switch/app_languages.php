@@ -1,6 +1,7 @@
 <?php
 
 $text['label-switch_status']['en-us'] = "Switch Status";
+$text['label-switch_status']['zh-cn'] = "电话交换机状态";
 $text['label-switch_status']['en-gb'] = "Switch Status";
 $text['label-switch_status']['ar-eg'] = "";
 $text['label-switch_status']['de-at'] = "Switch"; //copied from de-de

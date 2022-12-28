@@ -2,6 +2,7 @@
 #This file was last reorganized on 19th of September 2017 08:54:24 AM UTC
 
 $text['title-log_viewer']['en-us'] = "Log Viewer";
+$text['title-log_viewer']['zh-cn'] = "日志查看";
 $text['title-log_viewer']['en-gb'] = "Log Viewer";
 $text['title-log_viewer']['ar-eg'] = "";
 $text['title-log_viewer']['de-at'] = "Log Datei"; //copied from de-de
@@ -23,6 +24,7 @@ $text['title-log_viewer']['sv-se'] = "Log Viewer";
 $text['title-log_viewer']['uk-ua'] = "Логи";
 
 $text['label-syntax']['en-us'] = "Syntax Highlighted";
+$text['label-syntax']['zh-cn'] = "突出显示的语法";
 $text['label-syntax']['en-gb'] = "Syntax Highlighted";
 $text['label-syntax']['ar-eg'] = "";
 $text['label-syntax']['de-at'] = "Syntax Highlighted"; //copied from de-de
@@ -44,6 +46,7 @@ $text['label-syntax']['sv-se'] = "Syntax Markerad";
 $text['label-syntax']['uk-ua'] = "Підсвічування синтаксису";
 
 $text['label-sort']['en-us'] = "Sort Descending";
+$text['label-sort']['zh-cn'] = "降序";
 $text['label-sort']['en-gb'] = "Sort Descending";
 $text['label-sort']['ar-eg'] = "";
 $text['label-sort']['de-at'] = "Absteigend sortiert"; //copied from de-de
@@ -65,6 +68,7 @@ $text['label-sort']['sv-se'] = "Sortera Fallande";
 $text['label-sort']['uk-ua'] = "Сортувати за спаданням";
 
 $text['label-open_file']['en-us'] = "opening entire file";
+$text['label-open_file']['zh-cn'] = "打开整个文件";
 $text['label-open_file']['en-gb'] = "opening entire file";
 $text['label-open_file']['ar-eg'] = "";
 $text['label-open_file']['de-at'] = "gesamte Datei öffnen"; //copied from de-de
@@ -86,6 +90,7 @@ $text['label-open_file']['sv-se'] = "Öppnar hela filen";
 $text['label-open_file']['uk-ua'] = "відкрито весь файл";
 
 $text['label-open_at']['en-us'] = "opening at";
+$text['label-open_at']['zh-cn'] = "打开时间";
 $text['label-open_at']['en-gb'] = "opening at";
 $text['label-open_at']['ar-eg'] = "";
 $text['label-open_at']['de-at'] = "öffnen"; //copied from de-de
@@ -107,6 +112,7 @@ $text['label-open_at']['sv-se'] = "Öppnar vid";
 $text['label-open_at']['uk-ua'] = "відкрито о";
 
 $text['label-line_number']['en-us'] = "Show Line Numbers";
+$text['label-line_number']['zh-cn'] = "显示行号";
 $text['label-line_number']['en-gb'] = "Show Line Numbers";
 $text['label-line_number']['ar-eg'] = "";
 $text['label-line_number']['de-at'] = "Zeilennummern anzeigen"; //copied from de-de
@@ -128,6 +134,7 @@ $text['label-line_number']['sv-se'] = "Visa Linje Nummer";
 $text['label-line_number']['uk-ua'] = "Нумерація рядків";
 
 $text['label-size']['en-us'] = "KB";
+$text['label-size']['zh-cn'] = "KB";
 $text['label-size']['en-gb'] = "KB";
 $text['label-size']['ar-eg'] = "";
 $text['label-size']['de-at'] = "KB"; //copied from de-de
@@ -149,6 +156,7 @@ $text['label-size']['sv-se'] = "KB";
 $text['label-size']['uk-ua'] = "КБ";
 
 $text['label-log_file']['en-us'] = "Log file";
+$text['label-log_file']['zh-cn'] = "日志文件";
 $text['label-log_file']['ar-eg'] = "Log file";
 $text['label-log_file']['de-at'] = "Log file";
 $text['label-log_file']['de-ch'] = "log_file"; 
@@ -169,6 +177,7 @@ $text['label-log_file']['sv-se'] = "Log file";
 $text['label-log_file']['uk-ua'] = "Log file";
 
 $text['label-filter']['en-us'] = "Filter";
+$text['label-filter']['zh-cn'] = "过滤";
 $text['label-filter']['en-gb'] = "Filter";
 $text['label-filter']['ar-eg'] = "";
 $text['label-filter']['de-at'] = "Filter"; //copied from de-de
@@ -190,6 +199,7 @@ $text['label-filter']['sv-se'] = "Filter";
 $text['label-filter']['uk-ua'] = "Фільтр";
 
 $text['label-displaying']['en-us'] = "Displaying the last";
+$text['label-displaying']['zh-cn'] = "显示最后一个";
 $text['label-displaying']['en-gb'] = "Displaying the last";
 $text['label-displaying']['ar-eg'] = "";
 $text['label-displaying']['de-at'] = "letztes anzeigen"; //copied from de-de
@@ -211,6 +221,7 @@ $text['label-displaying']['sv-se'] = "Visar den sista";
 $text['label-displaying']['uk-ua'] = "Показувати останні";
 
 $text['label-bytes']['en-us'] = "bytes";
+$text['label-bytes']['zh-cn'] = "bytes";
 $text['label-bytes']['en-gb'] = "bytes";
 $text['label-bytes']['ar-eg'] = "";
 $text['label-bytes']['de-at'] = "bytes"; //copied from de-de
@@ -232,6 +243,7 @@ $text['label-bytes']['sv-se'] = "bytes";
 $text['label-bytes']['uk-ua'] = "байти";
 
 $text['error-open_file']['en-us'] = "Unable to open file!";
+$text['error-open_file']['zh-cn'] = "不能打开文件!";
 $text['error-open_file']['en-gb'] = "Unable to open file!";
 $text['error-open_file']['ar-eg'] = "";
 $text['error-open_file']['de-at'] = "Datei kann nicht geöffnet werden!"; //copied from de-de
@@ -253,6 +265,7 @@ $text['error-open_file']['sv-se'] = "Kan inte öppna fil!";
 $text['error-open_file']['uk-ua'] = "Неможливо відкрити файл!";
 
 $text['description-filter']['en-us'] = "Filtering the log with the text:";
+$text['description-filter']['zh-cn'] = "使用文本过滤日志:";
 $text['description-filter']['en-gb'] = "Filtering the log with the text:";
 $text['description-filter']['ar-eg'] = "";
 $text['description-filter']['de-at'] = "Log Datei nach Text filtern:"; //copied from de-de
@@ -274,6 +287,7 @@ $text['description-filter']['sv-se'] = "Filtrerar loggen med texten:";
 $text['description-filter']['uk-ua'] = "Фільтрування логів по тексту";
 
 $text['label-display']['en-us'] = "Display";
+$text['label-display']['zh-cn'] = "显示";
 $text['label-display']['en-gb'] = "Display";
 $text['label-display']['ar-eg'] = "Display";
 $text['label-display']['de-at'] = "Display";

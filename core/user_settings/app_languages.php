@@ -809,7 +809,7 @@ $text['label-system_counts']['sv-se'] = "System Counts";
 $text['label-system_counts']['uk-ua'] = "система зараховує";
 
 $text['label-switch_uptime']['en-us'] = "Switch Uptime";
-$text['label-switch_uptime']['zh-cn'] = "网关运行时间";
+$text['label-switch_uptime']['zh-cn'] = "电话交换机运行时间";
 $text['label-switch_uptime']['en-gb'] = "Switch Uptime";
 $text['label-switch_uptime']['ar-eg'] = "";
 $text['label-switch_uptime']['de-at'] = "Switch Uptime"; //copied from de-de
@@ -1384,7 +1384,7 @@ $text['label-last_24_hours']['sv-se'] = "Senaste 24 timmarna";
 $text['label-last_24_hours']['uk-ua'] = "Останні 24 годин";
 
 $text['label-ivr_menus']['en-us'] = "IVR Menus";
-$text['label-ivr_menus']['zh-cn'] = "IVR菜单管理";
+$text['label-ivr_menus']['zh-cn'] = "IVR菜单";
 $text['label-ivr_menus']['en-gb'] = "IVR Menus";
 $text['label-ivr_menus']['ar-eg'] = "";
 $text['label-ivr_menus']['de-at'] = "Automatische Vermittlungen"; //copied from de-de
@@ -1430,7 +1430,7 @@ $text['label-inbound']['sv-se'] = "Inkommande";
 $text['label-inbound']['uk-ua'] = "Вихідний";
 
 $text['label-item']['en-us'] = "Item";
-$text['label-item']['zh-cn'] = "项";
+$text['label-item']['zh-cn'] = "项目名称";
 $text['label-item']['en-gb'] = "Item";
 $text['label-item']['ar-eg'] = "بند";
 $text['label-item']['de-at'] = "Objekt"; //copied from de-de
@@ -1453,7 +1453,7 @@ $text['label-item']['sv-se'] = "Punkt";
 $text['label-item']['uk-ua'] = "пункт";
 
 $text['label-gateways']['en-us'] = "Gateways";
-$text['label-gateways']['zh-cn'] = "网关管理";
+$text['label-gateways']['zh-cn'] = "网关";
 $text['label-gateways']['en-gb'] = "Gateways";
 $text['label-gateways']['ar-eg'] = "البوابات";
 $text['label-gateways']['de-at'] = "Gateways"; //copied from de-de
@@ -1499,7 +1499,7 @@ $text['label-followme']['sv-se'] = "Följ Mig";
 $text['label-followme']['uk-ua'] = "Follow Me";
 
 $text['label-feature']['en-us'] = "Feature";
-$text['label-feature']['zh-cn'] = "功能码";
+$text['label-feature']['zh-cn'] = "功能";
 $text['label-feature']['en-gb'] = "Feature";
 $text['label-feature']['ar-eg'] = "ميزة";
 $text['label-feature']['de-at'] = "Funktion"; //copied from de-de
@@ -1545,7 +1545,7 @@ $text['label-failed']['sv-se'] = "Misslyckad";
 $text['label-failed']['uk-ua'] = "";
 
 $text['label-extensions']['en-us'] = "Extensions";
-$text['label-extensions']['zh-cn'] = "分机管理";
+$text['label-extensions']['zh-cn'] = "分机";
 $text['label-extensions']['en-gb'] = "Extensions";
 $text['label-extensions']['ar-eg'] = "الأرقام الداخلية";
 $text['label-extensions']['de-at'] = "Nebenstellen"; //copied from de-de
@@ -1614,7 +1614,7 @@ $text['label-email_address']['sv-se'] = "E-postadress";
 $text['label-email_address']['uk-ua'] = "Адреси E-Mail";
 
 $text['label-domains']['en-us'] = "Domains";
-$text['label-domains']['zh-cn'] = "域管理";
+$text['label-domains']['zh-cn'] = "域";
 $text['label-domains']['en-gb'] = "Domains";
 $text['label-domains']['ar-eg'] = "";
 $text['label-domains']['de-at'] = "Domänen"; //copied from de-de
@@ -1752,7 +1752,7 @@ $text['label-disabled']['sv-se'] = "Inaktiverad";
 $text['label-disabled']['uk-ua'] = "Відключено";
 
 $text['label-devices']['en-us'] = "Devices";
-$text['label-devices']['zh-cn'] = "设备管理";
+$text['label-devices']['zh-cn'] = "设备";
 $text['label-devices']['en-gb'] = "Devices";
 $text['label-devices']['ar-eg'] = "الأجهزة";
 $text['label-devices']['de-at'] = "Geräte"; //copied from de-de
@@ -1775,7 +1775,7 @@ $text['label-devices']['sv-se'] = "Enheter";
 $text['label-devices']['uk-ua'] = "Пристрої";
 
 $text['label-destinations']['en-us'] = "Destinations";
-$text['label-destinations']['zh-cn'] = "目的地管理";
+$text['label-destinations']['zh-cn'] = "目的地";
 $text['label-destinations']['en-gb'] = "Destinations";
 $text['label-destinations']['ar-eg'] = "جهات الأتصال";
 $text['label-destinations']['de-at'] = "Kopfnummern"; //copied from de-de
@@ -1821,7 +1821,7 @@ $text['label-date_time']['sv-se'] = "Datum/Tid";
 $text['label-date_time']['uk-ua'] = "Дата, час";
 
 $text['label-database_connections']['en-us'] = "DB Connections";
-$text['label-database_connections']['zh-cn'] = "数据库连接";
+$text['label-database_connections']['zh-cn'] = "数据库连接数";
 $text['label-database_connections']['en-gb'] = "DB Connections";
 $text['label-database_connections']['ar-eg'] = "اتصالات قاعدة البيانات";
 $text['label-database_connections']['de-at'] = "Datenbankverbindungen"; //copied from de-de

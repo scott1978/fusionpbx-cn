@@ -464,6 +464,7 @@ $text['label-mem']['sv-se'] = "Minnesstatus";
 $text['label-mem']['uk-ua'] = "Стан пам'яті ";
 
 $text['label-drive-percent']['en-us'] = "Percent Free";
+$text['label-drive-percent']['zh-cn'] = "可用百分比";
 $text['label-drive-percent']['en-gb'] = "Percent Free";
 $text['label-drive-percent']['ar-eg'] = "";
 $text['label-drive-percent']['de-at'] = "Prozent Frei"; //copied from de-de
@@ -485,6 +486,7 @@ $text['label-drive-percent']['sv-se'] = "Procent Ledigt";
 $text['label-drive-percent']['uk-ua'] = "Відсоток вільного";
 
 $text['label-drive-free']['en-us'] = "Free Space";
+$text['label-drive-free']['zh-cn'] = "可用空间";
 $text['label-drive-free']['en-gb'] = "Free Space";
 $text['label-drive-free']['ar-eg'] = "";
 $text['label-drive-free']['de-at'] = "Freier Speicherplatz"; //copied from de-de
@@ -506,6 +508,7 @@ $text['label-drive-free']['sv-se'] = "Ledigt Utrymme";
 $text['label-drive-free']['uk-ua'] = "Вільно";
 
 $text['label-drive-capacity']['en-us'] = "Capacity";
+$text['label-drive-capacity']['zh-cn'] = "容量";
 $text['label-drive-capacity']['en-gb'] = "Capacity";
 $text['label-drive-capacity']['ar-eg'] = "";
 $text['label-drive-capacity']['de-at'] = "Kapazität"; //copied from de-de
@@ -527,6 +530,7 @@ $text['label-drive-capacity']['sv-se'] = "Kapacitet";
 $text['label-drive-capacity']['uk-ua'] = "Емність";
 
 $text['label-drive']['en-us'] = "Drive Space";
+$text['label-drive']['zh-cn'] = "磁盘空间";
 $text['label-drive']['en-gb'] = "Drive Space";
 $text['label-drive']['ar-eg'] = "";
 $text['label-drive']['de-at'] = "Festplatten Speicher"; //copied from de-de
@@ -548,6 +552,7 @@ $text['label-drive']['sv-se'] = "Enhetsutrymme";
 $text['label-drive']['uk-ua'] = "Диски";
 
 $text['label-cpu']['en-us'] = "CPU Status";
+$text['label-cpu']['zh-cn'] = "CPU状态";
 $text['label-cpu']['en-gb'] = "CPU Status";
 $text['label-cpu']['ar-eg'] = "";
 $text['label-cpu']['de-at'] = "CPU Status"; //copied from de-de
@@ -569,6 +574,7 @@ $text['label-cpu']['sv-se'] = "CPU Status";
 $text['label-cpu']['uk-ua'] = "Стан процесора ";
 
 $text['label-cpu_usage']['en-us'] = "CPU Usage";
+$text['label-cpu_usage']['zh-cn'] = "CPU使用率";
 $text['label-cpu_usage']['en-gb'] = "CPU Usage";
 $text['label-cpu_usage']['ar-eg'] = "معالج الاستخدام";
 $text['label-cpu_usage']['de-at'] = "Prozessorauslastung "; //copied from de-de
@@ -591,6 +597,7 @@ $text['label-cpu_usage']['sv-se'] = "processor Usage";
 $text['label-cpu_usage']['uk-ua'] = "Використання процесора";
 
 $text['label-cpu_cores']['en-us'] = "CPU Cores";
+$text['label-cpu_cores']['zh-cn'] = "CPU核心数";
 $text['label-cpu_cores']['en-gb'] = "CPU Cores";
 $text['label-cpu_cores']['ar-eg'] = "CPU Cores";
 $text['label-cpu_cores']['de-at'] = "CPU Cores"; //copied from de-de
@@ -613,6 +620,7 @@ $text['label-cpu_cores']['sv-se'] = "CPU Cores";
 $text['label-cpu_cores']['uk-ua'] = "CPU Cores";
 
 $text['label-load_average']['en-us'] = "Load Average";
+$text['label-load_average']['zh-cn'] = "本地负载";
 $text['label-load_average']['en-gb'] = "Load Average";
 $text['label-load_average']['ar-eg'] = "Load Average";
 $text['label-load_average']['de-at'] = "Load Average"; //copied from de-de
@@ -635,6 +643,7 @@ $text['label-load_average']['sv-se'] = "Load Average";
 $text['label-load_average']['uk-ua'] = "Load Average";
 
 $text['header-sys-status']['en-us'] = "System Status";
+$text['header-sys-status']['zh-cn'] = "系统状态";
 $text['header-sys-status']['en-gb'] = "System Status";
 $text['header-sys-status']['ar-eg'] = "";
 $text['header-sys-status']['de-at'] = "System Status"; //copied from de-de

@@ -2,6 +2,7 @@
 #This file was last reorganized on 19th of September 2017 08:54:24 AM UTC
 
 $text['title-ring_groups']['en-us'] = "Ring Groups";
+$text['title-ring_groups']['zh-cn'] = "振铃组";
 $text['title-ring_groups']['en-gb'] = "Ring Groups";
 $text['title-ring_groups']['ar-eg'] = "";
 $text['title-ring_groups']['de-at'] = "Rufgruppen"; //copied from de-de
@@ -23,6 +24,7 @@ $text['title-ring_groups']['sv-se'] = "Ringgrupper";
 $text['title-ring_groups']['uk-ua'] = "Групи";
 
 $text['title-ring_group']['en-us'] = "Ring Group";
+$text['title-ring_group']['zh-cn'] = "振铃组";
 $text['title-ring_group']['en-gb'] = "Ring Group";
 $text['title-ring_group']['ar-eg'] = "";
 $text['title-ring_group']['de-at'] = "Rufgruppen"; //copied from de-de
@@ -44,6 +46,7 @@ $text['title-ring_group']['sv-se'] = "Ringgrupper";
 $text['title-ring_group']['uk-ua'] = "Групи";
 
 $text['option-simultaneous']['en-us'] = "Simultaneous";
+$text['option-simultaneous']['zh-cn'] = "同时";
 $text['option-simultaneous']['en-gb'] = "Simultaneous";
 $text['option-simultaneous']['ar-eg'] = "";
 $text['option-simultaneous']['de-at'] = "gleichzeitig"; //copied from de-de
@@ -65,6 +68,7 @@ $text['option-simultaneous']['sv-se'] = "Samtidig";
 $text['option-simultaneous']['uk-ua'] = "";
 
 $text['option-sequence']['en-us'] = "Sequence";
+$text['option-sequence']['zh-cn'] = "按顺序";
 $text['option-sequence']['en-gb'] = "Sequence";
 $text['option-sequence']['ar-eg'] = "";
 $text['option-sequence']['de-at'] = "sequenziell"; //copied from de-de
@@ -86,6 +90,7 @@ $text['option-sequence']['sv-se'] = "I Ordning";
 $text['option-sequence']['uk-ua'] = "";
 
 $text['option-rollover']['en-us'] = "Rollover";
+$text['option-rollover']['zh-cn'] = "滚动";
 $text['option-rollover']['en-gb'] = "Rollover";
 $text['option-rollover']['ar-eg'] = "";
 $text['option-rollover']['de-at'] = "Rotierend"; //copied from de-de
@@ -107,6 +112,7 @@ $text['option-rollover']['sv-se'] = "Revolver";
 $text['option-rollover']['uk-ua'] = "";
 
 $text['option-random']['en-us'] = "Random";
+$text['option-random']['zh-cn'] = "随机";
 $text['option-random']['en-gb'] = "Random";
 $text['option-random']['ar-eg'] = "";
 $text['option-random']['de-at'] = "Zufällig"; //copied from de-de
@@ -128,6 +134,7 @@ $text['option-random']['sv-se'] = "Slumpmässig";
 $text['option-random']['uk-ua'] = "";
 
 $text['option-ptring']['en-us'] = "pt-ring";
+$text['option-ptring']['zh-cn'] = "葡式振铃";
 $text['option-ptring']['en-gb'] = "pt-ring";
 $text['option-ptring']['ar-eg'] = "";
 $text['option-ptring']['de-at'] = "pt-ring"; //copied from de-de
@@ -149,6 +156,7 @@ $text['option-ptring']['sv-se'] = "pt-ring";
 $text['option-ptring']['uk-ua'] = "pt-ring";
 
 $text['option-itring']['en-us'] = "it-ring";
+$text['option-itring']['zh-cn'] = "意式振铃";
 $text['option-itring']['en-gb'] = "it-ring";
 $text['option-itring']['ar-eg'] = "";
 $text['option-itring']['de-at'] = "it-ring"; //copied from de-de
@@ -170,6 +178,7 @@ $text['option-itring']['sv-se'] = "it-ring";
 $text['option-itring']['uk-ua'] = "it-ring";
 
 $text['option-frring']['en-us'] = "fr-ring";
+$text['option-frring']['zh-cn'] = "法式振铃";
 $text['option-frring']['en-gb'] = "fr-ring";
 $text['option-frring']['ar-eg'] = "";
 $text['option-frring']['de-at'] = "fr-ring"; //copied from de-de
@@ -191,6 +200,7 @@ $text['option-frring']['sv-se'] = "fr-ring";
 $text['option-frring']['uk-ua'] = "fr-ring";
 
 $text['option-dering']['en-us'] = "de-ring";
+$text['option-dering']['zh-cn'] = "德式振铃";
 $text['option-dering']['en-gb'] = "de-ring";
 $text['option-dering']['ar-eg'] = "";
 $text['option-dering']['de-at'] = "de-ring"; //copied from de-de
@@ -212,6 +222,7 @@ $text['option-dering']['sv-se'] = "de-ring";
 $text['option-dering']['uk-ua'] = "de-ring";
 
 $text['option-enterprise']['en-us'] = "Enterprise";
+$text['option-enterprise']['zh-cn'] = "企业";
 $text['option-enterprise']['en-gb'] = "Enterprise";
 $text['option-enterprise']['ar-eg'] = "";
 $text['option-enterprise']['de-at'] = "Unternehmen"; //copied from de-de
@@ -233,6 +244,7 @@ $text['option-enterprise']['sv-se'] = "Företag";
 $text['option-enterprise']['uk-ua'] = "";
 
 $text['option-enabled']['en-us'] = "Enabled";
+$text['option-enabled']['zh-cn'] = "启用";
 $text['option-enabled']['en-gb'] = "Enabled";
 $text['option-enabled']['ar-eg'] = "";
 $text['option-enabled']['de-at'] = "Aktiviert"; //copied from de-de
@@ -254,6 +266,7 @@ $text['option-enabled']['sv-se'] = "Aktiverad";
 $text['option-enabled']['uk-ua'] = "Включено";
 
 $text['option-disabled']['en-us'] = "Disabled";
+$text['option-disabled']['zh-cn'] = "禁用";
 $text['option-disabled']['en-gb'] = "Disabled";
 $text['option-disabled']['ar-eg'] = "";
 $text['option-disabled']['de-at'] = "Deaktiviert"; //copied from de-de
@@ -275,6 +288,7 @@ $text['option-disabled']['sv-se'] = "Avaktiverad";
 $text['option-disabled']['uk-ua'] = "Виключено";
 
 $text['message-timeout_action']['en-us'] = "Please provide: Timeout Action";
+$text['message-timeout_action']['zh-cn'] = "请提供：超时操作";
 $text['message-timeout_action']['en-gb'] = "Please provide: Timeout Action";
 $text['message-timeout_action']['ar-eg'] = "";
 $text['message-timeout_action']['de-at'] = "Bitte geben Sie folgendes an: Time-Out Aktion"; //copied from de-de
@@ -296,6 +310,7 @@ $text['message-timeout_action']['sv-se'] = "Ange: Timeout Åtgärd";
 $text['message-timeout_action']['uk-ua'] = "";
 
 $text['message-call_timeout']['en-us'] = "Please provide: Timeout";
+$text['message-call_timeout']['zh-cn'] = "请提供：超时时间";
 $text['message-call_timeout']['en-gb'] = "Please provide: Timeout";
 $text['message-call_timeout']['ar-eg'] = "";
 $text['message-call_timeout']['de-at'] = "Bitte geben Sie folgendes an: Time-Out"; //copied from de-de
@@ -317,6 +332,7 @@ $text['message-call_timeout']['sv-se'] = "Ange: Timeout";
 $text['message-call_timeout']['uk-ua'] = "";
 
 $text['message-strategy']['en-us'] = "Please provide: Strategy";
+$text['message-strategy']['zh-cn'] = "请提供：策略";
 $text['message-strategy']['en-gb'] = "Please provide: Strategy";
 $text['message-strategy']['ar-eg'] = "";
 $text['message-strategy']['de-at'] = "Bitte geben Sie folgendes an: Strategie"; //copied from de-de
@@ -338,6 +354,7 @@ $text['message-strategy']['sv-se'] = "Ange: Strategi";
 $text['message-strategy']['uk-ua'] = "";
 
 $text['message-name']['en-us'] = "Please provide: Name";
+$text['message-name']['zh-cn'] = "请提供：名称";
 $text['message-name']['en-gb'] = "Please provide: Name";
 $text['message-name']['ar-eg'] = "";
 $text['message-name']['de-at'] = "Bitte geben Sie folgendes an: Name"; //copied from de-de
@@ -359,6 +376,7 @@ $text['message-name']['sv-se'] = "Ange: Namn";
 $text['message-name']['uk-ua'] = "";
 
 $text['message-maximum_ring_groups']['en-us'] = "Maximum Ring Groups:";
+$text['message-maximum_ring_groups']['zh-cn'] = "最大振铃组数值:";
 $text['message-maximum_ring_groups']['en-gb'] = "Maximum Ring Groups:";
 $text['message-maximum_ring_groups']['ar-eg'] = "";
 $text['message-maximum_ring_groups']['de-at'] = "Maximale Anzahl an Rufgruppen"; //copied from de-de
@@ -380,6 +398,7 @@ $text['message-maximum_ring_groups']['sv-se'] = "Max Antal Ringgrupper:";
 $text['message-maximum_ring_groups']['uk-ua'] = "";
 
 $text['message-enabled']['en-us'] = "Please provide: Enabled";
+$text['message-enabled']['zh-cn'] = "请选择：是否已启用";
 $text['message-enabled']['en-gb'] = "Please provide: Enabled";
 $text['message-enabled']['ar-eg'] = "";
 $text['message-enabled']['de-at'] = "Bitte geben Sie folgendes an: Aktiviert"; //copied from de-de
@@ -401,6 +420,7 @@ $text['message-enabled']['sv-se'] = "Ange: Aktiverad";
 $text['message-enabled']['uk-ua'] = "";
 
 $text['link-call-forward']['en-us'] = "Call Forward";
+$text['link-call-forward']['zh-cn'] = "呼叫转接";
 $text['link-call-forward']['en-gb'] = "Call Forward";
 $text['link-call-forward']['ar-eg'] = "";
 $text['link-call-forward']['de-at'] = "Ruf Weiterleitung"; //copied from de-de
@@ -422,6 +442,7 @@ $text['link-call-forward']['sv-se'] = "Vidarekoppling";
 $text['link-call-forward']['uk-ua'] = "";
 
 $text['label-user_list']['en-us'] = "User List";
+$text['label-user_list']['zh-cn'] = "用户列表";
 $text['label-user_list']['en-gb'] = "User List";
 $text['label-user_list']['ar-eg'] = "";
 $text['label-user_list']['de-at'] = "Benutzer Liste"; //copied from de-de
@@ -443,6 +464,7 @@ $text['label-user_list']['sv-se'] = "Användar-lista";
 $text['label-user_list']['uk-ua'] = "Список користувачів";
 
 $text['label-url']['en-us'] = "URL";
+$text['label-url']['zh-cn'] = "URL";
 $text['label-url']['en-gb'] = "URL";
 $text['label-url']['ar-eg'] = "";
 $text['label-url']['de-at'] = "URL"; //copied from de-de
@@ -464,6 +486,7 @@ $text['label-url']['sv-se'] = "URL";
 $text['label-url']['uk-ua'] = "URL";
 
 $text['label-timeout_destination']['en-us'] = "Timeout Destination";
+$text['label-timeout_destination']['zh-cn'] = "超时目的地";
 $text['label-timeout_destination']['en-gb'] = "Timeout Destination";
 $text['label-timeout_destination']['ar-eg'] = "";
 $text['label-timeout_destination']['de-at'] = "Time-Out Ziel"; //copied from de-de
@@ -485,6 +508,7 @@ $text['label-timeout_destination']['sv-se'] = "Timeout Destination";
 $text['label-timeout_destination']['uk-ua'] = "";
 
 $text['label-call_timeout']['en-us'] = "Call Timeout";
+$text['label-call_timeout']['zh-cn'] = "呼叫超时";
 $text['label-call_timeout']['en-gb'] = "Call Timeout";
 $text['label-call_timeout']['ar-eg'] = "";
 $text['label-call_timeout']['de-at'] = "Zeitüberschreitung des Anrufs"; //copied from de-de
@@ -506,6 +530,7 @@ $text['label-call_timeout']['sv-se'] = "Call Timeout";
 $text['label-call_timeout']['uk-ua'] = "";
 
 $text['label-timeout']['en-us'] = "Timeout";
+$text['label-timeout']['zh-cn'] = "超时时间";
 $text['label-timeout']['en-gb'] = "Timeout";
 $text['label-timeout']['ar-eg'] = "";
 $text['label-timeout']['de-at'] = "Time-Out"; //copied from de-de
@@ -527,6 +552,7 @@ $text['label-timeout']['sv-se'] = "Tidsgräns";
 $text['label-timeout']['uk-ua'] = "Таймаут";
 
 $text['label-text']['en-us'] = "Text";
+$text['label-text']['zh-cn'] = "文本";
 $text['label-text']['en-gb'] = "Text";
 $text['label-text']['ar-eg'] = "";
 $text['label-text']['de-at'] = "Text"; //copied from de-de
@@ -548,6 +574,7 @@ $text['label-text']['sv-se'] = "Text";
 $text['label-text']['uk-ua'] = "текст";
 
 $text['label-strategy']['en-us'] = "Strategy";
+$text['label-strategy']['zh-cn'] = "策略";
 $text['label-strategy']['en-gb'] = "Strategy";
 $text['label-strategy']['ar-eg'] = "";
 $text['label-strategy']['de-at'] = "Strategie"; //copied from de-de
@@ -569,6 +596,7 @@ $text['label-strategy']['sv-se'] = "Strategi";
 $text['label-strategy']['uk-ua'] = "";
 
 $text['label-ringback']['en-us'] = "Ring Back";
+$text['label-ringback']['zh-cn'] = "回铃音";
 $text['label-ringback']['en-gb'] = "Ring Back";
 $text['label-ringback']['ar-eg'] = "";
 $text['label-ringback']['de-at'] = "Ruf Ton"; //copied from de-de
@@ -590,6 +618,7 @@ $text['label-ringback']['sv-se'] = "Tillbakaringning";
 $text['label-ringback']['uk-ua'] = "";
 
 $text['label-ring-group-extension']['en-us'] = "Ring Group Extension";
+$text['label-ring-group-extension']['zh-cn'] = "振铃组分机号";
 $text['label-ring-group-extension']['en-gb'] = "Ring Group Extension";
 $text['label-ring-group-extension']['ar-eg'] = "";
 $text['label-ring-group-extension']['de-at'] = "Nebenstelle der Rufgruppe"; //copied from de-de
@@ -611,6 +640,7 @@ $text['label-ring-group-extension']['sv-se'] = "Ringgrupp Anknytning";
 $text['label-ring-group-extension']['uk-ua'] = "";
 
 $text['label-ring-group']['en-us'] = "Ring Group";
+$text['label-ring-group']['zh-cn'] = "振铃组";
 $text['label-ring-group']['en-gb'] = "Ring Group";
 $text['label-ring-group']['ar-eg'] = "";
 $text['label-ring-group']['de-at'] = "Rufgruppe"; //copied from de-de
@@ -632,6 +662,7 @@ $text['label-ring-group']['sv-se'] = "Ringgrupp";
 $text['label-ring-group']['uk-ua'] = "";
 
 $text['label-ring_group_call_forward_enabled']['en-us'] = "Call Forward";
+$text['label-ring_group_call_forward_enabled']['zh-cn'] = "呼叫转接";
 $text['label-ring_group_call_forward_enabled']['en-gb'] = "Call Forward";
 $text['label-ring_group_call_forward_enabled']['ar-eg'] = "Call Forward";
 $text['label-ring_group_call_forward_enabled']['de-at'] = "Call Forward"; //copied from de-de
@@ -653,6 +684,7 @@ $text['label-ring_group_call_forward_enabled']['sv-se'] = "Call Forward";
 $text['label-ring_group_call_forward_enabled']['uk-ua'] = "Call Forward";
 
 $text['label-ring_group_follow_me_enabled']['en-us'] = "Follow Me";
+$text['label-ring_group_follow_me_enabled']['zh-ch'] = "来电转移";
 $text['label-ring_group_follow_me_enabled']['en-gb'] = "Follow Me";
 $text['label-ring_group_follow_me_enabled']['ar-eg'] = "Follow Me";
 $text['label-ring_group_follow_me_enabled']['de-at'] = "Follow Me"; //copied from de-de
@@ -674,6 +706,7 @@ $text['label-ring_group_follow_me_enabled']['sv-se'] = "Follow Me";
 $text['label-ring_group_follow_me_enabled']['uk-ua'] = "Follow Me";
 
 $text['label-missed_call']['en-us'] = "Missed Call";
+$text['label-missed_call']['zh-cn'] = "未接来电";
 $text['label-missed_call']['en-gb'] = "Missed Call";
 $text['label-missed_call']['ar-eg'] = "";
 $text['label-missed_call']['de-at'] = "Verpasster Anruf"; //copied from de-de
@@ -695,6 +728,7 @@ $text['label-missed_call']['sv-se'] = "Missat Samtal";
 $text['label-missed_call']['uk-ua'] = "пропущений Дзвінок";
 
 $text['label-ring_group_forward']['en-us'] = "Ring Group Forward";
+$text['label-ring_group_forward']['zh-cn'] = "振铃组转发";
 $text['label-ring_group_forward']['en-gb'] = "Ring Group Forward";
 $text['label-ring_group_forward']['ar-eg'] = "إعادة توجيه";
 $text['label-ring_group_forward']['de-at'] = "Weiterleiten"; //copied from de-de
@@ -716,6 +750,7 @@ $text['label-ring_group_forward']['sv-se'] = "Spedition";
 $text['label-ring_group_forward']['uk-ua'] = "експедиція";
 
 $text['label-ring_group_forward_toll_allow']['en-us'] = "Forward Toll Allow";
+$text['label-ring_group_forward_toll_allow']['zh-cn'] = "允许转发";
 $text['label-ring_group_forward_toll_allow']['en-gb'] = "Forward Toll Allow";
 $text['label-ring_group_forward_toll_allow']['ar-eg'] = "Toll Allow إعادة ت وجيه";
 $text['label-ring_group_forward_toll_allow']['de-at'] = "Weiterleiten Toll Allow"; //copied from de-de
@@ -737,6 +772,7 @@ $text['label-ring_group_forward_toll_allow']['sv-se'] = "Spedition Toll Allow";
 $text['label-ring_group_forward_toll_allow']['uk-ua'] = "експедиція";
 
 $text['label-forward_destination']['en-us'] = "Number";
+$text['label-forward_destination']['zh-cn'] = "号码";
 $text['label-forward_destination']['en-gb'] = "Number";
 $text['label-forward_destination']['ar-eg'] = "";
 $text['label-forward_destination']['de-at'] = "Nummer"; //copied from de-de
@@ -758,6 +794,7 @@ $text['label-forward_destination']['sv-se'] = "Nummer";
 $text['label-forward_destination']['uk-ua'] = "";
 
 $text['label-extension']['en-us'] = "Extension";
+$text['label-extension']['zh-cn'] = "分机";
 $text['label-extension']['en-gb'] = "Extension";
 $text['label-extension']['ar-eg'] = "";
 $text['label-extension']['de-at'] = "Nebenstelle"; //copied from de-de
@@ -779,6 +816,7 @@ $text['label-extension']['sv-se'] = "Anknytning";
 $text['label-extension']['uk-ua'] = "Розширення (Extention)";
 
 $text['label-email']['en-us'] = "Email";
+$text['label-email']['zh-cn'] = "电子邮件";
 $text['label-email']['en-gb'] = "Email";
 $text['label-email']['ar-eg'] = "";
 $text['label-email']['de-at'] = "Email"; //copied from de-de
@@ -800,6 +838,7 @@ $text['label-email']['sv-se'] = "E-post";
 $text['label-email']['uk-ua'] = "Електронна пошта";
 
 $text['label-duration']['en-us'] = "Duration";
+$text['label-duration']['zh-cn'] = "持续时间";
 $text['label-duration']['en-gb'] = "Duration";
 $text['label-duration']['ar-eg'] = "";
 $text['label-duration']['de-at'] = "Dauer"; //copied from de-de
@@ -821,6 +860,7 @@ $text['label-duration']['sv-se'] = "Samtalstid";
 $text['label-duration']['uk-ua'] = "Тривалість";
 
 $text['label-distinctive_ring']['en-us'] = "Distinctive Ring";
+$text['label-distinctive_ring']['zh-cn'] = "区别振铃";
 $text['label-distinctive_ring']['en-gb'] = "Distinctive Ring";
 $text['label-distinctive_ring']['ar-eg'] = "";
 $text['label-distinctive_ring']['de-at'] = "Individueller Rufton"; //copied from de-de
@@ -842,6 +882,7 @@ $text['label-distinctive_ring']['sv-se'] = "Distinkt Ringning";
 $text['label-distinctive_ring']['uk-ua'] = "";
 
 $text['label-destinations']['en-us'] = "Destinations";
+$text['label-destinations']['zh-cn'] = "目的地";
 $text['label-destinations']['en-gb'] = "Destinations";
 $text['label-destinations']['ar-eg'] = "";
 $text['label-destinations']['de-at'] = "Ziele"; //copied from de-de
@@ -863,6 +904,7 @@ $text['label-destinations']['sv-se'] = "Destinationer";
 $text['label-destinations']['uk-ua'] = "Номери";
 
 $text['label-destination_timeout']['en-us'] = "Timeout";
+$text['label-destination_timeout']['zh-cn'] = "超时时间";
 $text['label-destination_timeout']['en-gb'] = "Timeout";
 $text['label-destination_timeout']['ar-eg'] = "";
 $text['label-destination_timeout']['de-at'] = "Abwurfzeit"; //copied from de-de
@@ -884,6 +926,7 @@ $text['label-destination_timeout']['sv-se'] = "Tidsgräns";
 $text['label-destination_timeout']['uk-ua'] = "Таймаут";
 
 $text['label-destination_prompt_confirm']['en-us'] = "Confirm";
+$text['label-destination_prompt_confirm']['zh-cn'] = "确认";
 $text['label-destination_prompt_confirm']['en-gb'] = "Confirm";
 $text['label-destination_prompt_confirm']['ar-eg'] = "";
 $text['label-destination_prompt_confirm']['de-at'] = "Bestätigen"; //copied from de-de
@@ -905,6 +948,7 @@ $text['label-destination_prompt_confirm']['sv-se'] = "Bekräfta";
 $text['label-destination_prompt_confirm']['uk-ua'] = "Підтвердити";
 
 $text['label-destination_prompt_announce']['en-us'] = "Announce";
+$text['label-destination_prompt_announce']['zh-cn'] = "通知";
 $text['label-destination_prompt_announce']['en-gb'] = "Announce";
 $text['label-destination_prompt_announce']['ar-eg'] = "";
 $text['label-destination_prompt_announce']['de-at'] = "Ankündigen"; //copied from de-de
@@ -926,6 +970,7 @@ $text['label-destination_prompt_announce']['sv-se'] = "Meddela";
 $text['label-destination_prompt_announce']['uk-ua'] = "";
 
 $text['label-destination_prompt']['en-us'] = "Prompt";
+$text['label-destination_prompt']['zh-cn'] = "提示";
 $text['label-destination_prompt']['en-gb'] = "Prompt";
 $text['label-destination_prompt']['ar-eg'] = "";
 $text['label-destination_prompt']['de-at'] = "Aufforderung"; //copied from de-de
@@ -947,6 +992,7 @@ $text['label-destination_prompt']['sv-se'] = "Verifiering";
 $text['label-destination_prompt']['uk-ua'] = "";
 
 $text['label-destination_order']['en-us'] = "Order";
+$text['label-destination_order']['zh-cn'] = "排序";
 $text['label-destination_order']['en-gb'] = "Order";
 $text['label-destination_order']['ar-eg'] = "";
 $text['label-destination_order']['de-at'] = "Reihenfolge"; //copied from de-de
@@ -968,6 +1014,7 @@ $text['label-destination_order']['sv-se'] = "Ordning";
 $text['label-destination_order']['uk-ua'] = "Порядок";
 
 $text['label-destination_number']['en-us'] = "Destination";
+$text['label-destination_number']['zh-cn'] = "目的地";
 $text['label-destination_number']['en-gb'] = "Destination";
 $text['label-destination_number']['ar-eg'] = "";
 $text['label-destination_number']['de-at'] = "Ziel"; //copied from de-de
@@ -989,6 +1036,7 @@ $text['label-destination_number']['sv-se'] = "Destination";
 $text['label-destination_number']['uk-ua'] = "Номер";
 
 $text['label-destination_delay']['en-us'] = "Delay";
+$text['label-destination_delay']['zh-cn'] = "延迟";
 $text['label-destination_delay']['en-gb'] = "Delay";
 $text['label-destination_delay']['ar-eg'] = "";
 $text['label-destination_delay']['de-at'] = "Verzögerung"; //copied from de-de
@@ -1010,6 +1058,7 @@ $text['label-destination_delay']['sv-se'] = "Fördröjning";
 $text['label-destination_delay']['uk-ua'] = "Затримка";
 
 $text['label-delay']['en-us'] = "Delay";
+$text['label-delay']['zh-cn'] = "延迟";
 $text['label-delay']['en-gb'] = "Delay";
 $text['label-delay']['ar-eg'] = "";
 $text['label-delay']['de-at'] = "Verzögerung"; //copied from de-de
@@ -1031,6 +1080,7 @@ $text['label-delay']['sv-se'] = "Fördröjning";
 $text['label-delay']['uk-ua'] = "Затримка";
 
 $text['label-context']['en-us'] = "Context";
+$text['label-context']['zh-cn'] = "Context";
 $text['label-context']['en-gb'] = "Context";
 $text['label-context']['ar-eg'] = "";
 $text['label-context']['de-at'] = "Kontext"; //copied from de-de
@@ -1052,6 +1102,7 @@ $text['label-context']['sv-se'] = "Context";
 $text['label-context']['uk-ua'] = "Контекст";
 
 $text['label-cid-number-prefix']['en-us'] = "CID Number Prefix";
+$text['label-cid-number-prefix']['zh-cn'] = "CID号码前缀";
 $text['label-cid-number-prefix']['en-gb'] = "CID Number Prefix";
 $text['label-cid-number-prefix']['ar-eg'] = "";
 $text['label-cid-number-prefix']['de-at'] = "Anruferkennung (Nummer) Präfix"; //copied from de-de
@@ -1073,6 +1124,7 @@ $text['label-cid-number-prefix']['sv-se'] = "Nummerpresentation";
 $text['label-cid-number-prefix']['uk-ua'] = "Caller ID Номер";
 
 $text['label-cid-name-prefix']['en-us'] = "CID Name Prefix";
+$text['label-cid-name-prefix']['zh-cn'] = "CID名称前缀";
 $text['label-cid-name-prefix']['en-gb'] = "CID Name Prefix";
 $text['label-cid-name-prefix']['ar-eg'] = "";
 $text['label-cid-name-prefix']['de-at'] = "Anruferkennung (Name) Präfix"; //copied from de-de
@@ -1094,6 +1146,7 @@ $text['label-cid-name-prefix']['sv-se'] = "Namnpresentation";
 $text['label-cid-name-prefix']['uk-ua'] = "Caller ID Ім’я";
 
 $text['label-call-forward']['en-us'] = "Call Forward";
+$text['label-call-forward']['zh-cn'] = "来电转接";
 $text['label-call-forward']['en-gb'] = "Call Forward";
 $text['label-call-forward']['ar-eg'] = "";
 $text['label-call-forward']['de-at'] = "Anruf Weiterleitung"; //copied from de-de
@@ -1115,6 +1168,7 @@ $text['label-call-forward']['sv-se'] = "Vidarekoppling";
 $text['label-call-forward']['uk-ua'] = "Переадресація";
 
 $text['label-forwarding']['en-us'] = "Forwarding";
+$text['label-forwarding']['zh-cn'] = "转接";
 $text['label-forwarding']['en-gb'] = "Forwarding";
 $text['label-forwarding']['ar-eg'] = "تحويل";
 $text['label-forwarding']['de-at'] = "Weiterleiten"; //copied from de-de
@@ -1136,6 +1190,7 @@ $text['label-forwarding']['sv-se'] = "Vidarekoppla";
 $text['label-forwarding']['uk-ua'] = "";
 
 $text['header-ring-group-forward']['en-us'] = "Ring Group Forward";
+$text['header-ring-group-forward']['zh-cn'] = "振铃组转接";
 $text['header-ring-group-forward']['en-gb'] = "Ring Group Forward";
 $text['header-ring-group-forward']['ar-eg'] = "";
 $text['header-ring-group-forward']['de-at'] = "Rufgruppe weiterleiten"; //copied from de-de
@@ -1157,6 +1212,7 @@ $text['header-ring-group-forward']['sv-se'] = "Ringgrupp Vidarekoppling";
 $text['header-ring-group-forward']['uk-ua'] = "";
 
 $text['header-description']['en-us'] = "Description";
+$text['header-description']['zh-cn'] = "描述";
 $text['header-description']['en-gb'] = "Description";
 $text['header-description']['ar-eg'] = "";
 $text['header-description']['de-at'] = "Beschreibung"; //copied from de-de
@@ -1178,6 +1234,7 @@ $text['header-description']['sv-se'] = "Beskrivning";
 $text['header-description']['uk-ua'] = "Опис";
 
 $text['description-user_list']['en-us'] = "Define users assigned to this ring group.";
+$text['description-user_list']['zh-cn'] = "定义分配给此振铃组的用户.";
 $text['description-user_list']['en-gb'] = "Define users assigned to this ring group.";
 $text['description-user_list']['ar-eg'] = "";
 $text['description-user_list']['de-at'] = "Weisen Sie diese Rufgruppe Benutzern zu."; //copied from de-de
@@ -1199,6 +1256,7 @@ $text['description-user_list']['sv-se'] = "Tilldela användare till denna ringgr
 $text['description-user_list']['uk-ua'] = "";
 
 $text['description-timeout_destination']['en-us'] = "Select the timeout destination for this ring group.";
+$text['description-timeout_destination']['zh-cn'] = "选择此振铃组的超时目的地.";
 $text['description-timeout_destination']['en-gb'] = "Select the timeout destination for this ring group.";
 $text['description-timeout_destination']['ar-eg'] = "";
 $text['description-timeout_destination']['de-at'] = "Wählen Sie das Abwurfziel für die Rufgruppe."; //copied from de-de
@@ -1220,6 +1278,7 @@ $text['description-timeout_destination']['sv-se'] = "Välj timeout destinationen
 $text['description-timeout_destination']['uk-ua'] = "";
 
 $text['description-timeout']['en-us'] = "Enter the total call timeout in seconds";
+$text['description-timeout']['zh-cn'] = "输入总呼叫超时时间（秒）";
 $text['description-timeout']['en-gb'] = "Enter the total call timeout in seconds";
 $text['description-timeout']['ar-eg'] = "";
 $text['description-timeout']['de-at'] = "Geben Sie das absolute Time-Out in Sekunden an."; //copied from de-de
@@ -1241,6 +1300,7 @@ $text['description-timeout']['sv-se'] = "Ange den totala samtals timeout tiden i
 $text['description-timeout']['uk-ua'] = "";
 
 $text['description-strategy']['en-us'] = "Select the ring strategy.";
+$text['description-strategy']['zh-cn'] = "选择振铃策略.";
 $text['description-strategy']['en-gb'] = "Select the ring strategy.";
 $text['description-strategy']['ar-eg'] = "";
 $text['description-strategy']['de-at'] = "Wählen Sie eine Strategie."; //copied from de-de
@@ -1262,6 +1322,7 @@ $text['description-strategy']['sv-se'] = "Välj strategi för ringflöde.";
 $text['description-strategy']['uk-ua'] = "";
 
 $text['description-skip_active']['en-us'] = "Skip destinations with active calls.";
+$text['description-skip_active']['zh-cn'] = "跳过当前通话的目的地.";
 $text['description-skip_active']['en-gb'] = "Skip destinations with active calls.";
 $text['description-skip_active']['ar-eg'] = "";
 $text['description-skip_active']['de-at'] = "Nebenstellen mit aktiven Gesprächen überspringen."; //copied from de-de
@@ -1283,6 +1344,7 @@ $text['description-skip_active']['sv-se'] = "Hoppa över destinationer med aktiv
 $text['description-skip_active']['uk-ua'] = "";
 
 $text['description-ringback']['en-us'] = "Defines what the caller will hear while the destination is being called.";
+$text['description-ringback']['zh-cn'] = "定义调用目的地时呼叫着将听到的内容.";
 $text['description-ringback']['en-gb'] = "Defines what the caller will hear while the destination is being called.";
 $text['description-ringback']['ar-eg'] = "";
 $text['description-ringback']['de-at'] = "Definiert was der Anrufer hört, während die Ziele angerufen werden."; //copied from de-de
@@ -1304,6 +1366,7 @@ $text['description-ringback']['sv-se'] = "Definierar vad inringande hör under t
 $text['description-ringback']['uk-ua'] = "";
 
 $text['description-ring-group-forward']['en-us'] = "Forward a called Ring Group to an alternate destination.";
+$text['description-ring-group-forward']['zh-cn'] = "将呼叫的振铃组转接到备用目的地.";
 $text['description-ring-group-forward']['en-gb'] = "Forward a called Ring Group to an alternate destination.";
 $text['description-ring-group-forward']['ar-eg'] = "";
 $text['description-ring-group-forward']['de-at'] = "Leitet Anrufe an ein alternatives Ziel weiter."; //copied from de-de
@@ -1325,6 +1388,7 @@ $text['description-ring-group-forward']['sv-se'] = "Vidarekoppla samtal till en 
 $text['description-ring-group-forward']['uk-ua'] = "Перенаправлення під назвою Ring Group в альтернативне місце призначення.";
 
 $text['description-name']['en-us'] = "Enter a name.";
+$text['description-name']['zh-cn'] = "输入名称.";
 $text['description-name']['en-gb'] = "Enter a name.";
 $text['description-name']['ar-eg'] = "";
 $text['description-name']['de-at'] = "Geben Sie einen Namen an."; //copied from de-de
@@ -1346,6 +1410,7 @@ $text['description-name']['sv-se'] = "Ange ett namn.";
 $text['description-name']['uk-ua'] = "Введіть назву меню";
 
 $text['description-ring_group_call_forward_enabled']['en-us'] = "Choose to follow a ring group destination's call forward.";
+$text['description-ring_group_call_forward_enabled']['zh-cn'] = "选择跟踪振铃组目的地的呼叫转接.";
 $text['description-ring_group_call_forward_enabled']['en-gb'] = "Choose to follow a ring group destination's call forward.";
 $text['description-ring_group_call_forward_enabled']['ar-eg'] = "Choose to follow a ring group destination's call forward.";
 $text['description-ring_group_call_forward_enabled']['de-at'] = "Choose to follow a ring group destination's call forward.";
@@ -1367,6 +1432,7 @@ $text['description-ring_group_call_forward_enabled']['sv-se'] = "Choose to follo
 $text['description-ring_group_call_forward_enabled']['uk-ua'] = "Choose to follow a ring group destination's call forward.";
 
 $text['description-ring_group_follow_me_enabled']['en-us'] = "Choose to follow a ring group destination's follow me.";
+$text['description-ring_group_follow_me_enabled']['zh-cn'] = "选择一个振铃组目的地的follow me.";
 $text['description-ring_group_follow_me_enabled']['en-gb'] = "Choose to follow a ring group destination's follow me.";
 $text['description-ring_group_follow_me_enabled']['ar-eg'] = "Choose to follow a ring group destination's follow me.";
 $text['description-ring_group_follow_me_enabled']['de-at'] = "Choose to follow a ring group destination's follow me.";
@@ -1388,6 +1454,7 @@ $text['description-ring_group_follow_me_enabled']['sv-se'] = "Choose to follow a
 $text['description-ring_group_follow_me_enabled']['uk-ua'] = "Choose to follow a ring group destination's follow me.";
 
 $text['description-missed_call']['en-us'] = "Select the notification type, and enter the appropriate destination.";
+$text['description-missed_call']['zh-cn'] = "选择通知类型，并输入相应的目的地.";
 $text['description-missed_call']['en-gb'] = "Select the notification type, and enter the appropriate destination.";
 $text['description-missed_call']['ar-eg'] = "";
 $text['description-missed_call']['de-at'] = "Wählen Sie den Benachrichtigungstyp und geben Sie das entsprechende Ziel an."; //copied from de-de
@@ -1409,6 +1476,7 @@ $text['description-missed_call']['sv-se'] = "Välj typ anmälan, och ange lämpl
 $text['description-missed_call']['uk-ua'] = "Виберіть тип повідомлення, і ввести відповідний пункт призначення.";
 
 $text['description-extension']['en-us'] = "Enter the extension number.";
+$text['description-extension']['zh-cn'] = "输入分机号.";
 $text['description-extension']['en-gb'] = "Enter the extension number.";
 $text['description-extension']['ar-eg'] = "";
 $text['description-extension']['de-at'] = "Geben Sie eine Nebenstelle an."; //copied from de-de
@@ -1430,6 +1498,7 @@ $text['description-extension']['sv-se'] = "Ange anknytningsnumret.";
 $text['description-extension']['uk-ua'] = "";
 
 $text['description-enter-context']['en-us'] = "Enter the context.";
+$text['description-enter-context']['zh-cn'] = "E输入context.";
 $text['description-enter-context']['en-gb'] = "Enter the context.";
 $text['description-enter-context']['ar-eg'] = "";
 $text['description-enter-context']['de-at'] = "Geben Sie den Kontext ein."; //copied from de-de
@@ -1451,6 +1520,7 @@ $text['description-enter-context']['sv-se'] = "Ange Context";
 $text['description-enter-context']['uk-ua'] = "";
 
 $text['description-enabled']['en-us'] = "Set the status of this ring group.";
+$text['description-enabled']['zh-cn'] = "设置振铃组的状态.";
 $text['description-enabled']['en-gb'] = "Set the status of this ring group.";
 $text['description-enabled']['ar-eg'] = "";
 $text['description-enabled']['de-at'] = "Setzen Sie den Status dieser Rufgruppe."; //copied from de-de
@@ -1472,6 +1542,7 @@ $text['description-enabled']['sv-se'] = "Ange status på denna ringgrupp.";
 $text['description-enabled']['uk-ua'] = "";
 
 $text['description-distinctive_ring']['en-us'] = "Select a sound for a distinctive ring.";
+$text['description-distinctive_ring']['zh-cn'] = "为不同的振铃选择声音.";
 $text['description-distinctive_ring']['en-gb'] = "Select a sound for a distinctive ring.";
 $text['description-distinctive_ring']['ar-eg'] = "";
 $text['description-distinctive_ring']['de-at'] = "Wählen Sie einen Ton für den individuellen Rufton."; //copied from de-de
@@ -1493,6 +1564,7 @@ $text['description-distinctive_ring']['sv-se'] = "Välj ett ljud för den distin
 $text['description-distinctive_ring']['uk-ua'] = "";
 
 $text['description-destinations']['en-us'] = "Add destinations and parameters to the ring group.";
+$text['description-destinations']['zh-cn'] = "向振铃组添加目的地和参数.";
 $text['description-destinations']['en-gb'] = "Add destinations and parameters to the ring group.";
 $text['description-destinations']['ar-eg'] = "";
 $text['description-destinations']['de-at'] = "Fügen Sie Ziele und Parameter zu einer Rufgruppe hinzu."; //copied from de-de
@@ -1514,6 +1586,7 @@ $text['description-destinations']['sv-se'] = "Lägg till destinationer och param
 $text['description-destinations']['uk-ua'] = "Вхідні номери можуть бути таких типів: DID/DDI, DNIS або Alias  для вхідних дзвінків";
 
 $text['description-caller_id_name']['en-us'] = "Set the caller ID name for outbound external calls.";
+$text['description-caller_id_name']['zh-cn'] = "设置出站外部呼叫的呼叫者ID名称.";
 $text['description-caller_id_name']['en-gb'] = "Set the caller ID name for outbound external calls.";
 $text['description-caller_id_name']['ar-eg'] = "";
 $text['description-caller_id_name']['de-at'] = "";
@@ -1535,6 +1608,7 @@ $text['description-caller_id_name']['sv-se'] = "";
 $text['description-caller_id_name']['uk-ua'] = "";
 
 $text['description-caller_id_number']['en-us'] = "Set the caller ID number for outbound external calls.";
+$text['description-caller_id_number']['zh-cn'] = "设置呼出外部电话的呼叫者ID号码.";
 $text['description-caller_id_number']['en-gb'] = "Set the caller ID number for outbound external calls.";
 $text['description-caller_id_number']['ar-eg'] = "";
 $text['description-caller_id_number']['de-at'] = "";
@@ -1556,6 +1630,7 @@ $text['description-caller_id_number']['sv-se'] = "";
 $text['description-caller_id_number']['uk-ua'] = "";
 
 $text['description-cid-number-prefix']['en-us'] = "Set a prefix on the caller ID number.";
+$text['description-cid-number-prefix']['zh-cn'] = "在来电号码上设置前缀.";
 $text['description-cid-number-prefix']['en-gb'] = "Set a prefix on the caller ID number.";
 $text['description-cid-number-prefix']['ar-eg'] = "";
 $text['description-cid-number-prefix']['de-at'] = "Setzen Sie ein Präfix für die Anruferkennung (Nummer)"; //copied from de-de
@@ -1577,6 +1652,7 @@ $text['description-cid-number-prefix']['sv-se'] = "Ange nummerpresentation prefi
 $text['description-cid-number-prefix']['uk-ua'] = "";
 
 $text['description-cid-name-prefix']['en-us'] = "Set a prefix on the caller ID name.";
+$text['description-cid-name-prefix']['zh-cn'] = "在呼叫者ID名称上设置前缀.";
 $text['description-cid-name-prefix']['en-gb'] = "Set a prefix on the caller ID name.";
 $text['description-cid-name-prefix']['ar-eg'] = "";
 $text['description-cid-name-prefix']['de-at'] = "Setzen Sie ein Präfix für die Anruferkennung (Name)"; //copied from de-de
@@ -1598,6 +1674,7 @@ $text['description-cid-name-prefix']['sv-se'] = "Ange namnpresentation prefix.";
 $text['description-cid-name-prefix']['uk-ua'] = "";
 
 $text['description']['en-us'] = "A ring group is a set of destinations that can be called with a ring strategy.";
+$text['description']['zh-cn'] = "振铃组是一组可以用振铃策略调用的目的地.";
 $text['description']['en-gb'] = "A ring group is a set of destinations that can be called with a ring strategy.";
 $text['description']['ar-eg'] = "";
 $text['description']['de-at'] = "Rufgruppen sind gruppierte Ziele, welche über eine vordefinierte Rufstrategie angerufen werden."; //copied from de-de
@@ -1619,6 +1696,7 @@ $text['description']['sv-se'] = "En ringgrupp är en uppsättning av destination
 $text['description']['uk-ua'] = "Редагування інформації облікового запису";
 
 $text['description-ring_group_forward_toll_allow']['en-us'] = "Ring group forwarding toll allow.";
+$text['description-ring_group_forward_toll_allow']['zh-cn'] = "允许环组转接长途电话.";
 $text['description-ring_group_forward_toll_allow']['en-gb'] = "Ring group forwarding toll allow.";
 $text['description-ring_group_forward_toll_allow']['ar-eg'] = "";
 $text['description-ring_group_forward_toll_allow']['de-at'] = "Ring group forwarding toll allow."; //copied from de-de
@@ -1640,6 +1718,7 @@ $text['description-ring_group_forward_toll_allow']['sv-se'] = "Ring group forwar
 $text['description-ring_group_forward_toll_allow']['uk-ua'] = "Ring group forwarding toll allow.";
 
 $text['button-view_all']['en-us'] = "View All";
+$text['button-view_all']['zh-cn'] = "查看全部";
 $text['button-view_all']['en-gb'] = "View All";
 $text['button-view_all']['ar-eg'] = "";
 $text['button-view_all']['de-at'] = "Alle anzeigen"; //copied from de-de

@@ -2633,7 +2633,7 @@ header('Expires: '.gmdate('D, d M Y H:i:s',time()+3600).' GMT');
 		}
 
 	.list-header > th.shrink {
-		width: 1%;
+		!width: 0%;
 		}
 
 	.list-header > th > a.default-color {

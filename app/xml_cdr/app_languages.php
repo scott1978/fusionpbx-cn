@@ -1,6 +1,7 @@
 <?php
 
 $text['title2']['en-us'] = "Call Details";
+$text['title2']['zh-cn'] = "呼叫信息";
 $text['title2']['en-gb'] = "Call Details";
 $text['title2']['ar-eg'] = "";
 $text['title2']['de-at'] = "Anruf Details"; //copied from de-de
@@ -22,6 +23,7 @@ $text['title2']['sv-se'] = "Samtalsdetaljer";
 $text['title2']['uk-ua'] = "Деталі дзвінка";
 
 $text['title-extension_summary']['en-us'] = "Extension Summary";
+$text['title-extension_summary']['zh-cn'] = "分机摘要";
 $text['title-extension_summary']['en-gb'] = "Extension Summary";
 $text['title-extension_summary']['ar-eg'] = "";
 $text['title-extension_summary']['de-at'] = "Nebenstellen Statistik"; //copied from de-de
@@ -43,6 +45,7 @@ $text['title-extension_summary']['sv-se'] = "Anknytnings Summering";
 $text['title-extension_summary']['uk-ua'] = "";
 
 $text['title']['en-us'] = "Call Detail Records";
+$text['title']['zh-cn'] = "呼叫记录";
 $text['title']['en-gb'] = "Call Detail Records";
 $text['title']['ar-eg'] = "";
 $text['title']['de-at'] = "Meine Gespräche"; //copied from de-de
@@ -64,6 +67,7 @@ $text['title']['sv-se'] = "Detaljerad Samtalsinformation";
 $text['title']['uk-ua'] = "Параметри облікового запису";
 
 $text['title-call_detail_records']['en-us'] = "Call Detail Records";
+$text['title-call_detail_records']['zh-cn'] = "呼叫记录";
 $text['title-call_detail_records']['en-gb'] = "Call Detail Records";
 $text['title-call_detail_records']['ar-eg'] = "";
 $text['title-call_detail_records']['de-at'] = "Meine Gespräche"; //copied from de-de
@@ -85,6 +89,7 @@ $text['title-call_detail_records']['sv-se'] = "Detaljerad Samtalsinformation";
 $text['title-call_detail_records']['uk-ua'] = "Параметри облікового запису";
 
 $text['title-call-statistics']['en-us'] = "Call Detail Record Statistics";
+$text['title-call-statistics']['zh-cn'] = "呼叫记录统计信息";
 $text['title-call-statistics']['en-gb'] = "Call Detail Record Statistics";
 $text['title-call-statistics']['ar-eg'] = "";
 $text['title-call-statistics']['de-at'] = "Anruf Statistiken"; //copied from de-de
@@ -106,6 +111,7 @@ $text['title-call-statistics']['sv-se'] = "Detaljerad Samtals-statistik";
 $text['title-call-statistics']['uk-ua'] = "";
 
 $text['title-call_detail_records_archive']['en-us'] = "Call Detail Records Archive";
+$text['title-call_detail_records_archive']['zh-cn'] = "呼叫记录存档";
 $text['title-call_detail_records_archive']['en-gb'] = "Call Detail Records Archive";
 $text['title-call_detail_records_archive']['ar-eg'] = "";
 $text['title-call_detail_records_archive']['de-at'] = "Meine Gespräche Archiv"; //copied from de-de
@@ -127,6 +133,7 @@ $text['title-call_detail_records_archive']['sv-se'] = "Detaljerad Samtalsinforma
 $text['title-call_detail_records_archive']['uk-ua'] = "Параметри облікового запису архів";
 
 $text['title-advanced_search']['en-us'] = "Advanced Search";
+$text['title-advanced_search']['zh-cn'] = "高级搜索";
 $text['title-advanced_search']['en-gb'] = "Advanced Search";
 $text['title-advanced_search']['ar-eg'] = "";
 $text['title-advanced_search']['de-at'] = "Erweiterte"; //copied from de-de
@@ -148,6 +155,7 @@ $text['title-advanced_search']['sv-se'] = "Avancerad";
 $text['title-advanced_search']['uk-ua'] = "";
 
 $text['table-time']['en-us'] = "Time";
+$text['table-time']['zh-cn'] = "时间";
 $text['table-time']['en-gb'] = "Time";
 $text['table-time']['ar-eg'] = "";
 $text['table-time']['de-at'] = "Zeit"; //copied from de-de
@@ -169,6 +177,7 @@ $text['table-time']['sv-se'] = "Tid";
 $text['table-time']['uk-ua'] = "Час";
 
 $text['table-name']['en-us'] = "Name";
+$text['table-name']['zh-cn'] = "名称";
 $text['table-name']['en-gb'] = "Name";
 $text['table-name']['ar-eg'] = "";
 $text['table-name']['de-at'] = "Name"; //copied from de-de
@@ -190,6 +199,7 @@ $text['table-name']['sv-se'] = "Namn";
 $text['table-name']['uk-ua'] = "Назва";
 
 $text['table-missed']['en-us'] = "Missed";
+$text['table-missed']['zh-cn'] = "未读消息";
 $text['table-missed']['en-gb'] = "Missed";
 $text['table-missed']['ar-eg'] = "";
 $text['table-missed']['de-at'] = "Verpasst"; //copied from de-de
@@ -211,6 +221,7 @@ $text['table-missed']['sv-se'] = "Missat";
 $text['table-missed']['uk-ua'] = "";
 
 $text['table-minutes']['en-us'] = "Minutes";
+$text['table-minutes']['zh-cn'] = "分钟";
 $text['table-minutes']['en-gb'] = "Minutes";
 $text['table-minutes']['ar-eg'] = "";
 $text['table-minutes']['de-at'] = "Minuten"; //copied from de-de
@@ -232,6 +243,7 @@ $text['table-minutes']['sv-se'] = "Minuter";
 $text['table-minutes']['uk-ua'] = "Хвилини";
 
 $text['table-hours']['en-us'] = "Hours";
+$text['table-hours']['zh-cn'] = "小时";
 $text['table-hours']['en-gb'] = "Hours";
 $text['table-hours']['ar-eg'] = "";
 $text['table-hours']['de-at'] = "Stunden"; //copied from de-de
@@ -253,6 +265,7 @@ $text['table-hours']['sv-se'] = "Timmar";
 $text['table-hours']['uk-ua'] = "Години";
 
 $text['table-end']['en-us'] = "End";
+$text['table-end']['zh-cn'] = "结束";
 $text['table-end']['en-gb'] = "End";
 $text['table-end']['ar-eg'] = "";
 $text['table-end']['de-at'] = "Ende"; //copied from de-de
@@ -274,6 +287,7 @@ $text['table-end']['sv-se'] = "Slut";
 $text['table-end']['uk-ua'] = "Кінець";
 
 $text['table-download']['en-us'] = "Number";
+$text['table-download']['zh-cn'] = "号码";
 $text['table-download']['en-gb'] = "Number";
 $text['table-download']['ar-eg'] = "";
 $text['table-download']['de-at'] = "Nummer"; //copied from de-de
@@ -295,6 +309,7 @@ $text['table-download']['sv-se'] = "Nummer";
 $text['table-download']['uk-ua'] = "Скачати";
 
 $text['table-direction']['en-us'] = "Direction";
+$text['table-direction']['zh-cn'] = "目的地";
 $text['table-direction']['en-gb'] = "Direction";
 $text['table-direction']['ar-eg'] = "";
 $text['table-direction']['de-at'] = "Richtung"; //copied from de-de
@@ -316,6 +331,7 @@ $text['table-direction']['sv-se'] = "Riktning";
 $text['table-direction']['uk-ua'] = "Напрям";
 
 $text['table-days']['en-us'] = "Days";
+$text['table-days']['zh-cn'] = "天";
 $text['table-days']['en-gb'] = "Days";
 $text['table-days']['ar-eg'] = "";
 $text['table-days']['de-at'] = "Tage"; //copied from de-de
@@ -337,6 +353,7 @@ $text['table-days']['sv-se'] = "Dagar";
 $text['table-days']['uk-ua'] = "Дні";
 
 $text['table-date']['en-us'] = "Date";
+$text['table-date']['zh-cn'] = "日期";
 $text['table-date']['en-gb'] = "Date";
 $text['table-date']['ar-eg'] = "";
 $text['table-date']['de-at'] = "Datum"; //copied from de-de
@@ -358,6 +375,7 @@ $text['table-date']['sv-se'] = "Datum";
 $text['table-date']['uk-ua'] = "Дата";
 
 $text['table-calls-per-minute']['en-us'] = "Calls Per Min";
+$text['table-calls-per-minute']['zh-cn'] = "每分钟呼叫数";
 $text['table-calls-per-minute']['en-gb'] = "Calls Per Min";
 $text['table-calls-per-minute']['ar-eg'] = "";
 $text['table-calls-per-minute']['de-at'] = "Anrufe pro Min"; //copied from de-de
@@ -379,6 +397,7 @@ $text['table-calls-per-minute']['sv-se'] = "Samtal Per Minut";
 $text['table-calls-per-minute']['uk-ua'] = "";
 
 $text['option-yesterday']['en-us'] = "Yesterday";
+$text['option-yesterday']['zh-cn'] = "昨天";
 $text['option-yesterday']['en-gb'] = "Yesterday";
 $text['option-yesterday']['ar-eg'] = "";
 $text['option-yesterday']['de-at'] = "Gestern"; //copied from de-de
@@ -400,6 +419,7 @@ $text['option-yesterday']['sv-se'] = "Igår";
 $text['option-yesterday']['uk-ua'] = "Вчора";
 
 $text['option-today']['en-us'] = "Today";
+$text['option-today']['zh-cn'] = "今天";
 $text['option-today']['en-gb'] = "Today";
 $text['option-today']['ar-eg'] = "";
 $text['option-today']['de-at'] = "Heute"; //copied from de-de
@@ -421,6 +441,7 @@ $text['option-today']['sv-se'] = "Idag";
 $text['option-today']['uk-ua'] = "Сьогодні";
 
 $text['option-this_year']['en-us'] = "This Year";
+$text['option-this_year']['zh-cn'] = "本年";
 $text['option-this_year']['en-gb'] = "This Year";
 $text['option-this_year']['ar-eg'] = "";
 $text['option-this_year']['de-at'] = "Dieses Jahr"; //copied from de-de
@@ -442,6 +463,7 @@ $text['option-this_year']['sv-se'] = "Detta Året";
 $text['option-this_year']['uk-ua'] = "Цього року";
 
 $text['option-this_week']['en-us'] = "This Week";
+$text['option-this_week']['zh-cn'] = "本周";
 $text['option-this_week']['en-gb'] = "This Week";
 $text['option-this_week']['ar-eg'] = "";
 $text['option-this_week']['de-at'] = "Diese Woche"; //copied from de-de
@@ -463,6 +485,7 @@ $text['option-this_week']['sv-se'] = "Denna Månaden";
 $text['option-this_week']['uk-ua'] = "Цього тижня";
 
 $text['option-this_month']['en-us'] = "This Month";
+$text['option-this_month']['zh-cn'] = "本月";
 $text['option-this_month']['en-gb'] = "This Month";
 $text['option-this_month']['ar-eg'] = "";
 $text['option-this_month']['de-at'] = "Diesen Monat"; //copied from de-de
@@ -484,6 +507,7 @@ $text['option-this_month']['sv-se'] = "Denna Månaden";
 $text['option-this_month']['uk-ua'] = "Цього місяця";
 
 $text['option-last_seven_days']['en-us'] = "Last 7 Days";
+$text['option-last_seven_days']['zh-cn'] = "最近7天";
 $text['option-last_seven_days']['en-gb'] = "Last 7 Days";
 $text['option-last_seven_days']['ar-eg'] = "";
 $text['option-last_seven_days']['de-at'] = "Letzte 7 Tage"; //copied from de-de
@@ -505,6 +529,7 @@ $text['option-last_seven_days']['sv-se'] = "Senaste 7 Dagarna";
 $text['option-last_seven_days']['uk-ua'] = "За останні 7 днів";
 
 $text['option-last_hour']['en-us'] = "Last Hour";
+$text['option-last_hour']['zh-cn'] = "最近1小时";
 $text['option-last_hour']['en-gb'] = "Last Hour";
 $text['option-last_hour']['ar-eg'] = "";
 $text['option-last_hour']['de-at'] = "Letzte Stunde"; //copied from de-de
@@ -526,6 +551,7 @@ $text['option-last_hour']['sv-se'] = "Senaste Timman";
 $text['option-last_hour']['uk-ua'] = "За останню годину";
 
 $text['option-default']['en-us'] = "Default";
+$text['option-default']['zh-cn'] = "默认";
 $text['option-default']['en-gb'] = "Default";
 $text['option-default']['ar-eg'] = "";
 $text['option-default']['de-at'] = "Vorgabe"; //copied from de-de
@@ -547,6 +573,7 @@ $text['option-default']['sv-se'] = "Standard";
 $text['option-default']['uk-ua'] = "Типово";
 
 $text['message-preparing_download']['en-us'] = "Preparing file for download, please wait...";
+$text['message-preparing_download']['zh-cn'] = "正在准备下载文件，请稍候...";
 $text['message-preparing_download']['en-gb'] = "Preparing file for download, please wait...";
 $text['message-preparing_download']['ar-eg'] = "";
 $text['message-preparing_download']['de-at'] = "Bereite Datei für den Download vor, bitte warten..."; //copied from de-de
@@ -568,6 +595,7 @@ $text['message-preparing_download']['sv-se'] = "Förbereder fil för nedladdning
 $text['message-preparing_download']['uk-ua'] = "Підготовка файлу для завантаження,  зачекайте, будь ласка...";
 
 $text['label-write_codec']['en-us'] = "Write Codec";
+$text['label-write_codec']['zh-cn'] = "编写编解码器";
 $text['label-write_codec']['en-gb'] = "Write Codec";
 $text['label-write_codec']['ar-eg'] = "";
 $text['label-write_codec']['de-at'] = "Schreib Codec"; //copied from de-de
@@ -589,6 +617,7 @@ $text['label-write_codec']['sv-se'] = "Write Codec";
 $text['label-write_codec']['uk-ua'] = "Кодеки запису";
 
 $text['label-voicemail']['en-us'] = "Voicemail";
+$text['label-voicemail']['zh-cn'] = "语音信箱";
 $text['label-voicemail']['en-gb'] = "Voicemail";
 $text['label-voicemail']['ar-eg'] = "";
 $text['label-voicemail']['de-at'] = "Mailbox"; //copied from de-de
@@ -610,6 +639,7 @@ $text['label-voicemail']['sv-se'] = "Röstbrevlåda";
 $text['label-voicemail']['uk-ua'] = "Голосова пошта";
 
 $text['label-variables']['en-us'] = "Variables";
+$text['label-variables']['zh-cn'] = "变量";
 $text['label-variables']['en-gb'] = "Variables";
 $text['label-variables']['ar-eg'] = "";
 $text['label-variables']['de-at'] = "Variablen"; //copied from de-de
@@ -631,6 +661,7 @@ $text['label-variables']['sv-se'] = "Variabler";
 $text['label-variables']['uk-ua'] = "Змінні";
 
 $text['label-call-stats']['en-us'] = "Call Stats: Audio";
+$text['label-call-stats']['zh-cn'] = "呼叫信息: 音频";
 $text['label-call-stats']['en-gb'] = "Call Stats: Audio";
 $text['label-call-stats']['ar-eg'] = "";
 $text['label-call-stats']['de-at'] = "";
@@ -652,6 +683,7 @@ $text['label-call-stats']['sv-se'] = "";
 $text['label-call-stats']['uk-ua'] = "";
 
 $text['label-uuid']['en-us'] = "UUID";
+$text['label-uuid']['zh-cn'] = "UUID";
 $text['label-uuid']['en-gb'] = "UUID";
 $text['label-uuid']['ar-eg'] = "";
 $text['label-uuid']['de-at'] = "UUID"; //copied from de-de
@@ -673,6 +705,7 @@ $text['label-uuid']['sv-se'] = "UUID";
 $text['label-uuid']['uk-ua'] = "UUID ";
 
 $text['label-username']['en-us'] = "Username";
+$text['label-username']['zh-cn'] = "用户名";
 $text['label-username']['en-gb'] = "Username";
 $text['label-username']['ar-eg'] = "";
 $text['label-username']['de-at'] = "Benutzername"; //copied from de-de
@@ -694,6 +727,7 @@ $text['label-username']['sv-se'] = "Användarnamn";
 $text['label-username']['uk-ua'] = "Ім’я користувача";
 
 $text['label-tta']['en-us'] = "TTA";
+$text['label-tta']['zh-cn'] = "TTA";
 $text['label-tta']['en-gb'] = "TTA";
 $text['label-tta']['ar-eg'] = "";
 $text['label-tta']['de-at'] = "ZZB"; //copied from de-de
@@ -715,6 +749,7 @@ $text['label-tta']['sv-se'] = "TTA";
 $text['label-tta']['uk-ua'] = "";
 
 $text['label-pdd']['en-us'] = "PDD";
+$text['label-pdd']['zh-cn'] = "拨号延迟";
 $text['label-pdd']['en-gb'] = "PDD";
 $text['label-pdd']['ar-eg'] = "";
 $text['label-pdd']['de-at'] = "PDD"; //copied from de-de
@@ -736,6 +771,7 @@ $text['label-pdd']['sv-se'] = "PDD";
 $text['label-pdd']['uk-ua'] = "";
 
 $text['label-mos']['en-us'] = "MOS";
+$text['label-mos']['zh-cn'] = "满意度";
 $text['label-mos']['en-gb'] = "MOS";
 $text['label-mos']['ar-eg'] = "";
 $text['label-mos']['de-at'] = "MM"; //copied from de-de
@@ -757,6 +793,7 @@ $text['label-mos']['sv-se'] = "MOS";
 $text['label-mos']['uk-ua'] = "";
 
 $text['label-total']['en-us'] = "Total";
+$text['label-total']['zh-cn'] = "总计";
 $text['label-total']['en-gb'] = "Total";
 $text['label-total']['ar-eg'] = "";
 $text['label-total']['de-at'] = "Summe"; //copied from de-de
@@ -778,6 +815,7 @@ $text['label-total']['sv-se'] = "Totalt";
 $text['label-total']['uk-ua'] = "Всього";
 
 $text['label-tools']['en-us'] = "Tools";
+$text['label-tools']['zh-cn'] = "工具";
 $text['label-tools']['en-gb'] = "Tools";
 $text['label-tools']['ar-eg'] = "";
 $text['label-tools']['de-at'] = "Funktionen"; //copied from de-de
@@ -799,6 +837,7 @@ $text['label-tools']['sv-se'] = "Verktyg";
 $text['label-tools']['uk-ua'] = "Параметри";
 
 $text['label-to']['en-us'] = "To";
+$text['label-to']['zh-cn'] = "到";
 $text['label-to']['en-gb'] = "To";
 $text['label-to']['ar-eg'] = "";
 $text['label-to']['de-at'] = "Bis"; //copied from de-de
@@ -820,6 +859,7 @@ $text['label-to']['sv-se'] = "Till";
 $text['label-to']['uk-ua'] = "До";
 
 $text['label-summary']['en-us'] = "Summary";
+$text['label-summary']['zh-cn'] = "摘要";
 $text['label-summary']['en-gb'] = "Summary";
 $text['label-summary']['ar-eg'] = "";
 $text['label-summary']['de-at'] = "Zusammenfassung"; //copied from de-de
@@ -841,6 +881,7 @@ $text['label-summary']['sv-se'] = "Summa";
 $text['label-summary']['uk-ua'] = "";
 
 $text['label-call_flow_summary']['en-us'] = "Call Flow Summary";
+$text['label-call_flow_summary']['zh-cn'] = "呼叫流程摘要";
 $text['label-call_flow_summary']['en-gb'] = "";
 $text['label-call_flow_summary']['ar-eg'] = "";
 $text['label-call_flow_summary']['de-at'] = ""; //copied from de-de
@@ -862,6 +903,7 @@ $text['label-call_flow_summary']['sv-se'] = "";
 $text['label-call_flow_summary']['uk-ua'] = "";
 
 $text['label-status']['en-us'] = "Status";
+$text['label-status']['zh-cn'] = "状态";
 $text['label-status']['en-gb'] = "Status";
 $text['label-status']['ar-eg'] = "";
 $text['label-status']['de-at'] = "Status"; //copied from de-de
@@ -883,6 +925,7 @@ $text['label-status']['sv-se'] = "Status";
 $text['label-status']['uk-ua'] = "Статус";
 
 $text['label-start_range']['en-us'] = "Start Range";
+$text['label-start_range']['zh-cn'] = "开始范围";
 $text['label-start_range']['en-gb'] = "Start Range";
 $text['label-start_range']['ar-eg'] = "";
 $text['label-start_range']['de-at'] = "Start Bereich"; //copied from de-de
@@ -904,6 +947,7 @@ $text['label-start_range']['sv-se'] = "Intervall start";
 $text['label-start_range']['uk-ua'] = "";
 
 $text['label-start_date_time']['en-us'] = "Start Date/Time";
+$text['label-start_date_time']['zh-cn'] = "开始日期/时间";
 $text['label-start_date_time']['en-gb'] = "Start Date/Time";
 $text['label-start_date_time']['ar-eg'] = "";
 $text['label-start_date_time']['de-at'] = "Start Datum/Zeit"; //copied from de-de
@@ -925,6 +969,7 @@ $text['label-start_date_time']['sv-se'] = "Start Datum/Tid";
 $text['label-start_date_time']['uk-ua'] = "";
 
 $text['label-start']['en-us'] = "Start";
+$text['label-start']['zh-cn'] = "开始";
 $text['label-start']['en-gb'] = "Start";
 $text['label-start']['ar-eg'] = "";
 $text['label-start']['de-at'] = "Start"; //copied from de-de
@@ -946,6 +991,7 @@ $text['label-start']['sv-se'] = "Starta";
 $text['label-start']['uk-ua'] = "Запустити";
 
 $text['label-source']['en-us'] = "Source";
+$text['label-source']['zh-cn'] = "来源";
 $text['label-source']['en-gb'] = "Source";
 $text['label-source']['ar-eg'] = "";
 $text['label-source']['de-at'] = "Quelle"; //copied from de-de
@@ -967,6 +1013,7 @@ $text['label-source']['sv-se'] = "Källa";
 $text['label-source']['uk-ua'] = "Джерело";
 
 $text['label-result']['en-us'] = "Result";
+$text['label-result']['zh-cn'] = "结果";
 $text['label-result']['en-gb'] = "Result";
 $text['label-result']['ar-eg'] = "";
 $text['label-result']['de-at'] = "Ergebnis"; //copied from de-de
@@ -988,6 +1035,7 @@ $text['label-result']['sv-se'] = "Resultat";
 $text['label-result']['uk-ua'] = "Результат";
 
 $text['label-remote_media_ip']['en-us'] = "Remote Media IP";
+$text['label-remote_media_ip']['zh-cn'] = "远程媒体IP";
 $text['label-remote_media_ip']['en-gb'] = "Remote Media IP";
 $text['label-remote_media_ip']['ar-eg'] = "";
 $text['label-remote_media_ip']['de-at'] = "Remote Media IP"; //copied from de-de
@@ -1009,6 +1057,7 @@ $text['label-remote_media_ip']['sv-se'] = "Remote Media IP";
 $text['label-remote_media_ip']['uk-ua'] = "";
 
 $text['label-recording']['en-us'] = "Recording";
+$text['label-recording']['zh-cn'] = "录音";
 $text['label-recording']['en-gb'] = "Recording";
 $text['label-recording']['ar-eg'] = "";
 $text['label-recording']['de-at'] = "Aufnahme"; //copied from de-de
@@ -1030,6 +1079,7 @@ $text['label-recording']['sv-se'] = "Inspelning";
 $text['label-recording']['uk-ua'] = "Запис";
 
 $text['label-read_codec']['en-us'] = "Read Codec";
+$text['label-read_codec']['zh-cn'] = "读取编解码器";
 $text['label-read_codec']['en-gb'] = "Read Codec";
 $text['label-read_codec']['ar-eg'] = "";
 $text['label-read_codec']['de-at'] = "Lese Codec"; //copied from de-de
@@ -1051,6 +1101,7 @@ $text['label-read_codec']['sv-se'] = "Read Codec";
 $text['label-read_codec']['uk-ua'] = "";
 
 $text['label-price']['en-us'] = "Price";
+$text['label-price']['zh-cn'] = "价格";
 $text['label-price']['en-gb'] = "Price";
 $text['label-price']['ar-eg'] = "";
 $text['label-price']['de-at'] = "Preis"; //copied from de-de
@@ -1072,6 +1123,7 @@ $text['label-price']['sv-se'] = "Pris";
 $text['label-price']['uk-ua'] = "Ціна";
 
 $text['label-preset']['en-us'] = "Quick Select";
+$text['label-preset']['zh-cn'] = "快速选择";
 $text['label-preset']['en-gb'] = "Quick Select";
 $text['label-preset']['ar-eg'] = "";
 $text['label-preset']['de-at'] = "Schnellauswahl"; //copied from de-de
@@ -1093,6 +1145,7 @@ $text['label-preset']['sv-se'] = "Snabbval";
 $text['label-preset']['uk-ua'] = "Швидкий вибір";
 
 $text['label-play']['en-us'] = "Play";
+$text['label-play']['zh-cn'] = "播放";
 $text['label-play']['en-gb'] = "Play";
 $text['label-play']['ar-eg'] = "";
 $text['label-play']['de-at'] = "Abspielen"; //copied from de-de
@@ -1114,6 +1167,7 @@ $text['label-play']['sv-se'] = "Spela Upp";
 $text['label-play']['uk-ua'] = "Відтворити";
 
 $text['label-phoneip']['en-us'] = "Phone IP";
+$text['label-phoneip']['zh-cn'] = "IP电话";
 $text['label-phoneip']['en-gb'] = "Phone IP";
 $text['label-phoneip']['ar-eg'] = "";
 $text['label-phoneip']['de-at'] = "Geräte IP"; //copied from de-de
@@ -1135,6 +1189,7 @@ $text['label-phoneip']['sv-se'] = "Telefon IP";
 $text['label-phoneip']['uk-ua'] = "";
 
 $text['label-pause']['en-us'] = "Pause";
+$text['label-pause']['zh-cn'] = "暂停";
 $text['label-pause']['en-gb'] = "Pause";
 $text['label-pause']['ar-eg'] = "";
 $text['label-pause']['de-at'] = "Pause"; //copied from de-de
@@ -1156,6 +1211,7 @@ $text['label-pause']['sv-se'] = "Paus";
 $text['label-pause']['uk-ua'] = "Призупинити";
 
 $text['label-outbound_duration']['en-us'] = "Outbound Duration";
+$text['label-outbound_duration']['zh-cn'] = "出站时长";
 $text['label-outbound_duration']['en-gb'] = "Outbound Duration";
 $text['label-outbound_duration']['ar-eg'] = "";
 $text['label-outbound_duration']['de-at'] = "Ausgehend Dauer"; //copied from de-de
@@ -1177,6 +1233,7 @@ $text['label-outbound_duration']['sv-se'] = "Utgående Samtalstid";
 $text['label-outbound_duration']['uk-ua'] = "";
 
 $text['label-outbound_calls']['en-us'] = "Outbound Calls";
+$text['label-outbound_calls']['zh-cn'] = "出站呼叫";
 $text['label-outbound_calls']['en-gb'] = "Outbound Calls";
 $text['label-outbound_calls']['ar-eg'] = "";
 $text['label-outbound_calls']['de-at'] = "Ausgehende Anrufe"; //copied from de-de
@@ -1198,6 +1255,7 @@ $text['label-outbound_calls']['sv-se'] = "Utgående Samtal";
 $text['label-outbound_calls']['uk-ua'] = "";
 
 $text['label-outbound']['en-us'] = "Outbound";
+$text['label-outbound']['zh-cn'] = "出站";
 $text['label-outbound']['en-gb'] = "Outbound";
 $text['label-outbound']['ar-eg'] = "";
 $text['label-outbound']['de-at'] = "Ausgehend"; //copied from de-de
@@ -1219,6 +1277,7 @@ $text['label-outbound']['sv-se'] = "Utgående";
 $text['label-outbound']['uk-ua'] = "";
 
 $text['label-number_alias']['en-us'] = "Number Alias";
+$text['label-number_alias']['zh-cn'] = "号码别名";
 $text['label-number_alias']['en-gb'] = "Number Alias";
 $text['label-number_alias']['ar-eg'] = "";
 $text['label-number_alias']['de-at'] = "Alternative Nummer"; //copied from de-de
@@ -1240,6 +1299,7 @@ $text['label-number_alias']['sv-se'] = "Nummer Alias";
 $text['label-number_alias']['uk-ua'] = "Псевдонім номера";
 
 $text['label-number']['en-us'] = "Number";
+$text['label-number']['zh-cn'] = "号码";
 $text['label-number']['en-gb'] = "Number";
 $text['label-number']['ar-eg'] = "";
 $text['label-number']['de-at'] = "Nummer"; //copied from de-de
@@ -1261,6 +1321,7 @@ $text['label-number']['sv-se'] = "Nummer";
 $text['label-number']['uk-ua'] = "Номер";
 
 $text['label-no_answer']['en-us'] = "CC Missed";
+$text['label-no_answer']['zh-cn'] = "跳过呼叫中心";
 $text['label-no_answer']['en-gb'] = "CC Missed";
 $text['label-no_answer']['ar-eg'] = "";
 $text['label-no_answer']['de-at'] = "Callcenter verpasst"; //copied from de-de
@@ -1282,6 +1343,7 @@ $text['label-no_answer']['sv-se'] = "Callcenter missat";
 $text['label-no_answer']['uk-ua'] = "Кол-центр пропущено";
 
 $text['label-network_addr']['en-us'] = "Network Address";
+$text['label-network_addr']['zh-cn'] = "网络地址";
 $text['label-network_addr']['en-gb'] = "Network Address";
 $text['label-network_addr']['ar-eg'] = "";
 $text['label-network_addr']['de-at'] = "Netzwerk Adresse"; //copied from de-de
@@ -1303,6 +1365,7 @@ $text['label-network_addr']['sv-se'] = "Nätverks-adress";
 $text['label-network_addr']['uk-ua'] = "";
 
 $text['label-mos_score']['en-us'] = "MOS Score";
+$text['label-mos_score']['zh-cn'] = "MOS分数";
 $text['label-mos_score']['en-gb'] = "MOS Score";
 $text['label-mos_score']['ar-eg'] = "";
 $text['label-mos_score']['de-at'] = "MOS Score"; //copied from de-de
@@ -1324,6 +1387,7 @@ $text['label-mos_score']['sv-se'] = "MOS Värde";
 $text['label-mos_score']['uk-ua'] = "";
 
 $text['label-mos_score-1']['en-us'] = "Bad";
+$text['label-mos_score-1']['zh-cn'] = "极差";
 $text['label-mos_score-1']['en-gb'] = "Bad";
 $text['label-mos_score-1']['ar-eg'] = "سيئة";
 $text['label-mos_score-1']['de-at'] = "Schlecht"; //copied from de-de
@@ -1345,6 +1409,7 @@ $text['label-mos_score-1']['sv-se'] = " Jätte Dålig";
 $text['label-mos_score-1']['uk-ua'] = "поганий";
 
 $text['label-mos_score-2']['en-us'] = "Poor";
+$text['label-mos_score-2']['zh-cn'] = "差";
 $text['label-mos_score-2']['en-gb'] = "Poor";
 $text['label-mos_score-2']['ar-eg'] = "فقير";
 $text['label-mos_score-2']['de-at'] = "Arm"; //copied from de-de
@@ -1366,6 +1431,7 @@ $text['label-mos_score-2']['sv-se'] = "Dålig";
 $text['label-mos_score-2']['uk-ua'] = "бідних";
 
 $text['label-mos_score-3']['en-us'] = "Fair";
+$text['label-mos_score-3']['zh-cn'] = "一般";
 $text['label-mos_score-3']['en-gb'] = "Fair";
 $text['label-mos_score-3']['ar-eg'] = "معرض";
 $text['label-mos_score-3']['de-at'] = "Gerecht"; //copied from de-de
@@ -1387,6 +1453,7 @@ $text['label-mos_score-3']['sv-se'] = "Ganska Bra";
 $text['label-mos_score-3']['uk-ua'] = "чесний";
 
 $text['label-mos_score-4']['en-us'] = "Good";
+$text['label-mos_score-4']['zh-cn'] = "好";
 $text['label-mos_score-4']['en-gb'] = "Good";
 $text['label-mos_score-4']['ar-eg'] = "جيد";
 $text['label-mos_score-4']['de-at'] = "Gut"; //copied from de-de
@@ -1408,6 +1475,7 @@ $text['label-mos_score-4']['sv-se'] = "Bra";
 $text['label-mos_score-4']['uk-ua'] = "добре";
 
 $text['label-mos_score-5']['en-us'] = "Excellent";
+$text['label-mos_score-5']['zh-cn'] = "优秀";
 $text['label-mos_score-5']['en-gb'] = "Excellent";
 $text['label-mos_score-5']['ar-eg'] = "ممتاز";
 $text['label-mos_score-5']['de-at'] = "Ausgezeichnet"; //copied from de-de
@@ -1429,6 +1497,7 @@ $text['label-mos_score-5']['sv-se'] = "Utmärkt";
 $text['label-mos_score-5']['uk-ua'] = "відмінно";
 
 $text['label-name']['en-us'] = "Name";
+$text['label-name']['zh-cn'] = "名称";
 $text['label-name']['en-gb'] = "Name";
 $text['label-name']['ar-eg'] = "";
 $text['label-name']['de-at'] = "Name"; //copied from de-de
@@ -1450,6 +1519,7 @@ $text['label-name']['sv-se'] = "Namn";
 $text['label-name']['uk-ua'] = "Назва";
 
 $text['label-missed']['en-us'] = "Missed";
+$text['label-missed']['zh-cn'] = "无法接通";
 $text['label-missed']['en-gb'] = "Missed";
 $text['label-missed']['ar-eg'] = "";
 $text['label-missed']['de-at'] = "Verpasst"; //copied from de-de
@@ -1471,6 +1541,7 @@ $text['label-missed']['sv-se'] = "Missade";
 $text['label-missed']['uk-ua'] = "";
 
 $text['label-local']['en-us'] = "Local";
+$text['label-local']['zh-cn'] = "本地";
 $text['label-local']['en-gb'] = "Local";
 $text['label-local']['ar-eg'] = "";
 $text['label-local']['de-at'] = "Lokal"; //copied from de-de
@@ -1492,6 +1563,7 @@ $text['label-local']['sv-se'] = "Lokal";
 $text['label-local']['uk-ua'] = "Локальний";
 
 $text['label-include_internal']['en-us'] = "Include Internal";
+$text['label-include_internal']['zh-cn'] = "包括内部";
 $text['label-include_internal']['en-gb'] = "Include Internal";
 $text['label-include_internal']['ar-eg'] = "";
 $text['label-include_internal']['de-at'] = "Intern hinzufügen"; //copied from de-de
@@ -1513,6 +1585,7 @@ $text['label-include_internal']['sv-se'] = "Inkludera Interna";
 $text['label-include_internal']['uk-ua'] = "";
 
 $text['label-inbound_duration']['en-us'] = "Inbound Duration";
+$text['label-inbound_duration']['zh-cn'] = "入站时长";
 $text['label-inbound_duration']['en-gb'] = "Inbound Duration";
 $text['label-inbound_duration']['ar-eg'] = "";
 $text['label-inbound_duration']['de-at'] = "Eingehend Dauer"; //copied from de-de
@@ -1534,6 +1607,7 @@ $text['label-inbound_duration']['sv-se'] = "Inkommande Samtalstid";
 $text['label-inbound_duration']['uk-ua'] = "";
 
 $text['label-inbound_calls']['en-us'] = "Inbound Calls";
+$text['label-inbound_calls']['zh-cn'] = "入站呼叫";
 $text['label-inbound_calls']['en-gb'] = "Inbound Calls";
 $text['label-inbound_calls']['ar-eg'] = "";
 $text['label-inbound_calls']['de-at'] = "Eingehende Anrufe"; //copied from de-de
@@ -1555,6 +1629,7 @@ $text['label-inbound_calls']['sv-se'] = "Inkommande Samtal";
 $text['label-inbound_calls']['uk-ua'] = "";
 
 $text['label-inbound']['en-us'] = "Inbound";
+$text['label-inbound']['zh-cn'] = "入站";
 $text['label-inbound']['en-gb'] = "Inbound";
 $text['label-inbound']['ar-eg'] = "";
 $text['label-inbound']['de-at'] = "Eingehend"; //copied from de-de
@@ -1576,6 +1651,7 @@ $text['label-inbound']['sv-se'] = "Inkommande";
 $text['label-inbound']['uk-ua'] = "Вихідний";
 
 $text['label-hangup_cause']['en-us'] = "Hangup Cause";
+$text['label-hangup_cause']['zh-cn'] = "挂断原因";
 $text['label-hangup_cause']['en-gb'] = "Hangup Cause";
 $text['label-hangup_cause']['ar-eg'] = "";
 $text['label-hangup_cause']['de-at'] = "Hangup Ursache"; //copied from de-de
@@ -1597,6 +1673,7 @@ $text['label-hangup_cause']['sv-se'] = "Hangup Orsak";
 $text['label-hangup_cause']['uk-ua'] = "Hangup Причина";
 
 $text['label-from']['en-us'] = "From";
+$text['label-from']['zh-cn'] = "从";
 $text['label-from']['en-gb'] = "From";
 $text['label-from']['ar-eg'] = "";
 $text['label-from']['de-at'] = "Von"; //copied from de-de
@@ -1618,6 +1695,7 @@ $text['label-from']['sv-se'] = "Från";
 $text['label-from']['uk-ua'] = "";
 
 $text['label-failed']['en-us'] = "Failed";
+$text['label-failed']['zh-cn'] = "失败";
 $text['label-failed']['en-gb'] = "Failed";
 $text['label-failed']['ar-eg'] = "";
 $text['label-failed']['de-at'] = "Fehlgeschlagen"; //copied from de-de
@@ -1639,6 +1717,7 @@ $text['label-failed']['sv-se'] = "Misslyckad";
 $text['label-failed']['uk-ua'] = "";
 
 $text['label-extension']['en-us'] = "Extension";
+$text['label-extension']['zh-cn'] = "分机";
 $text['label-extension']['en-gb'] = "Extension";
 $text['label-extension']['ar-eg'] = "";
 $text['label-extension']['de-at'] = "Durchwahl"; //copied from de-de
@@ -1660,6 +1739,7 @@ $text['label-extension']['sv-se'] = "Anknytning";
 $text['label-extension']['uk-ua'] = "Розширення (Extention)";
 
 $text['label-ext']['en-us'] = "Ext.";
+$text['label-ext']['zh-cn'] = "分机号";
 $text['label-ext']['en-gb'] = "Ext.";
 $text['label-ext']['ar-eg'] = "";
 $text['label-ext']['de-at'] = "Dur"; //copied from de-de
@@ -1681,6 +1761,7 @@ $text['label-ext']['sv-se'] = "Ank";
 $text['label-ext']['uk-ua'] = "Роз";
 
 $text['label-end_stamp']['en-us'] = "End";
+$text['label-end_stamp']['zh-cn'] = "结束";
 $text['label-end_stamp']['en-gb'] = "End";
 $text['label-end_stamp']['ar-eg'] = "";
 $text['label-end_stamp']['de-at'] = "Ende"; //copied from de-de
@@ -1702,6 +1783,7 @@ $text['label-end_stamp']['sv-se'] = "Slut";
 $text['label-end_stamp']['uk-ua'] = "";
 
 $text['label-end_range']['en-us'] = "End Range";
+$text['label-end_range']['zh-cn'] = "结束范围";
 $text['label-end_range']['en-gb'] = "End Range";
 $text['label-end_range']['ar-eg'] = "";
 $text['label-end_range']['de-at'] = "Ende Bereich"; //copied from de-de
@@ -1723,6 +1805,7 @@ $text['label-end_range']['sv-se'] = "Intervall Slut";
 $text['label-end_range']['uk-ua'] = "";
 
 $text['label-end_date_time']['en-us'] = "End Date/Time";
+$text['label-end_date_time']['zh-cn'] = "结束日期/时间";
 $text['label-end_date_time']['en-gb'] = "End Date/Time";
 $text['label-end_date_time']['ar-eg'] = "";
 $text['label-end_date_time']['de-at'] = "Ende Datum/Zeit"; //copied from de-de
@@ -1744,6 +1827,7 @@ $text['label-end_date_time']['sv-se'] = "Slut Datum/Tid";
 $text['label-end_date_time']['uk-ua'] = "";
 
 $text['label-duration']['en-us'] = "Duration";
+$text['label-duration']['zh-cn'] = "通话时长";
 $text['label-duration']['en-gb'] = "Duration";
 $text['label-duration']['ar-eg'] = "";
 $text['label-duration']['de-at'] = "Dauer"; //copied from de-de
@@ -1765,6 +1849,7 @@ $text['label-duration']['sv-se'] = "Samtalstid";
 $text['label-duration']['uk-ua'] = "Тривалість";
 
 $text['label-download']['en-us'] = "Download";
+$text['label-download']['zh-cn'] = "下载";
 $text['label-download']['en-gb'] = "Download";
 $text['label-download']['ar-eg'] = "";
 $text['label-download']['de-at'] = "Download"; //copied from de-de
@@ -1786,6 +1871,7 @@ $text['label-download']['sv-se'] = "Ladda Ned";
 $text['label-download']['uk-ua'] = "Завантажини";
 
 $text['label-domain-name']['en-us'] = "Domain Name";
+$text['label-domain-name']['zh-cn'] = "域名";
 $text['label-domain-name']['en-gb'] = "Domain Name";
 $text['label-domain-name']['ar-eg'] = "";
 $text['label-domain-name']['de-at'] = "Domain Name"; //copied from de-de
@@ -1807,6 +1893,7 @@ $text['label-domain-name']['sv-se'] = "Domän Namn";
 $text['label-domain-name']['uk-ua'] = "";
 
 $text['label-domain']['en-us'] = "Domain";
+$text['label-domain']['zh-cn'] = "域";
 $text['label-domain']['en-gb'] = "Domain";
 $text['label-domain']['ar-eg'] = "";
 $text['label-domain']['de-at'] = "Domain"; //copied from de-de
@@ -1828,6 +1915,7 @@ $text['label-domain']['sv-se'] = "Domän";
 $text['label-domain']['uk-ua'] = "Домен";
 
 $text['label-direction']['en-us'] = "Direction";
+$text['label-direction']['zh-cn'] = "方向";
 $text['label-direction']['en-gb'] = "Direction";
 $text['label-direction']['ar-eg'] = "";
 $text['label-direction']['de-at'] = "Richtung"; //copied from de-de
@@ -1849,6 +1937,7 @@ $text['label-direction']['sv-se'] = "Riktning";
 $text['label-direction']['uk-ua'] = "";
 
 $text['label-destination']['en-us'] = "Destination";
+$text['label-destination']['zh-cn'] = "目的地";
 $text['label-destination']['en-gb'] = "Destination";
 $text['label-destination']['ar-eg'] = "";
 $text['label-destination']['de-at'] = "Ziel"; //copied from de-de
@@ -1870,6 +1959,7 @@ $text['label-destination']['sv-se'] = "Destination";
 $text['label-destination']['uk-ua'] = "Номер";
 
 $text['label-data']['en-us'] = "Data";
+$text['label-data']['zh-cn'] = "数据";
 $text['label-data']['en-gb'] = "Data";
 $text['label-data']['ar-eg'] = "";
 $text['label-data']['de-at'] = "Daten"; //copied from de-de
@@ -1891,6 +1981,7 @@ $text['label-data']['sv-se'] = "Data";
 $text['label-data']['uk-ua'] = "Дані";
 
 $text['label-context']['en-us'] = "Context";
+$text['label-context']['zh-cn'] = "Context";
 $text['label-context']['en-gb'] = "Context";
 $text['label-context']['ar-eg'] = "";
 $text['label-context']['de-at'] = "Kontext"; //copied from de-de
@@ -1912,6 +2003,7 @@ $text['label-context']['sv-se'] = "Context";
 $text['label-context']['uk-ua'] = "Контекст";
 
 $text['label-channel']['en-us'] = "Channel Data";
+$text['label-channel']['zh-cn'] = "通道数据";
 $text['label-channel']['en-gb'] = "Channel Data";
 $text['label-channel']['ar-eg'] = "";
 $text['label-channel']['de-at'] = "Kanal Daten"; //copied from de-de
@@ -1933,6 +2025,7 @@ $text['label-channel']['sv-se'] = "Channel Data";
 $text['label-channel']['uk-ua'] = "";
 
 $text['label-cancelled']['en-us'] = "Cancelled";
+$text['label-cancelled']['zh-cn'] = "已取消";
 $text['label-cancelled']['en-gb'] = "Cancelled";
 $text['label-cancelled']['ar-eg'] = "ألغيت";
 $text['label-cancelled']['de-at'] = "Abgebrochen"; //copied from de-de
@@ -1954,6 +2047,7 @@ $text['label-cancelled']['sv-se'] = "Avbröts";
 $text['label-cancelled']['uk-ua'] = "скасовано";
 
 $text['label-caller_id']['en-us'] = "Caller ID";
+$text['label-caller_id']['zh-cn'] = "来电号码";
 $text['label-caller_id']['en-gb'] = "Caller ID";
 $text['label-caller_id']['ar-eg'] = "CID";
 $text['label-caller_id']['de-at'] = "CID";
@@ -1975,6 +2069,7 @@ $text['label-caller_id']['sv-se'] = "CID";
 $text['label-caller_id']['uk-ua'] = "CID";
 
 $text['label-caller_id_name']['en-us'] = "Caller Name";
+$text['label-caller_id_name']['zh-cn'] = "来电姓名";
 $text['label-caller_id_name']['en-gb'] = "Caller Name";
 $text['label-caller_id_name']['ar-eg'] = "";
 $text['label-caller_id_name']['de-at'] = "Anrufer Name"; //copied from de-de
@@ -1996,6 +2091,7 @@ $text['label-caller_id_name']['sv-se'] = "CID Namn";
 $text['label-caller_id_name']['uk-ua'] = "CID Ім’я";
 
 $text['label-caller_id_number']['en-us'] = "Caller Number";
+$text['label-caller_id_number']['zh-cn'] = "来电号码";
 $text['label-caller_id_number']['en-gb'] = "Caller Number";
 $text['label-caller_id_number']['ar-eg'] = "";
 $text['label-caller_id_number']['de-at'] = "Anrufer Nummer"; //copied from de-de
@@ -2017,6 +2113,7 @@ $text['label-caller_id_number']['sv-se'] = "CID, Nummer";
 $text['label-caller_id_number']['uk-ua'] = "CID Номер";
 
 $text['label-caller_destination']['en-us'] = "Caller Destination";
+$text['label-caller_destination']['zh-cn'] = "来电目的地";
 $text['label-caller_destination']['en-gb'] = "Caller Destination";
 $text['label-caller_destination']['ar-eg'] = "";
 $text['label-caller_destination']['de-at'] = "Rufziel"; //copied from de-de
@@ -2038,6 +2135,7 @@ $text['label-caller_destination']['sv-se'] = "";
 $text['label-caller_destination']['uk-ua'] = "";
 
 $text['label-call-statistics-description']['en-us'] = "Call Detail Records Statics summarize the call information.";
+$text['label-call-statistics-description']['zh-cn'] = "通话记录统计信息汇总.";
 $text['label-call-statistics-description']['en-gb'] = "Call Detail Records Statics summarize the call information.";
 $text['label-call-statistics-description']['ar-eg'] = "";
 $text['label-call-statistics-description']['de-at'] = "Anruf Statistiken fassen alle Anrufinformationen zusammen."; //copied from de-de
@@ -2059,6 +2157,7 @@ $text['label-call-statistics-description']['sv-se'] = "Detaljerad Samtals-statis
 $text['label-call-statistics-description']['uk-ua'] = "";
 
 $text['label-call-flow-5']['en-us'] = "Call Flow: Times";
+$text['label-call-flow-5']['zh-cn'] = "呼叫流程: 次数";
 $text['label-call-flow-5']['en-gb'] = "Call Flow: Times";
 $text['label-call-flow-5']['ar-eg'] = "";
 $text['label-call-flow-5']['de-at'] = "Anruf Steuerung: Zeiten"; //copied from de-de
@@ -2080,6 +2179,7 @@ $text['label-call-flow-5']['sv-se'] = "Samtals Flöden: Tider";
 $text['label-call-flow-5']['uk-ua'] = "";
 
 $text['label-call-flow-4']['en-us'] = "Call Flow: Caller Profile";
+$text['label-call-flow-4']['zh-cn'] = "呼叫流程: 来电配置";
 $text['label-call-flow-4']['en-gb'] = "Call Flow: Caller Profile";
 $text['label-call-flow-4']['ar-eg'] = "";
 $text['label-call-flow-4']['de-at'] = "Anruf Steuerung: Anrufer Profil"; //copied from de-de
@@ -2101,6 +2201,7 @@ $text['label-call-flow-4']['sv-se'] = "Samtals Flöden: Samtals Profil";
 $text['label-call-flow-4']['uk-ua'] = "";
 
 $text['label-call-flow-3']['en-us'] = "Call Flow: Extension: Application";
+$text['label-call-flow-3']['zh-cn'] = "呼叫流程: 分机: 应用";
 $text['label-call-flow-3']['en-gb'] = "Call Flow: Extension: Application";
 $text['label-call-flow-3']['ar-eg'] = "";
 $text['label-call-flow-3']['de-at'] = "Anruf Steuerung: Nebenstelle: Applikation"; //copied from de-de
@@ -2122,6 +2223,7 @@ $text['label-call-flow-3']['sv-se'] = "Samtals Flöden: Anknytning: Applikation"
 $text['label-call-flow-3']['uk-ua'] = "";
 
 $text['label-call-flow-2']['en-us'] = "Call Flow: Extension: Attributes";
+$text['label-call-flow-2']['en-us'] = "呼叫流程: 分机: 属性设置";
 $text['label-call-flow-2']['en-gb'] = "Call Flow: Extension: Attributes";
 $text['label-call-flow-2']['ar-eg'] = "";
 $text['label-call-flow-2']['de-at'] = "Anruf Steuerung: Nebenstelle: Attribute"; //copied from de-de
@@ -2143,6 +2245,7 @@ $text['label-call-flow-2']['sv-se'] = "Samtals Flöden: Anknytning: Attribut";
 $text['label-call-flow-2']['uk-ua'] = "";
 
 $text['label-call-flow']['en-us'] = "Call Flow: Attributes";
+$text['label-call-flow']['zh-cn'] = "呼叫流程: 属性设置";
 $text['label-call-flow']['en-gb'] = "Call Flow: Attributes";
 $text['label-call-flow']['ar-eg'] = "";
 $text['label-call-flow']['de-at'] = "Anruf Steuerung: Attribute"; //copied from de-de
@@ -2164,6 +2267,7 @@ $text['label-call-flow']['sv-se'] = "Samtals Flöden: Attribut";
 $text['label-call-flow']['uk-ua'] = "";
 
 $text['label-busy']['en-us'] = "Busy";
+$text['label-busy']['zh-cn'] = "忙";
 $text['label-busy']['en-gb'] = "Busy";
 $text['label-busy']['ar-eg'] = "";
 $text['label-busy']['de-at'] = "Besetzt"; //copied from de-de
@@ -2185,6 +2289,7 @@ $text['label-busy']['sv-se'] = "Upptagen";
 $text['label-busy']['uk-ua'] = "Зайнято";
 
 $text['label-bridge_uuid']['en-us'] = "Bridge UUID";
+$text['label-bridge_uuid']['zh-cn'] = "桥 UUID";
 $text['label-bridge_uuid']['en-gb'] = "Bridge UUID";
 $text['label-bridge_uuid']['ar-eg'] = "";
 $text['label-bridge_uuid']['de-at'] = "Bridge UUID"; //copied from de-de
@@ -2206,6 +2311,7 @@ $text['label-bridge_uuid']['sv-se'] = "Bridge UUID";
 $text['label-bridge_uuid']['uk-ua'] = "";
 
 $text['label-billsec']['en-us'] = "Bill Seconds";
+$text['label-billsec']['zh-cn'] = "计费秒数";
 $text['label-billsec']['en-gb'] = "Bill Seconds";
 $text['label-billsec']['ar-eg'] = "";
 $text['label-billsec']['de-at'] = "Abrechnung Sekunden"; //copied from de-de
@@ -2227,6 +2333,7 @@ $text['label-billsec']['sv-se'] = "Debitering Sekunder";
 $text['label-billsec']['uk-ua'] = "";
 
 $text['label-b-leg']['en-us'] = "B-leg";
+$text['label-b-leg']['zh-cn'] = "B-leg";
 $text['label-b-leg']['en-gb'] = "B-leg";
 $text['label-b-leg']['ar-eg'] = "";
 $text['label-b-leg']['de-at'] = "B-Zweig"; //copied from de-de
@@ -2248,6 +2355,7 @@ $text['label-b-leg']['sv-se'] = "B-part";
 $text['label-b-leg']['uk-ua'] = "";
 
 $text['label-average']['en-us'] = "Average";
+$text['label-average']['zh-cn'] = "平均值";
 $text['label-average']['en-gb'] = "Average";
 $text['label-average']['ar-eg'] = "";
 $text['label-average']['de-at'] = "Durchschnitt"; //copied from de-de
@@ -2269,6 +2377,7 @@ $text['label-average']['sv-se'] = "Medel";
 $text['label-average']['uk-ua'] = "";
 
 $text['label-application-log']['en-us'] = "Application Log";
+$text['label-application-log']['zh-cn'] = "应用日志";
 $text['label-application-log']['en-gb'] = "Application Log";
 $text['label-application-log']['ar-eg'] = "";
 $text['label-application-log']['de-at'] = "Applikations Log"; //copied from de-de
@@ -2290,6 +2399,7 @@ $text['label-application-log']['sv-se'] = "Apllikations Log";
 $text['label-application-log']['uk-ua'] = "";
 
 $text['label-answered']['en-us'] = "Answered";
+$text['label-answered']['zh-cn'] = "已应答";
 $text['label-answered']['en-gb'] = "Answered";
 $text['label-answered']['ar-eg'] = "تم الرد";
 $text['label-answered']['de-at'] = "Angenommen"; //copied from de-de
@@ -2311,6 +2421,7 @@ $text['label-answered']['sv-se'] = "Besvarad";
 $text['label-answered']['uk-ua'] = "відповів";
 
 $text['label-answer_range']['en-us'] = "Answer Range";
+$text['label-answer_range']['zh-cn'] = "应答范围";
 $text['label-answer_range']['en-gb'] = "Answer Range";
 $text['label-answer_range']['ar-eg'] = "";
 $text['label-answer_range']['de-at'] = "Antwort Bereich"; //copied from de-de
@@ -2332,6 +2443,7 @@ $text['label-answer_range']['sv-se'] = "Svarstid";
 $text['label-answer_range']['uk-ua'] = "";
 
 $text['label-answer']['en-us'] = "Answer";
+$text['label-answer']['zh-cn'] = "应答";
 $text['label-answer']['en-gb'] = "Answer";
 $text['label-answer']['ar-eg'] = "";
 $text['label-answer']['de-at'] = "Antwort"; //copied from de-de
@@ -2353,6 +2465,7 @@ $text['label-answer']['sv-se'] = "Besvarat";
 $text['label-answer']['uk-ua'] = "";
 
 $text['label-aloc']['en-us'] = "ALOC";
+$text['label-aloc']['zh-cn'] = "平均通话次数";
 $text['label-aloc']['en-gb'] = "ALOC";
 $text['label-aloc']['ar-eg'] = "";
 $text['label-aloc']['de-at'] = "ALOC"; //copied from de-de
@@ -2374,6 +2487,7 @@ $text['label-aloc']['sv-se'] = "ALOC";
 $text['label-aloc']['uk-ua'] = "";
 
 $text['label-accountcode']['en-us'] = "Account Code";
+$text['label-accountcode']['zh-cn'] = "账户代码";
 $text['label-accountcode']['en-gb'] = "Account Code";
 $text['label-accountcode']['ar-eg'] = "";
 $text['label-accountcode']['de-at'] = "Account Code"; //copied from de-de
@@ -2395,6 +2509,7 @@ $text['label-accountcode']['sv-se'] = "Account Code";
 $text['label-accountcode']['uk-ua'] = "";
 
 $text['label-a-leg']['en-us'] = "A-leg";
+$text['label-a-leg']['zh-cn'] = "A-leg";
 $text['label-a-leg']['en-gb'] = "A-leg";
 $text['label-a-leg']['ar-eg'] = "";
 $text['label-a-leg']['de-at'] = "A-Zweig"; //copied from de-de
@@ -2416,6 +2531,7 @@ $text['label-a-leg']['sv-se'] = "A-part";
 $text['label-a-leg']['uk-ua'] = "";
 
 $text['label-order']['en-us'] = "Order";
+$text['label-order']['zh-cn'] = "排序";
 $text['label-order']['en-gb'] = "Order";
 $text['label-order']['ar-eg'] = "Order";
 $text['label-order']['de-at'] = "Order";
@@ -2437,6 +2553,7 @@ $text['label-order']['sv-se'] = "Order";
 $text['label-order']['uk-ua'] = "Order";
 
 $text['label-custom_cdr_fields']['en-us'] = "Custom";
+$text['label-custom_cdr_fields']['zh-cn'] = "自定义";
 $text['label-custom_cdr_fields']['en-gb'] = "Custom";
 $text['label-custom_cdr_fields']['ar-eg'] = "Custom";
 $text['label-custom_cdr_fields']['de-at'] = "Custom";
@@ -2458,6 +2575,7 @@ $text['label-custom_cdr_fields']['sv-se'] = "Custom";
 $text['label-custom_cdr_fields']['uk-ua'] = "Custom";
 
 $text['label-minimum']['en-us'] = "Minimum";
+$text['label-minimum']['zh-cn'] = "最小值";
 $text['label-minimum']['en-gb'] = "Minimum";
 $text['label-minimum']['ar-eg'] = "Minimum";
 $text['label-minimum']['de-at'] = "Minimum";
@@ -2479,6 +2597,7 @@ $text['label-minimum']['sv-se'] = "Minimum";
 $text['label-minimum']['uk-ua'] = "Minimum";
 
 $text['label-maximum']['en-us'] = "Maximum";
+$text['label-maximum']['zh-cn'] = "最大值";
 $text['label-maximum']['en-gb'] = "Maximum";
 $text['label-maximum']['ar-eg'] = "Maximum";
 $text['label-maximum']['de-at'] = "Maximum";
@@ -2500,6 +2619,7 @@ $text['label-maximum']['sv-se'] = "Maximum";
 $text['label-maximum']['uk-ua'] = "Maximum";
 
 $text['label-seconds']['en-us'] = "Sec";
+$text['label-seconds']['zh-cn'] = "秒";
 $text['label-seconds']['en-gb'] = "Sec";
 $text['label-seconds']['ar-eg'] = "Sec";
 $text['label-seconds']['de-at'] = "Sec";
@@ -2521,6 +2641,7 @@ $text['label-seconds']['sv-se'] = "Sec";
 $text['label-seconds']['uk-ua'] = "Sec";
 
 $text['label-format']['en-us'] = "Format";
+$text['label-format']['zh-cn'] = "格式";
 $text['label-format']['en-gb'] = "Format";
 $text['label-format']['ar-eg'] = "Format";
 $text['label-format']['de-at'] = "Format";
@@ -2542,6 +2663,7 @@ $text['label-format']['sv-se'] = "Format";
 $text['label-format']['uk-ua'] = "Format";
 
 $text['description_search']['en-us'] = "<u>Note</u>: Destination and Caller ID (CID) Name fields support the use of an <i>asterisk</i> ('*') as a wildcard character.";
+$text['description_search']['zh-cn'] = "<u>注意</u>: 目的地和呼叫者ID CID名称字段支持使用 <i>*</i> 作为通配符.";
 $text['description_search']['en-gb'] = "<u>Note</u>: Destination and Caller ID (CID) Name fields support the use of an <i>asterisk</i> ('*') as a wildcard character.";
 $text['description_search']['ar-eg'] = "";
 $text['description_search']['de-at'] = "Info: Ziel und Anruferkennung (CID) Namesfelder unterstützen die Verwendung von Stern ('*') als Wildcard Zeichen."; //copied from de-de
@@ -2563,6 +2685,7 @@ $text['description_search']['sv-se'] = "Notera : Källa, Destination och Nummerp
 $text['description_search']['uk-ua'] = "";
 
 $text['description-7']['en-us'] = "Call variables, call flow, timing information, and other useful call details.";
+$text['description-7']['zh-cn'] = "呼叫变量、呼叫流、计时信息和其他有用的呼叫详细信息.";
 $text['description-7']['en-gb'] = "Call variables, call flow, timing information, and other useful call details.";
 $text['description-7']['ar-eg'] = "";
 $text['description-7']['de-at'] = "Anruf Variablen, Ruf-Ablauf, Zeit Information und andere nützliche Anruf Details"; //copied from de-de
@@ -2584,6 +2707,7 @@ $text['description-7']['sv-se'] = "Samtalsvariabler, samtalsflöden, tidsinforma
 $text['description-7']['uk-ua'] = "";
 
 $text['description-6']['en-us'] = "The information contains caller id name and number, channel data, ";
+$text['description-6']['zh-cn'] = "该信息包含来电名称和号码、通道数据, ";
 $text['description-6']['en-gb'] = "The information contains caller id name and number, channel data, ";
 $text['description-6']['ar-eg'] = "";
 $text['description-6']['de-at'] = "Die Information beinhaltet Anruferkennung (Name, Nummer) und Kanal-Daten."; //copied from de-de
@@ -2605,6 +2729,7 @@ $text['description-6']['sv-se'] = "Informationen innehåller presentation av nam
 $text['description-6']['uk-ua'] = "";
 
 $text['description-5']['en-us'] = "A detailed view of the call and all information regarding it.";
+$text['description-5']['zh-cn'] = "通话的详细视图和所有相关信息.";
 $text['description-5']['en-gb'] = "A detailed view of the call and all information regarding it.";
 $text['description-5']['ar-eg'] = "";
 $text['description-5']['de-at'] = "Eine detaillierte Ansicht des Anrufes mit allen zugehörigen Informationen."; //copied from de-de
@@ -2626,6 +2751,7 @@ $text['description-5']['sv-se'] = "En detaljerad vy av samtalet och information 
 $text['description-5']['uk-ua'] = "";
 
 $text['description-4']['en-us'] = "Records in the call list can be saved locally using the Export button.";
+$text['description-4']['zh-cn'] = "可以使用“导出”按钮在本地保存通话列表中的记录.";
 $text['description-4']['en-gb'] = "Records in the call list can be saved locally using the Export button.";
 $text['description-4']['ar-eg'] = "";
 $text['description-4']['de-at'] = "Datensätze in der Anruferliste können mittels der Export-Funktion lokal gespeichert werden."; //copied from de-de
@@ -2647,6 +2773,7 @@ $text['description-4']['sv-se'] = "Sedan visa samtalen i listan eller hämta dem
 $text['description-4']['uk-ua'] = "";
 
 $text['description-3']['en-us'] = "Use the fields to filter the information for the specific call records that are desired.";
+$text['description-3']['zh-cn'] = "使用字段过滤所需特定通话记录的信息.";
 $text['description-3']['en-gb'] = "Use the fields to filter the information for the specific call records that are desired.";
 $text['description-3']['ar-eg'] = "";
 $text['description-3']['de-at'] = "Benutzen Sie die Felder um Informationen betreffend spezifischer Anrufe zu filtern."; //copied from de-de
@@ -2668,6 +2795,7 @@ $text['description-3']['sv-se'] = "Använd fälten för att filtrera fram det ö
 $text['description-3']['uk-ua'] = "";
 
 $text['description-2']['en-us'] = "The information contains source, destination, duration, and other useful call details.";
+$text['description-2']['zh-cn'] = "该信息包含源、目的地、持续时间和其他有用的呼叫详细信息.";
 $text['description-2']['en-gb'] = "The information contains source, destination, duration, and other useful call details.";
 $text['description-2']['ar-eg'] = "";
 $text['description-2']['de-at'] = "Die Information beinhaltet Quelle, Ziel, Dauer und andere nützliche Details."; //copied from de-de
@@ -2689,6 +2817,7 @@ $text['description-2']['sv-se'] = "Informationen innehåller källa, destination
 $text['description-2']['uk-ua'] = "";
 
 $text['description']['en-us'] = "Call Detail Records (CDRs) are detailed information on the calls.";
+$text['description']['zh-cn'] = "通话详细记录（CDR）是有关通话的详细信息.";
 $text['description']['en-gb'] = "Call Detail Records (CDRs) are detailed information on the calls.";
 $text['description']['ar-eg'] = "";
 $text['description']['de-at'] = "Call Detail Records (CDRs) enthalten detaiilierte Informationen zu den Anrufen"; //copied from de-de
@@ -2710,6 +2839,7 @@ $text['description']['sv-se'] = "Detaljerad Samtalsinformation (CDR) är detalje
 $text['description']['uk-ua'] = "Редагування інформації облікового запису";
 
 $text['description-tta']['en-us'] = "Time to answer";
+$text['description-tta']['zh-cn'] = "应答时间";
 $text['description-tta']['en-gb'] = "Time to answer";
 $text['description-tta']['ar-eg'] = "الوقت للإجابة";
 $text['description-tta']['de-at'] = "Zeit zu beantworten"; //copied from de-de
@@ -2731,6 +2861,7 @@ $text['description-tta']['sv-se'] = "Dags att svara";
 $text['description-tta']['uk-ua'] = "час відповіді";
 
 $text['description-pdd']['en-us'] = "Post dial delay";
+$text['description-pdd']['zh-cn'] = "拨号后延迟";
 $text['description-pdd']['en-gb'] = "Post dial delay";
 $text['description-pdd']['ar-eg'] = "تأخير الاتصال الهاتفي";
 $text['description-pdd']['de-at'] = "Pfostenwahlverzögerung"; //copied from de-de
@@ -2752,6 +2883,7 @@ $text['description-pdd']['sv-se'] = "Sänd fördröjning";
 $text['description-pdd']['uk-ua'] = "Повідомлення затримки набору";
 
 $text['description-mos']['en-us'] = "Mean opinion score";
+$text['description-mos']['zh-cn'] = "满意度平均分";
 $text['description-mos']['en-gb'] = "Mean opinion score";
 $text['description-mos']['ar-eg'] = "يعني النتيجة الرأي";
 $text['description-mos']['de-at'] = "Mittlere Meinungsbewertung"; //copied from de-de
@@ -2773,6 +2905,7 @@ $text['description-mos']['sv-se'] = "Genomsnittlig bedömning poäng";
 $text['description-mos']['uk-ua'] = "Середнє число думок";
 
 $text['description-aloc']['en-us'] = "Average Length of Call";
+$text['description-aloc']['zh-cn'] = "平均通话时间";
 $text['description-aloc']['en-gb'] = "Average Length of Call";
 $text['description-aloc']['ar-eg'] = "متوسط طول المحادثة";
 $text['description-aloc']['de-at'] = "Durchschnittliche Gesprächsdauer";
@@ -2794,6 +2927,7 @@ $text['description-aloc']['sv-se'] = "Genomsnittlig konversationslängd";
 $text['description-aloc']['uk-ua'] = "Середня тривалість розмови";
 
 $text['button-archive']['en-us'] = "Archive";
+$text['button-archive']['zh-cn'] = "存档";
 $text['button-archive']['en-gb'] = "Archive";
 $text['button-archive']['ar-eg'] = "";
 $text['button-archive']['de-at'] = "Archiv"; //copied from de-de
@@ -2815,6 +2949,7 @@ $text['button-archive']['sv-se'] = "archív";
 $text['button-archive']['uk-ua'] = "архів";
 
 $text['button-update']['en-us'] = "Update";
+$text['button-update']['zh-cn'] = "更新";
 $text['button-update']['en-gb'] = "Update";
 $text['button-update']['ar-eg'] = "";
 $text['button-update']['de-at'] = "Aktualisieren"; //copied from de-de
@@ -2836,6 +2971,7 @@ $text['button-update']['sv-se'] = "Uppdatera";
 $text['button-update']['uk-ua'] = "Оновити";
 
 $text['button-statistics']['en-us'] = "Statistics";
+$text['button-statistics']['zh-cn'] = "统计";
 $text['button-statistics']['en-gb'] = "Statistics";
 $text['button-statistics']['ar-eg'] = "";
 $text['button-statistics']['de-at'] = "Statistik"; //copied from de-de
@@ -2857,6 +2993,7 @@ $text['button-statistics']['sv-se'] = "Statistik";
 $text['button-statistics']['uk-ua'] = "";
 
 $text['button-missed']['en-us'] = "Missed Calls";
+$text['button-missed']['zh-cn'] = "未接来电";
 $text['button-missed']['en-gb'] = "Missed Calls";
 $text['button-missed']['ar-eg'] = "";
 $text['button-missed']['de-at'] = "Verpasste Anrufe"; //copied from de-de
@@ -2878,6 +3015,7 @@ $text['button-missed']['sv-se'] = "Missade Samtal";
 $text['button-missed']['uk-ua'] = "";
 
 $text['button-extension_summary']['en-us'] = "Extension Summary";
+$text['button-extension_summary']['zh-cn'] = "分机摘要";
 $text['button-extension_summary']['en-gb'] = "Extension Summary";
 $text['button-extension_summary']['ar-eg'] = "";
 $text['button-extension_summary']['de-at'] = "Nebenstellen Statistik"; //copied from de-de
@@ -2899,6 +3037,7 @@ $text['button-extension_summary']['sv-se'] = "Anknytning Summering";
 $text['button-extension_summary']['uk-ua'] = "";
 
 $text['button-download_csv']['en-us'] = "Download CSV";
+$text['button-download_csv']['zh-cn'] = "下载CSV";
 $text['button-download_csv']['en-gb'] = "Download CSV";
 $text['button-download_csv']['ar-eg'] = "";
 $text['button-download_csv']['de-at'] = "CSV Herunterladen"; //copied from de-de
@@ -2920,6 +3059,7 @@ $text['button-download_csv']['sv-se'] = "Ladda Ned CSV";
 $text['button-download_csv']['uk-ua'] = "";
 
 $text['button-advanced_search']['en-us'] = "Advanced";
+$text['button-advanced_search']['zh-cn'] = "高级";
 $text['button-advanced_search']['en-gb'] = "Advanced";
 $text['button-advanced_search']['ar-eg'] = "";
 $text['button-advanced_search']['de-at'] = "Erweiterte"; //copied from de-de
