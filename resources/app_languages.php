@@ -2780,11 +2780,7 @@ $text['label-description']['uk-ua'] = "Опис";
 $text['label-description']['tr-tr'] = "Açıklama";
 
 $text['label-value']['en-us'] = "Value";
-<<<<<<< HEAD
-$text['label-value']['zh-cn'] = "用途";
-=======
 $text['label-value']['zh-cn'] = "数值";
->>>>>>> d675cc53b22627ce4cd73d9e4c8e4d8e32383fa8
 $text['label-value']['en-gb'] = "Value";
 $text['label-value']['ar-eg'] = "";
 $text['label-value']['de-at'] = "Wert"; //copied from de-de
@@ -2904,11 +2900,7 @@ $text['label-subcategory']['uk-ua'] = "Підкатегорія";
 $text['label-subcategory']['tr-tr'] = "Alt Kategori";
 
 $text['label-true']['en-us'] = "True";
-<<<<<<< HEAD
-$text['label-true']['zh-cn'] = "True";
-=======
 $text['label-true']['zh-cn'] = "是";
->>>>>>> d675cc53b22627ce4cd73d9e4c8e4d8e32383fa8
 $text['label-true']['en-gb'] = "True";
 $text['label-true']['ar-eg'] = "صحيح";
 $text['label-true']['de-at'] = "Ein"; //copied from de-de
@@ -2932,11 +2924,7 @@ $text['label-true']['uk-ua'] = "Так";
 $text['label-true']['tr-tr'] = "Doğru";
 
 $text['label-false']['en-us'] = "False";
-<<<<<<< HEAD
-$text['label-false']['zh-cn'] = "False";
-=======
 $text['label-false']['zh-cn'] = "否";
->>>>>>> d675cc53b22627ce4cd73d9e4c8e4d8e32383fa8
 $text['label-false']['en-gb'] = "False";
 $text['label-false']['ar-eg'] = "خاطئة";
 $text['label-false']['de-at'] = "Aus"; //copied from de-de
@@ -3224,11 +3212,7 @@ $text['label-search']['uk-ua'] = "Результати пошуку";
 $text['label-search']['tr-tr'] = "Ara...";
 
 $text['label-order']['en-us'] = "Order";
-<<<<<<< HEAD
-$text['label-order']['zh-cn'] = "组织";
-=======
 $text['label-order']['zh-cn'] = "顺序";
->>>>>>> d675cc53b22627ce4cd73d9e4c8e4d8e32383fa8
 $text['label-order']['en-gb'] = "Order";
 $text['label-order']['ar-eg'] = "";
 $text['label-order']['de-at'] = "Reihenfolge"; //copied from de-de
@@ -3798,11 +3782,7 @@ $text['label-fr-ring']['uk-ua'] = "fr-ring";
 $text['label-fr-ring']['tr-tr'] = "fr-ring";
 
 $text['option-true']['en-us'] = "True";
-<<<<<<< HEAD
-$text['option-true']['zh-cn'] = "True";
-=======
 $text['option-true']['zh-cn'] = "是";
->>>>>>> d675cc53b22627ce4cd73d9e4c8e4d8e32383fa8
 $text['option-true']['en-gb'] = "True";
 $text['option-true']['ar-eg'] = "";
 $text['option-true']['de-at'] = "Ein"; //copied from de-de
@@ -3826,11 +3806,7 @@ $text['option-true']['uk-ua'] = "";
 $text['option-true']['tr-tr'] = "Doğru";
 
 $text['option-false']['en-us'] = "False";
-<<<<<<< HEAD
-$text['option-false']['zh-cn'] = "False";
-=======
 $text['option-false']['zh-cn'] = "否";
->>>>>>> d675cc53b22627ce4cd73d9e4c8e4d8e32383fa8
 $text['option-false']['en-gb'] = "False";
 $text['option-false']['ar-eg'] = "";
 $text['option-false']['de-at'] = "Aus"; //copied from de-de
@@ -4609,11 +4585,7 @@ $text['button-tickets']['sv-se'] = "";
 $text['button-tickets']['uk-ua'] = "";
 
 $text['button-cdr']['en-us'] = "CDR";
-<<<<<<< HEAD
-$text['button-cdr']['zh-cn'] = "CDR";
-=======
 $text['button-cdr']['zh-cn'] = "通话记录";
->>>>>>> d675cc53b22627ce4cd73d9e4c8e4d8e32383fa8
 $text['button-cdr']['en-gb'] = "CDR";
 $text['button-cdr']['ar-eg'] = "";
 $text['button-cdr']['de-at'] = ""; //copied from de-de

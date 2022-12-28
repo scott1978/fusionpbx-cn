@@ -354,11 +354,7 @@ $text['option-global']['sv-se'] = "Global";
 $text['option-global']['uk-ua'] = "Глобально";
 
 $text['option-false']['en-us'] = "False";
-<<<<<<< HEAD
-$text['option-false']['zh-cn'] = "False";
-=======
 $text['option-false']['zh-cn'] = "否";
->>>>>>> d675cc53b22627ce4cd73d9e4c8e4d8e32383fa8
 $text['option-false']['en-gb'] = "False";
 $text['option-false']['ar-eg'] = "";
 $text['option-false']['de-at'] = "Aus"; //copied from de-de
