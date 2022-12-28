@@ -2,6 +2,7 @@
 
 	//User Logs
 		$text['title-user_logs']['en-us'] = 'User Logs';
+		$text['title-user_logs']['zh-cn'] = '用户日志';
 		$text['title-user_logs']['ar-eg'] = '';
 		$text['title-user_logs']['de-at'] = '';
 		$text['title-user_logs']['de-ch'] = '';
@@ -22,6 +23,7 @@
 		$text['title-user_logs']['uk-ua'] = '';
 
 		$text['title-user_log']['en-us'] = 'User Log';
+		$text['title-user_log']['zh-cn'] = '用户日志';
 		$text['title-user_log']['ar-eg'] = '';
 		$text['title-user_log']['de-at'] = '';
 		$text['title-user_log']['de-ch'] = '';
@@ -42,6 +44,7 @@
 		$text['title-user_log']['uk-ua'] = '';
 
 		$text['title_description-user_logs']['en-us'] = 'Shows authentication attempts with the result, timestamp, remote address and user details.';
+		$text['title_description-user_logs']['zh-cn'] = '显示带有结果、时间戳、远程地址和用户详细信息的身份验证尝试.';
 		$text['title_description-user_logs']['ar-eg'] = '';
 		$text['title_description-user_logs']['de-at'] = '';
 		$text['title_description-user_logs']['de-ch'] = '';
@@ -62,6 +65,7 @@
 		$text['title_description-user_logs']['uk-ua'] = '';
 
 		$text['label-timestamp']['en-us'] = 'Timestamp';
+		$text['label-timestamp']['zh-cn'] = '时间戳';
 		$text['label-timestamp']['ar-eg'] = '';
 		$text['label-timestamp']['de-at'] = '';
 		$text['label-timestamp']['de-ch'] = '';
@@ -82,6 +86,7 @@
 		$text['label-timestamp']['uk-ua'] = '';
 
 		$text['description-timestamp']['en-us'] = 'Set the datetime.';
+		$text['description-timestamp']['zh-cn'] = '设置日期时间.';
 		$text['description-timestamp']['ar-eg'] = '';
 		$text['description-timestamp']['de-at'] = '';
 		$text['description-timestamp']['de-ch'] = '';
@@ -102,6 +107,7 @@
 		$text['description-timestamp']['uk-ua'] = '';
 
 		$text['label-user_uuid']['en-us'] = 'User';
+		$text['label-user_uuid']['zh-cn'] = '用户';
 		$text['label-user_uuid']['ar-eg'] = '';
 		$text['label-user_uuid']['de-at'] = '';
 		$text['label-user_uuid']['de-ch'] = '';
@@ -122,6 +128,7 @@
 		$text['label-user_uuid']['uk-ua'] = '';
 
 		$text['description-user_uuid']['en-us'] = 'Select the user.';
+		$text['description-user_uuid']['zh-cn'] = '选择用户.';
 		$text['description-user_uuid']['ar-eg'] = '';
 		$text['description-user_uuid']['de-at'] = '';
 		$text['description-user_uuid']['de-ch'] = '';
@@ -142,6 +149,7 @@
 		$text['description-user_uuid']['uk-ua'] = '';
 
 		$text['label-username']['en-us'] = 'Username';
+		$text['label-username']['zh-cn'] = '用户名';
 		$text['label-username']['ar-eg'] = '';
 		$text['label-username']['de-at'] = '';
 		$text['label-username']['de-ch'] = '';
@@ -162,6 +170,7 @@
 		$text['label-username']['uk-ua'] = '';
 
 		$text['description-username']['en-us'] = 'Enter the Username.';
+		$text['description-username']['zh-cn'] = '输入用户名.';
 		$text['description-username']['ar-eg'] = '';
 		$text['description-username']['de-at'] = '';
 		$text['description-username']['de-ch'] = '';
@@ -181,7 +190,8 @@
 		$text['description-username']['sv-se'] = '';
 		$text['description-username']['uk-ua'] = '';
 
-		$text['label-type']['en-us'] = 'Type';
+		$text['label-type']['en-us'] = '类型';
+		$text['label-type']['zh-cn'] = 'Type';
 		$text['label-type']['ar-eg'] = '';
 		$text['label-type']['de-at'] = '';
 		$text['label-type']['de-ch'] = '';
@@ -202,6 +212,7 @@
 		$text['label-type']['uk-ua'] = '';
 
 		$text['description-type']['en-us'] = 'Enter the type.';
+		$text['description-type']['zh-cn'] = '输入类型.';
 		$text['description-type']['ar-eg'] = '';
 		$text['description-type']['de-at'] = '';
 		$text['description-type']['de-ch'] = '';
@@ -222,6 +233,7 @@
 		$text['description-type']['uk-ua'] = '';
 
 		$text['label-result']['en-us'] = 'Result';
+		$text['label-result']['zh-cn'] = '结果';
 		$text['label-result']['ar-eg'] = '';
 		$text['label-result']['de-at'] = '';
 		$text['label-result']['de-ch'] = '';
@@ -242,6 +254,7 @@
 		$text['label-result']['uk-ua'] = '';
 
 		$text['description-result']['en-us'] = 'Enter the result.';
+		$text['description-result']['zh-cn'] = '输入结果.';
 		$text['description-result']['ar-eg'] = '';
 		$text['description-result']['de-at'] = '';
 		$text['description-result']['de-ch'] = '';

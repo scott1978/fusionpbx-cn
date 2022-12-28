@@ -8,6 +8,7 @@
 		$apps[$x]['version'] = "1.0";
 		$apps[$x]['url'] = "http://www.fusionpbx.com";
 		$apps[$x]['description']['en-us'] = "Configure notification preferences.";
+		$apps[$x]['description']['zh-cn'] = "配置通知首选项.";
 		$apps[$x]['description']['en-gb'] = "Configure notification preferences.";
 		$apps[$x]['description']['ar-eg'] = "";
 		$apps[$x]['description']['de-at'] = "Verwalte Benachrichtigunggseinstellungen.";

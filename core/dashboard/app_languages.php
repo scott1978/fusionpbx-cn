@@ -2,6 +2,7 @@
 
 	//Dashboard
 		$text['title-dashboard']['en-us'] = "Dashboard";
+		$text['title-dashboard']['zh-cn'] = "仪表板";
 		$text['title-dashboard']['en-gb'] = "Dashboard";
 		$text['title-dashboard']['ar-eg'] = "الصفحه الرئيسيه للمستخدم";
 		$text['title-dashboard']['de-at'] = "Benutzerübersicht"; //copied from de-de
@@ -24,6 +25,7 @@
 		$text['title-dashboard']['uk-ua'] = "Панель користувача";
 
 		$text['description-dashboard']['en-us'] = "Quickly access information and tools related to your account.";
+		$text['description-dashboard']['zh-cn'] = "快速访问与您的帐户相关的信息和工具.";
 		$text['description-dashboard']['en-gb'] = "Quickly access information and tools related to your account.";
 		$text['description-dashboard']['ar-eg'] = "دخول سريع للمعلومات و الادوات الخاصة بحسابك";
 		$text['description-dashboard']['de-at'] = "Schneller Zugriff auf Kontoinformationen und -funktionen"; //copied from de-de
@@ -46,6 +48,7 @@
 		$text['description-dashboard']['uk-ua'] = "Швидкий доступ до інформації та інструментів  вашого облікового запису.";
 
 		$text['label-group_uuid']['en-us'] = 'Group UUID';
+		$text['label-group_uuid']['zh-cn'] = '组 UUID';
 		$text['label-group_uuid']['ar-eg'] = '';
 		$text['label-group_uuid']['de-at'] = '';
 		$text['label-group_uuid']['de-ch'] = '';
@@ -66,6 +69,7 @@
 		$text['label-group_uuid']['uk-ua'] = '';
 
 		$text['description-group_uuid']['en-us'] = 'Enter the group uuid.';
+		$text['description-group_uuid']['zh-cn'] = '输入组 uuid.';
 		$text['description-group_uuid']['ar-eg'] = '';
 		$text['description-group_uuid']['de-at'] = '';
 		$text['description-group_uuid']['de-ch'] = '';
@@ -86,6 +90,7 @@
 		$text['description-group_uuid']['uk-ua'] = '';
 
 		$text['label-dashboard_name']['en-us'] = 'Name';
+		$text['label-dashboard_name']['zh-cn'] = '名称';
 		$text['label-dashboard_name']['ar-eg'] = '';
 		$text['label-dashboard_name']['de-at'] = '';
 		$text['label-dashboard_name']['de-ch'] = '';
@@ -106,6 +111,7 @@
 		$text['label-dashboard_name']['uk-ua'] = '';
 
 		$text['description-dashboard_name']['en-us'] = 'Enter the dashboard widget name.';
+		$text['description-dashboard_name']['zh-cn'] = '输入仪表板小部件名称.';
 		$text['description-dashboard_name']['ar-eg'] = '';
 		$text['description-dashboard_name']['de-at'] = '';
 		$text['description-dashboard_name']['de-ch'] = '';
@@ -126,6 +132,7 @@
 		$text['description-dashboard_name']['uk-ua'] = '';
 
 		$text['label-dashboard_path']['en-us'] = 'Path';
+		$text['label-dashboard_path']['zh-cn'] = '路径';
 		$text['label-dashboard_path']['ar-eg'] = '';
 		$text['label-dashboard_path']['de-at'] = '';
 		$text['label-dashboard_path']['de-ch'] = '';
@@ -146,6 +153,7 @@
 		$text['label-dashboard_path']['uk-ua'] = '';
 
 		$text['description-dashboard_path']['en-us'] = 'Enter the dashboard widget path.';
+		$text['description-dashboard_path']['zh-cn'] = '输入仪表板小部件路径.';
 		$text['description-dashboard_path']['ar-eg'] = '';
 		$text['description-dashboard_path']['de-at'] = '';
 		$text['description-dashboard_path']['de-ch'] = '';
@@ -166,6 +174,7 @@
 		$text['description-dashboard_path']['uk-ua'] = '';
 
 		$text['label-dashboard_groups']['en-us'] = 'Groups';
+		$text['label-dashboard_groups']['zh-cn'] = '组';
 		$text['label-dashboard_groups']['ar-eg'] = '';
 		$text['label-dashboard_groups']['de-at'] = '';
 		$text['label-dashboard_groups']['de-ch'] = '';
@@ -186,6 +195,7 @@
 		$text['label-dashboard_groups']['uk-ua'] = '';
 
 		$text['description-dashboard_groups']['en-us'] = 'Add the groups that have permission to this widget.';
+		$text['description-dashboard_groups']['zh-cn'] = '添加对此小部件具有权限的组.';
 		$text['description-dashboard_groups']['ar-eg'] = '';
 		$text['description-dashboard_groups']['de-at'] = '';
 		$text['description-dashboard_groups']['de-ch'] = '';
@@ -206,6 +216,7 @@
 		$text['description-dashboard_groups']['uk-ua'] = '';
 
 		$text['label-dashboard_column_span']['en-us'] = 'Column Span';
+		$text['label-dashboard_column_span']['zh-cn'] = '列宽度';
 		$text['label-dashboard_column_span']['ar-eg'] = '';
 		$text['label-dashboard_column_span']['de-at'] = '';
 		$text['label-dashboard_column_span']['de-ch'] = '';
@@ -226,6 +237,7 @@
 		$text['label-dashboard_column_span']['uk-ua'] = '';
 
 		$text['description-dashboard_column_span']['en-us'] = 'Enter the dashboard widget column span.';
+		$text['description-dashboard_column_span']['zh-cn'] = '输入仪表板小部件列宽度.';
 		$text['description-dashboard_column_span']['ar-eg'] = '';
 		$text['description-dashboard_column_span']['de-at'] = '';
 		$text['description-dashboard_column_span']['de-ch'] = '';
@@ -246,6 +258,7 @@
 		$text['description-dashboard_column_span']['uk-ua'] = '';
 
 		$text['label-dashboard_order']['en-us'] = 'Order';
+		$text['label-dashboard_order']['zh-cn'] = '顺序';
 		$text['label-dashboard_order']['ar-eg'] = '';
 		$text['label-dashboard_order']['de-at'] = '';
 		$text['label-dashboard_order']['de-ch'] = '';
@@ -266,6 +279,7 @@
 		$text['label-dashboard_order']['uk-ua'] = '';
 
 		$text['description-dashboard_order']['en-us'] = 'Enter the dashboard widget order.';
+		$text['description-dashboard_order']['zh-cn'] = '输入仪表板小部件顺序.';
 		$text['description-dashboard_order']['ar-eg'] = '';
 		$text['description-dashboard_order']['de-at'] = '';
 		$text['description-dashboard_order']['de-ch'] = '';
@@ -286,6 +300,7 @@
 		$text['description-dashboard_order']['uk-ua'] = '';
 
 		$text['label-dashboard_enabled']['en-us'] = 'Enabled';
+		$text['label-dashboard_enabled']['zh-cn'] = '已启用';
 		$text['label-dashboard_enabled']['ar-eg'] = '';
 		$text['label-dashboard_enabled']['de-at'] = '';
 		$text['label-dashboard_enabled']['de-ch'] = '';
@@ -306,6 +321,7 @@
 		$text['label-dashboard_enabled']['uk-ua'] = '';
 
 		$text['description-dashboard_enabled']['en-us'] = 'Enter the dashboard widget enabled.';
+		$text['description-dashboard_enabled']['zh-cn'] = '输入已启用的仪表板小部件.';
 		$text['description-dashboard_enabled']['ar-eg'] = '';
 		$text['description-dashboard_enabled']['de-at'] = '';
 		$text['description-dashboard_enabled']['de-ch'] = '';
@@ -326,6 +342,7 @@
 		$text['description-dashboard_enabled']['uk-ua'] = '';
 
 		$text['label-dashboard_description']['en-us'] = 'Description';
+		$text['label-dashboard_description']['zh-cn'] = '描述';
 		$text['label-dashboard_description']['ar-eg'] = '';
 		$text['label-dashboard_description']['de-at'] = '';
 		$text['label-dashboard_description']['de-ch'] = '';
@@ -346,6 +363,7 @@
 		$text['label-dashboard_description']['uk-ua'] = '';
 
 		$text['description-dashboard_description']['en-us'] = 'Enter the dashboard widget description.';
+		$text['description-dashboard_description']['zh-cn'] = '输入仪表板小部件描述.';
 		$text['description-dashboard_description']['ar-eg'] = '';
 		$text['description-dashboard_description']['de-at'] = '';
 		$text['description-dashboard_description']['de-ch'] = '';
@@ -366,6 +384,7 @@
 		$text['description-dashboard_description']['uk-ua'] = '';
 
 		$text['label-welcome']['en-us'] = "Welcome:";
+		$text['label-welcome']['zh-cn'] = "欢迎:";
 		$text['label-welcome']['en-gb'] = "Welcome:";
 		$text['label-welcome']['ar-eg'] = "أهلا بك:";
 		$text['label-welcome']['de-at'] = "Herzlich willkommen:"; //copied from de-de

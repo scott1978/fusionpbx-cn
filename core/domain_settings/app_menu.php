@@ -1,8 +1,8 @@
 <?php
 
-	/*
 	$y=0;
 	$apps[$x]['menu'][$y]['title']['en-us'] = "Domain Settings";
+	$apps[$x]['menu'][$y]['title']['zh-cn'] = "域设置";
 	$apps[$x]['menu'][$y]['title']['en-gb'] = "Domain Settings";
 	$apps[$x]['menu'][$y]['title']['ar-eg'] = "";
 	$apps[$x]['menu'][$y]['title']['de-at'] = "Domänen Einstellungen";
@@ -25,7 +25,6 @@
 	$apps[$x]['menu'][$y]['parent_uuid'] = "594d99c5-6128-9c88-ca35-4b33392cec0f";
 	$apps[$x]['menu'][$y]['category'] = "internal";
 	$apps[$x]['menu'][$y]['path'] = "/core/domain_settings/domain_setting_edit.php";
-	//$apps[$x]['menu'][$y]['groups'][] = "superadmin";
-	*/
+	$apps[$x]['menu'][$y]['groups'][] = "superadmin";
 
 ?>

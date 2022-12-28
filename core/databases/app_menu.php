@@ -2,6 +2,7 @@
 
 	$y=0;
 	$apps[$x]['menu'][$y]['title']['en-us'] = "Databases";
+	$apps[$x]['menu'][$y]['title']['zh-cn'] = "数据库管理";
 	$apps[$x]['menu'][$y]['title']['en-gb'] = "Databases";
 	$apps[$x]['menu'][$y]['title']['ar-eg'] = "قواعد البيانات";
 	$apps[$x]['menu'][$y]['title']['de-at'] = "Datenbanken";

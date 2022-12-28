@@ -2,6 +2,7 @@
 #This file was last reorganized on 19th of September 2017 08:54:24 AM UTC
 
 $text['theme-label-logout']['en-us'] = "Logout";
+$text['theme-label-logout']['zh-cn'] = "注销";
 $text['theme-label-logout']['en-gb'] = "Logout";
 $text['theme-label-logout']['ar-eg'] = "";
 $text['theme-label-logout']['de-at'] = "Abmelden"; //copied from de-de
@@ -25,6 +26,7 @@ $text['theme-label-logout']['uk-ua'] = "вийти";
 $text['theme-label-logout']['tr-tr'] = "Oturumu Kapat";
 
 $text['theme-confirm-logout']['en-us'] = "Do you really want to logout?";
+$text['theme-confirm-logout']['zh-cn'] = "确认注销?";
 $text['theme-confirm-logout']['en-gb'] = "Do you really want to logout?";
 $text['theme-confirm-logout']['ar-eg'] = "";
 $text['theme-confirm-logout']['de-at'] = "Möchten Sie sich wirklich abmelden?"; //copied from de-de
@@ -48,6 +50,7 @@ $text['theme-confirm-logout']['uk-ua'] = "Ви дійсно хочете вий�
 $text['theme-confirm-logout']['tr-tr'] = "Çıkmak istediğinize emin misiniz?";
 
 $text['theme-label-open_selector']['en-us'] = "Domain Selector [ESC]";
+$text['theme-label-open_selector']['zh-cn'] = "选择域 [ESC]";
 $text['theme-label-open_selector']['en-gb'] = "Domain Selector [ESC]";
 $text['theme-label-open_selector']['ar-eg'] = "";
 $text['theme-label-open_selector']['de-at'] = "Dömänen Auswählen [ESC]"; //copied from de-de
@@ -71,6 +74,7 @@ $text['theme-label-open_selector']['uk-ua'] = "Виберіть домен";
 $text['theme-label-open_selector']['tr-tr'] = "Domain Seçici [ESC]";
 
 $text['theme-title-domains']['en-us'] = "Domains";
+$text['theme-title-domains']['zh-cn'] = "域";
 $text['theme-title-domains']['en-gb'] = "Domains";
 $text['theme-title-domains']['ar-eg'] = "";
 $text['theme-title-domains']['de-at'] = "Domänen"; //copied from de-de
@@ -94,6 +98,7 @@ $text['theme-title-domains']['uk-ua'] = "Домени";
 $text['theme-title-domains']['tr-tr'] = "Alan Adları";
 
 $text['theme-button-close']['en-us'] = "Close";
+$text['theme-button-close']['zh-cn'] = "关闭";
 $text['theme-button-close']['en-gb'] = "Close";
 $text['theme-button-close']['ar-eg'] = "";
 $text['theme-button-close']['de-at'] = "Schließen"; //copied from de-de
@@ -117,6 +122,7 @@ $text['theme-button-close']['uk-ua'] = "Близько";
 $text['theme-button-close']['tr-tr'] = "Kapat";
 
 $text['theme-label-search']['en-us'] = "Search...";
+$text['theme-label-search']['zh-cn'] = "搜索...";
 $text['theme-label-search']['en-gb'] = "Search...";
 $text['theme-label-search']['ar-eg'] = "";
 $text['theme-label-search']['de-at'] = "Suchen..."; //copied from de-de
@@ -140,6 +146,7 @@ $text['theme-label-search']['uk-ua'] = "Пошук...";
 $text['theme-label-search']['tr-tr'] = "Arama...";
 
 $text['theme-label-copyright']['en-us'] = "Copyright";
+$text['theme-label-copyright']['zh-cn'] = "Copyright";
 $text['theme-label-copyright']['en-gb'] = "Copyright";
 $text['theme-label-copyright']['ar-eg'] = "";
 $text['theme-label-copyright']['de-at'] = "Urheberrecht"; //copied from de-de
@@ -163,6 +170,7 @@ $text['theme-label-copyright']['uk-ua'] = "";
 $text['theme-label-copyright']['tr-tr'] = "Copyright";
 
 $text['theme-label-all_rights_reserved']['en-us'] = "All rights reserved.";
+$text['theme-label-all_rights_reserved']['zh-cn'] = "All rights reserved.";
 $text['theme-label-all_rights_reserved']['en-gb'] = "All rights reserved.";
 $text['theme-label-all_rights_reserved']['ar-eg'] = "";
 $text['theme-label-all_rights_reserved']['de-at'] = "Alle Rechte vorbehalten"; //copied from de-de
@@ -186,6 +194,7 @@ $text['theme-label-all_rights_reserved']['uk-ua'] = "";
 $text['theme-label-all_rights_reserved']['tr-tr'] = "Tüm hakları saklıdır.";
 
 $text['theme-label-user']['en-us'] = "User";
+$text['theme-label-user']['zh-cn'] = "用户";
 $text['theme-label-user']['en-gb'] = "User";
 $text['theme-label-user']['ar-eg'] = "";
 $text['theme-label-user']['de-at'] = "Benutzer"; //copied from de-de
@@ -209,6 +218,7 @@ $text['theme-label-user']['uk-ua'] = "Користувачі";
 $text['theme-label-user']['tr-tr'] = "Користувачі";
 
 $text['theme-label-domain']['en-us'] = "Domain";
+$text['theme-label-domain']['zh-cn'] = "域";
 $text['theme-label-domain']['en-gb'] = "Domain";
 $text['theme-label-domain']['ar-eg'] = "النطاق";
 $text['theme-label-domain']['de-at'] = "Domäne"; //copied from de-de
@@ -232,6 +242,7 @@ $text['theme-label-domain']['uk-ua'] = "Домен";
 $text['theme-label-domain']['tr-tr'] = "Alan Adı";
 
 $text['theme-label-expand_menu']['en-us'] = "Expand Menu";
+$text['theme-label-expand_menu']['zh-cn'] = "展开菜单";
 $text['theme-label-expand_menu']['en-gb'] = "Expand Menu";
 $text['theme-label-expand_menu']['ar-eg'] = "Expand Menu";
 $text['theme-label-expand_menu']['de-at'] = "Expand Menu";
@@ -255,6 +266,7 @@ $text['theme-label-expand_menu']['uk-ua'] = "Expand Menu";
 $text['theme-label-expand_menu']['tr-tr'] = "Expand Menu";
 
 $text['theme-label-contract_menu']['en-us'] = "Contract Menu";
+$text['theme-label-contract_menu']['zh-cn'] = "收缩菜单";
 $text['theme-label-contract_menu']['en-gb'] = "Contract Menu";
 $text['theme-label-contract_menu']['ar-eg'] = "Contract Menu";
 $text['theme-label-contract_menu']['de-at'] = "Contract Menu";
@@ -278,6 +290,7 @@ $text['theme-label-contract_menu']['uk-ua'] = "Contract Menu";
 $text['theme-label-contract_menu']['tr-tr'] = "Contract Menu";
 
 $text['theme-label-pin_menu']['en-us'] = "Pin Menu";
+$text['theme-label-pin_menu']['zh-cn'] = "固定菜单";
 $text['theme-label-pin_menu']['en-gb'] = "Pin Menu";
 $text['theme-label-pin_menu']['ar-eg'] = "Pin Menu";
 $text['theme-label-pin_menu']['de-at'] = "Pin Menu";
@@ -301,6 +314,7 @@ $text['theme-label-pin_menu']['uk-ua'] = "Pin Menu";
 $text['theme-label-pin_menu']['tr-tr'] = "Pin Menu";
 
 $text['theme-label-unpin_menu']['en-us'] = "Unpin Menu";
+$text['theme-label-unpin_menu']['zh-cn'] = "取消固定菜单";
 $text['theme-label-unpin_menu']['en-gb'] = "Unpin Menu";
 $text['theme-label-unpin_menu']['ar-eg'] = "Unpin Menu";
 $text['theme-label-unpin_menu']['de-at'] = "Unpin Menu";
@@ -324,6 +338,7 @@ $text['theme-label-unpin_menu']['uk-ua'] = "Unpin Menu";
 $text['theme-label-unpin_menu']['tr-tr'] = "Unpin Menu";
 
 $text['theme-message-menu_expanded']['en-us'] = "Menu Pinned";
+$text['theme-message-menu_expanded']['zh-cn'] = "菜单已固定";
 $text['theme-message-menu_expanded']['en-gb'] = "Menu Pinned";
 $text['theme-message-menu_expanded']['ar-eg'] = "Menu Pinned";
 $text['theme-message-menu_expanded']['de-at'] = "Menu Pinned";
@@ -347,6 +362,7 @@ $text['theme-message-menu_expanded']['uk-ua'] = "Menu Pinned";
 $text['theme-message-menu_expanded']['tr-tr'] = "Menu Pinned";
 
 $text['theme-message-menu_contracted']['en-us'] = "Menu Unpinned";
+$text['theme-message-menu_contracted']['zh-cn'] = "菜单已取消固定";
 $text['theme-message-menu_contracted']['en-gb'] = "Menu Unpinned";
 $text['theme-message-menu_contracted']['ar-eg'] = "Menu Unpinned";
 $text['theme-message-menu_contracted']['de-at'] = "Menu Unpinned";
@@ -370,6 +386,7 @@ $text['theme-message-menu_contracted']['uk-ua'] = "Menu Unpinned";
 $text['theme-message-menu_contracted']['tr-tr'] = "Menu Unpinned";
 
 $text['theme-message-menu_reset']['en-us'] = "Menu State Reset";
+$text['theme-message-menu_reset']['zh-cn'] = "重置菜单状态";
 $text['theme-message-menu_reset']['en-gb'] = "Menu State Reset";
 $text['theme-message-menu_reset']['ar-eg'] = "Menu State Reset";
 $text['theme-message-menu_reset']['de-at'] = "Menu State Reset";
