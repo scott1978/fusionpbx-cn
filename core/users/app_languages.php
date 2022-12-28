@@ -2,6 +2,7 @@
 #This file was last reorganized on 19th of September 2017 08:54:24 AM UTC
 
 $text['title-users']['en-us'] = "Users";
+$text['title-users']['zh-cn'] = "用户管理";
 $text['title-users']['en-gb'] = "Users";
 $text['title-users']['ar-eg'] = "";
 $text['title-users']['de-at'] = "Benutzer"; //copied from de-de
@@ -23,6 +24,7 @@ $text['title-users']['sv-se'] = "Användare";
 $text['title-users']['uk-ua'] = "Користувач";
 
 $text['title-user_edit']['en-us'] = "User Edit";
+$text['title-user_edit']['zh-cn'] = "编辑用户";
 $text['title-user_edit']['en-gb'] = "User Edit";
 $text['title-user_edit']['ar-eg'] = "";
 $text['title-user_edit']['de-at'] = "";
@@ -44,6 +46,7 @@ $text['title-user_edit']['sv-se'] = "";
 $text['title-user_edit']['uk-ua'] = "";
 
 $text['title-user_import']['en-us'] = "User Import";
+$text['title-user_import']['zh-cn'] = "导入用户";
 $text['title-user_import']['en-gb'] = "User Import";
 $text['title-user_import']['ar-eg'] = "";
 $text['title-user_import']['de-at'] = "Importieren"; //copied from de-de
@@ -67,6 +70,7 @@ $text['title-user_import']['uk-ua'] = "";
 $text['title-user_import']['tr-tr'] = "İçe Aktar";
 
 $text['description-users']['en-us'] = "Add, edit, delete, and search users. ";
+$text['description-users']['zh-cn'] = "添加、编辑、删除和搜索用户. ";
 $text['description-users']['en-gb'] = "Add, edit, delete, and search users. ";
 $text['description-users']['ar-eg'] = "";
 $text['description-users']['de-at'] = "Benutzer anlegen, editieren, löschen und suchen."; //copied from de-de
@@ -88,6 +92,7 @@ $text['description-users']['sv-se'] = "Lägg Till, editera, ta bort och sök anv
 $text['description-users']['uk-ua'] = "Додавання, редагування, видалення та пошук користувачів";
 
 $text['title-user_manager']['en-us'] = "User Manager";
+$text['title-user_manager']['zh-cn'] = "用户管理";
 $text['title-user_manager']['en-gb'] = "User Manager";
 $text['title-user_manager']['ar-eg'] = "";
 $text['title-user_manager']['de-at'] = "Benutzerverwaltung"; //copied from de-de
@@ -109,6 +114,7 @@ $text['title-user_manager']['sv-se'] = "Användar Inställningar";
 $text['title-user_manager']['uk-ua'] = "Користувачі";
 
 $text['title-users']['en-us'] = "Users";
+$text['title-users']['zh-cn'] = "用户管理";
 $text['title-users']['en-gb'] = "Users";
 $text['title-users']['ar-eg'] = "";
 $text['title-users']['de-at'] = "Benutzer"; //copied from de-de
@@ -130,6 +136,7 @@ $text['title-users']['sv-se'] = "Användare";
 $text['title-users']['uk-ua'] = "Користувач";
 
 $text['title-user']['en-us'] = "User";
+$text['title-user']['zh-cn'] = "用户";
 $text['title-user']['en-gb'] = "User";
 $text['title-user']['ar-eg'] = "";
 $text['title-user']['de-at'] = "Benutzer"; //copied from de-de
@@ -151,6 +158,7 @@ $text['title-user']['sv-se'] = "Användare";
 $text['title-user']['uk-ua'] = "Користувач";
 
 $text['option-true']['en-us'] = "True";
+$text['option-true']['zh-cn'] = "是";
 $text['option-true']['en-gb'] = "True";
 $text['option-true']['ar-eg'] = "";
 $text['option-true']['de-at'] = "Ein"; //copied from de-de
@@ -172,6 +180,7 @@ $text['option-true']['sv-se'] = "Sann";
 $text['option-true']['uk-ua'] = "Так";
 
 $text['option-on_break']['en-us'] = "On Break";
+$text['option-on_break']['zh-cn'] = "暂停";
 $text['option-on_break']['en-gb'] = "On Break";
 $text['option-on_break']['ar-eg'] = "";
 $text['option-on_break']['de-at'] = "In Pause"; //copied from de-de
@@ -193,6 +202,7 @@ $text['option-on_break']['sv-se'] = "På Rast";
 $text['option-on_break']['uk-ua'] = "На перерві";
 
 $text['option-logged_out']['en-us'] = "Logged Out";
+$text['option-logged_out']['zh-cn'] = "已注销";
 $text['option-logged_out']['en-gb'] = "Logged Out";
 $text['option-logged_out']['ar-eg'] = "";
 $text['option-logged_out']['de-at'] = "Abgemeldet"; //copied from de-de
@@ -214,6 +224,7 @@ $text['option-logged_out']['sv-se'] = "Utloggad";
 $text['option-logged_out']['uk-ua'] = "Вийшов";
 
 $text['option-global']['en-us'] = "Global";
+$text['option-global']['zh-cn'] = "全局";
 $text['option-global']['en-gb'] = "Global";
 $text['option-global']['ar-eg'] = "";
 $text['option-global']['de-at'] = "Global"; //copied from de-de
@@ -235,6 +246,7 @@ $text['option-global']['sv-se'] = "Global";
 $text['option-global']['uk-ua'] = "Глобально";
 
 $text['option-false']['en-us'] = "False";
+$text['option-false']['zh-cn'] = "否";
 $text['option-false']['en-gb'] = "False";
 $text['option-false']['ar-eg'] = "";
 $text['option-false']['de-at'] = "Aus"; //copied from de-de
@@ -256,6 +268,7 @@ $text['option-false']['sv-se'] = "Falsk";
 $text['option-false']['uk-ua'] = "Ні";
 
 $text['option-do_not_disturb']['en-us'] = "Do Not Disturb";
+$text['option-do_not_disturb']['zh-cn'] = "免打扰";
 $text['option-do_not_disturb']['en-gb'] = "Do Not Disturb";
 $text['option-do_not_disturb']['ar-eg'] = "";
 $text['option-do_not_disturb']['de-at'] = "Bitte nicht stören"; //copied from de-de
@@ -277,6 +290,7 @@ $text['option-do_not_disturb']['sv-se'] = "Stör Ej";
 $text['option-do_not_disturb']['uk-ua'] = "Не турбувати";
 
 $text['option-available_on_demand']['en-us'] = "Available (On Demand)";
+$text['option-available_on_demand']['zh-cn'] = "可用（按需）";
 $text['option-available_on_demand']['en-gb'] = "Available (On Demand)";
 $text['option-available_on_demand']['ar-eg'] = "";
 $text['option-available_on_demand']['de-at'] = "Verfügbar (auf Anfrage)"; //copied from de-de
@@ -298,6 +312,7 @@ $text['option-available_on_demand']['sv-se'] = "Tillgänglig (På Begäran)";
 $text['option-available_on_demand']['uk-ua'] = "Доступний (на вимогу)";
 
 $text['option-available']['en-us'] = "Available";
+$text['option-available']['zh-cn'] = "可用";
 $text['option-available']['en-gb'] = "Available";
 $text['option-available']['ar-eg'] = "";
 $text['option-available']['de-at'] = "Verfügbar"; //copied from de-de
@@ -319,6 +334,7 @@ $text['option-available']['sv-se'] = "Tillgänglig";
 $text['option-available']['uk-ua'] = "Доступний";
 
 $text['message-username_exists']['en-us'] = "Username Already Exists";
+$text['message-username_exists']['zh-cn'] = "用户名已存在";
 $text['message-username_exists']['en-gb'] = "Username Already Exists";
 $text['message-username_exists']['ar-eg'] = "";
 $text['message-username_exists']['de-at'] = "Benutzername existiert bereits"; //copied from de-de
@@ -340,6 +356,7 @@ $text['message-username_exists']['sv-se'] = "Användarnamnet Existerar Redan";
 $text['message-username_exists']['uk-ua'] = "Користувач вже існує";
 
 $text['message-password_mismatch']['en-us'] = "Password Mismatch";
+$text['message-password_mismatch']['zh-cn'] = "密码不匹配";
 $text['message-password_mismatch']['en-gb'] = "Password Mismatch";
 $text['message-password_mismatch']['ar-eg'] = "";
 $text['message-password_mismatch']['de-at'] = "Passwörter stimmen nicht überein."; //copied from de-de
@@ -361,6 +378,7 @@ $text['message-password_mismatch']['sv-se'] = "Lösenordet Stämmer Inte";
 $text['message-password_mismatch']['uk-ua'] = "Паролі не співпадають";
 
 $text['message-password_blank']['en-us'] = "Invalid Password";
+$text['message-password_blank']['zh-cn'] = "密码无效";
 $text['message-password_blank']['en-gb'] = "Invalid Password";
 $text['message-password_blank']['ar-eg'] = "";
 $text['message-password_blank']['de-at'] = "Falsches Passwort"; //copied from de-de
@@ -382,6 +400,7 @@ $text['message-password_blank']['sv-se'] = "Ogiltigt Lösenord";
 $text['message-password_blank']['uk-ua'] = "Неправильний пароль";
 
 $text['message-password_requirements']['en-us'] = "Password Requirements";
+$text['message-password_requirements']['zh-cn'] = "密码要求";
 $text['message-password_requirements']['en-gb'] = "Password Requirements";
 $text['message-password_requirements']['ar-eg'] = "";
 $text['message-password_requirements']['de-at'] = "Kennwortanforderungen "; //copied from de-de
@@ -403,6 +422,7 @@ $text['message-password_requirements']['sv-se'] = "Lösenordskrav";
 $text['message-password_requirements']['uk-ua'] = "вимоги до паролю";
 
 $text['message-maximum_users']['en-us'] = "Maximum Users:";
+$text['message-maximum_users']['zh-cn'] = "最大用户数:";
 $text['message-maximum_users']['en-gb'] = "Maximum Users:";
 $text['message-maximum_users']['ar-eg'] = "";
 $text['message-maximum_users']['de-at'] = "Maximale Anzahl von Benutzern:"; //copied from de-de
@@ -424,6 +444,7 @@ $text['message-maximum_users']['sv-se'] = "Max Antal Användare:";
 $text['message-maximum_users']['uk-ua'] = "Максимальна кількість користувачів";
 
 $text['message-copy']['en-us'] = "Copy Completed";
+$text['message-copy']['zh-cn'] = "复制完成";
 $text['message-copy']['en-gb'] = "Copy Completed";
 $text['message-copy']['ar-eg'] = "";
 $text['message-copy']['de-at'] = "Kopieren erfolgreich"; //copied from de-de
@@ -445,6 +466,7 @@ $text['message-copy']['sv-se'] = "Kopiering Slutförd";
 $text['message-copy']['uk-ua'] = "Скопійовано";
 
 $text['message-cannot_delete_own_account']['en-us'] = "You cannot delete your own user account. Please login as a different user, then try again.";
+$text['message-cannot_delete_own_account']['zh-cn'] = "您不能删除自己的用户帐户。请以其他用户身份登录，然后重试.";
 $text['message-cannot_delete_own_account']['en-gb'] = "You cannot delete your own user account. Please login as a different user, then try again.";
 $text['message-cannot_delete_own_account']['ar-eg'] = "";
 $text['message-cannot_delete_own_account']['de-at'] = "Sie können nicht ihren eigenen Benutzer löschen. Bitte melden Sie sich mit einem anderen Benutzer an und versuchen Sie es erneut."; //copied from de-de
@@ -466,6 +488,7 @@ $text['message-cannot_delete_own_account']['sv-se'] = "Du kan inte ta bort ditt 
 $text['message-cannot_delete_own_account']['uk-ua'] = "Ви не можете видалити власний обліковий запис. Будь ласка, увійдіть під іншим користувачем, потім повторіть спробу.";
 
 $text['message-invalid_user']['en-us'] = "Invalid User";
+$text['message-invalid_user']['zh-cn'] = "无效用户";
 $text['message-invalid_user']['en-gb'] = "Invalid User";
 $text['message-invalid_user']['ar-eg'] = "Invalid User";
 $text['message-invalid_user']['de-at'] = "Invalid User";
@@ -487,6 +510,7 @@ $text['message-invalid_user']['sv-se'] = "Invalid User";
 $text['message-invalid_user']['uk-ua'] = "Invalid User";
 
 $text['message-unsaved_changes']['en-us'] = "Unsaved Changes";
+$text['message-unsaved_changes']['zh-cn'] = "未保存的更改";
 $text['message-unsaved_changes']['en-gb'] = "Unsaved Changes";
 $text['message-unsaved_changes']['ar-eg'] = "Unsaved Changes";
 $text['message-unsaved_changes']['de-at'] = "Unsaved Changes";
@@ -508,6 +532,7 @@ $text['message-unsaved_changes']['sv-se'] = "Unsaved Changes";
 $text['message-unsaved_changes']['uk-ua'] = "Unsaved Changes";
 
 $text['message-green_border_passwords_match']['en-us'] = "Green field borders indicate typed passwords match.";
+$text['message-green_border_passwords_match']['zh-cn'] = "绿色字段边框表示键入的密码匹配.";
 $text['message-green_border_passwords_match']['en-gb'] = "Green field borders indicate typed passwords match.";
 $text['message-green_border_passwords_match']['ar-eg'] = "Green field borders indicate typed passwords match.";
 $text['message-green_border_passwords_match']['de-at'] = "Green field borders indicate typed passwords match.";
@@ -529,6 +554,7 @@ $text['message-green_border_passwords_match']['sv-se'] = "Green field borders in
 $text['message-green_border_passwords_match']['uk-ua'] = "Green field borders indicate typed passwords match.";
 
 $text['label-web_fonts']['en-us'] = "Web Fonts";
+$text['label-web_fonts']['zh-cn'] = "网站字体";
 $text['label-web_fonts']['en-gb'] = "Web Fonts";
 $text['label-web_fonts']['ar-eg'] = "الخطوط على شبكة الإنترنت";
 $text['label-web_fonts']['de-at'] = "Web Fonts"; //copied from de-de
@@ -550,6 +576,7 @@ $text['label-web_fonts']['sv-se'] = "web Teckensnitt";
 $text['label-web_fonts']['uk-ua'] = "веб-шрифти";
 
 $text['label-username']['en-us'] = "Username";
+$text['label-username']['zh-cn'] = "用户名";
 $text['label-username']['en-gb'] = "Username";
 $text['label-username']['ar-eg'] = "";
 $text['label-username']['de-at'] = "Benutzername"; //copied from de-de
@@ -571,6 +598,7 @@ $text['label-username']['sv-se'] = "Användarnamn";
 $text['label-username']['uk-ua'] = "Ім’я користувача";
 
 $text['label-user_language']['en-us'] = "Language";
+$text['label-user_language']['zh-cn'] = "语言";
 $text['label-user_language']['en-gb'] = "Language";
 $text['label-user_language']['ar-eg'] = "";
 $text['label-user_language']['de-at'] = "Sprache"; //copied from de-de
@@ -592,6 +620,7 @@ $text['label-user_language']['sv-se'] = "Språk";
 $text['label-user_language']['uk-ua'] = "Мова";
 
 $text['label-user_info']['en-us'] = "User Info";
+$text['label-user_info']['zh-cn'] = "用户信息";
 $text['label-user_info']['en-gb'] = "User Info";
 $text['label-user_info']['ar-eg'] = "";
 $text['label-user_info']['de-at'] = "Benutzer Information"; //copied from de-de
@@ -613,6 +642,7 @@ $text['label-user_info']['sv-se'] = "Användar Info";
 $text['label-user_info']['uk-ua'] = "Інформація про користувача";
 
 $text['label-uppercase_letters']['en-us'] = "Uppercase Letters";
+$text['label-uppercase_letters']['zh-cn'] = "大写字母";
 $text['label-uppercase_letters']['en-gb'] = "Uppercase Letters";
 $text['label-uppercase_letters']['ar-eg'] = "الأحرف الكبيرة";
 $text['label-uppercase_letters']['de-at'] = "Großbuchstaben"; //copied from de-de
@@ -634,6 +664,7 @@ $text['label-uppercase_letters']['sv-se'] = "Versala bokstäver";
 $text['label-uppercase_letters']['uk-ua'] = "Великі літери";
 
 $text['label-top']['en-us'] = "Top";
+$text['label-top']['zh-cn'] = "顶部";
 $text['label-top']['en-gb'] = "Top";
 $text['label-top']['ar-eg'] = "أعلى";
 $text['label-top']['de-at'] = "Oben"; //copied from de-de
@@ -655,6 +686,7 @@ $text['label-top']['sv-se'] = "Topp";
 $text['label-top']['uk-ua'] = "топ";
 
 $text['label-time_zone']['en-us'] = "Time Zone";
+$text['label-time_zone']['zh-cn'] = "时区";
 $text['label-time_zone']['en-gb'] = "Time Zone";
 $text['label-time_zone']['ar-eg'] = "";
 $text['label-time_zone']['de-at'] = "Zeitzone"; //copied from de-de
@@ -676,6 +708,7 @@ $text['label-time_zone']['sv-se'] = "Tidszon";
 $text['label-time_zone']['uk-ua'] = "Часовий пояс";
 
 $text['label-text']['en-us'] = "Text";
+$text['label-text']['zh-cn'] = "文本";
 $text['label-text']['en-gb'] = "Text";
 $text['label-text']['ar-eg'] = "نص";
 $text['label-text']['de-at'] = "Text"; //copied from de-de
@@ -697,6 +730,7 @@ $text['label-text']['sv-se'] = "Text";
 $text['label-text']['uk-ua'] = "текст";
 
 $text['label-status']['en-us'] = "Status";
+$text['label-status']['zh-cn'] = "状态";
 $text['label-status']['en-gb'] = "Status";
 $text['label-status']['ar-eg'] = "";
 $text['label-status']['de-at'] = "Status"; //copied from de-de
@@ -718,6 +752,7 @@ $text['label-status']['sv-se'] = "Status";
 $text['label-status']['uk-ua'] = "Статус";
 
 $text['label-static']['en-us'] = "Static";
+$text['label-static']['zh-cn'] = "静态";
 $text['label-static']['en-gb'] = "Static";
 $text['label-static']['ar-eg'] = "ساكن";
 $text['label-static']['de-at'] = "Statisch"; //copied from de-de
@@ -739,6 +774,7 @@ $text['label-static']['sv-se'] = "Statisk";
 $text['label-static']['uk-ua'] = "статичний";
 
 $text['label-special_characters']['en-us'] = "Special Characters";
+$text['label-special_characters']['zh-cn'] = "特殊字符";
 $text['label-special_characters']['en-gb'] = "Special Characters";
 $text['label-special_characters']['ar-eg'] = "أحرف خاصة";
 $text['label-special_characters']['de-at'] = "Sonderzeichen"; //copied from de-de
@@ -760,6 +796,7 @@ $text['label-special_characters']['sv-se'] = "Speciella Karaktärer";
 $text['label-special_characters']['uk-ua'] = "спеціальні символи";
 
 $text['label-right']['en-us'] = "Right";
+$text['label-right']['zh-cn'] = "右边";
 $text['label-right']['en-gb'] = "Right";
 $text['label-right']['ar-eg'] = "حق";
 $text['label-right']['de-at'] = "Rechts"; //copied from de-de
@@ -781,6 +818,7 @@ $text['label-right']['sv-se'] = "Höger";
 $text['label-right']['uk-ua'] = "правий";
 
 $text['label-reference']['en-us'] = "See";
+$text['label-reference']['zh-cn'] = "参考";
 $text['label-reference']['en-gb'] = "See";
 $text['label-reference']['ar-eg'] = "مرجع";
 $text['label-reference']['de-at'] = "Referenz"; //copied from de-de
@@ -802,6 +840,7 @@ $text['label-reference']['sv-se'] = "Referens";
 $text['label-reference']['uk-ua'] = "посилання";
 
 $text['label-permission_permissions']['en-us'] = "Permissions";
+$text['label-permission_permissions']['zh-cn'] = "权限";
 $text['label-permission_permissions']['en-gb'] = "Permissions";
 $text['label-permission_permissions']['ar-eg'] = "";
 $text['label-permission_permissions']['de-at'] = "Berechtigungen"; //copied from de-de

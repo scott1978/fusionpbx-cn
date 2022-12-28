@@ -275,6 +275,7 @@
 		$text['description-result']['uk-ua'] = '';
 
 		$text['label-success']['en-us'] = 'success';
+		$text['label-success']['zh-cn'] = '成功';
 		$text['label-success']['ar-eg'] = '';
 		$text['label-success']['de-at'] = '';
 		$text['label-success']['de-ch'] = '';
@@ -294,6 +295,7 @@
 		$text['label-success']['uk-ua'] = '';
 
 		$text['label-failure']['en-us'] = 'failure';
+		$text['label-failure']['zh-cn'] = '失败';
 		$text['label-failure']['ar-eg'] = '';
 		$text['label-failure']['de-at'] = '';
 		$text['label-failure']['de-ch'] = '';
@@ -313,6 +315,7 @@
 		$text['label-failure']['uk-ua'] = '';
 
 		$text['label-remote_address']['en-us'] = 'Remote Address';
+		$text['label-remote_address']['zh-cn'] = '远程地址';
 		$text['label-remote_address']['ar-eg'] = '';
 		$text['label-remote_address']['de-at'] = '';
 		$text['label-remote_address']['de-ch'] = '';
@@ -333,6 +336,7 @@
 		$text['label-remote_address']['uk-ua'] = '';
 
 		$text['description-remote_address']['en-us'] = 'Enter the IP address.';
+		$text['description-remote_address']['zh-cn'] = '输入IP地址.';
 		$text['description-remote_address']['ar-eg'] = '';
 		$text['description-remote_address']['de-at'] = '';
 		$text['description-remote_address']['de-ch'] = '';
@@ -353,6 +357,7 @@
 		$text['description-remote_address']['uk-ua'] = '';
 
 		$text['label-user_agent']['en-us'] = 'User Agent';
+		$text['label-user_agent']['zh-cn'] = '用户代理';
 		$text['label-user_agent']['ar-eg'] = '';
 		$text['label-user_agent']['de-at'] = '';
 		$text['label-user_agent']['de-ch'] = '';
@@ -373,6 +378,7 @@
 		$text['label-user_agent']['uk-ua'] = '';
 
 		$text['description-user_agent']['en-us'] = 'Enter the user agent.';
+		$text['description-user_agent']['zh-cn'] = '输入用户代理.';
 		$text['description-user_agent']['ar-eg'] = '';
 		$text['description-user_agent']['de-at'] = '';
 		$text['description-user_agent']['de-ch'] = '';
@@ -393,6 +399,7 @@
 		$text['description-user_agent']['uk-ua'] = '';
 
 		$text['label-location']['en-us'] = 'Location';
+		$text['label-location']['zh-cn'] = '位置';
 		$text['label-location']['ar-eg'] = '';
 		$text['label-location']['de-at'] = '';
 		$text['label-location']['de-ch'] = '';
@@ -413,6 +420,7 @@
 		$text['label-location']['uk-ua'] = '';
 
 		$text['description-location']['en-us'] = 'Enter the location.';
+		$text['description-location']['zh-cn'] = '输入位置.';
 		$text['description-location']['ar-eg'] = '';
 		$text['description-location']['de-at'] = '';
 		$text['description-location']['de-ch'] = '';
