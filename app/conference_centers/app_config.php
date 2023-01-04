@@ -9,7 +9,6 @@
 		$apps[$x]['license'] = "Mozilla Public License 1.1";
 		$apps[$x]['url'] = "http://www.fusionpbx.com";
 		$apps[$x]['description']['en-us'] = "Conferences Centers allows one or more audio and video conference rooms.";
-		$apps[$x]['description']['zh-cn'] = "会议中心允许一个或者多个音频和视频会议室.";
 		$apps[$x]['description']['en-gb'] = "Conferences Centers allows one or more audio and video conference rooms.";
 		$apps[$x]['description']['ar-eg'] = "";
 		$apps[$x]['description']['de-at'] = "Konferenzzentralen stellen ein oder mehrere Audio- und Videokonferenzräume bereit.";

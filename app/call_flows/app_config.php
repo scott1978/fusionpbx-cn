@@ -9,7 +9,6 @@
 		$apps[$x]['license'] = "Mozilla Public License 1.1";
 		$apps[$x]['url'] = "http://www.fusionpbx.com";
 		$apps[$x]['description']['en-us'] = "Direct calls between two destinations by calling a feature code.";
-		$apps[$x]['description']['zh-cn'] = "通过调用功能代码在两个目的地之间直接调用.";
 		$apps[$x]['description']['en-gb'] = "Direct calls between two destinations by calling a feature code.";
 		$apps[$x]['description']['ar-eg'] = "";
 		$apps[$x]['description']['de-at'] = "Anrufe zwischen zwei Ziele anhand eines Funktions-Codes steuern.";

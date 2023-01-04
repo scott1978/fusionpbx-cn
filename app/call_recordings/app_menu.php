@@ -1,7 +1,6 @@
 <?php
 
 $apps[$x]['menu'][0]['title']['en-us'] = 'Call Recordings';
-$apps[$x]['menu'][0]['title']['zh-cn'] = '通话录音';
 $apps[$x]['menu'][0]['title']['en-gb'] = 'Call Recordings';
 $apps[$x]['menu'][0]['title']['es-cl'] = '';
 $apps[$x]['menu'][0]['title']['fr-fr'] = '';

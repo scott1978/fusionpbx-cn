@@ -2,7 +2,6 @@
 #This file was last reorganized on 19th of September 2017 08:54:24 AM UTC
 
 $text['title-call_flows']['en-us'] = "Call Flows";
-$text['title-call_flows']['zh-cn'] = "呼叫流";
 $text['title-call_flows']['en-gb'] = "Call Flows";
 $text['title-call_flows']['ar-eg'] = "";
 $text['title-call_flows']['de-at'] = "Anruf Steuerung"; //copied from de-de
@@ -24,7 +23,6 @@ $text['title-call_flows']['sv-se'] = "Samtalsflöden";
 $text['title-call_flows']['uk-ua'] = "Потоки дзвінків";
 
 $text['title-call_flow']['en-us'] = "Call Flow";
-$text['title-call_flow']['zh-cn'] = "呼叫流";
 $text['title-call_flow']['en-gb'] = "Call Flow";
 $text['title-call_flow']['ar-eg'] = "";
 $text['title-call_flow']['de-at'] = "Anruf Steuerung"; //copied from de-de
@@ -46,7 +44,6 @@ $text['title-call_flow']['sv-se'] = "Samtalsflöde";
 $text['title-call_flow']['uk-ua'] = "Потік дзвінків";
 
 $text['title-call_flow_extension']['en-us'] = "Call Flows - Extension";
-$text['title-call_flow_extension']['zh-cn'] = "呼叫流 - 分机";
 $text['title-call_flow_extension']['en-gb'] = "Call Flows - Extension";
 $text['title-call_flow_extension']['ar-eg'] = "";
 $text['title-call_flow_extension']['de-at'] = "Anruf Steuerung - Ziel"; //copied from de-de
@@ -68,7 +65,6 @@ $text['title-call_flow_extension']['sv-se'] = "Samtalsflöden - Destination";
 $text['title-call_flow_extension']['uk-ua'] = "Потоки дзвінків - Номер";
 
 $text['title-call_flow_feature']['en-us'] = "Call Flows - Feature";
-$text['title-call_flow_feature']['zh-cn'] = "呼叫流 - 功能";
 $text['title-call_flow_feature']['en-gb'] = "Call Flows - Feature";
 $text['title-call_flow_feature']['ar-eg'] = "";
 $text['title-call_flow_feature']['de-at'] = "Anruf Steuerung - Funktions"; //copied from de-de
@@ -90,7 +86,6 @@ $text['title-call_flow_feature']['sv-se'] = "Samtalsflöden - Funktionskod";
 $text['title-call_flow_feature']['uk-ua'] = "Потоки дзвінків";
 
 $text['label-call_flow_name']['en-us'] = "Name";
-$text['label-call_flow_name']['zh-cn'] = "名称";
 $text['label-call_flow_name']['en-gb'] = "Name";
 $text['label-call_flow_name']['ar-eg'] = "";
 $text['label-call_flow_name']['de-at'] = "Name"; //copied from de-de
@@ -112,7 +107,6 @@ $text['label-call_flow_name']['sv-se'] = "Namn";
 $text['label-call_flow_name']['uk-ua'] = "Назва";
 
 $text['label-call_flow_status']['en-us'] = "Status";
-$text['label-call_flow_status']['zh-cn'] = "状态";
 $text['label-call_flow_status']['en-gb'] = "Status";
 $text['label-call_flow_status']['ar-eg'] = "";
 $text['label-call_flow_status']['de-at'] = "Aktiviert"; //copied from de-de
@@ -134,7 +128,6 @@ $text['label-call_flow_status']['sv-se'] = "Status";
 $text['label-call_flow_status']['uk-ua'] = "Статус";
 
 $text['label-call_flow_pin_number']['en-us'] = "PIN Number";
-$text['label-call_flow_pin_number']['zh-cn'] = "PIN号码";
 $text['label-call_flow_pin_number']['en-gb'] = "PIN Number";
 $text['label-call_flow_pin_number']['ar-eg'] = "";
 $text['label-call_flow_pin_number']['de-at'] = "PIN Nummer"; //copied from de-de
@@ -156,7 +149,6 @@ $text['label-call_flow_pin_number']['sv-se'] = "PIN Kod";
 $text['label-call_flow_pin_number']['uk-ua'] = "PIN-код";
 
 $text['label-call_flow_feature_code']['en-us'] = "Feature Code";
-$text['label-call_flow_feature_code']['zh-cn'] = "功能代码";
 $text['label-call_flow_feature_code']['en-gb'] = "Feature Code";
 $text['label-call_flow_feature_code']['ar-eg'] = "";
 $text['label-call_flow_feature_code']['de-at'] = "Funktions-Code"; //copied from de-de
@@ -178,7 +170,6 @@ $text['label-call_flow_feature_code']['sv-se'] = "Funktionskod";
 $text['label-call_flow_feature_code']['uk-ua'] = "";
 
 $text['label-call_flow_extension']['en-us'] = "Extension";
-$text['label-call_flow_extension']['zh-cn'] = "分机";
 $text['label-call_flow_extension']['en-gb'] = "Extension";
 $text['label-call_flow_extension']['ar-eg'] = "";
 $text['label-call_flow_extension']['de-at'] = "Nebenstelle"; //copied from de-de
@@ -200,7 +191,6 @@ $text['label-call_flow_extension']['sv-se'] = "Anknytning";
 $text['label-call_flow_extension']['uk-ua'] = "Розширення (Extention)";
 
 $text['label-call_flow_label']['en-us'] = "Destination Label";
-$text['label-call_flow_label']['zh-cn'] = "目标端标签";
 $text['label-call_flow_label']['en-gb'] = "Destination Label";
 $text['label-call_flow_label']['ar-eg'] = "";
 $text['label-call_flow_label']['de-at'] = "Ziel Kennzeichnung"; //copied from de-de
@@ -222,7 +212,6 @@ $text['label-call_flow_label']['sv-se'] = "Destination Etikett";
 $text['label-call_flow_label']['uk-ua'] = "призначення етикетки";
 
 $text['label-call_flow_destination']['en-us'] = "Destination";
-$text['label-call_flow_destination']['zh-cn'] = "目标";
 $text['label-call_flow_destination']['en-gb'] = "Destination";
 $text['label-call_flow_destination']['ar-eg'] = "";
 $text['label-call_flow_destination']['de-at'] = "Ziel"; //copied from de-de
@@ -244,7 +233,6 @@ $text['label-call_flow_destination']['sv-se'] = "Destination";
 $text['label-call_flow_destination']['uk-ua'] = "Номер";
 
 $text['label-call_flow_context']['en-us'] = "Context";
-$text['label-call_flow_context']['zh-cn'] = "上下文";
 $text['label-call_flow_context']['en-gb'] = "Context";
 $text['label-call_flow_context']['ar-eg'] = "";
 $text['label-call_flow_context']['de-at'] = "Kontext"; //copied from de-de
@@ -266,7 +254,6 @@ $text['label-call_flow_context']['sv-se'] = "Context";
 $text['label-call_flow_context']['uk-ua'] = "Контекст";
 
 $text['label-call_flow_alternate_label']['en-us'] = "Alternate Label";
-$text['label-call_flow_alternate_label']['zh-cn'] = "备用标签";
 $text['label-call_flow_alternate_label']['en-gb'] = "Alternate Label";
 $text['label-call_flow_alternate_label']['ar-eg'] = "";
 $text['label-call_flow_alternate_label']['de-at'] = "Alternative Bezeichnung"; //copied from de-de
@@ -288,7 +275,6 @@ $text['label-call_flow_alternate_label']['sv-se'] = "Alternativ Etikett";
 $text['label-call_flow_alternate_label']['uk-ua'] = "альтернативні етикетки";
 
 $text['label-call_flow_alternate_destination']['en-us'] = "Alternate Destination";
-$text['label-call_flow_alternate_destination']['zh-cn'] = "备用目的地";
 $text['label-call_flow_alternate_destination']['en-gb'] = "Alternate Destination";
 $text['label-call_flow_alternate_destination']['ar-eg'] = "";
 $text['label-call_flow_alternate_destination']['de-at'] = "Alternatives Ziel"; //copied from de-de
@@ -310,7 +296,6 @@ $text['label-call_flow_alternate_destination']['sv-se'] = "Alternativ Destinatio
 $text['label-call_flow_alternate_destination']['uk-ua'] = "альтернативні варіанти призначення";
 
 $text['label-call_flow_sound']['en-us'] = "Sound";
-$text['label-call_flow_sound']['zh-cn'] = "声音";
 $text['label-call_flow_sound']['en-gb'] = "Sound";
 $text['label-call_flow_sound']['ar-eg'] = "";
 $text['label-call_flow_sound']['de-at'] = "Rufton"; //copied from de-de
@@ -332,7 +317,6 @@ $text['label-call_flow_sound']['sv-se'] = "Ljud";
 $text['label-call_flow_sound']['uk-ua'] = "звук";
 
 $text['label-call_flow_alternate_sound']['en-us'] = "Alternate Sound";
-$text['label-call_flow_alternate_sound']['zh-cn'] = "交替声音";
 $text['label-call_flow_alternate_sound']['en-gb'] = "Alternate Sound";
 $text['label-call_flow_alternate_sound']['ar-eg'] = "";
 $text['label-call_flow_alternate_sound']['de-at'] = "Alternativer Rufton"; //copied from de-de
@@ -354,7 +338,6 @@ $text['label-call_flow_alternate_sound']['sv-se'] = "alternativt ljud";
 $text['label-call_flow_alternate_sound']['uk-ua'] = "альтернативний звук";
 
 $text['label-call_flow_description']['en-us'] = "Description";
-$text['label-call_flow_description']['zh-cn'] = "描述";
 $text['label-call_flow_description']['en-gb'] = "Description";
 $text['label-call_flow_description']['ar-eg'] = "";
 $text['label-call_flow_description']['de-at'] = "Beschreibung"; //copied from de-de
@@ -376,7 +359,6 @@ $text['label-call_flow_description']['sv-se'] = "Beskrivning";
 $text['label-call_flow_description']['uk-ua'] = "Опис";
 
 $text['header-call_flows']['en-us'] = "Call Flows";
-$text['header-call_flows']['zh-cn'] = "呼叫流";
 $text['header-call_flows']['en-gb'] = "Call Flows";
 $text['header-call_flows']['ar-eg'] = "";
 $text['header-call_flows']['de-at'] = "Anruf Steuerung"; //copied from de-de
@@ -398,7 +380,6 @@ $text['header-call_flows']['sv-se'] = "Samtalsflöden";
 $text['header-call_flows']['uk-ua'] = "Потоки дзвінків";
 
 $text['header-call_flow']['en-us'] = "Call Flow";
-$text['header-call_flow']['zh-cn'] = "呼叫流";
 $text['header-call_flow']['en-gb'] = "Call Flow";
 $text['header-call_flow']['ar-eg'] = "";
 $text['header-call_flow']['de-at'] = "Anruf Steuerung"; //copied from de-de
@@ -420,7 +401,6 @@ $text['header-call_flow']['sv-se'] = "Samtalsflöde";
 $text['header-call_flow']['uk-ua'] = "Потік дзвінка";
 
 $text['description-call_flow_status']['en-us'] = "Select the status.";
-$text['description-call_flow_status']['zh-cn'] = "选择状态.";
 $text['description-call_flow_status']['en-gb'] = "Select the status.";
 $text['description-call_flow_status']['ar-eg'] = "";
 $text['description-call_flow_status']['de-at'] = "Status festlegen."; //copied from de-de
@@ -442,7 +422,6 @@ $text['description-call_flow_status']['sv-se'] = "Välj Status";
 $text['description-call_flow_status']['uk-ua'] = "Виберіть статус користувача";
 
 $text['description-call_flow_pin_number']['en-us'] = "Enter the pin number.";
-$text['description-call_flow_pin_number']['zh-cn'] = "输入PIN码.";
 $text['description-call_flow_pin_number']['en-gb'] = "Enter the pin number.";
 $text['description-call_flow_pin_number']['ar-eg'] = "";
 $text['description-call_flow_pin_number']['de-at'] = "Geben Sie eine PIN ein."; //copied from de-de
@@ -464,7 +443,6 @@ $text['description-call_flow_pin_number']['sv-se'] = "Ange PIN Kod.";
 $text['description-call_flow_pin_number']['uk-ua'] = "Введіть пін - код.";
 
 $text['description-call_flow_name']['en-us'] = "Enter the name.";
-$text['description-call_flow_name']['zh-cn'] = "输入名称.";
 $text['description-call_flow_name']['en-gb'] = "Enter the name.";
 $text['description-call_flow_name']['ar-eg'] = "";
 $text['description-call_flow_name']['de-at'] = "Geben Sie den Namen an"; //copied from de-de
@@ -486,7 +464,6 @@ $text['description-call_flow_name']['sv-se'] = "Ange Namn.";
 $text['description-call_flow_name']['uk-ua'] = "Введіть назву меню";
 
 $text['description-call_flow_feature_code']['en-us'] = "Enter the feature code.";
-$text['description-call_flow_feature_code']['zh-cn'] = "输入功能代码.";
 $text['description-call_flow_feature_code']['en-gb'] = "Enter the feature code.";
 $text['description-call_flow_feature_code']['ar-eg'] = "";
 $text['description-call_flow_feature_code']['de-at'] = "Geben Sie den Funktions-Code an."; //copied from de-de
@@ -508,7 +485,6 @@ $text['description-call_flow_feature_code']['sv-se'] = "Ange Funktionskoden.";
 $text['description-call_flow_feature_code']['uk-ua'] = "Введіть код об'єкта.";
 
 $text['description-call_flow_extension']['en-us'] = "Enter the extension number.";
-$text['description-call_flow_extension']['zh-cn'] = "输入分机号.";
 $text['description-call_flow_extension']['en-gb'] = "Enter the extension number.";
 $text['description-call_flow_extension']['ar-eg'] = "";
 $text['description-call_flow_extension']['de-at'] = "Weisen Sie die Nebenstelle aus."; //copied from de-de
@@ -530,7 +506,6 @@ $text['description-call_flow_extension']['sv-se'] = "Ange anknytningsnumret.";
 $text['description-call_flow_extension']['uk-ua'] = "Введіть номер розширення.";
 
 $text['description-call_flow_destination_label']['en-us'] = "Enter the destination label.";
-$text['description-call_flow_destination_label']['zh-cn'] = "输入目标标签.";
 $text['description-call_flow_destination_label']['en-gb'] = "Enter the destination label.";
 $text['description-call_flow_destination_label']['ar-eg'] = "";
 $text['description-call_flow_destination_label']['de-at'] = "Geben Sie eine Beschreibung für das Ziel an."; //copied from de-de
@@ -552,7 +527,6 @@ $text['description-call_flow_destination_label']['sv-se'] = "Ange Destinations E
 $text['description-call_flow_destination_label']['uk-ua'] = "Введіть мітку призначення.";
 
 $text['description-call_flow_destination']['en-us'] = "Select the destination.";
-$text['description-call_flow_destination']['zh-cn'] = "选择目的地.";
 $text['description-call_flow_destination']['en-gb'] = "Select the destination.";
 $text['description-call_flow_destination']['ar-eg'] = "";
 $text['description-call_flow_destination']['de-at'] = "Wählen Sie das Ziel."; //copied from de-de
@@ -574,7 +548,6 @@ $text['description-call_flow_destination']['sv-se'] = "Välj destinationen.";
 $text['description-call_flow_destination']['uk-ua'] = "Відправити дзвінок на розширення, меню IVR, конференцію, або будь-який інший номер.";
 
 $text['description-call_flow_context']['en-us'] = "Enter the context.";
-$text['description-call_flow_context']['zh-cn'] = "输入上下文.";
 $text['description-call_flow_context']['en-gb'] = "Enter the context.";
 $text['description-call_flow_context']['ar-eg'] = "";
 $text['description-call_flow_context']['de-at'] = "Geben Sie den Kontext hier an."; //copied from de-de
@@ -596,7 +569,6 @@ $text['description-call_flow_context']['sv-se'] = "Ange Context.";
 $text['description-call_flow_context']['uk-ua'] = "Введіть контекст.";
 
 $text['description-call_flows']['en-us'] = "Direct calls between two destinations by calling a feature code.";
-$text['description-call_flows']['zh-cn'] = "通过调用功能代码在两个目的地之间直接调用.";
 $text['description-call_flows']['en-gb'] = "Direct calls between two destinations by calling a feature code.";
 $text['description-call_flows']['ar-eg'] = "";
 $text['description-call_flows']['de-at'] = "Leiten Sie Anrufe zwischen zwei Zielen um indem Sie einen Funktions-Code wählen."; //copied from de-de
@@ -618,7 +590,6 @@ $text['description-call_flows']['sv-se'] = "Samtal mellan två destinationer gen
 $text['description-call_flows']['uk-ua'] = "Прямі виклики між двома пунктами шляхом виклику коду функції.";
 
 $text['description-call_flow_alternate_label']['en-us'] = "Enter the alternate destination label.";
-$text['description-call_flow_alternate_label']['zh-cn'] = "输入备用目标标签.";
 $text['description-call_flow_alternate_label']['en-gb'] = "Enter the alternate destination label.";
 $text['description-call_flow_alternate_label']['ar-eg'] = "";
 $text['description-call_flow_alternate_label']['de-at'] = "Geben Sie eine Beschreibung für das alternative Ziel ein."; //copied from de-de
@@ -640,7 +611,6 @@ $text['description-call_flow_alternate_label']['sv-se'] = "Ange den alternativa 
 $text['description-call_flow_alternate_label']['uk-ua'] = "Введіть альтернативний ярлик призначення.";
 
 $text['description-call_flow_alternate_destination']['en-us'] = "Select the alternate destination.";
-$text['description-call_flow_alternate_destination']['zh-cn'] = "选择备用目的地.";
 $text['description-call_flow_alternate_destination']['en-gb'] = "Select the alternate destination.";
 $text['description-call_flow_alternate_destination']['ar-eg'] = "";
 $text['description-call_flow_alternate_destination']['de-at'] = "Wählen Sie ein alternatives Ziel."; //copied from de-de
@@ -662,7 +632,6 @@ $text['description-call_flow_alternate_destination']['sv-se'] = "Välj den alter
 $text['description-call_flow_alternate_destination']['uk-ua'] = "Виберіть інше розташування.";
 
 $text['description-call_flow_sound']['en-us'] = "Select the sound to play when the status is set to the destinations.";
-$text['description-call_flow_sound']['zh-cn'] = "当状态设置为目的地时,选择要播放的声音.";
 $text['description-call_flow_sound']['en-gb'] = "Select the sound to play when the status is set to the destinations.";
 $text['description-call_flow_sound']['ar-eg'] = "";
 $text['description-call_flow_sound']['de-at'] = "Wählen Sie den zu spielenden Rufton aus, wenn das primäre Ziel ausgewählt ist."; //copied from de-de
@@ -684,7 +653,6 @@ $text['description-call_flow_sound']['sv-se'] = "Välj ljud att spela när statu
 $text['description-call_flow_sound']['uk-ua'] = "Виберіть звук для відтворення , коли статус встановлений в пункти призначення.";
 
 $text['description-call_flow_alternate_sound']['en-us'] = "Select the sound to play when status is set to the alternate destination.";
-$text['description-call_flow_alternate_sound']['zh-cn'] = "选择状态设置为备用目的地时播放的声音.";
 $text['description-call_flow_alternate_sound']['en-gb'] = "Select the sound to play when status is set to the alternate destination.";
 $text['description-call_flow_alternate_sound']['ar-eg'] = "";
 $text['description-call_flow_alternate_sound']['de-at'] = "Wählen Sie den zu spielenden Rufton aus, wenn das alternative Ziel ausgewählt ist."; //copied from de-de
@@ -706,7 +674,6 @@ $text['description-call_flow_alternate_sound']['sv-se'] = "Välj ljud att spela 
 $text['description-call_flow_alternate_sound']['uk-ua'] = "Виберіть звук для відтворення , коли встановлено стан альтернативного призначення.";
 
 $text['recordings']['en-us'] = "Recordings";
-$text['recordings']['zh-cn'] = "录音";
 $text['recordings']['en-gb'] = "Recordings";
 $text['recordings']['ar-eg'] = "";
 $text['recordings']['de-at'] = "Aufnahmen"; //copied from de-de
@@ -728,7 +695,6 @@ $text['recordings']['sv-se'] = "inspelningar";
 $text['recordings']['uk-ua'] = "записи";
 
 $text['miscellaneous']['en-us'] = "Miscellaneous";
-$text['miscellaneous']['zh-cn'] = "杂项";
 $text['miscellaneous']['en-gb'] = "Miscellaneous";
 $text['miscellaneous']['ar-eg'] = "";
 $text['miscellaneous']['de-at'] = "Sonstiges"; //copied from de-de
@@ -750,7 +716,6 @@ $text['miscellaneous']['sv-se'] = "Diverse";
 $text['miscellaneous']['uk-ua'] = "Різне";
 
 $text['sounds']['en-us'] = "Sounds";
-$text['sounds']['zh-cn'] = "声音";
 $text['sounds']['en-gb'] = "Sounds";
 $text['sounds']['ar-eg'] = "";
 $text['sounds']['de-at'] = "Ruftöne"; //copied from de-de

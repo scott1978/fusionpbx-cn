@@ -510,7 +510,7 @@ $text['label-view_all']['sv-se'] = "Visa Allt";
 $text['label-view_all']['uk-ua'] = "Показати всі";
 
 $text['label-value']['en-us'] = "Value";
-$text['label-value']['zh-cn'] = "使用率";
+$text['label-value']['zh-cn'] = "值";
 $text['label-value']['en-gb'] = "Value";
 $text['label-value']['ar-eg'] = "";
 $text['label-value']['de-at'] = "Wert"; //copied from de-de
@@ -1798,7 +1798,7 @@ $text['label-destinations']['sv-se'] = "Destinationer";
 $text['label-destinations']['uk-ua'] = "Номери";
 
 $text['label-date_time']['en-us'] = "Date/Time";
-$text['label-date_time']['zh-cn'] = "日期时间";
+$text['label-date_time']['zh-cn'] = "日期/时间";
 $text['label-date_time']['en-gb'] = "Date/Time";
 $text['label-date_time']['ar-eg'] = "تاريخ / وقت";
 $text['label-date_time']['de-at'] = "Datum/Uhrzeit"; //copied from de-de

@@ -9,7 +9,6 @@
 		$apps[$x]['license'] = "Mozilla Public License 1.1";
 		$apps[$x]['url'] = "http://www.fusionpbx.com";
 		$apps[$x]['description']['en-us'] = "List all the queues that are currently active with one or more callers.";
-		$apps[$x]['description']['en-us'] = "列出一个或者多个呼叫者当前处于活动状态的所有队列.";
 		$apps[$x]['description']['en-gb'] = "List all the queues that are currently active with one or more callers.";
 		$apps[$x]['description']['ar-eg'] = "";
 		$apps[$x]['description']['de-at'] = "Führt alle Warteschlangen mit einem oder mehrere aktive Anrufer auf.";

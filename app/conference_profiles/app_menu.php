@@ -2,7 +2,6 @@
 
 	$y=0;
 	$apps[$x]['menu'][$y]['title']['en-us'] = 'Conference Profiles';
-	$apps[$x]['menu'][$y]['title']['zh-cn'] = '会议配置文件';
 	$apps[$x]['menu'][$y]['title']['en-gb'] = 'Conference Profiles';
 	$apps[$x]['menu'][$y]['title']['ar-eg'] = "";
 	$apps[$x]['menu'][$y]['title']['de-at'] = 'Konferenzprofile';
