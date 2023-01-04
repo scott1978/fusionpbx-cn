@@ -9,6 +9,7 @@
 		$apps[$x]['license'] = "Mozilla Public License 1.1";
 		$apps[$x]['url'] = "http://www.fusionpbx.com";
 		$apps[$x]['description']['en-us'] = "Conferences is used to setup conference rooms with a name, description, and optional pin number.";
+		$apps[$x]['description']['zh-cn'] = "会议用于设置具有名称、说明和可选 PIN 码的会议室.";
 		$apps[$x]['description']['en-gb'] = "Conferences is used to setup conference rooms with a name, description, and optional pin number.";
 		$apps[$x]['description']['ar-eg'] = "";
 		$apps[$x]['description']['de-at'] = "Konferenzen wird verwendet, um Konferenzräume mit Namen, Beschreibung und optionaler PIN bereit zu stellen.";

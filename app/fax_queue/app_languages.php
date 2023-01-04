@@ -674,7 +674,7 @@
 		$text['label-fax_command']['uk-ua'] = '';
 
 		$text['description-fax_command']['en-us'] = 'Enter the fax command.';
-		$text['description-fax_command']['cn-cn'] = '输入传真命令.';
+		$text['description-fax_command']['zh-cn'] = '输入传真命令.';
 		$text['description-fax_command']['ar-eg'] = '';
 		$text['description-fax_command']['de-at'] = '';
 		$text['description-fax_command']['de-ch'] = '';

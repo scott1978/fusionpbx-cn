@@ -2,6 +2,7 @@
 
 	$y=0;
 	$apps[$x]['menu'][$y]['title']['en-us'] = "Operator Panel";
+	$apps[$x]['menu'][$y]['title']['zh-cn'] = "操作员面板";
 	$apps[$x]['menu'][$y]['title']['en-gb'] = "Operator Panel";
 	$apps[$x]['menu'][$y]['title']['ar-eg'] = "";
 	$apps[$x]['menu'][$y]['title']['de-at'] = "Bedienfeld";

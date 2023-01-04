@@ -1,6 +1,7 @@
 <?php
 
 $text['title-gswave']['en-us'] = "Grandstream Wave";
+$text['title-gswave']['zh-cn'] = "Grandstream 波";
 $text['title-gswave']['en-gb'] = "Grandstream Wave";
 $text['title-gswave']['ar-eg'] = "";
 $text['title-gswave']['de-at'] = "";
@@ -22,6 +23,7 @@ $text['title-gswave']['sv-se'] = "";
 $text['title-gswave']['uk-ua'] = "";
 
 $text['title_description-gswave']['en-us'] = "Grandstream Wave is a soft phone for smart phones or tablets. It can be configured easily with a QR code provided here. To use it download and install Grandstream Wave for your device. Start the application and then go to Account Settings press the + to add a new account. Press on UCM Account (Scan QR Code) and then select the extension and scan the QR code.";
+$text['title_description-gswave']['zh-cn'] = "Grandstream Wave是一款适用于智能手机或平板电脑的软手机。可以使用此处提供的QR码轻松配置。要使用它，请为您的设备下载并安装Grandstream Wave。启动应用程序，然后转到“帐户设置”，按 + 添加新帐户。按UCM帐户（扫描QR码），然后选择扩展并扫描QR码.";
 $text['title_description-gswave']['en-gb'] = "Grandstream Wave is a soft phone for smart phones or tablets. It can be configured easily with a QR code provided here. To use it download and install Grandstream Wave for your device. Start the application and then go to Account Settings press the + to add a new account. Press on UCM Account (Scan QR Code) and then select the extension and scan the QR code.";
 $text['title_description-gswave']['ar-eg'] = "";
 $text['title_description-gswave']['de-at'] = "";
@@ -43,6 +45,7 @@ $text['title_description-gswave']['sv-se'] = "";
 $text['title_description-gswave']['uk-ua'] = "";
 
 $text['label-extension']['en-us'] = "Extension";
+$text['label-extension']['zh-cn'] = "分机";
 $text['label-extension']['en-gb'] = "Extension";
 $text['label-extension']['ar-eg'] = "رقم داخلي";
 $text['label-extension']['de-at'] = "Nebenstelle"; //copied from de-de
