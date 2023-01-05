@@ -729,7 +729,7 @@ $text['description-name']['sv-se'] = "Var god ange ett namn för inkommande rout
 $text['description-name']['uk-ua'] = "Введіть назву меню";
 
 $text['description-dialplan-inbound-add']['en-us'] = "The public dialplan is used to route incoming calls to destinations based on one or more conditions and context. It can send incoming calls to an auto attendant, huntgroup, extension, external number, or a script.";
-$text['description-dialplan-inbound-add']['zh-cn'] = "公共拨号计划用于基于一个或多个条件和context将传入呼叫路由到目的地。它可以向自动助理、电话组、分机、外部号码或脚本发送来电.";
+$text['description-dialplan-inbound-add']['zh-cn'] = "呼入路由拨号计划用于基于一个或多个条件和context将传入呼叫路由到目的地。它可以向自动助理、电话组、分机、外部号码或脚本发送来电.";
 $text['description-dialplan-inbound-add']['en-gb'] = "The public dialplan is used to route incoming calls to destinations based on one or more conditions and context. It can send incoming calls to an auto attendant, huntgroup, extension, external number, or a script.";
 $text['description-dialplan-inbound-add']['ar-eg'] = "";
 $text['description-dialplan-inbound-add']['de-at'] = "Der öffentliche Wählplan wird verwendet, um eingehende Anrufe anhand von einem oder mehrere Bedingungen an bestimmte Ziele weiter zu leiten."; //copied from de-de
