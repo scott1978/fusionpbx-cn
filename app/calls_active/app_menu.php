@@ -2,7 +2,8 @@
 
 	$y=0;
 	$apps[$x]['menu'][$y]['title']['en-us'] = "Active Calls";
-	$apps[$x]['menu'][$y]['title']['en-gb'] = "Active Calls";
+	$apps[$x]['menu'][$y]['title']['en-gb'] = "通话队列";
+	$apps[$x]['menu'][$y]['title']['zh-cn'] = "Active Calls";
 	$apps[$x]['menu'][$y]['title']['ar-eg'] = "";
 	$apps[$x]['menu'][$y]['title']['de-at'] = "Aktive Gespräche";
 	$apps[$x]['menu'][$y]['title']['de-ch'] = "";
