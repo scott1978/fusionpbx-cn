@@ -9,6 +9,7 @@
 		$apps[$x]['license'] = "Mozilla Public License 1.1";
 		$apps[$x]['url'] = "http://www.fusionpbx.com";
 		$apps[$x]['description']['en-us'] = "A group of conference parameters saved together as a profile.";
+		$apps[$x]['description']['zh-cn'] = "一组会议参数保存在一起作为配置文件。";
 		$apps[$x]['description']['en-gb'] = "A group of conference parameters saved together as a profile.";
 		$apps[$x]['description']['ar-eg'] = "";
 		$apps[$x]['description']['de-at'] = "Eine Gruppe von Konferenz-Parametern zu einem Profil zusammengefasst.";
