@@ -68,6 +68,7 @@ $text['description-conference_controls']['sv-se'] = "Samtalskontroller möjligg�
 $text['description-conference_controls']['uk-ua'] = "";
 
 $text['label-control_name']['en-us'] = "Name";
+$text['label-control_name']['zh-cn'] = "名称";
 $text['label-control_name']['en-gb'] = "Name";
 $text['label-control_name']['ar-eg'] = "";
 $text['label-control_name']['de-at'] = "Name"; //copied from de-de
