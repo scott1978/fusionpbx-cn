@@ -2,6 +2,7 @@
 
 	$y=0;
 	$apps[$x]['menu'][$y]['title']['en-us'] = "Queues";
+	$apps[$x]['menu'][$y]['title']['zh-cn'] = "队列";
 	$apps[$x]['menu'][$y]['title']['en-gb'] = "Queues";
 	$apps[$x]['menu'][$y]['title']['ar-eg'] = "";
 	$apps[$x]['menu'][$y]['title']['de-at'] = "Warteschlangen";

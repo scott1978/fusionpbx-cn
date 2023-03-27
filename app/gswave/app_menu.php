@@ -2,6 +2,7 @@
 
 	$y=0;
 	$apps[$x]['menu'][$y]['title']['en-us'] = "GS Wave";
+	$apps[$x]['menu'][$y]['title']['zh-cn'] = "GS Wave";
 	$apps[$x]['menu'][$y]['title']['en-gb'] = "GS Wave";
 	$apps[$x]['menu'][$y]['title']['ar-eg'] = "";
 	$apps[$x]['menu'][$y]['title']['de-at'] = "";
