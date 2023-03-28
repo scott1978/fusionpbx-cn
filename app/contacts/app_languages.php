@@ -2486,6 +2486,9 @@ $text['label-google_map']['ru-ru'] = "Открыть в Google Maps";
 $text['label-google_map']['sv-se'] = "Öppna med Google Maps";
 $text['label-google_map']['uk-ua'] = "Відкрити на картах Google";
 
+$text['label-baidu_map']['en-us'] = "Open with baidu Maps";
+$text['label-baidu_map']['zh-cn'] = "使用百度地图打开";
+
 $text['label-fax']['en-us'] = "Fax";
 $text['label-fax']['zh-cn'] = "传真";
 $text['label-fax']['en-gb'] = "Fax";

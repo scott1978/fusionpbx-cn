@@ -1783,7 +1783,7 @@ if (permission_exists('contact_address_view')) {
 		//echo " 					<img src='resources/images/icon_gmaps.png' style='width: 17px; height: 17px;' alt='".$text['label-google_map']."' title='".$text['label-google_map']."'>";
 		//echo " 				</a>\n";
 		echo " 				<a href=\"https://api.map.baidu.com/lbsapi/getpoint/index.html\" target=\"_blank\">";
-		echo " 					<img src='resources/images/icon_baidu.png' style='width: 17px; height: 17px;' alt='".$text['label-google_map']."' title='".$text['label-google_map']."'>";
+		echo " 					<img src='resources/images/icon_baidu.png' style='width: 17px; height: 17px;' alt='".$text['label-baidu_map']."' title='".$text['label-baidu_map']."'>";
 		echo " 				</a>\n";
 		echo "			</div>\n";
 		echo "		</div>\n";
