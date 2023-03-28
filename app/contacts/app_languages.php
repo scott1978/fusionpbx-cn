@@ -762,6 +762,7 @@ $text['option-parcel']['sv-se'] = "Paket";
 $text['option-parcel']['uk-ua'] = "";
 
 $text['option-pager']['en-us'] = "Pager";
+$text['option-pager']['zh-cn'] = "寻呼机";
 $text['option-pager']['en-gb'] = "Pager";
 $text['option-pager']['ar-eg'] = "";
 $text['option-pager']['de-at'] = "Pager"; //copied from de-de
@@ -784,6 +785,7 @@ $text['option-pager']['sv-se'] = "Personsökare";
 $text['option-pager']['uk-ua'] = "Пейджер";
 
 $text['option-other']['en-us'] = "Other";
+$text['option-other']['zh-cn'] = "其他";
 $text['option-other']['en-gb'] = "Other";
 $text['option-other']['ar-eg'] = "";
 $text['option-other']['de-at'] = "Andere"; //copied from de-de
@@ -806,6 +808,7 @@ $text['option-other']['sv-se'] = "Annat";
 $text['option-other']['uk-ua'] = "";
 
 $text['option-mobile']['en-us'] = "Mobile";
+$text['option-mobile']['zh-cn'] = "移动";
 $text['option-mobile']['en-gb'] = "Mobile";
 $text['option-mobile']['ar-eg'] = "";
 $text['option-mobile']['de-at'] = "Mobil"; //copied from de-de
@@ -828,6 +831,7 @@ $text['option-mobile']['sv-se'] = "Mobil";
 $text['option-mobile']['uk-ua'] = "Мобільний";
 
 $text['option-main']['en-us'] = "Main";
+$text['option-main']['zh-cn'] = "主要";
 $text['option-main']['en-gb'] = "Main";
 $text['option-main']['ar-eg'] = "";
 $text['option-main']['de-at'] = "Vorrangig"; //copied from de-de
@@ -850,6 +854,7 @@ $text['option-main']['sv-se'] = "Huvud";
 $text['option-main']['uk-ua'] = "Основний";
 
 $text['option-mailing']['en-us'] = "Mailing";
+$text['option-mailing']['zh-cn'] = "邮寄";
 $text['option-mailing']['en-gb'] = "Mailing";
 $text['option-mailing']['ar-eg'] = "";
 $text['option-mailing']['de-at'] = "Postalisch"; //copied from de-de
@@ -872,6 +877,7 @@ $text['option-mailing']['sv-se'] = "Utskick";
 $text['option-mailing']['uk-ua'] = "Пошта";
 
 $text['option-intl']['en-us'] = "International";
+$text['option-intl']['zh-cn'] = "国际";
 $text['option-intl']['en-gb'] = "International";
 $text['option-intl']['ar-eg'] = "";
 $text['option-intl']['de-at'] = "International"; //copied from de-de
@@ -894,6 +900,7 @@ $text['option-intl']['sv-se'] = "Internationell";
 $text['option-intl']['uk-ua'] = "Міжнародний";
 
 $text['option-import_duplicates_skip']['en-us'] = "Skip";
+$text['option-import_duplicates_skip']['zh-cn'] = "跳过";
 $text['option-import_duplicates_skip']['en-gb'] = "Skip";
 $text['option-import_duplicates_skip']['ar-eg'] = "";
 $text['option-import_duplicates_skip']['de-at'] = "Überspringen"; //copied from de-de
@@ -916,6 +923,7 @@ $text['option-import_duplicates_skip']['sv-se'] = "Skippa";
 $text['option-import_duplicates_skip']['uk-ua'] = "Пропустити";
 
 $text['option-import_duplicates_replace']['en-us'] = "Replace";
+$text['option-import_duplicates_replace']['zh-cn'] = "替换";
 $text['option-import_duplicates_replace']['en-gb'] = "Replace";
 $text['option-import_duplicates_replace']['ar-eg'] = "";
 $text['option-import_duplicates_replace']['de-at'] = "Ersetzen"; //copied from de-de
@@ -938,6 +946,7 @@ $text['option-import_duplicates_replace']['sv-se'] = "Byt Ut";
 $text['option-import_duplicates_replace']['uk-ua'] = "Замінити";
 
 $text['option-home']['en-us'] = "Home";
+$text['option-home']['zh-cn'] = "主页";
 $text['option-home']['en-gb'] = "Home";
 $text['option-home']['ar-eg'] = "";
 $text['option-home']['de-at'] = "Privat"; //copied from de-de
@@ -960,6 +969,7 @@ $text['option-home']['sv-se'] = "Hem";
 $text['option-home']['uk-ua'] = "Домашній";
 
 $text['option-fax']['en-us'] = "Fax";
+$text['option-fax']['zh-cn'] = "传真";
 $text['option-fax']['en-gb'] = "Fax";
 $text['option-fax']['ar-eg'] = "";
 $text['option-fax']['de-at'] = "Fax"; //copied from de-de
@@ -982,6 +992,7 @@ $text['option-fax']['sv-se'] = "Fax";
 $text['option-fax']['uk-ua'] = "Факс";
 
 $text['option-false']['en-us'] = "False";
+$text['option-false']['zh-cn'] = "否";
 $text['option-false']['en-gb'] = "False";
 $text['option-false']['ar-eg'] = "";
 $text['option-false']['de-at'] = "Aus"; //copied from de-de
@@ -1004,6 +1015,7 @@ $text['option-false']['sv-se'] = "Falsk";
 $text['option-false']['uk-ua'] = "Ні";
 
 $text['option-dom']['en-us'] = "Domestic";
+$text['option-dom']['zh-cn'] = "国内";
 $text['option-dom']['en-gb'] = "Domestic";
 $text['option-dom']['ar-eg'] = "";
 $text['option-dom']['de-at'] = "Lokal"; //copied from de-de
@@ -1026,6 +1038,7 @@ $text['option-dom']['sv-se'] = "Inhemsk";
 $text['option-dom']['uk-ua'] = "Домашній";
 
 $text['option-contact_type_volunteer']['en-us'] = "Volunteer";
+$text['option-contact_type_volunteer']['zh-cn'] = "自愿者";
 $text['option-contact_type_volunteer']['en-gb'] = "Volunteer";
 $text['option-contact_type_volunteer']['ar-eg'] = "";
 $text['option-contact_type_volunteer']['de-at'] = "Freiwilliger Helfer"; //copied from de-de
@@ -1048,6 +1061,7 @@ $text['option-contact_type_volunteer']['sv-se'] = "Frivillig";
 $text['option-contact_type_volunteer']['uk-ua'] = "Волонтер";
 
 $text['option-contact_type_user']['en-us'] = "User";
+$text['option-contact_type_user']['zh-cn'] = "用户";
 $text['option-contact_type_user']['en-gb'] = "User";
 $text['option-contact_type_user']['ar-eg'] = "";
 $text['option-contact_type_user']['de-at'] = "Benutzer"; //copied from de-de
@@ -1070,6 +1084,7 @@ $text['option-contact_type_user']['sv-se'] = "Användare";
 $text['option-contact_type_user']['uk-ua'] = "Користувач";
 
 $text['option-contact_type_supplier']['en-us'] = "Supplier";
+$text['option-contact_type_supplier']['zh-cn'] = "供应商";
 $text['option-contact_type_supplier']['en-gb'] = "Supplier";
 $text['option-contact_type_supplier']['ar-eg'] = "";
 $text['option-contact_type_supplier']['de-at'] = "Lieferant"; //copied from de-de
@@ -1092,6 +1107,7 @@ $text['option-contact_type_supplier']['sv-se'] = "Leverantör";
 $text['option-contact_type_supplier']['uk-ua'] = "Постачальник";
 
 $text['option-contact_type_subscriber']['en-us'] = "Subscriber";
+$text['option-contact_type_subscriber']['zh-cn'] = "终端用户";
 $text['option-contact_type_subscriber']['en-gb'] = "Subscriber";
 $text['option-contact_type_subscriber']['ar-eg'] = "";
 $text['option-contact_type_subscriber']['de-at'] = "Teilnehmer"; //copied from de-de
@@ -1114,6 +1130,7 @@ $text['option-contact_type_subscriber']['sv-se'] = "Abonnent";
 $text['option-contact_type_subscriber']['uk-ua'] = "";
 
 $text['option-contact_type_provider']['en-us'] = "Provider";
+$text['option-contact_type_provider']['zh-cn'] = "提供者";
 $text['option-contact_type_provider']['en-gb'] = "Provider";
 $text['option-contact_type_provider']['ar-eg'] = "";
 $text['option-contact_type_provider']['de-at'] = "Anbieter"; //copied from de-de
@@ -1136,6 +1153,7 @@ $text['option-contact_type_provider']['sv-se'] = "Leverantör";
 $text['option-contact_type_provider']['uk-ua'] = "";
 
 $text['option-contact_type_member']['en-us'] = "Member";
+$text['option-contact_type_member']['zh-cn'] = "成员";
 $text['option-contact_type_member']['en-gb'] = "Member";
 $text['option-contact_type_member']['ar-eg'] = "";
 $text['option-contact_type_member']['de-at'] = "Teilnehmer"; //copied from de-de
@@ -1158,6 +1176,7 @@ $text['option-contact_type_member']['sv-se'] = "Medlem";
 $text['option-contact_type_member']['uk-ua'] = "Учасник";
 
 $text['option-contact_type_lead']['en-us'] = "Lead";
+$text['option-contact_type_lead']['zh-cn'] = "线索";
 $text['option-contact_type_lead']['en-gb'] = "Lead";
 $text['option-contact_type_lead']['ar-eg'] = "";
 $text['option-contact_type_lead']['de-at'] = "Vorgesetzter"; //copied from de-de
@@ -1180,6 +1199,7 @@ $text['option-contact_type_lead']['sv-se'] = "'Lead'";
 $text['option-contact_type_lead']['uk-ua'] = "";
 
 $text['option-contact_type_friend']['en-us'] = "Friend";
+$text['option-contact_type_friend']['zh-cn'] = "朋友";
 $text['option-contact_type_friend']['en-gb'] = "Friend";
 $text['option-contact_type_friend']['ar-eg'] = "";
 $text['option-contact_type_friend']['de-at'] = "Freund"; //copied from de-de
@@ -1202,6 +1222,7 @@ $text['option-contact_type_friend']['sv-se'] = "Vän";
 $text['option-contact_type_friend']['uk-ua'] = "";
 
 $text['option-contact_type_family']['en-us'] = "Family";
+$text['option-contact_type_family']['zh-cn'] = "亲属";
 $text['option-contact_type_family']['en-gb'] = "Family";
 $text['option-contact_type_family']['ar-eg'] = "";
 $text['option-contact_type_family']['de-at'] = "Familie"; //copied from de-de
@@ -1224,6 +1245,7 @@ $text['option-contact_type_family']['sv-se'] = "Familj";
 $text['option-contact_type_family']['uk-ua'] = "";
 
 $text['option-contact_type_customer']['en-us'] = "Customer";
+$text['option-contact_type_customer']['zh-cn'] = "客户";
 $text['option-contact_type_customer']['en-gb'] = "Customer";
 $text['option-contact_type_customer']['ar-eg'] = "";
 $text['option-contact_type_customer']['de-at'] = "Kunde"; //copied from de-de
@@ -1246,6 +1268,7 @@ $text['option-contact_type_customer']['sv-se'] = "Kund";
 $text['option-contact_type_customer']['uk-ua'] = "";
 
 $text['option-contact_type_contractor']['en-us'] = "Contractor";
+$text['option-contact_type_contractor']['zh-cn'] = "承包商";
 $text['option-contact_type_contractor']['en-gb'] = "Contractor";
 $text['option-contact_type_contractor']['ar-eg'] = "";
 $text['option-contact_type_contractor']['de-at'] = "Vertragspartner"; //copied from de-de
@@ -1291,6 +1314,7 @@ $text['option-billing']['sv-se'] = "Fakturering";
 $text['option-billing']['uk-ua'] = "Білінг";
 
 $text['message_contacts_imported_skipped']['en-us'] = "Skipped:";
+$text['message_contacts_imported_skipped']['zh-cn'] = "跳过：";
 $text['message_contacts_imported_skipped']['en-gb'] = "Skipped:";
 $text['message_contacts_imported_skipped']['ar-eg'] = "";
 $text['message_contacts_imported_skipped']['de-at'] = "Übersprungen:"; //copied from de-de
@@ -1313,6 +1337,7 @@ $text['message_contacts_imported_skipped']['sv-se'] = "Skippad:";
 $text['message_contacts_imported_skipped']['uk-ua'] = "Пропущено:";
 
 $text['message_contacts_imported_replaced']['en-us'] = "Replaced:";
+$text['message_contacts_imported_replaced']['zh-cn'] = "已替换：";
 $text['message_contacts_imported_replaced']['en-gb'] = "Replaced:";
 $text['message_contacts_imported_replaced']['ar-eg'] = "";
 $text['message_contacts_imported_replaced']['de-at'] = "Ersetzt:"; //copied from de-de
@@ -1335,6 +1360,7 @@ $text['message_contacts_imported_replaced']['sv-se'] = "Utbytt:";
 $text['message_contacts_imported_replaced']['uk-ua'] = "Замінено:";
 
 $text['message-update']['en-us'] = "Update Completed";
+$text['message-update']['zh-cn'] = "更新已完成";
 $text['message-update']['en-gb'] = "Update Completed";
 $text['message-update']['ar-eg'] = "";
 $text['message-update']['de-at'] = "Aktualisierung durchgeführt"; //copied from de-de
@@ -1357,6 +1383,7 @@ $text['message-update']['sv-se'] = "Uppdatering Klar";
 $text['message-update']['uk-ua'] = "Оновлення завершено";
 
 $text['message-results']['en-us'] = "The following contacts were successfully imported from the uploaded CSV file:";
+$text['message-results']['zh-cn'] = "已成功从上传的CSV文件导入以下联系人：";
 $text['message-results']['en-gb'] = "The following contacts were successfully imported from the uploaded CSV file:";
 $text['message-results']['ar-eg'] = "";
 $text['message-results']['de-at'] = "Die folgenden Kontakte wurden erfolgreich aus der hochgeladenen CSV Datei importiert:"; //copied from de-de
@@ -1379,6 +1406,7 @@ $text['message-results']['sv-se'] = "Följande kontakter importerades från den 
 $text['message-results']['uk-ua'] = "";
 
 $text['message-required']['en-us'] = "Please provide: ";
+$text['message-required']['zh-cn'] = "请提供： ";
 $text['message-required']['en-gb'] = "Please provide: ";
 $text['message-required']['ar-eg'] = "";
 $text['message-required']['de-at'] = "Bitte geben Sie folgendes an:"; //copied from de-de
@@ -1401,6 +1429,7 @@ $text['message-required']['sv-se'] = "Var god uppge:";
 $text['message-required']['uk-ua'] = "Будь ласка, вкажіть:";
 
 $text['message-invalid_credentials']['en-us'] = "Invalid Credentials";
+$text['message-invalid_credentials']['zh-cn'] = "无效凭据";
 $text['message-invalid_credentials']['en-gb'] = "Invalid Credentials";
 $text['message-invalid_credentials']['ar-eg'] = "";
 $text['message-invalid_credentials']['de-at'] = "Ungültibe Benutzerdaten"; //copied from de-de
@@ -1423,6 +1452,7 @@ $text['message-invalid_credentials']['sv-se'] = "Ogiltig Inloggning";
 $text['message-invalid_credentials']['uk-ua'] = "";
 
 $text['message-google_signed_out']['en-us'] = "Google Account: Signed Out";
+$text['message-google_signed_out']['zh-cn'] = "谷歌帐户：已注销";
 $text['message-google_signed_out']['en-gb'] = "Google Account: Signed Out";
 $text['message-google_signed_out']['ar-eg'] = "";
 $text['message-google_signed_out']['de-at'] = "Google Konto: Abgemeldet"; //copied from de-de
@@ -1445,6 +1475,7 @@ $text['message-google_signed_out']['sv-se'] = "Google Konto: 'Signed Out'";
 $text['message-google_signed_out']['uk-ua'] = "";
 
 $text['message-delete']['en-us'] = "Delete Completed";
+$text['message-delete']['zh-cn'] = "删除已完成";
 $text['message-delete']['en-gb'] = "Delete Completed";
 $text['message-delete']['ar-eg'] = "";
 $text['message-delete']['de-at'] = "Erfolgreich gelöscht"; //copied from de-de
@@ -1467,6 +1498,7 @@ $text['message-delete']['sv-se'] = "Borttagning Klar";
 $text['message-delete']['uk-ua'] = "Видалено";
 
 $text['message-contacts_imported']['en-us'] = "Contacts Imported:";
+$text['message-contacts_imported']['zh-cn'] = "导入的联系人：";
 $text['message-contacts_imported']['en-gb'] = "Contacts Imported:";
 $text['message-contacts_imported']['ar-eg'] = "";
 $text['message-contacts_imported']['de-at'] = "Kontakte importiert:"; //copied from de-de
@@ -1489,6 +1521,7 @@ $text['message-contacts_imported']['sv-se'] = "Kontakter Importerade";
 $text['message-contacts_imported']['uk-ua'] = "Імпортовані контакти :";
 
 $text['message-add']['en-us'] = "Add Completed";
+$text['message-add']['zh-cn'] = "添加已完成";
 $text['message-add']['en-gb'] = "Add Completed";
 $text['message-add']['ar-eg'] = "";
 $text['message-add']['de-at'] = "Erfolgreich hinzugefügt"; //copied from de-de
@@ -1511,6 +1544,7 @@ $text['message-add']['sv-se'] = "Tillagd";
 $text['message-add']['uk-ua'] = "Додано";
 
 $text['message-access_denied']['en-us'] = "Access Denied";
+$text['message-access_denied']['zh-cn'] = "拒绝访问";
 $text['message-access_denied']['en-gb'] = "Access Denied";
 $text['message-access_denied']['ar-eg'] = "";
 $text['message-access_denied']['de-at'] = "Zugang verweigert"; //copied from de-de
@@ -1533,6 +1567,7 @@ $text['message-access_denied']['sv-se'] = "Åtkomst Nekad";
 $text['message-access_denied']['uk-ua'] = "В доступі відмовлено";
 
 $text['label-voice']['en-us'] = "Voice";
+$text['label-voice']['zh-cn'] = "语音";
 $text['label-voice']['en-gb'] = "Voice";
 $text['label-voice']['ar-eg'] = "";
 $text['label-voice']['de-at'] = "Sprache"; //copied from de-de
@@ -1555,6 +1590,7 @@ $text['label-voice']['sv-se'] = "Röst";
 $text['label-voice']['uk-ua'] = "Голос";
 
 $text['label-video']['en-us'] = "Video";
+$text['label-video']['zh-cn'] = "视频";
 $text['label-video']['en-gb'] = "Video";
 $text['label-video']['ar-eg'] = "";
 $text['label-video']['de-at'] = "Video"; //copied from de-de
@@ -1577,6 +1613,7 @@ $text['label-video']['sv-se'] = "Video";
 $text['label-video']['uk-ua'] = "Відео";
 
 $text['label-urls']['en-us'] = "URLs";
+$text['label-urls']['zh-cn'] = "链接URL";
 $text['label-urls']['en-gb'] = "URLs";
 $text['label-urls']['ar-eg'] = "";
 $text['label-urls']['de-at'] = "URLs"; //copied from de-de
@@ -1599,6 +1636,7 @@ $text['label-urls']['sv-se'] = "URL:s";
 $text['label-urls']['uk-ua'] = "URL адреси";
 
 $text['label-url_label']['en-us'] = "Label";
+$text['label-url_label']['zh-cn'] = "标签";
 $text['label-url_label']['en-gb'] = "Label";
 $text['label-url_label']['ar-eg'] = "";
 $text['label-url_label']['de-at'] = "Kennzeichnung"; //copied from de-de
@@ -1621,6 +1659,7 @@ $text['label-url_label']['sv-se'] = "Etikett";
 $text['label-url_label']['uk-ua'] = "Назва";
 
 $text['label-url_description']['en-us'] = "Description";
+$text['label-url_description']['zh-cn'] = "描述";
 $text['label-url_description']['en-gb'] = "Description";
 $text['label-url_description']['ar-eg'] = "";
 $text['label-url_description']['de-at'] = "Beschreibung"; //copied from de-de
@@ -1643,6 +1682,7 @@ $text['label-url_description']['sv-se'] = "Beskrivning";
 $text['label-url_description']['uk-ua'] = "Опис";
 
 $text['label-url_address']['en-us'] = "Address";
+$text['label-url_address']['zh-cn'] = "地址";
 $text['label-url_address']['en-gb'] = "Address";
 $text['label-url_address']['ar-eg'] = "";
 $text['label-url_address']['de-at'] = "Adresse"; //copied from de-de
@@ -1665,6 +1705,7 @@ $text['label-url_address']['sv-se'] = "Adress";
 $text['label-url_address']['uk-ua'] = "Адреси";
 
 $text['label-true']['en-us'] = "True";
+$text['label-true']['zh-cn'] = "是";
 $text['label-true']['en-gb'] = "True";
 $text['label-true']['ar-eg'] = "";
 $text['label-true']['de-at'] = "Ein"; //copied from de-de
@@ -1687,6 +1728,7 @@ $text['label-true']['sv-se'] = "Sann";
 $text['label-true']['uk-ua'] = "Так";
 
 $text['label-time_user']['en-us'] = "User";
+$text['label-time_user']['zh-cn'] = "用户";
 $text['label-time_user']['en-gb'] = "User";
 $text['label-time_user']['ar-eg'] = "";
 $text['label-time_user']['de-at'] = "Benutzer"; //copied from de-de
@@ -1709,6 +1751,7 @@ $text['label-time_user']['sv-se'] = "Användare";
 $text['label-time_user']['uk-ua'] = "Користувач";
 
 $text['label-time_timer']['en-us'] = "Timer";
+$text['label-time_timer']['zh-cn'] = "计时器";
 $text['label-time_timer']['en-gb'] = "Timer";
 $text['label-time_timer']['ar-eg'] = "";
 $text['label-time_timer']['de-at'] = "Timer"; //copied from de-de
@@ -1731,6 +1774,7 @@ $text['label-time_timer']['sv-se'] = "Timer";
 $text['label-time_timer']['uk-ua'] = "таймер";
 
 $text['label-time_time']['en-us'] = "Time";
+$text['label-time_time']['zh-cn'] = "时间";
 $text['label-time_time']['en-gb'] = "Time";
 $text['label-time_time']['ar-eg'] = "";
 $text['label-time_time']['de-at'] = "Zeit"; //copied from de-de
@@ -1753,6 +1797,7 @@ $text['label-time_time']['sv-se'] = "Tid";
 $text['label-time_time']['uk-ua'] = "час";
 
 $text['label-time_stop']['en-us'] = "Stop";
+$text['label-time_stop']['zh-cn'] = "停止";
 $text['label-time_stop']['en-gb'] = "Stop";
 $text['label-time_stop']['ar-eg'] = "";
 $text['label-time_stop']['de-at'] = "Stopp"; //copied from de-de
@@ -1775,6 +1820,7 @@ $text['label-time_stop']['sv-se'] = "Stanna";
 $text['label-time_stop']['uk-ua'] = "стоп";
 
 $text['label-time_start']['en-us'] = "Start";
+$text['label-time_start']['zh-cn'] = "开始";
 $text['label-time_start']['en-gb'] = "Start";
 $text['label-time_start']['ar-eg'] = "";
 $text['label-time_start']['de-at'] = "Start"; //copied from de-de
@@ -1797,6 +1843,7 @@ $text['label-time_start']['sv-se'] = "Start";
 $text['label-time_start']['uk-ua'] = "початок";
 
 $text['label-time_duration']['en-us'] = "Duration";
+$text['label-time_duration']['zh-cn'] = "持续时间";
 $text['label-time_duration']['en-gb'] = "Duration";
 $text['label-time_duration']['ar-eg'] = "";
 $text['label-time_duration']['de-at'] = "Dauer"; //copied from de-de
@@ -1819,6 +1866,7 @@ $text['label-time_duration']['sv-se'] = "Varaktighet";
 $text['label-time_duration']['uk-ua'] = "тривалість";
 
 $text['label-time_description']['en-us'] = "Description";
+$text['label-time_description']['zh-cn'] = "描述";
 $text['label-time_description']['en-gb'] = "Description";
 $text['label-time_description']['ar-eg'] = "";
 $text['label-time_description']['de-at'] = "Beschreibung"; //copied from de-de
@@ -1841,6 +1889,7 @@ $text['label-time_description']['sv-se'] = "Beskrivning";
 $text['label-time_description']['uk-ua'] = "Опис";
 
 $text['label-text']['en-us'] = "Text";
+$text['label-text']['zh-cn'] = "文本";
 $text['label-text']['en-gb'] = "Text";
 $text['label-text']['ar-eg'] = "";
 $text['label-text']['de-at'] = "Text"; //copied from de-de
@@ -1863,6 +1912,7 @@ $text['label-text']['sv-se'] = "Text";
 $text['label-text']['uk-ua'] = "Текст";
 
 $text['label-shared']['en-us'] = "Shared";
+$text['label-shared']['zh-cn'] = "共享";
 $text['label-shared']['en-gb'] = "Shared";
 $text['label-shared']['ar-eg'] = "";
 $text['label-shared']['de-at'] = "Gemeinsame"; //copied from de-de
@@ -1885,6 +1935,7 @@ $text['label-shared']['sv-se'] = "Delad";
 $text['label-shared']['uk-ua'] = "";
 
 $text['label-phone_label']['en-us'] = "Label";
+$text['label-phone_label']['zh-cn'] = "标签";
 $text['label-phone_label']['en-gb'] = "Label";
 $text['label-phone_label']['ar-eg'] = "";
 $text['label-phone_label']['de-at'] = "Kennzeichnung"; //copied from de-de
@@ -1907,6 +1958,7 @@ $text['label-phone_label']['sv-se'] = "Etikett";
 $text['label-phone_label']['uk-ua'] = "Назва";
 
 $text['label-phone_type']['en-us'] = "Type";
+$text['label-phone_type']['zh-cn'] = "类型";
 $text['label-phone_type']['en-gb'] = "Type";
 $text['label-phone_type']['ar-eg'] = "";
 $text['label-phone_type']['de-at'] = "Art"; //copied from de-de
@@ -1929,6 +1981,7 @@ $text['label-phone_type']['sv-se'] = "Typ";
 $text['label-phone_type']['uk-ua'] = "Тип";
 
 $text['label-phone_tools']['en-us'] = "Tools";
+$text['label-phone_tools']['zh-cn'] = "工具";
 $text['label-phone_tools']['en-gb'] = "Tools";
 $text['label-phone_tools']['ar-eg'] = "";
 $text['label-phone_tools']['de-at'] = "Werkzeuge"; //copied from de-de
@@ -1951,6 +2004,7 @@ $text['label-phone_tools']['sv-se'] = "Verktyg";
 $text['label-phone_tools']['uk-ua'] = "Інструменти";
 
 $text['label-phone_speed_dial']['en-us'] = "Speed Dial";
+$text['label-phone_speed_dial']['zh-cn'] = "快速拨号";
 $text['label-phone_speed_dial']['en-gb'] = "Speed Dial";
 $text['label-phone_speed_dial']['ar-eg'] = "";
 $text['label-phone_speed_dial']['de-at'] = "Kurzwahl"; //copied from de-de
@@ -1973,6 +2027,7 @@ $text['label-phone_speed_dial']['sv-se'] = "Snabb Nummer";
 $text['label-phone_speed_dial']['uk-ua'] = "";      
 
 $text['label-phone_country_code']['en-us'] = "Country Code";
+$text['label-phone_country_code']['zh-cn'] = "国家代码";
 $text['label-phone_country_code']['en-gb'] = "Country Code";
 $text['label-phone_country_code']['ar-eg'] = "";
 $text['label-phone_country_code']['de-at'] = ""; //copied from de-de
@@ -1995,6 +2050,7 @@ $text['label-phone_country_code']['sv-se'] = "";
 $text['label-phone_country_code']['uk-ua'] = "";
 
 $text['label-phone_numbers']['en-us'] = "Numbers";
+$text['label-phone_numbers']['zh-cn'] = "号码";
 $text['label-phone_numbers']['en-gb'] = "Numbers";
 $text['label-phone_numbers']['ar-eg'] = "";
 $text['label-phone_numbers']['de-at'] = "Nummern"; //copied from de-de
@@ -2017,6 +2073,7 @@ $text['label-phone_numbers']['sv-se'] = "Nummer";
 $text['label-phone_numbers']['uk-ua'] = "Номери";
 
 $text['label-phone_number']['en-us'] = "Number";
+$text['label-phone_number']['zh-cn'] = "号码";
 $text['label-phone_number']['en-gb'] = "Number";
 $text['label-phone_number']['ar-eg'] = "";
 $text['label-phone_number']['de-at'] = "Nummer"; //copied from de-de
@@ -2039,6 +2096,7 @@ $text['label-phone_number']['sv-se'] = "Nummer";
 $text['label-phone_number']['uk-ua'] = "Номер";
 
 $text['label-phone_extension']['en-us'] = "Extension";
+$text['label-phone_extension']['zh-cn'] = "分机号";
 $text['label-phone_extension']['en-gb'] = "Extension";
 $text['label-phone_extension']['ar-eg'] = "";
 $text['label-phone_extension']['de-at'] = "Nebenstelle"; //copied from de-de
@@ -2061,6 +2119,7 @@ $text['label-phone_extension']['sv-se'] = "Anknytning";
 $text['label-phone_extension']['uk-ua'] = "Розширення";
 
 $text['label-primary']['en-us'] = "Primary";
+$text['label-primary']['zh-cn'] = "主要";
 $text['label-primary']['en-gb'] = "Primary";
 $text['label-primary']['ar-eg'] = "";
 $text['label-primary']['de-at'] = "Primär"; //copied from de-de
@@ -2083,6 +2142,7 @@ $text['label-primary']['sv-se'] = "Primär";
 $text['label-primary']['uk-ua'] = "";
 
 $text['label-phone_description']['en-us'] = "Description";
+$text['label-phone_description']['zh-cn'] = "描述";
 $text['label-phone_description']['en-gb'] = "Description";
 $text['label-phone_description']['ar-eg'] = "";
 $text['label-phone_description']['de-at'] = "Beschreibung"; //copied from de-de
@@ -2105,6 +2165,7 @@ $text['label-phone_description']['sv-se'] = "Beskrivning";
 $text['label-phone_description']['uk-ua'] = "Опис";
 
 $text['label-phone_call']['en-us'] = "Call";
+$text['label-phone_call']['zh-cn'] = "呼叫";
 $text['label-phone_call']['en-gb'] = "Call";
 $text['label-phone_call']['ar-eg'] = "";
 $text['label-phone_call']['de-at'] = "Anrufen"; //copied from de-de
@@ -2127,6 +2188,7 @@ $text['label-phone_call']['sv-se'] = "Samtal";
 $text['label-phone_call']['uk-ua'] = "Дзвонити";
 
 $text['label-order']['en-us'] = "Order";
+$text['label-order']['zh-cn'] = "顺序";
 $text['label-order']['en-gb'] = "Order";
 $text['label-order']['ar-eg'] = "";
 $text['label-order']['de-at'] = "Reihenfolge"; //copied from de-de
@@ -2149,6 +2211,7 @@ $text['label-order']['sv-se'] = "Ordning";
 $text['label-order']['uk-ua'] = "Порядок";
 
 $text['label-note_user']['en-us'] = "User";
+$text['label-note_user']['zh-cn'] = "用户";
 $text['label-note_user']['en-gb'] = "User";
 $text['label-note_user']['ar-eg'] = "";
 $text['label-note_user']['de-at'] = "Benutzer"; //copied from de-de
@@ -2171,6 +2234,7 @@ $text['label-note_user']['sv-se'] = "Användare";
 $text['label-note_user']['uk-ua'] = "Користувач";
 
 $text['label-note_content']['en-us'] = "Content";
+$text['label-note_content']['zh-cn'] = "内容";
 $text['label-note_content']['en-gb'] = "Content";
 $text['label-note_content']['ar-eg'] = "";
 $text['label-note_content']['de-at'] = "Inhalt"; //copied from de-de
@@ -2193,6 +2257,7 @@ $text['label-note_content']['sv-se'] = "Content";
 $text['label-note_content']['uk-ua'] = "Контент";
 
 $text['label-import_file_upload']['en-us'] = "File to Upload";
+$text['label-import_file_upload']['zh-cn'] = "要上传的文件";
 $text['label-import_file_upload']['en-gb'] = "File to Upload";
 $text['label-import_file_upload']['ar-eg'] = "";
 $text['label-import_file_upload']['de-at'] = "Datei zum hochladen"; //copied from de-de
@@ -2215,6 +2280,7 @@ $text['label-import_file_upload']['sv-se'] = "Fil att ladda upp";
 $text['label-import_file_upload']['uk-ua'] = "Файл для завантаження";
 
 $text['label-import_fields']['en-us'] = "Fields";
+$text['label-import_fields']['zh-cn'] = "字段";
 $text['label-import_fields']['en-gb'] = "Fields";
 $text['label-import_fields']['ar-eg'] = "";
 $text['label-import_fields']['de-at'] = "Felder"; //copied from de-de
@@ -2237,6 +2303,7 @@ $text['label-import_fields']['sv-se'] = "Fält";
 $text['label-import_fields']['uk-ua'] = "Поля";
 
 $text['label-import_enclosure']['en-us'] = "Enclosure";
+$text['label-import_enclosure']['zh-cn'] = "已关闭";
 $text['label-import_enclosure']['en-gb'] = "Enclosure";
 $text['label-import_enclosure']['ar-eg'] = "";
 $text['label-import_enclosure']['de-at'] = "Abgrenzung"; //copied from de-de
@@ -2259,6 +2326,7 @@ $text['label-import_enclosure']['sv-se'] = "Inkapsling";
 $text['label-import_enclosure']['uk-ua'] = "";
 
 $text['label-import_duplicates']['en-us'] = "Duplicates";
+$text['label-import_duplicates']['zh-cn'] = "重复项";
 $text['label-import_duplicates']['en-gb'] = "Duplicates";
 $text['label-import_duplicates']['ar-eg'] = "";
 $text['label-import_duplicates']['de-at'] = "Duplikate"; //copied from de-de
@@ -2281,6 +2349,7 @@ $text['label-import_duplicates']['sv-se'] = "Dubbletter";
 $text['label-import_duplicates']['uk-ua'] = "Дублі";
 
 $text['label-import_data']['en-us'] = "Data";
+$text['label-import_data']['zh-cn'] = "数据";
 $text['label-import_data']['en-gb'] = "Data";
 $text['label-import_data']['ar-eg'] = "";
 $text['label-import_data']['de-at'] = "Daten"; //copied from de-de
@@ -2303,6 +2372,7 @@ $text['label-import_data']['sv-se'] = "Data";
 $text['label-import_data']['uk-ua'] = "";
 
 $text['label-import_delimiter']['en-us'] = "Delimiter";
+$text['label-import_delimiter']['zh-cn'] = "分隔符";
 $text['label-import_delimiter']['en-gb'] = "Delimiter";
 $text['label-import_delimiter']['ar-eg'] = "";
 $text['label-import_delimiter']['de-at'] = "Trennzeichen"; //copied from de-de
@@ -2325,6 +2395,7 @@ $text['label-import_delimiter']['sv-se'] = "Avgränsare";
 $text['label-import_delimiter']['uk-ua'] = "";
 
 $text['label-users']['en-us'] = "Users";
+$text['label-users']['zh-cn'] = "用户";
 $text['label-users']['en-gb'] = "Users";
 $text['label-users']['ar-eg'] = "";
 $text['label-users']['de-at'] = "Benutzer"; //copied from de-de
@@ -2347,6 +2418,7 @@ $text['label-users']['sv-se'] = "Användare";
 $text['label-users']['uk-ua'] = "Користувачі";
 
 $text['label-groups']['en-us'] = "Groups";
+$text['label-groups']['zh-cn'] = "组";
 $text['label-groups']['en-gb'] = "Groups";
 $text['label-groups']['ar-eg'] = "";
 $text['label-groups']['de-at'] = "Gruppen"; //copied from de-de
@@ -2369,6 +2441,7 @@ $text['label-groups']['sv-se'] = "Grupper";
 $text['label-groups']['uk-ua'] = "Групи";
 
 $text['label-group']['en-us'] = "Group";
+$text['label-group']['zh-cn'] = "组";
 $text['label-group']['en-gb'] = "Group";
 $text['label-group']['ar-eg'] = "";
 $text['label-group']['de-at'] = "Gruppe"; //copied from de-de
@@ -2391,6 +2464,7 @@ $text['label-group']['sv-se'] = "Grupp";
 $text['label-group']['uk-ua'] = "Група";
 
 $text['label-google_map']['en-us'] = "Open with Google Maps";
+$text['label-google_map']['zh-cn'] = "使用谷歌地图打开";
 $text['label-google_map']['en-gb'] = "Open with Google Maps";
 $text['label-google_map']['ar-eg'] = "";
 $text['label-google_map']['de-at'] = "Mit Google Maps öffnen"; //copied from de-de
@@ -2413,6 +2487,7 @@ $text['label-google_map']['sv-se'] = "Öppna med Google Maps";
 $text['label-google_map']['uk-ua'] = "Відкрити на картах Google";
 
 $text['label-fax']['en-us'] = "Fax";
+$text['label-fax']['zh-cn'] = "传真";
 $text['label-fax']['en-gb'] = "Fax";
 $text['label-fax']['ar-eg'] = "";
 $text['label-fax']['de-at'] = "Fax"; //copied from de-de
@@ -2435,6 +2510,7 @@ $text['label-fax']['sv-se'] = "Fax";
 $text['label-fax']['uk-ua'] = "Факс";
 
 $text['label-false']['en-us'] = "False";
+$text['label-false']['zh-cn'] = "否";
 $text['label-false']['en-gb'] = "False";
 $text['label-false']['ar-eg'] = "";
 $text['label-false']['de-at'] = "Aus"; //copied from de-de
@@ -2457,6 +2533,7 @@ $text['label-false']['sv-se'] = "Falsk";
 $text['label-false']['uk-ua'] = "Ні";
 
 $text['label-extension']['en-us'] = "Extension";
+$text['label-extension']['zh-cn'] = "分机号";
 $text['label-extension']['en-gb'] = "Extension";
 $text['label-extension']['ar-eg'] = "";
 $text['label-extension']['de-at'] = "Durchwahl"; //copied from de-de
@@ -2479,6 +2556,7 @@ $text['label-extension']['sv-se'] = "Anknytning";
 $text['label-extension']['uk-ua'] = "Розширення";
 
 $text['label-enabled']['en-us'] = "Enabled";
+$text['label-enabled']['zh-cn'] = "启用";
 $text['label-enabled']['en-gb'] = "Enabled";
 $text['label-enabled']['ar-eg'] = "";
 $text['label-enabled']['de-at'] = "An"; //copied from de-de
@@ -2501,6 +2579,7 @@ $text['label-enabled']['sv-se'] = "Aktiverad";
 $text['label-enabled']['uk-ua'] = "Включено";
 
 $text['label-emails']['en-us'] = "Emails";
+$text['label-emails']['zh-cn'] = "电子邮件";
 $text['label-emails']['en-gb'] = "Emails";
 $text['label-emails']['ar-eg'] = "";
 $text['label-emails']['de-at'] = "Emails"; //copied from de-de
@@ -2523,6 +2602,7 @@ $text['label-emails']['sv-se'] = "E-post";
 $text['label-emails']['uk-ua'] = "Адреси електронної пошти";
 
 $text['label-email_label']['en-us'] = "Label";
+$text['label-email_label']['zh-cn'] = "标签";
 $text['label-email_label']['en-gb'] = "Label";
 $text['label-email_label']['ar-eg'] = "";
 $text['label-email_label']['de-at'] = "Kennzeichnung"; //copied from de-de
@@ -2545,6 +2625,7 @@ $text['label-email_label']['sv-se'] = "Etikett";
 $text['label-email_label']['uk-ua'] = "Назва";
 
 $text['label-email_description']['en-us'] = "Description";
+$text['label-email_description']['zh-cn'] = "描述";
 $text['label-email_description']['en-gb'] = "Description";
 $text['label-email_description']['ar-eg'] = "";
 $text['label-email_description']['de-at'] = "Beschreibung"; //copied from de-de
@@ -2567,6 +2648,7 @@ $text['label-email_description']['sv-se'] = "Beskrivning";
 $text['label-email_description']['uk-ua'] = "Опис";
 
 $text['label-email_address']['en-us'] = "Address";
+$text['label-email_address']['zh-cn'] = "邮件地址";
 $text['label-email_address']['en-gb'] = "Address";
 $text['label-email_address']['ar-eg'] = "";
 $text['label-email_address']['de-at'] = "Email-Adresse"; //copied from de-de
@@ -2589,6 +2671,7 @@ $text['label-email_address']['sv-se'] = "Adress";
 $text['label-email_address']['uk-ua'] = "Адреси E-Mail";
 
 $text['label-description']['en-us'] = "Description";
+$text['label-description']['zh-cn'] = "描述";
 $text['label-description']['en-gb'] = "Description";
 $text['label-description']['ar-eg'] = "";
 $text['label-description']['de-at'] = "Beschreibung"; //copied from de-de
@@ -2611,6 +2694,7 @@ $text['label-description']['sv-se'] = "Beskrivning";
 $text['label-description']['uk-ua'] = "Опис";
 
 $text['label-contacts_import_google_account']['en-us'] = "Account";
+$text['label-contacts_import_google_account']['zh-cn'] = "账号";
 $text['label-contacts_import_google_account']['en-gb'] = "Account";
 $text['label-contacts_import_google_account']['ar-eg'] = "";
 $text['label-contacts_import_google_account']['de-at'] = "Konto"; //copied from de-de
@@ -2633,6 +2717,7 @@ $text['label-contacts_import_google_account']['sv-se'] = "Konto";
 $text['label-contacts_import_google_account']['uk-ua'] = "Обліковий запис";
 
 $text['label-contact_url']['en-us'] = "URL";
+$text['label-contact_url']['zh-cn'] = "URL";
 $text['label-contact_url']['en-gb'] = "URL";
 $text['label-contact_url']['ar-eg'] = "";
 $text['label-contact_url']['de-at'] = "URL"; //copied from de-de
@@ -2655,6 +2740,7 @@ $text['label-contact_url']['sv-se'] = "URL";
 $text['label-contact_url']['uk-ua'] = "URL";
 
 $text['label-contact_type']['en-us'] = "Type";
+$text['label-contact_type']['zh-cn'] = "类型";
 $text['label-contact_type']['en-gb'] = "Type";
 $text['label-contact_type']['ar-eg'] = "";
 $text['label-contact_type']['de-at'] = "Art"; //copied from de-de
@@ -2677,6 +2763,7 @@ $text['label-contact_type']['sv-se'] = "Typ";
 $text['label-contact_type']['uk-ua'] = "Тип";
 
 $text['label-contact_title']['en-us'] = "Title";
+$text['label-contact_title']['zh-cn'] = "标题";
 $text['label-contact_title']['en-gb'] = "Title";
 $text['label-contact_title']['ar-eg'] = "";
 $text['label-contact_title']['de-at'] = "Titel"; //copied from de-de
@@ -2699,6 +2786,7 @@ $text['label-contact_title']['sv-se'] = "Titel";
 $text['label-contact_title']['uk-ua'] = "Заголовок";
 
 $text['label-contact_time_zone']['en-us'] = "Time Zone";
+$text['label-contact_time_zone']['zh-cn'] = "时区";
 $text['label-contact_time_zone']['en-gb'] = "Time Zone";
 $text['label-contact_time_zone']['ar-eg'] = "";
 $text['label-contact_time_zone']['de-at'] = "Zeitzone"; //copied from de-de
@@ -2721,6 +2809,7 @@ $text['label-contact_time_zone']['sv-se'] = "Tidszon";
 $text['label-contact_time_zone']['uk-ua'] = "Часовий пояс";
 
 $text['label-contact_settings']['en-us'] = "Settings";
+$text['label-contact_settings']['zh-cn'] = "设置";
 $text['label-contact_settings']['en-gb'] = "Settings";
 $text['label-contact_settings']['ar-eg'] = "";
 $text['label-contact_settings']['de-at'] = "Einstellungen"; //copied from de-de
@@ -2743,6 +2832,7 @@ $text['label-contact_settings']['sv-se'] = "Inställning";
 $text['label-contact_settings']['uk-ua'] = "Налаштування";
 
 $text['label-contact_setting_value']['en-us'] = "Value";
+$text['label-contact_setting_value']['zh-cn'] = "值";
 $text['label-contact_setting_value']['en-gb'] = "Value";
 $text['label-contact_setting_value']['ar-eg'] = "";
 $text['label-contact_setting_value']['de-at'] = "Wert"; //copied from de-de
@@ -2765,6 +2855,7 @@ $text['label-contact_setting_value']['sv-se'] = "Värde";
 $text['label-contact_setting_value']['uk-ua'] = "Значення";
 
 $text['label-contact_setting_type']['en-us'] = "Type";
+$text['label-contact_setting_type']['zh-cn'] = "类型";
 $text['label-contact_setting_type']['en-gb'] = "Type";
 $text['label-contact_setting_type']['ar-eg'] = "";
 $text['label-contact_setting_type']['de-at'] = "Art"; //copied from de-de
@@ -2787,6 +2878,7 @@ $text['label-contact_setting_type']['sv-se'] = "Typ";
 $text['label-contact_setting_type']['uk-ua'] = "Тип";
 
 $text['label-contact_setting_subcategory']['en-us'] = "Subcategory";
+$text['label-contact_setting_subcategory']['zh-cn'] = "子分类";
 $text['label-contact_setting_subcategory']['en-gb'] = "Subcategory";
 $text['label-contact_setting_subcategory']['ar-eg'] = "";
 $text['label-contact_setting_subcategory']['de-at'] = "Unterkategorie"; //copied from de-de
@@ -2809,6 +2901,7 @@ $text['label-contact_setting_subcategory']['sv-se'] = "Underkategori";
 $text['label-contact_setting_subcategory']['uk-ua'] = "Підкатегорія";
 
 $text['label-contact_setting_category']['en-us'] = "Category";
+$text['label-contact_setting_category']['zh-cn'] = "类别";
 $text['label-contact_setting_category']['en-gb'] = "Category";
 $text['label-contact_setting_category']['ar-eg'] = "";
 $text['label-contact_setting_category']['de-at'] = "Kategorie"; //copied from de-de
@@ -2831,6 +2924,7 @@ $text['label-contact_setting_category']['sv-se'] = "Kategori";
 $text['label-contact_setting_category']['uk-ua'] = "Категорія";
 
 $text['label-contact_role']['en-us'] = "Role";
+$text['label-contact_role']['zh-cn'] = "角色";
 $text['label-contact_role']['en-gb'] = "Role";
 $text['label-contact_role']['ar-eg'] = "";
 $text['label-contact_role']['de-at'] = "Rolle"; //copied from de-de
@@ -2853,6 +2947,7 @@ $text['label-contact_role']['sv-se'] = "Roll";
 $text['label-contact_role']['uk-ua'] = "Роль";
 
 $text['label-contact_relation_reciprocal_label']['en-us'] = "Reciprocal Relation";
+$text['label-contact_relation_reciprocal_label']['zh-cn'] = "相互关系";
 $text['label-contact_relation_reciprocal_label']['en-gb'] = "Reciprocal Relation";
 $text['label-contact_relation_reciprocal_label']['ar-eg'] = "";
 $text['label-contact_relation_reciprocal_label']['de-at'] = "Wechselseitige Beziehung"; //copied from de-de
@@ -2875,6 +2970,7 @@ $text['label-contact_relation_reciprocal_label']['sv-se'] = "Ömsesidig Relation
 $text['label-contact_relation_reciprocal_label']['uk-ua'] = "";
 
 $text['label-contact_relation_reciprocal']['en-us'] = "Reciprocal";
+$text['label-contact_relation_reciprocal']['zh-cn'] = "相互";
 $text['label-contact_relation_reciprocal']['en-gb'] = "Reciprocal";
 $text['label-contact_relation_reciprocal']['ar-eg'] = "";
 $text['label-contact_relation_reciprocal']['de-at'] = "Wechselseitig"; //copied from de-de
@@ -2897,6 +2993,7 @@ $text['label-contact_relation_reciprocal']['sv-se'] = "Ömsesidig";
 $text['label-contact_relation_reciprocal']['uk-ua'] = "";
 
 $text['label-contact_relation_organization']['en-us'] = "Organization";
+$text['label-contact_relation_organization']['zh-cn'] = "组织";
 $text['label-contact_relation_organization']['en-gb'] = "Organization";
 $text['label-contact_relation_organization']['ar-eg'] = "";
 $text['label-contact_relation_organization']['de-at'] = "Organisation"; //copied from de-de
@@ -2919,6 +3016,7 @@ $text['label-contact_relation_organization']['sv-se'] = "Organisation";
 $text['label-contact_relation_organization']['uk-ua'] = "";
 
 $text['label-contact_relation_option_parent']['en-us'] = "Parent";
+$text['label-contact_relation_option_parent']['zh-cn'] = "父级";
 $text['label-contact_relation_option_parent']['en-gb'] = "Parent";
 $text['label-contact_relation_option_parent']['ar-eg'] = "";
 $text['label-contact_relation_option_parent']['de-at'] = "Eltern"; //copied from de-de
@@ -2941,6 +3039,7 @@ $text['label-contact_relation_option_parent']['sv-se'] = "Förälder";
 $text['label-contact_relation_option_parent']['uk-ua'] = "";
 
 $text['label-contact_relation_option_other']['en-us'] = "Other";
+$text['label-contact_relation_option_other']['zh-cn'] = "其他";
 $text['label-contact_relation_option_other']['en-gb'] = "Other";
 $text['label-contact_relation_option_other']['ar-eg'] = "";
 $text['label-contact_relation_option_other']['de-at'] = "Andere"; //copied from de-de
@@ -2963,6 +3062,7 @@ $text['label-contact_relation_option_other']['sv-se'] = "Annat";
 $text['label-contact_relation_option_other']['uk-ua'] = "Інше";
 
 $text['label-contact_relation_option_member']['en-us'] = "Member";
+$text['label-contact_relation_option_member']['zh-cn'] = "成员";
 $text['label-contact_relation_option_member']['en-gb'] = "Member";
 $text['label-contact_relation_option_member']['ar-eg'] = "";
 $text['label-contact_relation_option_member']['de-at'] = "Mitglied"; //copied from de-de
@@ -2985,6 +3085,7 @@ $text['label-contact_relation_option_member']['sv-se'] = "Medlem";
 $text['label-contact_relation_option_member']['uk-ua'] = "Учасник";
 
 $text['label-contact_relation_option_employee']['en-us'] = "Employee";
+$text['label-contact_relation_option_employee']['zh-cn'] = "员工";
 $text['label-contact_relation_option_employee']['en-gb'] = "Employee";
 $text['label-contact_relation_option_employee']['ar-eg'] = "";
 $text['label-contact_relation_option_employee']['de-at'] = "Mitarbeiter"; //copied from de-de
@@ -3007,6 +3108,7 @@ $text['label-contact_relation_option_employee']['sv-se'] = "Anställd";
 $text['label-contact_relation_option_employee']['uk-ua'] = "";
 
 $text['label-contact_relation_option_child']['en-us'] = "Child";
+$text['label-contact_relation_option_child']['zh-cn'] = "子女";
 $text['label-contact_relation_option_child']['en-gb'] = "Child";
 $text['label-contact_relation_option_child']['ar-eg'] = "";
 $text['label-contact_relation_option_child']['de-at'] = "Kind"; //copied from de-de
@@ -3029,6 +3131,7 @@ $text['label-contact_relation_option_child']['sv-se'] = "Barn";
 $text['label-contact_relation_option_child']['uk-ua'] = "";
 
 $text['label-contact_relation_option_associate']['en-us'] = "Associate";
+$text['label-contact_relation_option_associate']['zh-cn'] = "关联";
 $text['label-contact_relation_option_associate']['en-gb'] = "Associate";
 $text['label-contact_relation_option_associate']['ar-eg'] = "";
 $text['label-contact_relation_option_associate']['de-at'] = "Kollege"; //copied from de-de
@@ -3051,6 +3154,7 @@ $text['label-contact_relation_option_associate']['sv-se'] = "Associate";
 $text['label-contact_relation_option_associate']['uk-ua'] = "";
 
 $text['label-contact_relation_name']['en-us'] = "Name";
+$text['label-contact_relation_name']['zh-cn'] = "名称";
 $text['label-contact_relation_name']['en-gb'] = "Name";
 $text['label-contact_relation_name']['ar-eg'] = "";
 $text['label-contact_relation_name']['de-at'] = "Name"; //copied from de-de
@@ -3073,6 +3177,7 @@ $text['label-contact_relation_name']['sv-se'] = "Namn";
 $text['label-contact_relation_name']['uk-ua'] = "Назва";
 
 $text['label-contact_relation_label']['en-us'] = "Relation";
+$text['label-contact_relation_label']['zh-cn'] = "关系";
 $text['label-contact_relation_label']['en-gb'] = "Relation";
 $text['label-contact_relation_label']['ar-eg'] = "";
 $text['label-contact_relation_label']['de-at'] = "Beziehung"; //copied from de-de
@@ -3095,6 +3200,7 @@ $text['label-contact_relation_label']['sv-se'] = "Relation";
 $text['label-contact_relation_label']['uk-ua'] = "Зв’язок";
 
 $text['label-contact_relation_contact']['en-us'] = "Contact";
+$text['label-contact_relation_contact']['zh-cn'] = "联系人";
 $text['label-contact_relation_contact']['en-gb'] = "Contact";
 $text['label-contact_relation_contact']['ar-eg'] = "";
 $text['label-contact_relation_contact']['de-at'] = "Kontakt"; //copied from de-de
@@ -3117,6 +3223,7 @@ $text['label-contact_relation_contact']['sv-se'] = "Kontakt";
 $text['label-contact_relation_contact']['uk-ua'] = "Контакт";
 
 $text['label-contact_organization']['en-us'] = "Organization";
+$text['label-contact_organization']['zh-cn'] = "组织";
 $text['label-contact_organization']['en-gb'] = "Organization";
 $text['label-contact_organization']['ar-eg'] = "";
 $text['label-contact_organization']['de-at'] = "Organisation"; //copied from de-de
@@ -3139,6 +3246,7 @@ $text['label-contact_organization']['sv-se'] = "Organisation";
 $text['label-contact_organization']['uk-ua'] = "Організація";
 
 $text['label-contact_notes']['en-us'] = "Notes";
+$text['label-contact_notes']['zh-cn'] = "备注";
 $text['label-contact_notes']['en-gb'] = "Notes";
 $text['label-contact_notes']['ar-eg'] = "";
 $text['label-contact_notes']['de-at'] = "Notizen"; //copied from de-de
@@ -3161,6 +3269,7 @@ $text['label-contact_notes']['sv-se'] = "Noteringar";
 $text['label-contact_notes']['uk-ua'] = "Нотатки";
 
 $text['label-contact_note']['en-us'] = "Note";
+$text['label-contact_note']['zh-cn'] = "备注";
 $text['label-contact_note']['en-gb'] = "Note";
 $text['label-contact_note']['ar-eg'] = "";
 $text['label-contact_note']['de-at'] = "Notiz"; //copied from de-de
@@ -3183,6 +3292,7 @@ $text['label-contact_note']['sv-se'] = "Notering";
 $text['label-contact_note']['uk-ua'] = "Нотатка";
 
 $text['label-contact_nickname']['en-us'] = "Nickname";
+$text['label-contact_nickname']['zh-cn'] = "用户别名";
 $text['label-contact_nickname']['en-gb'] = "Nickname";
 $text['label-contact_nickname']['ar-eg'] = "";
 $text['label-contact_nickname']['de-at'] = "Spitzname"; //copied from de-de
@@ -3205,6 +3315,7 @@ $text['label-contact_nickname']['sv-se'] = "Smeknamn";
 $text['label-contact_nickname']['uk-ua'] = "Прізвисько";
 
 $text['label-contact_name_suffix']['en-us'] = "Suffix";
+$text['label-contact_name_suffix']['zh-cn'] = "后缀";
 $text['label-contact_name_suffix']['en-gb'] = "Suffix";
 $text['label-contact_name_suffix']['ar-eg'] = "";
 $text['label-contact_name_suffix']['de-at'] = "Nachsilbe"; //copied from de-de
@@ -3227,6 +3338,7 @@ $text['label-contact_name_suffix']['sv-se'] = "Ändelse";
 $text['label-contact_name_suffix']['uk-ua'] = "Суфікс";
 
 $text['label-contact_name_prefix']['en-us'] = "Prefix";
+$text['label-contact_name_prefix']['zh-cn'] = "前缀";
 $text['label-contact_name_prefix']['en-gb'] = "Prefix";
 $text['label-contact_name_prefix']['ar-eg'] = "";
 $text['label-contact_name_prefix']['de-at'] = "Vorsilbe"; //copied from de-de
@@ -3249,6 +3361,7 @@ $text['label-contact_name_prefix']['sv-se'] = "Prefix";
 $text['label-contact_name_prefix']['uk-ua'] = "Префікс";
 
 $text['label-contact_name_middle']['en-us'] = "Middle";
+$text['label-contact_name_middle']['zh-cn'] = "中间";
 $text['label-contact_name_middle']['en-gb'] = "Middle";
 $text['label-contact_name_middle']['ar-eg'] = "";
 $text['label-contact_name_middle']['de-at'] = "Mittel"; //copied from de-de
@@ -3271,6 +3384,7 @@ $text['label-contact_name_middle']['sv-se'] = "Mellan";
 $text['label-contact_name_middle']['uk-ua'] = "По-батькові";
 
 $text['label-contact_name_given']['en-us'] = "First Name";
+$text['label-contact_name_given']['zh-cn'] = "名字";
 $text['label-contact_name_given']['en-gb'] = "First Name";
 $text['label-contact_name_given']['ar-eg'] = "";
 $text['label-contact_name_given']['de-at'] = "Vorname"; //copied from de-de
@@ -3293,6 +3407,7 @@ $text['label-contact_name_given']['sv-se'] = "Förnamn";
 $text['label-contact_name_given']['uk-ua'] = "Ім’я";
 
 $text['label-contact_name_family']['en-us'] = "Last Name";
+$text['label-contact_name_family']['zh-cn'] = "姓";
 $text['label-contact_name_family']['en-gb'] = "Last Name";
 $text['label-contact_name_family']['ar-eg'] = "";
 $text['label-contact_name_family']['de-at'] = "Nachname"; //copied from de-de
@@ -3315,6 +3430,7 @@ $text['label-contact_name_family']['sv-se'] = "Efternamn";
 $text['label-contact_name_family']['uk-ua'] = "Прізвище";
 
 $text['label-contact_name']['en-us'] = "Name";
+$text['label-contact_name']['zh-cn'] = "名称";
 $text['label-contact_name']['en-gb'] = "Name";
 $text['label-contact_name']['ar-eg'] = "";
 $text['label-contact_name']['de-at'] = "Name"; //copied from de-de
@@ -3337,6 +3453,7 @@ $text['label-contact_name']['sv-se'] = "Namn";
 $text['label-contact_name']['uk-ua'] = "Назва";
 
 $text['label-contact_google']['en-us'] = "Google Contact";
+$text['label-contact_google']['zh-cn'] = "谷歌联系人";
 $text['label-contact_google']['en-gb'] = "Google Contact";
 $text['label-contact_google']['ar-eg'] = "";
 $text['label-contact_google']['de-at'] = "Google Kontakt"; //copied from de-de
@@ -3359,6 +3476,7 @@ $text['label-contact_google']['sv-se'] = "Google Kontakt";
 $text['label-contact_google']['uk-ua'] = "Контакт Google";
 
 $text['label-contact_extensions']['en-us'] = "Extensions";
+$text['label-contact_extensions']['zh-cn'] = "分机号";
 $text['label-contact_extensions']['en-gb'] = "Extensions";
 $text['label-contact_extensions']['ar-eg'] = "";
 $text['label-contact_extensions']['de-at'] = "Nebenstelle"; //copied from de-de
@@ -3381,6 +3499,7 @@ $text['label-contact_extensions']['sv-se'] = "Anknytningar";
 $text['label-contact_extensions']['uk-ua'] = "Розширення";
 
 $text['label-contact_email']['en-us'] = "Email";
+$text['label-contact_email']['zh-cn'] = "电子邮件";
 $text['label-contact_email']['en-gb'] = "Email";
 $text['label-contact_email']['ar-eg'] = "";
 $text['label-contact_email']['de-at'] = "Email"; //copied from de-de
@@ -3403,6 +3522,7 @@ $text['label-contact_email']['sv-se'] = "E-post";
 $text['label-contact_email']['uk-ua'] = "Електронна пошта";
 
 $text['label-contact_category']['en-us'] = "Category";
+$text['label-contact_category']['zh-cn'] = "类别";
 $text['label-contact_category']['en-gb'] = "Category";
 $text['label-contact_category']['ar-eg'] = "";
 $text['label-contact_category']['de-at'] = "Kategorie"; //copied from de-de
@@ -3425,6 +3545,7 @@ $text['label-contact_category']['sv-se'] = "Kategori";
 $text['label-contact_category']['uk-ua'] = "Категорія";
 
 $text['label-addresses']['en-us'] = "Addresses";
+$text['label-addresses']['zh-cn'] = "地址";
 $text['label-addresses']['en-gb'] = "Addresses";
 $text['label-addresses']['ar-eg'] = "";
 $text['label-addresses']['de-at'] = "Adresse"; //copied from de-de
@@ -3447,6 +3568,7 @@ $text['label-addresses']['sv-se'] = "Adress";
 $text['label-addresses']['uk-ua'] = "Адреси";
 
 $text['label-address_type']['en-us'] = "Type";
+$text['label-address_type']['zh-cn'] = "类型";
 $text['label-address_type']['en-gb'] = "Type";
 $text['label-address_type']['ar-eg'] = "";
 $text['label-address_type']['de-at'] = "Art"; //copied from de-de
@@ -3469,6 +3591,7 @@ $text['label-address_type']['sv-se'] = "Typ";
 $text['label-address_type']['uk-ua'] = "Тип";
 
 $text['label-address_tools']['en-us'] = "Tools";
+$text['label-address_tools']['zh-cn'] = "工具";
 $text['label-address_tools']['en-gb'] = "Tools";
 $text['label-address_tools']['ar-eg'] = "";
 $text['label-address_tools']['de-at'] = "Werkzeuge"; //copied from de-de
@@ -3491,6 +3614,7 @@ $text['label-address_tools']['sv-se'] = "Verktyg";
 $text['label-address_tools']['uk-ua'] = "Інструменти";
 
 $text['label-address_region']['en-us'] = "Region";
+$text['label-address_region']['zh-cn'] = "区域";
 $text['label-address_region']['en-gb'] = "Region";
 $text['label-address_region']['ar-eg'] = "";
 $text['label-address_region']['de-at'] = "Region"; //copied from de-de
@@ -3513,6 +3637,7 @@ $text['label-address_region']['sv-se'] = "Region";
 $text['label-address_region']['uk-ua'] = "Область";
 
 $text['label-address_postal_code']['en-us'] = "Postal Code";
+$text['label-address_postal_code']['zh-cn'] = "邮政编码";
 $text['label-address_postal_code']['en-gb'] = "Postal Code";
 $text['label-address_postal_code']['ar-eg'] = "";
 $text['label-address_postal_code']['de-at'] = "PLZ"; //copied from de-de
@@ -3535,6 +3660,7 @@ $text['label-address_postal_code']['sv-se'] = "Postkod";
 $text['label-address_postal_code']['uk-ua'] = "Поштовий індекс";
 
 $text['label-address_longitude']['en-us'] = "Longitude";
+$text['label-address_longitude']['zh-cn'] = "经度";
 $text['label-address_longitude']['en-gb'] = "Longitude";
 $text['label-address_longitude']['ar-eg'] = "";
 $text['label-address_longitude']['de-at'] = "Längengrad"; //copied from de-de
@@ -3557,6 +3683,7 @@ $text['label-address_longitude']['sv-se'] = "Longitude ";
 $text['label-address_longitude']['uk-ua'] = "Довгота";
 
 $text['label-address_locality']['en-us'] = "City";
+$text['label-address_locality']['zh-cn'] = "城市";
 $text['label-address_locality']['en-gb'] = "City";
 $text['label-address_locality']['ar-eg'] = "";
 $text['label-address_locality']['de-at'] = "Stadt"; //copied from de-de
@@ -3579,6 +3706,7 @@ $text['label-address_locality']['sv-se'] = "Stad";
 $text['label-address_locality']['uk-ua'] = "Місто";
 
 $text['label-address_latitude']['en-us'] = "Latitude";
+$text['label-address_latitude']['zh-cn'] = "纬度";
 $text['label-address_latitude']['en-gb'] = "Latitude";
 $text['label-address_latitude']['ar-eg'] = "";
 $text['label-address_latitude']['de-at'] = "Breitengrad"; //copied from de-de
@@ -3601,6 +3729,7 @@ $text['label-address_latitude']['sv-se'] = "Latitude ";
 $text['label-address_latitude']['uk-ua'] = "Широта";
 
 $text['label-address_label']['en-us'] = "Label";
+$text['label-address_label']['zh-cn'] = "标签";
 $text['label-address_label']['en-gb'] = "Label";
 $text['label-address_label']['ar-eg'] = "";
 $text['label-address_label']['de-at'] = "Kennzeichnung"; //copied from de-de
@@ -3623,6 +3752,7 @@ $text['label-address_label']['sv-se'] = "Etikett";
 $text['label-address_label']['uk-ua'] = "Назва";
 
 $text['label-address_description']['en-us'] = "Description";
+$text['label-address_description']['zh-cn'] = "描述";
 $text['label-address_description']['en-gb'] = "Description";
 $text['label-address_description']['ar-eg'] = "";
 $text['label-address_description']['de-at'] = "Beschreibung"; //copied from de-de
@@ -3645,6 +3775,7 @@ $text['label-address_description']['sv-se'] = "Beskrivning";
 $text['label-address_description']['uk-ua'] = "Опис";
 
 $text['label-address_country']['en-us'] = "Country";
+$text['label-address_country']['zh-cn'] = "国家";
 $text['label-address_country']['en-gb'] = "Country";
 $text['label-address_country']['ar-eg'] = "";
 $text['label-address_country']['de-at'] = "Land"; //copied from de-de
@@ -3667,6 +3798,7 @@ $text['label-address_country']['sv-se'] = "Land";
 $text['label-address_country']['uk-ua'] = "Країна";
 
 $text['label-address_community']['en-us'] = "Community";
+$text['label-address_community']['zh-cn'] = "团体";
 $text['label-address_community']['en-gb'] = "Community";
 $text['label-address_community']['ar-eg'] = "";
 $text['label-address_community']['de-at'] = "Gemeinde"; //copied from de-de
@@ -3689,6 +3821,7 @@ $text['label-address_community']['sv-se'] = "Samhälle";
 $text['label-address_community']['uk-ua'] = "Спільнота";
 
 $text['label-address_address']['en-us'] = "Address";
+$text['label-address_address']['zh-cn'] = "地址";
 $text['label-address_address']['en-gb'] = "Address";
 $text['label-address_address']['ar-eg'] = "";
 $text['label-address_address']['de-at'] = "Adresse"; //copied from de-de
@@ -3711,6 +3844,7 @@ $text['label-address_address']['sv-se'] = "Adress";
 $text['label-address_address']['uk-ua'] = "Адреси";
 
 $text['label-attachments']['en-us'] = "Attachments";
+$text['label-attachments']['zh-cn'] = "附件";
 $text['label-attachments']['en-gb'] = "Attachments";
 $text['label-attachments']['ar-eg'] = "";
 $text['label-attachments']['de-at'] = "";
@@ -3733,6 +3867,7 @@ $text['label-attachments']['sv-se'] = "";
 $text['label-attachments']['uk-ua'] = "";
 
 $text['label-attachment_filename']['en-us'] = "Filename";
+$text['label-attachment_filename']['zh-cn'] = "文件名";
 $text['label-attachment_filename']['en-gb'] = "Filename";
 $text['label-attachment_filename']['ar-eg'] = "";
 $text['label-attachment_filename']['de-at'] = "";
@@ -3755,6 +3890,7 @@ $text['label-attachment_filename']['sv-se'] = "";
 $text['label-attachment_filename']['uk-ua'] = "";
 
 $text['label-attachment']['en-us'] = "Attachment";
+$text['label-attachment']['zh-cn'] = "附件";
 $text['label-attachment']['en-gb'] = "Attachment";
 $text['label-attachment']['ar-eg'] = "";
 $text['label-attachment']['de-at'] = "";
@@ -3777,6 +3913,7 @@ $text['label-attachment']['sv-se'] = "";
 $text['label-attachment']['uk-ua'] = "";
 
 $text['label-attachment_size']['en-us'] = "Size";
+$text['label-attachment_size']['zh-cn'] = "大小";
 $text['label-attachment_size']['en-gb'] = "Size";
 $text['label-attachment_size']['ar-eg'] = "";
 $text['label-attachment_size']['de-at'] = "";
@@ -3799,6 +3936,7 @@ $text['label-attachment_size']['sv-se'] = "";
 $text['label-attachment_size']['uk-ua'] = "";
 
 $text['label-attachment_description']['en-us'] = "Description";
+$text['label-attachment_description']['zh-cn'] = "描述";
 $text['label-attachment_description']['en-gb'] = "Description";
 $text['label-attachment_description']['ar-eg'] = "";
 $text['label-attachment_description']['de-at'] = "";
@@ -3821,6 +3959,7 @@ $text['label-attachment_description']['sv-se'] = "";
 $text['label-attachment_description']['uk-ua'] = "";
 
 $text['header_contact_times']['en-us'] = "Times";
+$text['header_contact_times']['zh-cn'] = "时间";
 $text['header_contact_times']['en-gb'] = "Times";
 $text['header_contact_times']['ar-eg'] = "";
 $text['header_contact_times']['de-at'] = "Zeiten"; //copied from de-de
@@ -3843,6 +3982,7 @@ $text['header_contact_times']['sv-se'] = "Gånger";
 $text['header_contact_times']['uk-ua'] = "раз";
 
 $text['header-contacts_import_google']['en-us'] = "Import Google Contacts";
+$text['header-contacts_import_google']['zh-cn'] = "导入谷歌联系人";
 $text['header-contacts_import_google']['en-gb'] = "Import Google Contacts";
 $text['header-contacts_import_google']['ar-eg'] = "";
 $text['header-contacts_import_google']['de-at'] = "Google Kontakte importieren"; //copied from de-de
@@ -3865,6 +4005,7 @@ $text['header-contacts_import_google']['sv-se'] = "Importera Google Kontakter";
 $text['header-contacts_import_google']['uk-ua'] = "Імпортувати Контакти Google";
 
 $text['header-contacts_import']['en-us'] = "Import Contacts";
+$text['header-contacts_import']['zh-cn'] = "导入联系人";
 $text['header-contacts_import']['en-gb'] = "Import Contacts";
 $text['header-contacts_import']['ar-eg'] = "";
 $text['header-contacts_import']['de-at'] = "Kontakte importieren"; //copied from de-de
@@ -3887,6 +4028,7 @@ $text['header-contacts_import']['sv-se'] = "Importera Kontakter";
 $text['header-contacts_import']['uk-ua'] = "Імпортувати контакти";
 
 $text['header-contacts']['en-us'] = "Contacts";
+$text['header-contacts']['zh-cn'] = "联系人";
 $text['header-contacts']['en-gb'] = "Contacts";
 $text['header-contacts']['ar-eg'] = "";
 $text['header-contacts']['de-at'] = "Kontakte"; //copied from de-de
@@ -3909,6 +4051,7 @@ $text['header-contacts']['sv-se'] = "Kontakter";
 $text['header-contacts']['uk-ua'] = "Контакти";
 
 $text['header-contact_url-edit']['en-us'] = "Contact URL Edit";
+$text['header-contact_url-edit']['zh-cn'] = "编辑联系人URL";
 $text['header-contact_url-edit']['en-gb'] = "Contact URL Edit";
 $text['header-contact_url-edit']['ar-eg'] = "";
 $text['header-contact_url-edit']['de-at'] = "URL bearbeiten"; //copied from de-de
@@ -3931,6 +4074,7 @@ $text['header-contact_url-edit']['sv-se'] = "Ändra Kontakt URL";
 $text['header-contact_url-edit']['uk-ua'] = "";
 
 $text['header-contact_url-add']['en-us'] = "Contact URL Add";
+$text['header-contact_url-add']['zh-cn'] = "添加联系人URL";
 $text['header-contact_url-add']['en-gb'] = "Contact URL Add";
 $text['header-contact_url-add']['ar-eg'] = "";
 $text['header-contact_url-add']['de-at'] = "URL hinzufügen"; //copied from de-de
@@ -3953,6 +4097,7 @@ $text['header-contact_url-add']['sv-se'] = "Lägg Till Kontakt URL";
 $text['header-contact_url-add']['uk-ua'] = "";
 
 $text['header-contact_time_edit']['en-us'] = "Time Edit";
+$text['header-contact_time_edit']['zh-cn'] = "编辑时间";
 $text['header-contact_time_edit']['en-gb'] = "Time Edit";
 $text['header-contact_time_edit']['ar-eg'] = "";
 $text['header-contact_time_edit']['de-at'] = "Zeit bearbeiten"; //copied from de-de
@@ -3975,6 +4120,7 @@ $text['header-contact_time_edit']['sv-se'] = "Redigera Tid";
 $text['header-contact_time_edit']['uk-ua'] = "час Редагувати";
 
 $text['header-contact_time_add']['en-us'] = "Time Add";
+$text['header-contact_time_add']['zh-cn'] = "添加时间";
 $text['header-contact_time_add']['en-gb'] = "Time Add";
 $text['header-contact_time_add']['ar-eg'] = "";
 $text['header-contact_time_add']['de-at'] = "Zeit hinzufügen"; //copied from de-de
@@ -3997,6 +4143,7 @@ $text['header-contact_time_add']['sv-se'] = "Time Lägg";
 $text['header-contact_time_add']['uk-ua'] = "час додавання";
 
 $text['header-contact_setting_edit']['en-us'] = "Contact Setting Edit";
+$text['header-contact_setting_edit']['zh-cn'] = "编辑联系人设置";
 $text['header-contact_setting_edit']['en-gb'] = "Contact Setting Edit";
 $text['header-contact_setting_edit']['ar-eg'] = "";
 $text['header-contact_setting_edit']['de-at'] = "Einstellung bearbeiten"; //copied from de-de
@@ -4019,6 +4166,7 @@ $text['header-contact_setting_edit']['sv-se'] = "Ändra Kontakt Inställning";
 $text['header-contact_setting_edit']['uk-ua'] = "";
 
 $text['header-contact_setting_add']['en-us'] = "Contact Setting Add";
+$text['header-contact_setting_add']['zh-cn'] = "添加联系人设置";
 $text['header-contact_setting_add']['en-gb'] = "Contact Setting Add";
 $text['header-contact_setting_add']['ar-eg'] = "";
 $text['header-contact_setting_add']['de-at'] = "Einstellung für Kontakt hinzufügen"; //copied from de-de
@@ -4041,6 +4189,7 @@ $text['header-contact_setting_add']['sv-se'] = "Lägg Till Kontakt Inställning"
 $text['header-contact_setting_add']['uk-ua'] = "";
 
 $text['header-contact_relations']['en-us'] = "Relations";
+$text['header-contact_relations']['zh-cn'] = "关系";
 $text['header-contact_relations']['en-gb'] = "Relations";
 $text['header-contact_relations']['ar-eg'] = "";
 $text['header-contact_relations']['de-at'] = "Beziehungen"; //copied from de-de
@@ -4063,6 +4212,7 @@ $text['header-contact_relations']['sv-se'] = "Relationer";
 $text['header-contact_relations']['uk-ua'] = "";
 
 $text['header-contact_relation']['en-us'] = "Contact Relation";
+$text['header-contact_relation']['zh-cn'] = "联系人关系";
 $text['header-contact_relation']['en-gb'] = "Contact Relation";
 $text['header-contact_relation']['ar-eg'] = "";
 $text['header-contact_relation']['de-at'] = "Kontakt Beziehungen"; //copied from de-de
@@ -4085,6 +4235,7 @@ $text['header-contact_relation']['sv-se'] = "Kontakt Relation";
 $text['header-contact_relation']['uk-ua'] = "";
 
 $text['header-contact_phones-edit']['en-us'] = "Contact Number Edit";
+$text['header-contact_phones-edit']['zh-cn'] = "编辑联系人号码";
 $text['header-contact_phones-edit']['en-gb'] = "Contact Number Edit";
 $text['header-contact_phones-edit']['ar-eg'] = "";
 $text['header-contact_phones-edit']['de-at'] = "Nummer des Kontakts bearbeiten"; //copied from de-de
@@ -4107,6 +4258,7 @@ $text['header-contact_phones-edit']['sv-se'] = "Ändra Kontakt Nummer";
 $text['header-contact_phones-edit']['uk-ua'] = "";
 
 $text['header-contact_phones-add']['en-us'] = "Contact Number Add";
+$text['header-contact_phones-add']['zh-cn'] = "添加联系人号码";
 $text['header-contact_phones-add']['en-gb'] = "Contact Number Add";
 $text['header-contact_phones-add']['ar-eg'] = "";
 $text['header-contact_phones-add']['de-at'] = "Nummer zum Kontakt hinzufügen"; //copied from de-de
@@ -4129,6 +4281,7 @@ $text['header-contact_phones-add']['sv-se'] = "Lägg Till Kontakt Nummer";
 $text['header-contact_phones-add']['uk-ua'] = "";
 
 $text['header-contact_notes-edit']['en-us'] = "Contact Note Edit";
+$text['header-contact_notes-edit']['zh-cn'] = "编辑联系人备注";
 $text['header-contact_notes-edit']['en-gb'] = "Contact Note Edit";
 $text['header-contact_notes-edit']['ar-eg'] = "";
 $text['header-contact_notes-edit']['de-at'] = "Notiz für Kontakt bearbeiten"; //copied from de-de
@@ -4151,6 +4304,7 @@ $text['header-contact_notes-edit']['sv-se'] = "Ändra Kontakt Notering";
 $text['header-contact_notes-edit']['uk-ua'] = "";
 
 $text['header-contact_notes-add']['en-us'] = "Contact Note Add";
+$text['header-contact_notes-add']['zh-cn'] = "添加联系人备注";
 $text['header-contact_notes-add']['en-gb'] = "Contact Note Add";
 $text['header-contact_notes-add']['ar-eg'] = "";
 $text['header-contact_notes-add']['de-at'] = "Notiz zum Kontakt hinzufügen"; //copied from de-de
@@ -4173,6 +4327,7 @@ $text['header-contact_notes-add']['sv-se'] = "Lägg Till Kontakt Notering";
 $text['header-contact_notes-add']['uk-ua'] = "";
 
 $text['header-contact_email-edit']['en-us'] = "Contact Email Edit";
+$text['header-contact_email-edit']['zh-cn'] = "编辑联系人电子邮件";
 $text['header-contact_email-edit']['en-gb'] = "Contact Email Edit";
 $text['header-contact_email-edit']['ar-eg'] = "";
 $text['header-contact_email-edit']['de-at'] = "Email des Kontakts bearbeiten"; //copied from de-de
@@ -4195,6 +4350,7 @@ $text['header-contact_email-edit']['sv-se'] = "Ändra Kontakt E-post";
 $text['header-contact_email-edit']['uk-ua'] = "";
 
 $text['header-contact_email-add']['en-us'] = "Contact Email Add";
+$text['header-contact_email-add']['zh-cn'] = "添加联系人电子邮件";
 $text['header-contact_email-add']['en-gb'] = "Contact Email Add";
 $text['header-contact_email-add']['ar-eg'] = "";
 $text['header-contact_email-add']['de-at'] = "Email zum Kontakt hinzufügen"; //copied from de-de
@@ -4217,6 +4373,7 @@ $text['header-contact_email-add']['sv-se'] = "Lägg Till Kontakt E-post";
 $text['header-contact_email-add']['uk-ua'] = "";
 
 $text['header-contact_addresses-edit']['en-us'] = "Contact Address Edit";
+$text['header-contact_addresses-edit']['zh-cn'] = "编辑联系人地址";
 $text['header-contact_addresses-edit']['en-gb'] = "Contact Address Edit";
 $text['header-contact_addresses-edit']['ar-eg'] = "";
 $text['header-contact_addresses-edit']['de-at'] = "Adresse des Kontakts bearbeiten"; //copied from de-de
@@ -4239,6 +4396,7 @@ $text['header-contact_addresses-edit']['sv-se'] = "Ändra Kontakt Adress";
 $text['header-contact_addresses-edit']['uk-ua'] = "";
 
 $text['header-contact_addresses-add']['en-us'] = "Contact Address Add";
+$text['header-contact_addresses-add']['zh-cn'] = "添加联系人地址";
 $text['header-contact_addresses-add']['en-gb'] = "Contact Address Add";
 $text['header-contact_addresses-add']['ar-eg'] = "";
 $text['header-contact_addresses-add']['de-at'] = "Adresse zum Kontakt hinzufügen"; //copied from de-de
@@ -4261,6 +4419,7 @@ $text['header-contact_addresses-add']['sv-se'] = "Lägg Till Kontakt Adress";
 $text['header-contact_addresses-add']['uk-ua'] = "";
 
 $text['header-contact_attachment-edit']['en-us'] = "Contact Attachment Edit";
+$text['header-contact_attachment-edit']['zh-cn'] = "编辑联系人附件";
 $text['header-contact_attachment-edit']['en-gb'] = "Contact Attachment Edit";
 $text['header-contact_attachment-edit']['ar-eg'] = "";
 $text['header-contact_attachment-edit']['de-at'] = "";
@@ -4283,6 +4442,7 @@ $text['header-contact_attachment-edit']['sv-se'] = "";
 $text['header-contact_attachment-edit']['uk-ua'] = "";
 
 $text['header-contact_attachment-add']['en-us'] = "Contact Attachment Add";
+$text['header-contact_attachment-add']['zh-cn'] = "添加联系人附件";
 $text['header-contact_attachment-add']['en-gb'] = "Contact Attachment Add";
 $text['header-contact_attachment-add']['ar-eg'] = "";
 $text['header-contact_attachment-add']['de-at'] = "";
@@ -4305,6 +4465,7 @@ $text['header-contact_attachment-add']['sv-se'] = "";
 $text['header-contact_attachment-add']['uk-ua'] = "";
 
 $text['header-contact-edit']['en-us'] = "Contact";
+$text['header-contact-edit']['zh-cn'] = "联系人";
 $text['header-contact-edit']['en-gb'] = "Contact";
 $text['header-contact-edit']['ar-eg'] = "";
 $text['header-contact-edit']['de-at'] = "Kontakt"; //copied from de-de
@@ -4327,6 +4488,7 @@ $text['header-contact-edit']['sv-se'] = "Kontakt";
 $text['header-contact-edit']['uk-ua'] = "Контакт";
 
 $text['header-contact-add']['en-us'] = "Contact Add";
+$text['header-contact-add']['zh-cn'] = "添加联系人";
 $text['header-contact-add']['en-gb'] = "Contact Add";
 $text['header-contact-add']['ar-eg'] = "";
 $text['header-contact-add']['de-at'] = "Kontakt hinzufügen"; //copied from de-de
@@ -4349,6 +4511,7 @@ $text['header-contact-add']['sv-se'] = "Lägg Till Kontakt";
 $text['header-contact-add']['uk-ua'] = "Додавання контакта";
 
 $text['description_timer']['en-us'] = "Stop the Timer before closing the window, if desired.";
+$text['description_timer']['zh-cn'] = "如果需要，请在关闭窗口之前停止计时器。";
 $text['description_timer']['en-gb'] = "Stop the Timer before closing the window, if desired.";
 $text['description_timer']['ar-eg'] = "";
 $text['description_timer']['de-at'] = "Den Timer stoppen bevor Sie das Fenster schließen."; //copied from de-de
@@ -4371,6 +4534,7 @@ $text['description_timer']['sv-se'] = "Stoppa timer innan du stänger fönstret,
 $text['description_timer']['uk-ua'] = "Зупинити таймер перед закриттям вікна, якщо це необхідно.";
 
 $text['description-url_primary']['en-us'] = "Set as the primary URL for this contact.";
+$text['description-url_primary']['zh-cn'] = "设置为此联系人的主URL。";
 $text['description-url_primary']['en-gb'] = "Set as the primary URL for this contact.";
 $text['description-url_primary']['ar-eg'] = "";
 $text['description-url_primary']['de-at'] = "Als primäre URL für diesen Kontakt setzen."; //copied from de-de
@@ -4393,6 +4557,7 @@ $text['description-url_primary']['sv-se'] = "Ställ in som primär URL för denn
 $text['description-url_primary']['uk-ua'] = "";
 
 $text['description-shared_import']['en-us'] = "Share contacts with other users on the domain.";
+$text['description-shared_import']['zh-cn'] = "与域中的其他用户共享联系人。";
 $text['description-shared_import']['en-gb'] = "Share contacts with other users on the domain.";
 $text['description-shared_import']['ar-eg'] = "";
 $text['description-shared_import']['de-at'] = "Kontakte mit anderen Benutzern in dieser Domain teilen."; //copied from de-de
@@ -4415,6 +4580,7 @@ $text['description-shared_import']['sv-se'] = "Dela kontakter med andra använda
 $text['description-shared_import']['uk-ua'] = "";
 
 $text['description-shared']['en-us'] = "Share this contact with other users on the domain.";
+$text['description-shared']['zh-cn'] = "与域中的其他用户共享此联系人。";
 $text['description-shared']['en-gb'] = "Share this contact with other users on the domain.";
 $text['description-shared']['ar-eg'] = "";
 $text['description-shared']['de-at'] = "Diesen Kontakt mit anderen Benutzern in dieser Domain teilen."; //copied from de-de
@@ -4437,6 +4603,7 @@ $text['description-shared']['sv-se'] = "Dela denna kontakt med andra användare 
 $text['description-shared']['uk-ua'] = "";
 
 $text['description-phone_label']['en-us'] = "Select or enter a custom label.";
+$text['description-phone_label']['zh-cn'] = "选择或输入自定义标签。";
 $text['description-phone_label']['en-gb'] = "Select or enter a custom label.";
 $text['description-phone_label']['ar-eg'] = "";
 $text['description-phone_label']['de-at'] = "Wählen Sie eine beliebige Kennzeichnung."; //copied from de-de
@@ -4459,6 +4626,7 @@ $text['description-phone_label']['sv-se'] = "Välj eller ange anpassad etikett."
 $text['description-phone_label']['uk-ua'] = "";
 
 $text['description-phone_type']['en-us'] = "Define the number type or purpose.";
+$text['description-phone_type']['zh-cn'] = "定义数字类型或用途。";
 $text['description-phone_type']['en-gb'] = "Define the number type or purpose.";
 $text['description-phone_type']['ar-eg'] = "";
 $text['description-phone_type']['de-at'] = "Definieren Sie die Art oder den Zweck dieser Nummer."; //copied from de-de
@@ -4481,6 +4649,7 @@ $text['description-phone_type']['sv-se'] = "Definiera nummertypen eller nummerä
 $text['description-phone_type']['uk-ua'] = "";
 
 $text['description-phone_speed_dial']['en-us'] = "Enter the speed dial number.";
+$text['description-phone_speed_dial']['zh-cn'] = "输入快速拨号号码。";
 $text['description-phone_speed_dial']['en-gb'] = "Enter the speed dial number.";
 $text['description-phone_speed_dial']['ar-eg'] = "";
 $text['description-phone_speed_dial']['de-at'] = "Kurzwahlnummer eingeben"; //copied from de-de
@@ -4503,6 +4672,7 @@ $text['description-phone_speed_dial']['sv-se'] = "Ange snabbknappens nummer.";
 $text['description-phone_speed_dial']['uk-ua'] = "";
 
 $text['description-phone_country_code']['en-us'] = "Enter the country code.";
+$text['description-phone_country_code']['zh-cn'] = "输入国家/地区代码。";
 $text['description-phone_country_code']['en-gb'] = "Enter the country code.";
 $text['description-phone_country_code']['ar-eg'] = "";
 $text['description-phone_country_code']['de-at'] = "";
@@ -4525,6 +4695,7 @@ $text['description-phone_country_code']['sv-se'] = "";
 $text['description-phone_country_code']['uk-ua'] = "";
 
 $text['description-phone_number']['en-us'] = "Enter the phone number.";
+$text['description-phone_number']['zh-cn'] = "输入电话号码。";
 $text['description-phone_number']['en-gb'] = "Enter the phone number.";
 $text['description-phone_number']['ar-eg'] = "";
 $text['description-phone_number']['de-at'] = "Geben Sie die Telefonnummer an."; //copied from de-de
@@ -4547,6 +4718,7 @@ $text['description-phone_number']['sv-se'] = "Ange telefonnummer.";
 $text['description-phone_number']['uk-ua'] = "";
 
 $text['description-phone_extension']['en-us'] = "Enter the extension.";
+$text['description-phone_extension']['zh-cn'] = "输入分机号。";
 $text['description-phone_extension']['en-gb'] = "Enter the extension.";
 $text['description-phone_extension']['ar-eg'] = "";
 $text['description-phone_extension']['de-at'] = "Geben Sie die Nebenstelle an."; //copied from de-de
@@ -4569,6 +4741,7 @@ $text['description-phone_extension']['sv-se'] = "Ange anknytningen.";
 $text['description-phone_extension']['uk-ua'] = "";
 
 $text['description-phone_primary']['en-us'] = "Set as the primary Number for this contact.";
+$text['description-phone_primary']['zh-cn'] = "设置为此联系人的主要号码。";
 $text['description-phone_primary']['en-gb'] = "Set as the primary Number for this contact.";
 $text['description-phone_primary']['ar-eg'] = "";
 $text['description-phone_primary']['de-at'] = "Als primäre Nummer für diesen Kontakt setzen."; //copied from de-de
@@ -4591,6 +4764,7 @@ $text['description-phone_primary']['sv-se'] = "Sätt som primärt Nummer för de
 $text['description-phone_primary']['uk-ua'] = "";
 
 $text['description-phone_description']['en-us'] = "Enter the description.";
+$text['description-phone_description']['zh-cn'] = "输入描述。";
 $text['description-phone_description']['en-gb'] = "Enter the description.";
 $text['description-phone_description']['ar-eg'] = "";
 $text['description-phone_description']['de-at'] = "Geben Sie eine Beschreibung an."; //copied from de-de
@@ -4613,6 +4787,7 @@ $text['description-phone_description']['sv-se'] = "Ange beskrivningen.";
 $text['description-phone_description']['uk-ua'] = "";
 
 $text['description-order']['en-us'] = "Set the order (index) for this array element.";
+$text['description-order']['zh-cn'] = "设置此数组元素的顺序（索引）。";
 $text['description-order']['en-gb'] = "Set the order (index) for this array element.";
 $text['description-order']['ar-eg'] = "";
 $text['description-order']['de-at'] = "Setzen Sie die Reihenfolge für dieses Array Element."; //copied from de-de
@@ -4635,6 +4810,7 @@ $text['description-order']['sv-se'] = "Ställ in ordningen (index) för detta el
 $text['description-order']['uk-ua'] = "";
 
 $text['description-import_fields']['en-us'] = "Select contact data fields to import.";
+$text['description-import_fields']['zh-cn'] = "选择要导入的联系人数据字段。";
 $text['description-import_fields']['en-gb'] = "Select contact data fields to import.";
 $text['description-import_fields']['ar-eg'] = "";
 $text['description-import_fields']['de-at'] = "Wählen Sie die Datenfelder für den Import."; //copied from de-de
@@ -4657,6 +4833,7 @@ $text['description-import_fields']['sv-se'] = "Välj kontakt data fält som skal
 $text['description-import_fields']['uk-ua'] = "";
 
 $text['description-import_enclosure']['en-us'] = "Select the enclosure of text (double-quotes or nothing).";
+$text['description-import_enclosure']['zh-cn'] = "选择文本的附件（双引号或无引号）。";
 $text['description-import_enclosure']['en-gb'] = "Select the enclosure of text (double-quotes or nothing).";
 $text['description-import_enclosure']['ar-eg'] = "";
 $text['description-import_enclosure']['de-at'] = "Wählen Sie die Abgrenzung für den Text (Doppelte Anführungszeichen oder nichts)."; //copied from de-de
@@ -4679,6 +4856,7 @@ $text['description-import_enclosure']['sv-se'] = "Välj inkapsling av text (dubb
 $text['description-import_enclosure']['uk-ua'] = "";
 
 $text['description-import_duplicates']['en-us'] = "Select how to treat contacts previously imported.";
+$text['description-import_duplicates']['zh-cn'] = "选择如何处理以前导入的联系人。";
 $text['description-import_duplicates']['en-gb'] = "Select how to treat contacts previously imported.";
 $text['description-import_duplicates']['ar-eg'] = "";
 $text['description-import_duplicates']['de-at'] = "Wählen Sie aus, wie mit vorhandenen Kontakten verfahren werden soll."; //copied from de-de
@@ -4701,6 +4879,7 @@ $text['description-import_duplicates']['sv-se'] = "Välj hur kontakter som impor
 $text['description-import_duplicates']['uk-ua'] = "";
 
 $text['description-import_data']['en-us'] = "Copy and paste the comma delimitted data into the text area to begin the import.";
+$text['description-import_data']['zh-cn'] = "将逗号分隔的数据复制并粘贴到文本区域以开始导入。";
 $text['description-import_data']['en-gb'] = "Copy and paste the comma delimitted data into the text area to begin the import.";
 $text['description-import_data']['ar-eg'] = "";
 $text['description-import_data']['de-at'] = "Kopieren Sie die komma-getrennten Daten in den Textbereich um den Import zu starten."; //copied from de-de
@@ -4723,6 +4902,7 @@ $text['description-import_data']['sv-se'] = "Kopiera och klistra in din kommasep
 $text['description-import_data']['uk-ua'] = "";
 
 $text['description-import_delimiter']['en-us'] = "Select the delimiter (comma or pipe).";
+$text['description-import_delimiter']['zh-cn'] = "选择分隔符（, 或 |）。";
 $text['description-import_delimiter']['en-gb'] = "Select the delimiter (comma or pipe).";
 $text['description-import_delimiter']['ar-eg'] = "";
 $text['description-import_delimiter']['de-at'] = "Wählen Sie das Trennzeichen (Beistrich oder Wagrechter Strich)"; //copied from de-de
@@ -4745,6 +4925,7 @@ $text['description-import_delimiter']['sv-se'] = "Välj avgränsare (comma or pi
 $text['description-import_delimiter']['uk-ua'] = "";
 
 $text['description-users']['en-us'] = "Users allowed to view this contact.";
+$text['description-users']['zh-cn'] = "允许查看此联系人的用户。";
 $text['description-users']['en-gb'] = "Users allowed to view this contact.";
 $text['description-users']['ar-eg'] = "";
 $text['description-users']['de-at'] = "Weisen Sie diesem Konferenzraum weitere Administratoren zu. "; //copied from de-de
@@ -4767,6 +4948,7 @@ $text['description-users']['sv-se'] = "Lägg till ytterligare användare som adm
 $text['description-users']['uk-ua'] = "Зв'язати додаткових користувачів як адміністраторів цього конференц-залу.";
 
 $text['description-groups']['en-us'] = "Groups allowed to view this contact.";
+$text['description-groups']['zh-cn'] = "允许查看此联系人的组。";
 $text['description-groups']['en-gb'] = "Groups allowed to view this contact.";
 $text['description-groups']['ar-eg'] = "";
 $text['description-groups']['de-at'] = "Legen Sie die Gruppen fest, für die dieser Kontakt sichtbar ist."; //copied from de-de
@@ -4789,6 +4971,7 @@ $text['description-groups']['sv-se'] = "Kontakter tilldelade till en grupp är e
 $text['description-groups']['uk-ua'] = "Опис";
 
 $text['description-email_primary']['en-us'] = "Set as the primary Email for this contact.";
+$text['description-email_primary']['zh-cn'] = "设置为此联系人的主要电子邮件。";
 $text['description-email_primary']['en-gb'] = "Set as the primary Email for this contact.";
 $text['description-email_primary']['ar-eg'] = "";
 $text['description-email_primary']['de-at'] = "Als primäre Email-Adresse für diesen Kontakt setzen."; //copied from de-de
@@ -4811,6 +4994,7 @@ $text['description-email_primary']['sv-se'] = "Ställ in som primär E-post för
 $text['description-email_primary']['uk-ua'] = "";
 
 $text['description-contacts_import_google']['en-us'] = "Select the desired contacts to import.";
+$text['description-contacts_import_google']['zh-cn'] = "选择要导入的所需联系人。";
 $text['description-contacts_import_google']['en-gb'] = "Select the desired contacts to import.";
 $text['description-contacts_import_google']['ar-eg'] = "";
 $text['description-contacts_import_google']['de-at'] = "Wählen Sie die Kontakte, die importiert werden sollen."; //copied from de-de
@@ -4833,6 +5017,7 @@ $text['description-contacts_import_google']['sv-se'] = "Välj de kontakter som s
 $text['description-contacts_import_google']['uk-ua'] = "";
 
 $text['description-contacts_import']['en-us'] = "Submit or upload delimited data to add multiple records.";
+$text['description-contacts_import']['zh-cn'] = "提交或上载分隔数据以添加多个记录。";
 $text['description-contacts_import']['en-gb'] = "Submit or upload delimited data to add multiple records.";
 $text['description-contacts_import']['ar-eg'] = "";
 $text['description-contacts_import']['de-at'] = "Exportieren Sie Ihre Kontakte aus Outlook in eine CSV Datei und benützen Sie diese Funktion um Ihre Kontakte zu importieren."; //copied from de-de
@@ -4855,6 +5040,7 @@ $text['description-contacts_import']['sv-se'] = "Exportera dina kontakter från 
 $text['description-contacts_import']['uk-ua'] = "";
 
 $text['description-contacts']['en-us'] = "The contact is a list of individuals and organizations.";
+$text['description-contacts']['zh-cn'] = "联系人是个人和组织的列表。";
 $text['description-contacts']['en-gb'] = "The contact is a list of individuals and organizations.";
 $text['description-contacts']['ar-eg'] = "";
 $text['description-contacts']['de-at'] = "Kontakte sind Benutzer, externe Personen oder Unternehmen."; //copied from de-de
@@ -4877,6 +5063,7 @@ $text['description-contacts']['sv-se'] = "Kontakterna är en lista på individer
 $text['description-contacts']['uk-ua'] = "";
 
 $text['description-contact_url-edit']['en-us'] = "Contact url address information.";
+$text['description-contact_url-edit']['zh-cn'] = "联系url地址信息。";
 $text['description-contact_url-edit']['en-gb'] = "Contact url address information.";
 $text['description-contact_url-edit']['ar-eg'] = "";
 $text['description-contact_url-edit']['de-at'] = "URL mit Adressinformationen des Kontakts."; //copied from de-de
@@ -4899,6 +5086,7 @@ $text['description-contact_url-edit']['sv-se'] = "Kontakt url adress information
 $text['description-contact_url-edit']['uk-ua'] = "";
 
 $text['description-contact_url-add']['en-us'] = "Contact url address information.";
+$text['description-contact_url-add']['zh-cn'] = "联系url地址信息。";
 $text['description-contact_url-add']['en-gb'] = "Contact url address information.";
 $text['description-contact_url-add']['ar-eg'] = "";
 $text['description-contact_url-add']['de-at'] = "URL mit Adressinformationen des Kontakts."; //copied from de-de
@@ -4921,6 +5109,7 @@ $text['description-contact_url-add']['sv-se'] = "Kontakt url adress information.
 $text['description-contact_url-add']['uk-ua'] = "";
 
 $text['description-contact_url']['en-us'] = "Enter the website address.";
+$text['description-contact_url']['zh-cn'] = "输入网站地址。";
 $text['description-contact_url']['en-gb'] = "Enter the website address.";
 $text['description-contact_url']['ar-eg'] = "";
 $text['description-contact_url']['de-at'] = "Geben Sie die Webseite an."; //copied from de-de
@@ -4943,6 +5132,7 @@ $text['description-contact_url']['sv-se'] = "Ange websida adress.";
 $text['description-contact_url']['uk-ua'] = "";
 
 $text['description-contact_type_import']['en-us'] = "Set a type for the contacts.";
+$text['description-contact_type_import']['zh-cn'] = "设置联系人的类型。";
 $text['description-contact_type_import']['en-gb'] = "Set a type for the contacts.";
 $text['description-contact_type_import']['ar-eg'] = "";
 $text['description-contact_type_import']['de-at'] = "Setzen Sie die Art des Kontakts."; //copied from de-de
@@ -4965,6 +5155,7 @@ $text['description-contact_type_import']['sv-se'] = "Ställ in en typ för konta
 $text['description-contact_type_import']['uk-ua'] = "";
 
 $text['description-contact_type']['en-us'] = "Set the contact type.";
+$text['description-contact_type']['zh-cn'] = "设置联系人类型。";
 $text['description-contact_type']['en-gb'] = "Set the contact type.";
 $text['description-contact_type']['ar-eg'] = "";
 $text['description-contact_type']['de-at'] = "Setzen Sie die Art des Kontakts"; //copied from de-de
@@ -4987,6 +5178,7 @@ $text['description-contact_type']['sv-se'] = "Ange kontakt typ-.";
 $text['description-contact_type']['uk-ua'] = "";
 
 $text['description-contact_title']['en-us'] = "Enter the title.";
+$text['description-contact_title']['zh-cn'] = "输入标题。";
 $text['description-contact_title']['en-gb'] = "Enter the title.";
 $text['description-contact_title']['ar-eg'] = "";
 $text['description-contact_title']['de-at'] = "Geben Sie einen Titel an."; //copied from de-de
@@ -5009,6 +5201,7 @@ $text['description-contact_title']['sv-se'] = "Ange Titel.";
 $text['description-contact_title']['uk-ua'] = "";
 
 $text['description-contact_time_zone']['en-us'] = "Enter the time zone.";
+$text['description-contact_time_zone']['zh-cn'] = "输入时区。";
 $text['description-contact_time_zone']['en-gb'] = "Enter the time zone.";
 $text['description-contact_time_zone']['ar-eg'] = "";
 $text['description-contact_time_zone']['de-at'] = "Geben Sie eine Zeitzone an."; //copied from de-de
@@ -5031,6 +5224,7 @@ $text['description-contact_time_zone']['sv-se'] = "Ange Tidszon.";
 $text['description-contact_time_zone']['uk-ua'] = "";
 
 $text['description-contact_setting_value']['en-us'] = "Enter the value of this setting.";
+$text['description-contact_setting_value']['zh-cn'] = "输入此设置的值。";
 $text['description-contact_setting_value']['en-gb'] = "Enter the value of this setting.";
 $text['description-contact_setting_value']['ar-eg'] = "";
 $text['description-contact_setting_value']['de-at'] = "Geben Sie den Wert für diese Einstellung an."; //copied from de-de
@@ -5053,6 +5247,7 @@ $text['description-contact_setting_value']['sv-se'] = "Ange värdet på denna in
 $text['description-contact_setting_value']['uk-ua'] = "";
 
 $text['description-contact_setting_type']['en-us'] = "Enter the type.";
+$text['description-contact_setting_type']['zh-cn'] = "输入类型。";
 $text['description-contact_setting_type']['en-gb'] = "Enter the type.";
 $text['description-contact_setting_type']['ar-eg'] = "";
 $text['description-contact_setting_type']['de-at'] = "Geben Sie die Art an."; //copied from de-de
@@ -5075,6 +5270,7 @@ $text['description-contact_setting_type']['sv-se'] = "Ange Typen.";
 $text['description-contact_setting_type']['uk-ua'] = "";
 
 $text['description-contact_setting_subcategory']['en-us'] = "Enter the subcategory.";
+$text['description-contact_setting_subcategory']['zh-cn'] = "输入子类别。";
 $text['description-contact_setting_subcategory']['en-gb'] = "Enter the subcategory.";
 $text['description-contact_setting_subcategory']['ar-eg'] = "";
 $text['description-contact_setting_subcategory']['de-at'] = "Geben Sie eine Unterkategorie an."; //copied from de-de
@@ -5097,6 +5293,7 @@ $text['description-contact_setting_subcategory']['sv-se'] = "Ange underkategori.
 $text['description-contact_setting_subcategory']['uk-ua'] = "";
 
 $text['description-contact_setting_edit']['en-us'] = "Edit a setting for this contact.";
+$text['description-contact_setting_edit']['zh-cn'] = "编辑此联系人的设置。";
 $text['description-contact_setting_edit']['en-gb'] = "Edit a setting for this contact.";
 $text['description-contact_setting_edit']['ar-eg'] = "";
 $text['description-contact_setting_edit']['de-at'] = "Geben Sie eine Einstellung für diesen Kontakt an."; //copied from de-de
@@ -5119,6 +5316,7 @@ $text['description-contact_setting_edit']['sv-se'] = "Ändra en inställning fö
 $text['description-contact_setting_edit']['uk-ua'] = "";
 
 $text['description-contact_setting_category']['en-us'] = "Enter the category.";
+$text['description-contact_setting_category']['zh-cn'] = "输入类别。";
 $text['description-contact_setting_category']['en-gb'] = "Enter the category.";
 $text['description-contact_setting_category']['ar-eg'] = "";
 $text['description-contact_setting_category']['de-at'] = "Geben Sie eine Kategorie an."; //copied from de-de
@@ -5141,6 +5339,7 @@ $text['description-contact_setting_category']['sv-se'] = "Ange kategori.";
 $text['description-contact_setting_category']['uk-ua'] = "";
 
 $text['description-contact_setting_add']['en-us'] = "Add a setting for this contact.";
+$text['description-contact_setting_add']['zh-cn'] = "添加此联系人的设置。";
 $text['description-contact_setting_add']['en-gb'] = "Add a setting for this contact.";
 $text['description-contact_setting_add']['ar-eg'] = "";
 $text['description-contact_setting_add']['de-at'] = "Fügen Sie eine Einstellung für diesen Kontakt hinzu."; //copied from de-de
@@ -5163,6 +5362,7 @@ $text['description-contact_setting_add']['sv-se'] = "Lägg Till en inställning 
 $text['description-contact_setting_add']['uk-ua'] = "";
 
 $text['description-contact_role']['en-us'] = "Enter the role.";
+$text['description-contact_role']['zh-cn'] = "输入角色。";
 $text['description-contact_role']['en-gb'] = "Enter the role.";
 $text['description-contact_role']['ar-eg'] = "";
 $text['description-contact_role']['de-at'] = "Geben Sie die Rolle an."; //copied from de-de
@@ -5185,6 +5385,7 @@ $text['description-contact_role']['sv-se'] = "Ange roll.";
 $text['description-contact_role']['uk-ua'] = "";
 
 $text['description-contact_relation_reciprocal_label']['en-us'] = "Define the relationship of this contact to the contact selected above.";
+$text['description-contact_relation_reciprocal_label']['zh-cn'] = "定义此联系人与上面所选联系人的关系。";
 $text['description-contact_relation_reciprocal_label']['en-gb'] = "Define the relationship of this contact to the contact selected above.";
 $text['description-contact_relation_reciprocal_label']['ar-eg'] = "";
 $text['description-contact_relation_reciprocal_label']['de-at'] = "Definieren Sie die Beziehung dieses Kontakts zu dem Kontakt aus, den Sie oben ausgewählt haben."; //copied from de-de
@@ -5207,6 +5408,7 @@ $text['description-contact_relation_reciprocal_label']['sv-se'] = "Definiera rel
 $text['description-contact_relation_reciprocal_label']['uk-ua'] = "";
 
 $text['description-contact_relation_reciprocal']['en-us'] = "Select whether to also create a reciprocal relationship for the contact selected above.";
+$text['description-contact_relation_reciprocal']['zh-cn'] = "选择是否还要为上面选择的联系人创建相互关系。";
 $text['description-contact_relation_reciprocal']['en-gb'] = "Select whether to also create a reciprocal relationship for the contact selected above.";
 $text['description-contact_relation_reciprocal']['ar-eg'] = "";
 $text['description-contact_relation_reciprocal']['de-at'] = "Wählen Sie, ob die Beziehung Wechselseitig eingetragen werden soll."; //copied from de-de
@@ -5229,6 +5431,7 @@ $text['description-contact_relation_reciprocal']['sv-se'] = "Välj om du vill oc
 $text['description-contact_relation_reciprocal']['uk-ua'] = "";
 
 $text['description-contact_organization']['en-us'] = "Enter the organization.";
+$text['description-contact_organization']['zh-cn'] = "输入组织。";
 $text['description-contact_organization']['en-gb'] = "Enter the organization.";
 $text['description-contact_organization']['ar-eg'] = "";
 $text['description-contact_organization']['de-at'] = "Geben Sie das Unternehmen an."; //copied from de-de
@@ -5251,6 +5454,7 @@ $text['description-contact_organization']['sv-se'] = "Ange organisationen.";
 $text['description-contact_organization']['uk-ua'] = "";
 
 $text['description-contact_notes-edit']['en-us'] = "Enter the desired note below.";
+$text['description-contact_notes-edit']['zh-cn'] = "在下面输入所需备注。";
 $text['description-contact_notes-edit']['en-gb'] = "Enter the desired note below.";
 $text['description-contact_notes-edit']['ar-eg'] = "";
 $text['description-contact_notes-edit']['de-at'] = "Geben Sie die gewünschte Notiz unten ein."; //copied from de-de
@@ -5273,6 +5477,7 @@ $text['description-contact_notes-edit']['sv-se'] = "Ange önskad notering nedan.
 $text['description-contact_notes-edit']['uk-ua'] = "";
 
 $text['description-contact_notes-add']['en-us'] = "Enter the desired note below.";
+$text['description-contact_notes-add']['zh-cn'] = "在下面输入所需备注。";
 $text['description-contact_notes-add']['en-gb'] = "Enter the desired note below.";
 $text['description-contact_notes-add']['ar-eg'] = "";
 $text['description-contact_notes-add']['de-at'] = "Geben Sie die gewünschte Notiz unten ein."; //copied from de-de
@@ -5295,6 +5500,7 @@ $text['description-contact_notes-add']['sv-se'] = "Ange önskad notering nedan."
 $text['description-contact_notes-add']['uk-ua'] = "";
 
 $text['description-contact_note']['en-us'] = "Enter a note for this contact.";
+$text['description-contact_note']['zh-cn'] = "输入此联系人的备注。";
 $text['description-contact_note']['en-gb'] = "Enter a note for this contact.";
 $text['description-contact_note']['ar-eg'] = "";
 $text['description-contact_note']['de-at'] = "Geben Sie eine Notiz für diesen Kontakt ein."; //copied from de-de
@@ -5317,6 +5523,7 @@ $text['description-contact_note']['sv-se'] = "Ange en notering för denna kontak
 $text['description-contact_note']['uk-ua'] = "";
 
 $text['description-contact_name_suffix']['en-us'] = "Enter the name suffix.";
+$text['description-contact_name_suffix']['zh-cn'] = "输入名称后缀。";
 $text['description-contact_name_suffix']['en-gb'] = "Enter the name suffix.";
 $text['description-contact_name_suffix']['ar-eg'] = "";
 $text['description-contact_name_suffix']['de-at'] = "Geben Sie die Vorsilbe ein."; //copied from de-de
@@ -5339,6 +5546,7 @@ $text['description-contact_name_suffix']['sv-se'] = "Ange Namn suffix.";
 $text['description-contact_name_suffix']['uk-ua'] = "";
 
 $text['description-contact_name_prefix']['en-us'] = "Enter the name prefix.";
+$text['description-contact_name_prefix']['zh-cn'] = "输入名称前缀。";
 $text['description-contact_name_prefix']['en-gb'] = "Enter the name prefix.";
 $text['description-contact_name_prefix']['ar-eg'] = "";
 $text['description-contact_name_prefix']['de-at'] = "Geben Sie die Nachsilbe ein."; //copied from de-de
@@ -5361,6 +5569,7 @@ $text['description-contact_name_prefix']['sv-se'] = "Ange Namn prefix.";
 $text['description-contact_name_prefix']['uk-ua'] = "";
 
 $text['description-contact_name_middle']['en-us'] = "Enter the middle name.";
+$text['description-contact_name_middle']['zh-cn'] = "输入中间名。";
 $text['description-contact_name_middle']['en-gb'] = "Enter the middle name.";
 $text['description-contact_name_middle']['ar-eg'] = "";
 $text['description-contact_name_middle']['de-at'] = "Geben Sie den Mittelnamen ein."; //copied from de-de
@@ -5383,6 +5592,7 @@ $text['description-contact_name_middle']['sv-se'] = "Ange Mellannamn.";
 $text['description-contact_name_middle']['uk-ua'] = "";
 
 $text['description-contact_name_given']['en-us'] = "Enter the given name.";
+$text['description-contact_name_given']['zh-cn'] = "输入给定的名称。";
 $text['description-contact_name_given']['en-gb'] = "Enter the given name.";
 $text['description-contact_name_given']['ar-eg'] = "";
 $text['description-contact_name_given']['de-at'] = "Geben Sie den Vornamen ein."; //copied from de-de
@@ -5405,6 +5615,7 @@ $text['description-contact_name_given']['sv-se'] = "Ange Tilltalsnamn.";
 $text['description-contact_name_given']['uk-ua'] = "";
 
 $text['description-contact_name_family']['en-us'] = "Enter the family name.";
+$text['description-contact_name_family']['zh-cn'] = "输入姓。";
 $text['description-contact_name_family']['en-gb'] = "Enter the family name.";
 $text['description-contact_name_family']['ar-eg'] = "";
 $text['description-contact_name_family']['de-at'] = "Geben Sie den Nachnamen ein."; //copied from de-de
@@ -5427,6 +5638,7 @@ $text['description-contact_name_family']['sv-se'] = "Ange Familjenamn.";
 $text['description-contact_name_family']['uk-ua'] = "";
 
 $text['description-contact_email-edit']['en-us'] = "Contact email address information.";
+$text['description-contact_email-edit']['zh-cn'] = "联系电子邮件地址信息。";
 $text['description-contact_email-edit']['en-gb'] = "Contact email address information.";
 $text['description-contact_email-edit']['ar-eg'] = "";
 $text['description-contact_email-edit']['de-at'] = "Email-Address Informationen."; //copied from de-de
@@ -5449,6 +5661,7 @@ $text['description-contact_email-edit']['sv-se'] = "Kontaktens E-post adress inf
 $text['description-contact_email-edit']['uk-ua'] = "";
 
 $text['description-contact_email-add']['en-us'] = "Contact email address information.";
+$text['description-contact_email-add']['zh-cn'] = "联系电子邮件地址信息。";
 $text['description-contact_email-add']['en-gb'] = "Contact email address information.";
 $text['description-contact_email-add']['ar-eg'] = "";
 $text['description-contact_email-add']['de-at'] = "Email-Address Informationen."; //copied from de-de
@@ -5471,6 +5684,7 @@ $text['description-contact_email-add']['sv-se'] = "Kontaktens E-post adress info
 $text['description-contact_email-add']['uk-ua'] = "";
 
 $text['description-contact_email']['en-us'] = "Enter the email address.";
+$text['description-contact_email']['zh-cn'] = "输入电子邮件地址。";
 $text['description-contact_email']['en-gb'] = "Enter the email address.";
 $text['description-contact_email']['ar-eg'] = "";
 $text['description-contact_email']['de-at'] = "Geben Sie die Email Addresse ein."; //copied from de-de
@@ -5493,6 +5707,7 @@ $text['description-contact_email']['sv-se'] = "Ange E-postadressen";
 $text['description-contact_email']['uk-ua'] = "";
 
 $text['description-contact_category_import']['en-us'] = "Set a category for the contacts.";
+$text['description-contact_category_import']['zh-cn'] = "为联系人设置类别。";
 $text['description-contact_category_import']['en-gb'] = "Set a category for the contacts.";
 $text['description-contact_category_import']['ar-eg'] = "";
 $text['description-contact_category_import']['de-at'] = "Wählen Sie eine Kategorie für diese Kontakte"; //copied from de-de
@@ -5515,6 +5730,7 @@ $text['description-contact_category_import']['sv-se'] = "Ange en kategori för k
 $text['description-contact_category_import']['uk-ua'] = "";
 
 $text['description-contact_category']['en-us'] = "Set the contact category.";
+$text['description-contact_category']['zh-cn'] = "设置联系人类别。";
 $text['description-contact_category']['en-gb'] = "Set the contact category.";
 $text['description-contact_category']['ar-eg'] = "";
 $text['description-contact_category']['de-at'] = "Setzen Sie die Kontakt Kategorie."; //copied from de-de
@@ -5537,6 +5753,7 @@ $text['description-contact_category']['sv-se'] = "Ange kategori för kontakten."
 $text['description-contact_category']['uk-ua'] = "";
 
 $text['description-contact_addresses-edit']['en-us'] = "Contact address information.";
+$text['description-contact_addresses-edit']['zh-cn'] = "联系地址信息。";
 $text['description-contact_addresses-edit']['en-gb'] = "Contact address information.";
 $text['description-contact_addresses-edit']['ar-eg'] = "";
 $text['description-contact_addresses-edit']['de-at'] = "Address Informationen des Kontakts."; //copied from de-de
@@ -5559,6 +5776,7 @@ $text['description-contact_addresses-edit']['sv-se'] = "Kontaktens adress inform
 $text['description-contact_addresses-edit']['uk-ua'] = "";
 
 $text['description-contact_addresses-add']['en-us'] = "Contact address information.";
+$text['description-contact_addresses-add']['zh-cn'] = "联系地址信息。";
 $text['description-contact_addresses-add']['en-gb'] = "Contact address information.";
 $text['description-contact_addresses-add']['ar-eg'] = "";
 $text['description-contact_addresses-add']['de-at'] = "Address Informationen des Kontakts."; //copied from de-de
@@ -5581,6 +5799,7 @@ $text['description-contact_addresses-add']['sv-se'] = "Kontaktens adress informa
 $text['description-contact_addresses-add']['uk-ua'] = "";
 
 $text['description-contact-edit']['en-us'] = "The contact is a list of individuals and organizations.";
+$text['description-contact-edit']['zh-cn'] = "联系人是个人和组织的列表。";
 $text['description-contact-edit']['en-gb'] = "The contact is a list of individuals and organizations.";
 $text['description-contact-edit']['ar-eg'] = "";
 $text['description-contact-edit']['de-at'] = "Kontakte sind Benutzer, externe Personen oder Unternehmen."; //copied from de-de
@@ -5603,6 +5822,7 @@ $text['description-contact-edit']['sv-se'] = "Kontakten är en lista på individ
 $text['description-contact-edit']['uk-ua'] = "";
 
 $text['description-contact-add']['en-us'] = "The contact is a list of individuals and organizations.";
+$text['description-contact-add']['zh-cn'] = "联系人是个人和组织的列表。";
 $text['description-contact-add']['en-gb'] = "The contact is a list of individuals and organizations.";
 $text['description-contact-add']['ar-eg'] = "";
 $text['description-contact-add']['de-at'] = "Kontakte sind Benutzer, externe Personen oder Unternehmen."; //copied from de-de
@@ -5625,6 +5845,7 @@ $text['description-contact-add']['sv-se'] = "Kontakten är en lista på individe
 $text['description-contact-add']['uk-ua'] = "";
 
 $text['description-address_type']['en-us'] = "Define the address type (used for vCard generation).";
+$text['description-address_type']['zh-cn'] = "定义地址类型（用于生成电子名片）。";
 $text['description-address_type']['en-gb'] = "Define the address type (used for vCard generation).";
 $text['description-address_type']['ar-eg'] = "";
 $text['description-address_type']['de-at'] = "Geben Sie den Art der Addresse an (für vCard verwendet)"; //copied from de-de
@@ -5647,6 +5868,7 @@ $text['description-address_type']['sv-se'] = "Definiera adresstypen (används f�
 $text['description-address_type']['uk-ua'] = "";
 
 $text['description-address_region']['en-us'] = "Enter the state or province.";
+$text['description-address_region']['zh-cn'] = "输入省份。";
 $text['description-address_region']['en-gb'] = "Enter the state or province.";
 $text['description-address_region']['ar-eg'] = "";
 $text['description-address_region']['de-at'] = "Geben Sie das Bundesland an."; //copied from de-de
@@ -5669,6 +5891,7 @@ $text['description-address_region']['sv-se'] = "Ange stat eller provins.";
 $text['description-address_region']['uk-ua'] = "Введіть назву спільноти";
 
 $text['description-address_primary']['en-us'] = "Set as the primary Address for this contact.";
+$text['description-address_primary']['zh-cn'] = "设置为此联系人的主地址。";
 $text['description-address_primary']['en-gb'] = "Set as the primary Address for this contact.";
 $text['description-address_primary']['ar-eg'] = "";
 $text['description-address_primary']['de-at'] = "Als primäre Addresse für diesen Kontakt setzen."; //copied from de-de
@@ -5691,6 +5914,7 @@ $text['description-address_primary']['sv-se'] = "Ange som primär adress för de
 $text['description-address_primary']['uk-ua'] = "";
 
 $text['description-address_postal_code']['en-us'] = "Enter the postal code.";
+$text['description-address_postal_code']['zh-cn'] = "输入邮政编码。";
 $text['description-address_postal_code']['en-gb'] = "Enter the postal code.";
 $text['description-address_postal_code']['ar-eg'] = "";
 $text['description-address_postal_code']['de-at'] = "Geben Sie die Postleitzahl ein."; //copied from de-de
@@ -5713,6 +5937,7 @@ $text['description-address_postal_code']['sv-se'] = "Ange postkod.";
 $text['description-address_postal_code']['uk-ua'] = "Введіть поштовий індекс";
 
 $text['description-address_longitude']['en-us'] = "Enter the longitude.";
+$text['description-address_longitude']['zh-cn'] = "输入经度。";
 $text['description-address_longitude']['en-gb'] = "Enter the longitude.";
 $text['description-address_longitude']['ar-eg'] = "";
 $text['description-address_longitude']['de-at'] = "Geben Sie den Längengrad ein."; //copied from de-de
@@ -5735,6 +5960,7 @@ $text['description-address_longitude']['sv-se'] = "Ange longitude.";
 $text['description-address_longitude']['uk-ua'] = "Введіть довготу";
 
 $text['description-address_locality']['en-us'] = "Enter the city.";
+$text['description-address_locality']['zh-cn'] = "输入城市。";
 $text['description-address_locality']['en-gb'] = "Enter the city.";
 $text['description-address_locality']['ar-eg'] = "";
 $text['description-address_locality']['de-at'] = "Geben Sie die Stadt ein."; //copied from de-de
@@ -5757,6 +5983,7 @@ $text['description-address_locality']['sv-se'] = "Ange Stad.";
 $text['description-address_locality']['uk-ua'] = "Введіть назву міста";
 
 $text['description-address_latitude']['en-us'] = "Enter the latitude.";
+$text['description-address_latitude']['zh-cn'] = "输入纬度。";
 $text['description-address_latitude']['en-gb'] = "Enter the latitude.";
 $text['description-address_latitude']['ar-eg'] = "";
 $text['description-address_latitude']['de-at'] = "Geben Sie dden Breitengrad ein."; //copied from de-de
@@ -5779,6 +6006,7 @@ $text['description-address_latitude']['sv-se'] = "Ange Latitude.";
 $text['description-address_latitude']['uk-ua'] = "Введіть широту";
 
 $text['description-address_label']['en-us'] = "Select or enter a custom label.";
+$text['description-address_label']['zh-cn'] = "选择或输入自定义标签。";
 $text['description-address_label']['en-gb'] = "Select or enter a custom label.";
 $text['description-address_label']['ar-eg'] = "";
 $text['description-address_label']['de-at'] = "Wählen oder setzen Sie eine benutzerdefinierte Kennzeichnung."; //copied from de-de
@@ -5801,6 +6029,7 @@ $text['description-address_label']['sv-se'] = "Ange eller välj en egen etikett.
 $text['description-address_label']['uk-ua'] = "";
 
 $text['description-address_description']['en-us'] = "Enter a description.";
+$text['description-address_description']['zh-cn'] = "输入描述。";
 $text['description-address_description']['en-gb'] = "Enter a description.";
 $text['description-address_description']['ar-eg'] = "";
 $text['description-address_description']['de-at'] = "Geben Sie eine Beschreibung an."; //copied from de-de
@@ -5823,6 +6052,7 @@ $text['description-address_description']['sv-se'] = "Ange en beskrivning.";
 $text['description-address_description']['uk-ua'] = "Додайте опис";
 
 $text['description-address_country']['en-us'] = "Enter the country.";
+$text['description-address_country']['zh-cn'] = "输入国家/地区。";
 $text['description-address_country']['en-gb'] = "Enter the country.";
 $text['description-address_country']['ar-eg'] = "";
 $text['description-address_country']['de-at'] = "Geben Sie das Land ein."; //copied from de-de
@@ -5845,6 +6075,7 @@ $text['description-address_country']['sv-se'] = "Ange Land.";
 $text['description-address_country']['uk-ua'] = "Введіть назву країни";
 
 $text['description-address_community']['en-us'] = "Enter the community.";
+$text['description-address_community']['zh-cn'] = "输入组织。";
 $text['description-address_community']['en-gb'] = "Enter the community.";
 $text['description-address_community']['ar-eg'] = "";
 $text['description-address_community']['de-at'] = "Geben Sie eine Gemeinde an."; //copied from de-de
@@ -5867,6 +6098,7 @@ $text['description-address_community']['sv-se'] = "Ange samhälle.";
 $text['description-address_community']['uk-ua'] = "Введіть назву спільноти";
 
 $text['description-address_address']['en-us'] = "Enter the address.";
+$text['description-address_address']['zh-cn'] = "输入地址。";
 $text['description-address_address']['en-gb'] = "Enter the address.";
 $text['description-address_address']['ar-eg'] = "";
 $text['description-address_address']['de-at'] = "Geben Sie die Adresse ein."; //copied from de-de
@@ -5889,6 +6121,7 @@ $text['description-address_address']['sv-se'] = "Ange adressen.";
 $text['description-address_address']['uk-ua'] = "Введіть адресу";
 
 $text['confirm-delete']['en-us'] = "Do you really want to delete this?";
+$text['confirm-delete']['zh-cn'] = "你真的想删除这个吗？";
 $text['confirm-delete']['en-gb'] = "Do you really want to delete this?";
 $text['confirm-delete']['ar-eg'] = "";
 $text['confirm-delete']['de-at'] = "Wollen Sie das wirklich löschen?"; //copied from de-de
@@ -5911,6 +6144,7 @@ $text['confirm-delete']['sv-se'] = "Vill du verkligen ta bort detta?";
 $text['confirm-delete']['uk-ua'] = "Ви дійсно бажаєте це видалити?";
 
 $text['button-vcard']['en-us'] = "vCard";
+$text['button-vcard']['zh-cn'] = "电子名片";
 $text['button-vcard']['en-gb'] = "vCard";
 $text['button-vcard']['ar-eg'] = "";
 $text['button-vcard']['de-at'] = "vCard"; //copied from de-de
@@ -5933,6 +6167,7 @@ $text['button-vcard']['sv-se'] = "vCard";
 $text['button-vcard']['uk-ua'] = "vCard ";
 
 $text['button-upload']['en-us'] = "Upload";
+$text['button-upload']['zh-cn'] = "上传";
 $text['button-upload']['en-gb'] = "Upload";
 $text['button-upload']['ar-eg'] = "";
 $text['button-upload']['de-at'] = "Hochladen"; //copied from de-de
@@ -5955,6 +6190,7 @@ $text['button-upload']['sv-se'] = "Ladda Upp";
 $text['button-upload']['uk-ua'] = "Завантажити";
 
 $text['button-timer']['en-us'] = "Timer";
+$text['button-timer']['zh-cn'] = "计时器";
 $text['button-timer']['en-gb'] = "Timer";
 $text['button-timer']['ar-eg'] = "";
 $text['button-timer']['de-at'] = "Timer"; //copied from de-de
@@ -5977,6 +6213,7 @@ $text['button-timer']['sv-se'] = "Timer";
 $text['button-timer']['uk-ua'] = "таймер";
 
 $text['button-time']['en-us'] = "Time";
+$text['button-time']['zh-cn'] = "时间";
 $text['button-time']['en-gb'] = "Time";
 $text['button-time']['ar-eg'] = "";
 $text['button-time']['de-at'] = "Zeit"; //copied from de-de
@@ -5999,6 +6236,7 @@ $text['button-time']['sv-se'] = "Tid";
 $text['button-time']['uk-ua'] = "час";
 
 $text['button-stop']['en-us'] = "Stop";
+$text['button-stop']['zh-cn'] = "停止";
 $text['button-stop']['en-gb'] = "Stop";
 $text['button-stop']['ar-eg'] = "";
 $text['button-stop']['de-at'] = "Stopp"; //copied from de-de
@@ -6021,6 +6259,7 @@ $text['button-stop']['sv-se'] = "Stanna";
 $text['button-stop']['uk-ua'] = "стоп";
 
 $text['button-start']['en-us'] = "Start";
+$text['button-start']['zh-cn'] = "状态";
 $text['button-start']['en-gb'] = "Start";
 $text['button-start']['ar-eg'] = "";
 $text['button-start']['de-at'] = "Start"; //copied from de-de
@@ -6043,6 +6282,7 @@ $text['button-start']['sv-se'] = "Start";
 $text['button-start']['uk-ua'] = "початок";
 
 $text['button-sign_out']['en-us'] = "Sign Out";
+$text['button-sign_out']['zh-cn'] = "“注销";
 $text['button-sign_out']['en-gb'] = "Sign Out";
 $text['button-sign_out']['ar-eg'] = "";
 $text['button-sign_out']['de-at'] = "Abmelden"; //copied from de-de
@@ -6065,6 +6305,7 @@ $text['button-sign_out']['sv-se'] = "Logga Ut";
 $text['button-sign_out']['uk-ua'] = "Вийти";
 
 $text['button-search']['en-us'] = "Search";
+$text['button-search']['zh-cn'] = "搜索";
 $text['button-search']['en-gb'] = "Search";
 $text['button-search']['ar-eg'] = "";
 $text['button-search']['de-at'] = "Suchen"; //copied from de-de
@@ -6087,6 +6328,7 @@ $text['button-search']['sv-se'] = "Sök";
 $text['button-search']['uk-ua'] = "Пошук";
 
 $text['button-save']['en-us'] = "Save";
+$text['button-save']['zh-cn'] = "保存";
 $text['button-save']['en-gb'] = "Save";
 $text['button-save']['ar-eg'] = "";
 $text['button-save']['de-at'] = "Speichern"; //copied from de-de
@@ -6109,6 +6351,7 @@ $text['button-save']['sv-se'] = "Spara";
 $text['button-save']['uk-ua'] = "Зберегти";
 
 $text['button-reload']['en-us'] = "Reload";
+$text['button-reload']['zh-cn'] = "刷新";
 $text['button-reload']['en-gb'] = "Reload";
 $text['button-reload']['ar-eg'] = "";
 $text['button-reload']['de-at'] = "Neu Laden"; //copied from de-de
@@ -6131,6 +6374,7 @@ $text['button-reload']['sv-se'] = "Ladda Om";
 $text['button-reload']['uk-ua'] = "";
 
 $text['button-qr_code']['en-us'] = "QR Code";
+$text['button-qr_code']['zh-cn'] = "二维码";
 $text['button-qr_code']['en-gb'] = "QR Code";
 $text['button-qr_code']['ar-eg'] = "";
 $text['button-qr_code']['de-at'] = "QR Code"; //copied from de-de
@@ -6153,6 +6397,7 @@ $text['button-qr_code']['sv-se'] = "QR Kod";
 $text['button-qr_code']['uk-ua'] = "";
 
 $text['button-invoices']['en-us'] = "Invoices";
+$text['button-invoices']['zh-cn'] = "发票";
 $text['button-invoices']['en-gb'] = "Invoices";
 $text['button-invoices']['ar-eg'] = "";
 $text['button-invoices']['de-at'] = "Rechnungen"; //copied from de-de
@@ -6175,6 +6420,7 @@ $text['button-invoices']['sv-se'] = "Fakturor";
 $text['button-invoices']['uk-ua'] = "";
 
 $text['button-import']['en-us'] = "Import";
+$text['button-import']['zh-cn'] = "导入";
 $text['button-import']['en-gb'] = "Import";
 $text['button-import']['ar-eg'] = "";
 $text['button-import']['de-at'] = "Importieren"; //copied from de-de
@@ -6197,6 +6443,7 @@ $text['button-import']['sv-se'] = "Importera";
 $text['button-import']['uk-ua'] = "";
 
 $text['button-edit']['en-us'] = "Edit";
+$text['button-edit']['zh-cn'] = "编辑";
 $text['button-edit']['en-gb'] = "Edit";
 $text['button-edit']['ar-eg'] = "";
 $text['button-edit']['de-at'] = "Bearbeiten"; //copied from de-de
@@ -6219,6 +6466,7 @@ $text['button-edit']['sv-se'] = "Editera";
 $text['button-edit']['uk-ua'] = "Редагувати";
 
 $text['button-delete']['en-us'] = "Delete";
+$text['button-delete']['zh-cn'] = "删除";
 $text['button-delete']['en-gb'] = "Delete";
 $text['button-delete']['ar-eg'] = "";
 $text['button-delete']['de-at'] = "Löschen"; //copied from de-de
@@ -6241,6 +6489,7 @@ $text['button-delete']['sv-se'] = "Ta Bort";
 $text['button-delete']['uk-ua'] = "Видалити";
 
 $text['button-certificate']['en-us'] = "Certificate";
+$text['button-certificate']['zh-cn'] = "证书";
 $text['button-certificate']['en-gb'] = "Certificate";
 $text['button-certificate']['ar-eg'] = "";
 $text['button-certificate']['de-at'] = "Zertifikate"; //copied from de-de
@@ -6263,6 +6512,7 @@ $text['button-certificate']['sv-se'] = "Certifikat";
 $text['button-certificate']['uk-ua'] = "";
 
 $text['button-back']['en-us'] = "Back";
+$text['button-back']['zh-cn'] = "返回";
 $text['button-back']['en-gb'] = "Back";
 $text['button-back']['ar-eg'] = "";
 $text['button-back']['de-at'] = "Zurück"; //copied from de-de
@@ -6285,6 +6535,7 @@ $text['button-back']['sv-se'] = "Tillbaka";
 $text['button-back']['uk-ua'] = "Назад";
 
 $text['button-add']['en-us'] = "Add";
+$text['button-add']['zh-cn'] = "添加";
 $text['button-add']['en-gb'] = "Add";
 $text['button-add']['ar-eg'] = "";
 $text['button-add']['de-at'] = "Hinzufügen"; //copied from de-de
@@ -6307,6 +6558,7 @@ $text['button-add']['sv-se'] = "Lägg Till";
 $text['button-add']['uk-ua'] = "Додати";
 
 $text['button-user']['en-us'] = "User";
+$text['button-user']['zh-cn'] = "用户";
 $text['button-user']['en-gb'] = "User";
 $text['button-user']['ar-eg'] = "";
 $text['button-user']['de-at'] = "Benutzer"; //copied from de-de
@@ -6329,6 +6581,7 @@ $text['button-user']['sv-se'] = "Användare";
 $text['button-user']['uk-ua'] = "Користувач";
 
 $text['label-click_to_call']['en-us'] = "Click to Call";
+$text['label-click_to_call']['zh-cn'] = "点击拨号";
 $text['label-click_to_call']['en-gb'] = "Click to Call";
 $text['label-click_to_call']['ar-eg'] = "";
 $text['label-click_to_call']['de-at'] = "Click to Call"; //copied from de-de
@@ -6350,6 +6603,7 @@ $text['label-click_to_call']['sv-se'] = "Klicka för att ringa";
 $text['label-click_to_call']['uk-ua'] = "";
 
 $text['label-setting']['en-us'] = "Setting";
+$text['label-setting']['zh-cn'] = "设置";
 $text['label-setting']['en-gb'] = "Setting";
 $text['label-setting']['ar-eg'] = "";
 $text['label-setting']['de-at'] = "Einstellungen"; //copied from de-de
@@ -6371,6 +6625,7 @@ $text['label-setting']['sv-se'] = "Inställningar";
 $text['label-setting']['uk-ua'] = "Налаштування";
 
 $text['label-email']['en-us'] = "Email";
+$text['label-email']['zh-cn'] = "电子邮件";
 $text['label-email']['en-gb'] = "Email";
 $text['label-email']['ar-eg'] = "البريد الإليكتروني";
 $text['label-email']['de-at'] = "Email"; //copied from de-de
@@ -6392,6 +6647,7 @@ $text['label-email']['sv-se'] = "E-post";
 $text['label-email']['uk-ua'] = "Електронна пошта";
 
 $text['label-url']['en-us'] = "URL";
+$text['label-url']['zh-cn'] = "URL";
 $text['label-url']['en-gb'] = "URL";
 $text['label-url']['ar-eg'] = "";
 $text['label-url']['de-at'] = "URL"; //copied from de-de
@@ -6413,6 +6669,7 @@ $text['label-url']['sv-se'] = "URL";
 $text['label-url']['uk-ua'] = "URL";
 
 $text['label-image']['en-us'] = "Image";
+$text['label-image']['zh-cn'] = "图像";
 $text['label-image']['en-gb'] = "Image";
 $text['label-image']['ar-eg'] = "صورة";
 $text['label-image']['de-at'] = "Bild"; //copied from de-de
@@ -6434,6 +6691,7 @@ $text['label-image']['sv-se'] = "Bild";
 $text['label-image']['uk-ua'] = "зображення";
 
 $text['label-file']['en-us'] = "File";
+$text['label-file']['zh-cn'] = "文件";
 $text['label-file']['en-gb'] = "File";
 $text['label-file']['ar-eg'] = "";
 $text['label-file']['de-at'] = "Dateien"; //copied from de-de
@@ -6452,6 +6710,7 @@ $text['label-file']['pt-pt'] = "Ficheiro";
 $text['label-file']['ro-ro'] = "";
 
 $text['label-properties']['en-us'] = "Properties";
+$text['label-properties']['zh-cn'] = "财产";
 $text['label-properties']['en-gb'] = "Properties";
 $text['label-properties']['ar-eg'] = "Properties";
 $text['label-properties']['de-at'] = "Properties";
@@ -6470,6 +6729,7 @@ $text['label-properties']['pt-pt'] = "Properties";
 $text['label-properties']['ro-ro'] = "Properties";
 
 $text['label-contact']['en-us'] = "Contact";
+$text['label-contact']['zh-cn'] = "联系人";
 $text['label-contact']['en-gb'] = "Contact";
 $text['label-contact']['ar-eg'] = "Contact";
 $text['label-contact']['de-at'] = "Kontakt"; //copied from de-de
@@ -6492,6 +6752,7 @@ $text['label-contact']['sv-se'] = "Kontakt";
 $text['label-contact']['uk-ua'] = "Контакт";
 
 $text['label-permissions']['en-us'] = "Permissions";
+$text['label-permissions']['zh-cn'] = "权限";
 $text['label-permissions']['en-gb'] = "Permissions";
 $text['label-permissions']['ar-eg'] = "";
 $text['label-permissions']['de-at'] = "Berechtigungen"; //copied from de-de
