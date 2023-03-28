@@ -1779,8 +1779,11 @@ if (permission_exists('contact_address_view')) {
 		}
 		echo "			<div class='button no-link' style='float: left; margin-top: 1px; margin-left: 8px;'>\n";
 		$map_query = $row['address_street']." ".$row['address_extended'].", ".$row['address_locality'].", ".$row['address_region'].", ".$row['address_region'].", ".$row['address_postal_code'];
-		echo " 				<a href=\"http://maps.google.com/maps?q=".urlencode($map_query)."&hl=en\" target=\"_blank\">";
-		echo " 					<img src='resources/images/icon_gmaps.png' style='width: 17px; height: 17px;' alt='".$text['label-google_map']."' title='".$text['label-google_map']."'>";
+		//echo " 				<a href=\"http://maps.google.com/maps?q=".urlencode($map_query)."&hl=cn\" target=\"_blank\">";
+		//echo " 					<img src='resources/images/icon_gmaps.png' style='width: 17px; height: 17px;' alt='".$text['label-google_map']."' title='".$text['label-google_map']."'>";
+		//echo " 				</a>\n";
+		echo " 				<a href=\"https://api.map.baidu.com/lbsapi/getpoint/index.html\" target=\"_blank\">";
+		echo " 					<img src='resources/images/icon_baidu.png' style='width: 17px; height: 17px;' alt='".$text['label-google_map']."' title='".$text['label-google_map']."'>";
 		echo " 				</a>\n";
 		echo "			</div>\n";
 		echo "		</div>\n";
